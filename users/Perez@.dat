@@ -1,0 +1,207 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+VMeDBejoHok
+p9
+aVGoodkat
+p10
+aVDayver
+p11
+atRp12
+sS'companies'
+p13
+NsS'hubs'
+p14
+g7
+((lp15
+ViPad
+p16
+aVLiveStreet
+p17
+aV\u0423\u0447\u0435\u0431\u043d\u044b\u0439 \u043f\u0440\u043e\u0446\u0435\u0441\u0441 \u0432 IT
+p18
+aV\u0411\u0440\u0430\u0443\u0437\u0435\u0440\u044b
+p19
+aVLisp
+p20
+aVArduino
+p21
+aVMODx
+p22
+aVYouTube
+p23
+aVDelphi
+p24
+aV.NET
+p25
+aVMooTools
+p26
+aVMac OS X
+p27
+aV\u0424\u043e\u0442\u043e\u0442\u0435\u0445\u043d\u0438\u043a\u0430
+p28
+aVPerl
+p29
+aV\u0413\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043e\u0431\u043e\u043b\u043e\u0447\u043a\u0438
+p30
+aV\u041e\u0431\u043e\u043b\u043e\u0447\u043a\u0438
+p31
+aVGoogle Chrome
+p32
+aV\u0416\u0435\u043b\u0435\u0437\u043e
+p33
+aV\u0412\u0435\u0431-\u0434\u0438\u0437\u0430\u0439\u043d
+p34
+aVInternet Explorer
+p35
+aVAndroid
+p36
+aVDIY \u0438\u043b\u0438 \u0421\u0434\u0435\u043b\u0430\u0439 \u0421\u0430\u043c
+p37
+aVOpenStreetMap
+p38
+aVASP
+p39
+aVSmall Basic
+p40
+aV\u042d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u0438\u043a\u0430 \u0434\u043b\u044f \u043d\u0430\u0447\u0438\u043d\u0430\u044e\u0449\u0438\u0445
+p41
+aVCodeIgniter
+p42
+aV\u0423\u0431\u0443\u043d\u0442\u0430\u0440\u0438\u0443\u043c
+p43
+aVPython
+p44
+aVCMS
+p45
+aVMozilla
+p46
+aVLiveJournal
+p47
+aVRuby on Rails
+p48
+aVTwisted
+p49
+aVGPGPU
+p50
+aV\u042d\u043d\u0435\u0440\u0433\u0438\u044f \u0438 \u044d\u043b\u0435\u043c\u0435\u043d\u0442\u044b \u043f\u0438\u0442\u0430\u043d\u0438\u044f
+p51
+aVZend Framework
+p52
+aVScala
+p53
+aVSafari
+p54
+aV*nix
+p55
+aV\u041c\u043e\u0434\u0434\u0438\u043d\u0433
+p56
+aVRuby
+p57
+aVWindows Phone
+p58
+aVOpera
+p59
+aVJavaScript
+p60
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p61
+aVWordpress
+p62
+aVDrupal
+p63
+aVWikipedia
+p64
+aVBing
+p65
+aVEclipse
+p66
+aVC++
+p67
+aVDjango
+p68
+aV\u0418\u0433\u0440\u043e\u0432\u044b\u0435 \u043f\u0440\u0438\u0441\u0442\u0430\u0432\u043a\u0438
+p69
+aV\u0421\u0442\u0430\u0440\u043e\u0435 \u0436\u0435\u043b\u0435\u0437\u043e
+p70
+aV\u041e\u043f\u0435\u0440\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0441\u0438\u0441\u0442\u0435\u043c\u044b
+p71
+aViPhone
+p72
+aVJAVA
+p73
+aVjQuery
+p74
+aVCakePHP
+p75
+aV\u0420\u043e\u0431\u043e\u0442\u043e\u0442\u0435\u0445\u043d\u0438\u043a\u0430
+p76
+aVYii
+p77
+aVCSS
+p78
+aVGMail
+p79
+aVSymfony
+p80
+aVGoogle
+p81
+aVFirefox
+p82
+aV\u0421\u043c\u0430\u0440\u0442\u0444\u043e\u043d\u044b \u0438 \u043a\u043e\u043c\u043c\u0443\u043d\u0438\u043a\u0430\u0442\u043e\u0440\u044b
+p83
+aV\u042d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u044b\u0435 \u043a\u043d\u0438\u0433\u0438
+p84
+aV\u041f\u043b\u0430\u043d\u0448\u0435\u0442\u044b
+p85
+aVTwitter
+p86
+aVAssembler
+p87
+aVeBay
+p88
+aV\u0427\u0443\u043b\u0430\u043d
+p89
+aVWindows
+p90
+aVNode.JS
+p91
+aV\u0411\u0435\u0441\u043f\u0440\u043e\u0432\u043e\u0434\u043d\u044b\u0435 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438
+p92
+aVHaskell
+p93
+aVGroovy & Grails
+p94
+aVKohana
+p95
+aVLinux
+p96
+aVSaaS / S+S
+p97
+aVPHP
+p98
+aV\u0413\u0430\u0434\u0436\u0435\u0442\u044b. \u0423\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u0430 \u0434\u043b\u044f \u0433\u0438\u043a\u043e\u0432
+p99
+aV\u041d\u0435\u0442\u0431\u0443\u043a\u0438
+p100
+atRp101
+sS'invitees'
+p102
+NstRp103
+g103
+b.

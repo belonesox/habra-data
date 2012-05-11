@@ -1,0 +1,66 @@
+(dp1
+S'interests'
+p2
+NsS'friends'
+p3
+NsS'companies'
+p4
+c__builtin__
+set
+p5
+((lp6
+VRed Hat
+p7
+aV.masterhost
+p8
+aVSun Microsystems
+p9
+aVMajordomo
+p10
+aVOpera Software ASA
+p11
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p12
+aVIBM
+p13
+aV\u042d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u044b\u0439 \u0433\u043e\u0440\u043e\u0434
+p14
+aVALT Linux
+p15
+aVFuturico
+p16
+aV\u0421\u0442\u0443\u0434\u0438\u044f \u0410\u0440\u0442\u0435\u043c\u0438\u044f \u041b\u0435\u0431\u0435\u0434\u0435\u0432\u0430
+p17
+aV\u041c\u0422\u0421
+p18
+aVHeadHunter
+p19
+aV\u0431\u043e\u043b\u043etov.ru
+p20
+aV\u0411\u0435\u0433\u0443\u043d
+p21
+aVNews2
+p22
+aVMicrosoft
+p23
+aVWebMoney Transfer
+p24
+aVAdobe
+p25
+aVApple
+p26
+aV\u0420\u043e\u0441\u0411\u0438\u0437\u043d\u0435\u0441\u041a\u043e\u043d\u0441\u0430\u043b\u0442\u0438\u043d\u0433
+p27
+aVSkype
+p28
+atRp29
+sS'hubs'
+p30
+g5
+((lp31
+V\u0427\u0443\u043b\u0430\u043d
+p32
+atRp33
+sS'invitees'
+p34
+Ns.

@@ -1,0 +1,190 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+VFilimoniC
+p9
+aVShpankov
+p10
+aVRoman_Mix
+p11
+aVXaocCPS
+p12
+aVxshrek
+p13
+aVzonda
+p14
+aVgrumbler_chester
+p15
+aVzizop
+p16
+aVAntonShevchuk
+p17
+aVxunbeliever
+p18
+aVBoomburum
+p19
+aVgefix
+p20
+aVenartemy
+p21
+atRp22
+sS'companies'
+p23
+g7
+((lp24
+VNokia
+p25
+aVZend Technologies
+p26
+aVWorld Wide Web Consortium
+p27
+aVWebmascon
+p28
+aV.masterhost
+p29
+aV\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435
+p30
+aVSun Microsystems
+p31
+aV3DNews
+p32
+aVMozilla Foundation
+p33
+aVNigma
+p34
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p35
+aVParcsis/Turbomilk
+p36
+aV\u0410\u0444\u0438\u0448\u0430
+p37
+aVRussian Podcasting
+p38
+aV\u0421\u0443\u043f
+p39
+aV\u0424\u0438\u043d\u0430\u043c
+p40
+aVFuturico
+p41
+aV\u0414\u0438\u0437\u0430\u0439\u043d-\u0431\u044e\u0440\u043e \u0410\u0440\u0442\u0435\u043c\u0430 \u0413\u043e\u0440\u0431\u0443\u043d\u043e\u0432\u0430
+p42
+aV\u0410\u0448\u043c\u0430\u043d\u043e\u0432 \u0438 \u041f\u0430\u0440\u0442\u043d\u0451\u0440\u044b
+p43
+aVBitTorrent
+p44
+aVIBM
+p45
+aVSix Apart
+p46
+aV\u041c\u0435\u0433\u0430\u0444\u043e\u043d
+p47
+aVYahoo
+p48
+aVBlizzard Entertainment
+p49
+aV«\u0410\u0444\u0438\u0448\u0430» \u0438 «\u0420\u0430\u043c\u0431\u043b\u0435\u0440»
+p50
+aVFacebook
+p51
+aVAteve Commercial
+p52
+aVFree-lance.ru
+p53
+aVDigg
+p54
+aV\u0421\u0442\u0443\u0434\u0438\u044f \u0410\u0440\u0442\u0435\u043c\u0438\u044f \u041b\u0435\u0431\u0435\u0434\u0435\u0432\u0430
+p55
+aVApache Software Foundation
+p56
+aVWikimedia Foundation
+p57
+aV\u041c\u0422\u0421
+p58
+aV\u0412\u044b\u043c\u043f\u0435\u043b\u041a\u043e\u043c (\u0411\u0438\u043b\u0430\u0439\u043d)
+p59
+aVHeadHunter
+p60
+aVMade
+p61
+aVIntel
+p62
+aVAdMe
+p63
+aVSpb Software House Company
+p64
+aV\u0431\u043e\u043b\u043etov.ru
+p65
+aVAdvertka
+p66
+aV\u0414\u0438\u0437\u0430\u0439\u043d-\u0431\u044e\u0440\u043e «Knock Knock»
+p67
+aV\u0414\u043e\u0437\u043e\u0440\u044b
+p68
+aV\u0422\u0435\u043b\u0435\u043a\u043e\u043c\u043c\u0443\u043d\u0438\u043a\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044f «\u041a\u0430\u0440\u0430\u0432\u0430\u043d»
+p69
+aVdeviantART
+p70
+aVNews2
+p71
+aVMicrosoft
+p72
+aVFree Software Foundation
+p73
+aVWebMoney Transfer
+p74
+aVGoogle
+p75
+aVAdobe
+p76
+aVApple
+p77
+aVAmazon
+p78
+aV\u0422\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u041c\u0435\u0434\u0438\u0430
+p79
+aV\u041e\u0437\u043e\u043d
+p80
+aVLast.fm
+p81
+aVNVIDIA Corporation
+p82
+aVWeb Standards Group
+p83
+aVABBYY
+p84
+aVSkype
+p85
+aV«\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u044f \u041a\u0430\u0441\u043f\u0435\u0440\u0441\u043a\u043e\u0433\u043e»
+p86
+aVCanonical
+p87
+atRp88
+sS'hubs'
+p89
+g7
+((lp90
+V\u0427\u0443\u043b\u0430\u043d
+p91
+aV\u0411\u0440\u0430\u0443\u0437\u0435\u0440\u044b
+p92
+atRp93
+sS'invitees'
+p94
+NstRp95
+g95
+b.

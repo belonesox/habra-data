@@ -1,0 +1,60 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+Vulmen
+p9
+atRp10
+sS'companies'
+p11
+g7
+((lp12
+VGoogle
+p13
+aVIntel
+p14
+aVBitTorrent
+p15
+aVSamsung
+p16
+aVMozilla Foundation
+p17
+aVBlizzard Entertainment
+p18
+aVNVIDIA Corporation
+p19
+aVLogitech
+p20
+aVAMD (Advanced Micro Devices)
+p21
+aVChristian Ghisler
+p22
+atRp23
+sS'hubs'
+p24
+g7
+((lp25
+V\u0427\u0443\u043b\u0430\u043d
+p26
+aV\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c
+p27
+atRp28
+sS'invitees'
+p29
+NstRp30
+g30
+b.

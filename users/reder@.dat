@@ -1,0 +1,106 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+Vhappybyte
+p9
+aVyshilyaev
+p10
+aVashuvaev
+p11
+aV3eka
+p12
+aVFolder
+p13
+aVozz
+p14
+aVRygorka
+p15
+atRp16
+sS'companies'
+p17
+g7
+((lp18
+VRed Graphic Systems
+p19
+aV\u0410\u0448\u043c\u0430\u043d\u043e\u0432 \u0438 \u041f\u0430\u0440\u0442\u043d\u0451\u0440\u044b
+p20
+aVInternational Business Alliance
+p21
+aVPixelhead
+p22
+aVWikia
+p23
+aVid Software
+p24
+aVPixar Animation Studios
+p25
+aVSkype
+p26
+aV\u042d\u043a\u0441\u0442\u043c\u0435\u0434\u0438\u0430
+p27
+aV1\u0421
+p28
+aVStartupIndex
+p29
+aVABBYY
+p30
+aVGoogle
+p31
+aVBlizzard Entertainment
+p32
+aV\u0420\u043e\u0441\u0411\u0438\u0437\u043d\u0435\u0441\u041a\u043e\u043d\u0441\u0430\u043b\u0442\u0438\u043d\u0433
+p33
+aV\u042d\u043a\u0441\u043f\u0435\u0440\u0442
+p34
+aVSubscribe.Ru
+p35
+aV\u0410\u043b\u044c\u0442\u0435\u0440\u043d\u0430\u0442\u0438\u0432\u043d\u0430\u044f \u0446\u0438\u0444\u0440\u043e\u0432\u0430\u044f \u0441\u0435\u0442\u044c
+p36
+aV\u0421\u0442\u0443\u0434\u0438\u044f \u0410\u0440\u0442\u0435\u043c\u0438\u044f \u041b\u0435\u0431\u0435\u0434\u0435\u0432\u0430
+p37
+aVLinden Lab
+p38
+atRp39
+sS'hubs'
+p40
+g7
+((lp41
+V\u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043f\u0440\u043e\u0435\u043a\u0442\u0430\u043c\u0438
+p42
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p43
+aV\u0418\u0434\u0435\u0438 \u0434\u043b\u044f \u0441\u0442\u0430\u0440\u0442\u0430\u043f\u043e\u0432
+p44
+aV\u041a\u043e\u043d\u0442\u0435\u043a\u0441\u0442\u043d\u0430\u044f \u0440\u0435\u043a\u043b\u0430\u043c\u0430
+p45
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p46
+aV\u0411\u0430\u0439\u043d\u0435\u0442
+p47
+aVWordpress
+p48
+aV\u0427\u0443\u043b\u0430\u043d
+p49
+aV\u0418\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044b
+p50
+atRp51
+sS'invitees'
+p52
+NstRp53
+g53
+b.

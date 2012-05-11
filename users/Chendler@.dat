@@ -1,0 +1,90 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+NsS'companies'
+p7
+NsS'hubs'
+p8
+c__builtin__
+set
+p9
+((lp10
+VCanvas
+p11
+aVGit
+p12
+aVNoSQL
+p13
+aVJavaScript
+p14
+aVIT-\u0411\u0438\u043e\u0433\u0440\u0430\u0444\u0438\u0438
+p15
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p16
+aV\u0410\u043d\u0438\u043c\u0430\u0446\u0438\u044f \u0438 3D \u0433\u0440\u0430\u0444\u0438\u043a\u0430
+p17
+aVMySQL
+p18
+aVAndroid
+p19
+aV\u0423\u0431\u0443\u043d\u0442\u0430\u0440\u0438\u0443\u043c
+p20
+aVAjax
+p21
+aVHTML
+p22
+aVFacebook
+p23
+aVMicrosoft SQL Server
+p24
+aVCubrid
+p25
+aVSQL
+p26
+aVGoogle App Engine
+p27
+aVData Mining
+p28
+aVOracle
+p29
+aVPostgreSQL
+p30
+aVMicrosoft
+p31
+aV\u0421\u043c\u0430\u0440\u0442\u0444\u043e\u043d\u044b \u0438 \u043a\u043e\u043c\u043c\u0443\u043d\u0438\u043a\u0430\u0442\u043e\u0440\u044b
+p32
+aVGoogle
+p33
+aVJAVA
+p34
+aVApple
+p35
+aVMongoDB
+p36
+aVGoogle Web Toolkit
+p37
+aVDoctrine ORM
+p38
+aVLinux
+p39
+aV\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p40
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043f\u043e\u0434 Android
+p41
+atRp42
+sS'invitees'
+p43
+NstRp44
+g44
+b.

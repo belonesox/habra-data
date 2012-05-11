@@ -1,0 +1,46 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+Vgarstelecom
+p9
+atRp10
+sS'companies'
+p11
+g7
+((lp12
+V\u0413\u0430\u0440\u0441 \u0422\u0435\u043b\u0435\u043a\u043e\u043c
+p13
+atRp14
+sS'hubs'
+p15
+g7
+((lp16
+V\u0418\u0441\u0442\u043e\u0440\u0438\u044f \u0418\u0422
+p17
+aV\u0422\u0435\u043b\u0435\u043a\u043e\u043c\u044b
+p18
+aV\u0427\u0438\u0442\u0430\u043b\u044c\u043d\u044b\u0439 \u0437\u0430\u043b
+p19
+aVHuman Resources
+p20
+atRp21
+sS'invitees'
+p22
+NstRp23
+g23
+b.

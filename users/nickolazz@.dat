@@ -1,0 +1,75 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+Vhealthy diet
+p8
+aVbook reading
+p9
+aV\u0444\u0438\u0442\u043d\u0435\u0441\u0441
+p10
+aV\u0433\u0430\u0434\u0436\u0435\u0442\u044b
+p11
+aV\u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438
+p12
+aV\u0432\u0435\u043b\u043e\u0441\u0438\u043f\u0435\u0434
+p13
+aVmac os x
+p14
+aVnokia
+p15
+aVfitness
+p16
+aV\u043f\u0440\u0435\u0437\u0435\u043d\u0442\u0430\u0446\u0438\u0438
+p17
+aV\u0447\u0442\u0435\u043d\u0438\u0435 \u043a\u043d\u0438\u0433
+p18
+aV\u0437\u0434\u043e\u0440\u043e\u0432\u043e\u0435 \u043f\u0438\u0442\u0430\u043d\u0438\u0435
+p19
+aVlinux
+p20
+aVmtb
+p21
+aV\u0430\u0432\u0442\u043e\u0441\u043f\u043e\u0440\u0442
+p22
+aVpresentation
+p23
+aVmicrosoft
+p24
+aVinformation technology
+p25
+atRp26
+sS'friends'
+p27
+NsS'companies'
+p28
+NsS'hubs'
+p29
+g6
+((lp30
+VjQuery
+p31
+aV\u0421\u0438\u0441\u0442\u0435\u043c\u043d\u043e\u0435 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p32
+aV\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p33
+aVGoogle
+p34
+atRp35
+sS'invitees'
+p36
+NstRp37
+g37
+b.

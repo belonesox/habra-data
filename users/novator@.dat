@@ -1,0 +1,103 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+V\u0438\u0434\u0435\u044f
+p8
+aV\u0441\u0442\u0430\u0440\u0442\u0430\u043f\u044b
+p9
+aV\u043f\u043e\u043b\u0438\u0442\u0438\u043a\u0430
+p10
+atRp11
+sS'friends'
+p12
+g6
+((lp13
+VEgorkin
+p14
+aVolyagrin
+p15
+aVprbyte
+p16
+aVTanyana
+p17
+aVtomshinsky
+p18
+aVJuliana
+p19
+aVLionAlex
+p20
+aVdobryanskaya
+p21
+aVhlomzik
+p22
+atRp23
+sS'companies'
+p24
+g6
+((lp25
+VPOIdo
+p26
+aVGlobal TechInnovations
+p27
+aV\u0413\u043b\u0430\u0432\u0441\u0442\u0430\u0440\u0442
+p28
+aVStartup Point
+p29
+aVRuna Capital
+p30
+aVMicrosoft
+p31
+aVPRUFFI
+p32
+atRp33
+sS'hubs'
+p34
+g6
+((lp35
+VSilverlight
+p36
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p37
+aV\u0410\u043d\u0430\u043b\u0438\u0437 \u0438 \u043f\u0440\u043e\u0435\u043a\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0441\u0438\u0441\u0442\u0435\u043c
+p38
+aV\u0427\u0443\u043b\u0430\u043d
+p39
+aVWindows Phone
+p40
+aV.NET
+p41
+aV\u041e\u0431\u043b\u0430\u0447\u043d\u044b\u0435 \u0432\u044b\u0447\u0438\u0441\u043b\u0435\u043d\u0438\u044f
+p42
+aVVisual Studio
+p43
+aVFacebook
+p44
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043f\u043e\u0434 iOS
+p45
+aVInternet Explorer
+p46
+aVMicrosoft
+p47
+aV\u0418\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044b
+p48
+aVGPS
+p49
+atRp50
+sS'invitees'
+p51
+NstRp52
+g52
+b.

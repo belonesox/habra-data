@@ -1,0 +1,89 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+VElenTar
+p9
+aVvasrox
+p10
+aVDVF
+p11
+aVvmochalov
+p12
+aVINFALCO
+p13
+atRp14
+sS'companies'
+p15
+g7
+((lp16
+V\u041c\u0435\u0434\u0438\u0443\u0440\u0433
+p17
+aVGoogle
+p18
+aV\u0421\u041a\u0411 \u041a\u043e\u043d\u0442\u0443\u0440
+p19
+aVHP
+p20
+aV\u0422\u0438\u043d\u044c\u043a\u043e\u0444\u0444 \u041a\u0440\u0435\u0434\u0438\u0442\u043d\u044b\u0435 \u0421\u0438\u0441\u0442\u0435\u043c\u044b
+p21
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p22
+aVData Recovery
+p23
+aVNetApp
+p24
+aV\u041e\u0432\u0435\u0440\u0441\u0430\u043d-\u041c\u0435\u0440\u043a\u0443\u0440\u0438\u0439
+p25
+atRp26
+sS'hubs'
+p27
+g7
+((lp28
+V\u0412\u0438\u0440\u0443\u0441\u044b (\u0438 \u0430\u043d\u0442\u0438\u0432\u0438\u0440\u0443\u0441\u044b)
+p29
+aV\u041c\u043e\u0439 \u0431\u0438\u0437\u043d\u0435\u0441
+p30
+aV\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c
+p31
+aV\u041f\u043e\u0438\u0441\u043a\u043e\u0432\u0430\u044f \u043e\u043f\u0442\u0438\u043c\u0438\u0437\u0430\u0446\u0438\u044f
+p32
+aV\u0412\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435 \u0434\u0430\u043d\u043d\u044b\u0445
+p33
+aV\u0416\u0435\u043b\u0435\u0437\u043e
+p34
+aVLinux
+p35
+aVAndroid
+p36
+atRp37
+sS'invitees'
+p38
+g7
+((lp39
+VElenTar
+p40
+aVvmochalov
+p41
+aVvasrox
+p42
+aVINFALCO
+p43
+atRp44
+stRp45
+g45
+b.

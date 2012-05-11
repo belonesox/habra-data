@@ -1,0 +1,135 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+V\u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043f\u0440\u043e\u0435\u043a\u0442\u0430\u043c\u0438
+p8
+aV\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u0430\u044f \u0444\u0430\u043d\u0442\u0430\u0441\u0442\u0438\u043a\u0430
+p9
+aVjava
+p10
+aVsoftware engineering
+p11
+aVsteampunk
+p12
+aVscrum
+p13
+aVagile
+p14
+aVweb-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p15
+aVproject management
+p16
+atRp17
+sS'friends'
+p18
+g6
+((lp19
+VFrag
+p20
+aVkortunov
+p21
+aVAlexSerbul
+p22
+aVmythmaker
+p23
+aVdShell
+p24
+aVJuliyaErina
+p25
+aVigorkoroluk
+p26
+aVsovetnik
+p27
+aVKerk
+p28
+aVostrovityanin
+p29
+aVisapioff
+p30
+aVart_orlov
+p31
+aVAvg00r
+p32
+aVsulik
+p33
+atRp34
+sS'companies'
+p35
+g6
+((lp36
+VGoogle
+p37
+aVAdobe
+p38
+aVSun Microsystems
+p39
+aV\u041c\u0435\u0433\u0430\u0444\u043e\u043d
+p40
+aVParcsis/Turbomilk
+p41
+aV\u0410\u0444\u0438\u0448\u0430
+p42
+aVEPAM Systems
+p43
+aVWikimedia Foundation
+p44
+atRp45
+sS'hubs'
+p46
+g6
+((lp47
+V\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p48
+aV\u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043f\u0440\u043e\u0435\u043a\u0442\u0430\u043c\u0438
+p49
+aVCoworking: \u0440\u0430\u0431\u043e\u0442\u0430 2.0
+p50
+aVGTD
+p51
+aV\u0410\u043d\u0430\u043b\u0438\u0437 \u0438 \u043f\u0440\u043e\u0435\u043a\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0441\u0438\u0441\u0442\u0435\u043c
+p52
+aVAgile
+p53
+aVHuman Resources
+p54
+aV\u0423\u0447\u0435\u0431\u043d\u044b\u0439 \u043f\u0440\u043e\u0446\u0435\u0441\u0441 \u0432 IT
+p55
+aV\u0417\u0430\u043d\u0438\u043c\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0435 \u0437\u0430\u0434\u0430\u0447\u043a\u0438
+p56
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p57
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p58
+aV\u041f\u0440\u0435\u0437\u0435\u043d\u0442\u0430\u0446\u0438\u0438
+p59
+aV\u0422\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p60
+aV\u0418\u0434\u0435\u0438 \u0434\u043b\u044f \u0441\u0442\u0430\u0440\u0442\u0430\u043f\u043e\u0432
+p61
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p62
+aV\u0427\u0443\u043b\u0430\u043d
+p63
+aV\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u0440\u0435\u043a\u043b\u0430\u043c\u0430
+p64
+aV\u0418\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044b
+p65
+atRp66
+sS'invitees'
+p67
+NstRp68
+g68
+b.

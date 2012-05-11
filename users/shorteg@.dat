@@ -1,0 +1,158 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+NsS'companies'
+p7
+NsS'hubs'
+p8
+c__builtin__
+set
+p9
+((lp10
+VjQuery
+p11
+aVLaTeX
+p12
+aVCanvas
+p13
+aVWiki-\u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u044f
+p14
+aVCreative Commons
+p15
+aVLiveStreet
+p16
+aVMODx
+p17
+aVJavaScript
+p18
+aVMooTools
+p19
+aVTwisted
+p20
+aVPerl
+p21
+aV\u0410\u043d\u0438\u043c\u0430\u0446\u0438\u044f \u0438 3D \u0433\u0440\u0430\u0444\u0438\u043a\u0430
+p22
+aV\u041f\u0440\u043e\u0446\u0435\u0441\u0441\u043e\u0440\u044b
+p23
+aVGoogle Chrome
+p24
+aVMail.Ru
+p25
+aV\u0412\u0435\u0431-\u0434\u0438\u0437\u0430\u0439\u043d
+p26
+aVInternet Explorer
+p27
+aVCMS
+p28
+aVGreaseMonkey
+p29
+aV\u041c\u0438\u043a\u0440\u043e\u0444\u043e\u0440\u043c\u0430\u0442\u044b
+p30
+aVCodeIgniter
+p31
+aVPython
+p32
+aV\u0421\u0443\u043f
+p33
+aVMozilla
+p34
+aV\u0420\u0430\u043c\u0431\u043b\u0435\u0440
+p35
+aVRuby on Rails
+p36
+aVOpera
+p37
+aVAjax
+p38
+aVHTML
+p39
+aVFacebook
+p40
+aVYahoo
+p41
+aVSafari
+p42
+aV\u0421\u0442\u0443\u0434\u0438\u044f \u0410\u0440\u0442\u0435\u043c\u0438\u044f \u041b\u0435\u0431\u0435\u0434\u0435\u0432\u0430
+p43
+aV\u0421\u043e\u0432\u0435\u0440\u0448\u0435\u043d\u043d\u044b\u0439 \u043a\u043e\u0434
+p44
+aVQt Software
+p45
+aVXSLT
+p46
+aVDrupal
+p47
+aVSun Microsystems
+p48
+aVEclipse
+p49
+aVDjango
+p50
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p51
+aVGoogle App Engine
+p52
+aVYii
+p53
+aV\u0411\u0435\u0433\u0443\u043d
+p54
+aVFirefox
+p55
+aVCakePHP
+p56
+aVMicrosoft
+p57
+aVCSS
+p58
+aV\u0421\u043c\u0430\u0440\u0442\u0444\u043e\u043d\u044b \u0438 \u043a\u043e\u043c\u043c\u0443\u043d\u0438\u043a\u0430\u0442\u043e\u0440\u044b
+p59
+aVSymfony
+p60
+aVGoogle
+p61
+aVAdobe
+p62
+aVApple
+p63
+aV\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c
+p64
+aVIT-\u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u044b
+p65
+aV\u0411\u0440\u0430\u0443\u0437\u0435\u0440\u044b
+p66
+aVGoogle Web Toolkit
+p67
+aVNode.JS
+p68
+aVCisco
+p69
+aVZend Framework
+p70
+aVGroovy & Grails
+p71
+aVKohana
+p72
+aV\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435
+p73
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p74
+aVPHP
+p75
+atRp76
+sS'invitees'
+p77
+NstRp78
+g78
+b.

@@ -1,0 +1,48 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+NsS'companies'
+p7
+NsS'hubs'
+p8
+c__builtin__
+set
+p9
+((lp10
+V\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p11
+aVIT-\u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u044b
+p12
+aV\u0427\u0438\u0442\u0430\u043b\u044c\u043d\u044b\u0439 \u0437\u0430\u043b
+p13
+aVMySQL
+p14
+aV\u0425\u0430\u0431\u0440\u0430\u0445\u0430\u0431\u0440 \u2014 \u0410\u043d\u043e\u043d\u0441\u044b
+p15
+aV\u0410\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0431\u0430\u0437 \u0434\u0430\u043d\u043d\u044b\u0445
+p16
+aV\u0418\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442
+p17
+aVSQL
+p18
+aVOracle
+p19
+aVMicrosoft SQL Server
+p20
+atRp21
+sS'invitees'
+p22
+NstRp23
+g23
+b.

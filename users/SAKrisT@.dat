@@ -1,0 +1,131 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+V\u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p8
+aV\u0444\u0430\u043d\u0442\u0430\u0441\u0442\u0438\u043a\u0430
+p9
+aVos
+p10
+aV\u043a\u043e\u0441\u043c\u043e\u0441
+p11
+aV\u043c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0435 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438
+p12
+atRp13
+sS'friends'
+p14
+g6
+((lp15
+Vkorjik
+p16
+aVSlaX
+p17
+aVenl
+p18
+aVflogrimm
+p19
+aVKorich
+p20
+aVtozx
+p21
+aVbalamut
+p22
+aVAlexMorgun
+p23
+aVslatvick
+p24
+atRp25
+sS'companies'
+p26
+g6
+((lp27
+VGoogle
+p28
+aVAdobe
+p29
+aVApple
+p30
+aVIntel
+p31
+aVPliq.me
+p32
+aVSun Microsystems
+p33
+aVMozilla Foundation
+p34
+aVLast.fm
+p35
+aVCiklum
+p36
+aVNVIDIA Corporation
+p37
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p38
+aVBlizzard Entertainment
+p39
+aVSkype
+p40
+aVMicrosoft
+p41
+aVApache Software Foundation
+p42
+aVCanonical
+p43
+atRp44
+sS'hubs'
+p45
+g6
+((lp46
+VGoogle
+p47
+aVOpen source
+p48
+aVGame Development
+p49
+aVPython
+p50
+aVMac OS X
+p51
+aVWindows Phone
+p52
+aV\u041f\u043b\u0430\u043d\u0448\u0435\u0442\u044b
+p53
+aV\u041d\u0430\u0443\u0447\u043d\u043e-\u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u043e\u0435
+p54
+aVC++
+p55
+aVDjango
+p56
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043f\u043e\u0434 iOS
+p57
+aViPhone
+p58
+aV\u0416\u0435\u043b\u0435\u0437\u043e
+p59
+aV\u0427\u0443\u043b\u0430\u043d
+p60
+aVAndroid
+p61
+aVDIY \u0438\u043b\u0438 \u0421\u0434\u0435\u043b\u0430\u0439 \u0421\u0430\u043c
+p62
+aVApple
+p63
+atRp64
+sS'invitees'
+p65
+NstRp66
+g66
+b.

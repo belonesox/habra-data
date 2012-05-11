@@ -1,0 +1,141 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+Vcisco
+p8
+aVjava
+p9
+aVcloud computing
+p10
+aVhadoop
+p11
+aVvirtualization
+p12
+aVlinux
+p13
+aVnetworking
+p14
+aVhbase
+p15
+atRp16
+sS'friends'
+p17
+g6
+((lp18
+Vparta
+p19
+aVSpirITzzz
+p20
+aVqmax
+p21
+aVRZK333
+p22
+aVpunch
+p23
+aVsh0ckfile
+p24
+aVJacke
+p25
+aVviem77
+p26
+aVrawing
+p27
+aVwRAR
+p28
+aVfoo
+p29
+atRp30
+sS'companies'
+p31
+g6
+((lp32
+VRed Hat
+p33
+aVGoogle
+p34
+aVIBM
+p35
+aVIntel
+p36
+aVVMware Inc.
+p37
+aVHP
+p38
+aVSun Microsystems
+p39
+aVMozilla Foundation
+p40
+aVLast.fm
+p41
+aVParallels
+p42
+aVCisco Systems, Inc
+p43
+aVFacebook
+p44
+aVSkype
+p45
+aVOracle
+p46
+aVDell Inc
+p47
+aVCanonical
+p48
+aVNVIDIA Corporation
+p49
+aVApache Software Foundation
+p50
+aVWikimedia Foundation
+p51
+atRp52
+sS'hubs'
+p53
+g6
+((lp54
+V\u041a\u043e\u0434\u043e\u0411\u0440\u0435\u0434
+p55
+aVGTD
+p56
+aV\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c
+p57
+aVNoSQL
+p58
+aVWindows
+p59
+aV\u0427\u0443\u043b\u0430\u043d
+p60
+aV\u0421\u0438\u0441\u0442\u0435\u043c\u043d\u043e\u0435 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p61
+aV\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p62
+aVVIM
+p63
+aV\u041e\u043f\u0435\u0440\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0441\u0438\u0441\u0442\u0435\u043c\u044b
+p64
+aV\u0416\u0435\u043b\u0435\u0437\u043e
+p65
+aVLinux
+p66
+aVCisco
+p67
+aVDIY \u0438\u043b\u0438 \u0421\u0434\u0435\u043b\u0430\u0439 \u0421\u0430\u043c
+p68
+atRp69
+sS'invitees'
+p70
+NstRp71
+g71
+b.

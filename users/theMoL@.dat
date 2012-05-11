@@ -1,0 +1,62 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+NsS'companies'
+p7
+NsS'hubs'
+p8
+c__builtin__
+set
+p9
+((lp10
+V\u0411\u0440\u0430\u0443\u0437\u0435\u0440\u044b
+p11
+aVFirefox
+p12
+aVNoSQL
+p13
+aVSQL
+p14
+aVOpera
+p15
+aVCubrid
+p16
+aVMozilla
+p17
+aVMongoDB
+p18
+aVOracle
+p19
+aVDoctrine ORM
+p20
+aVPostgreSQL
+p21
+aVGoogle Chrome
+p22
+aVSafari
+p23
+aVData Mining
+p24
+aVMySQL
+p25
+aVInternet Explorer
+p26
+aVMicrosoft SQL Server
+p27
+atRp28
+sS'invitees'
+p29
+NstRp30
+g30
+b.

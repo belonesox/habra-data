@@ -1,0 +1,64 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+V\u0432 \u043e\u0441\u043d\u043e\u0432\u043d\u043e\u043c \u043d\u0430 \u043f\u043e \u0433\u043e\u0440\u043e\u0434\u0443: \u0434\u043e\u043c
+p8
+aVlt; 25\u043a\u043c
+p9
+aVgt; \u043e\u0444\u0438\u0441)
+p10
+aV\u0432\u0435\u043b\u043e\u0441\u043f\u043e\u0440\u0442
+p11
+aV\u043e\u0431\u0449\u0435\u043d\u0438\u0435 \u0441 \u043c\u0438\u0440\u043e\u043c.
+p12
+aV\u043f\u0440\u043e\u0433\u0443\u043b\u043a\u0438
+p13
+atRp14
+sS'friends'
+p15
+g6
+((lp16
+VArjLover
+p17
+aVmgarin
+p18
+aVopium
+p19
+atRp20
+sS'companies'
+p21
+NsS'hubs'
+p22
+g6
+((lp23
+VjQuery
+p24
+aVCisco
+p25
+aV\u0422\u0435\u043b\u0435\u043a\u043e\u043c\u044b
+p26
+aV*nix
+p27
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p28
+aVAndroid
+p29
+atRp30
+sS'invitees'
+p31
+NstRp32
+g32
+b.

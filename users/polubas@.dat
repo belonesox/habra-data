@@ -1,0 +1,56 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+NsS'companies'
+p7
+c__builtin__
+set
+p8
+((lp9
+VFree Software Foundation
+p10
+aVGoogle
+p11
+aVIBM
+p12
+aVSamsung
+p13
+aVHP
+p14
+aV\u0416\u0443\u0440\u043d\u0430\u043b \u0425\u0430\u043a\u0435\u0440
+p15
+aVASUS Russia
+p16
+aVSoftline
+p17
+aVESET NOD32
+p18
+aVABBYY
+p19
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p20
+aVDEPO Computers
+p21
+aV«\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u044f \u041a\u0430\u0441\u043f\u0435\u0440\u0441\u043a\u043e\u0433\u043e»
+p22
+aVMicrosoft
+p23
+atRp24
+sS'hubs'
+p25
+NsS'invitees'
+p26
+NstRp27
+g27
+b.

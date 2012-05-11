@@ -1,0 +1,88 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+Vjava
+p8
+aVparallel programming
+p9
+aVc++
+p10
+atRp11
+sS'friends'
+p12
+NsS'companies'
+p13
+g6
+((lp14
+VJelastic
+p15
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p16
+aVIntel
+p17
+aVKanobu Network
+p18
+aVJetBrains
+p19
+atRp20
+sS'hubs'
+p21
+g6
+((lp22
+VQt Software
+p23
+aV\u0421\u0442\u0430\u0440\u043e\u0435 \u0436\u0435\u043b\u0435\u0437\u043e
+p24
+aVJAVA
+p25
+aVGame Development
+p26
+aV\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c
+p27
+aV\u041a\u0438\u0431\u0435\u0440\u043f\u0430\u043d\u043a
+p28
+aV\u0427\u0443\u043b\u0430\u043d
+p29
+aV\u041a\u043e\u043c\u043f\u0438\u043b\u044f\u0442\u043e\u0440\u044b
+p30
+aVC++
+p31
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p32
+aVNginx
+p33
+aVVisual Studio
+p34
+aVBlackBerry
+p35
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043f\u043e\u0434 iOS
+p36
+aVOpen source
+p37
+aVAndroid
+p38
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043f\u043e\u0434 Android
+p39
+aV\u0423\u0431\u0443\u043d\u0442\u0430\u0440\u0438\u0443\u043c
+p40
+aV\u0421\u043e\u0432\u0435\u0440\u0448\u0435\u043d\u043d\u044b\u0439 \u043a\u043e\u0434
+p41
+atRp42
+sS'invitees'
+p43
+NstRp44
+g44
+b.

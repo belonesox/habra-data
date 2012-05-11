@@ -1,0 +1,45 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+NsS'companies'
+p7
+c__builtin__
+set
+p8
+((lp9
+VRuna Capital
+p10
+aV\u0412\u044b\u043c\u043f\u0435\u043b\u041a\u043e\u043c (\u0411\u0438\u043b\u0430\u0439\u043d)
+p11
+atRp12
+sS'hubs'
+p13
+g8
+((lp14
+VAndroid
+p15
+aV\u0421\u0438\u0441\u0442\u0435\u043c\u043d\u043e\u0435 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p16
+aV\u0412\u044b\u0441\u043e\u043a\u0430\u044f \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c
+p17
+aV\u0418\u0422-\u0418\u043d\u0444\u0440\u0430\u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0430
+p18
+aV\u0425\u043e\u0441\u0442\u0438\u043d\u0433
+p19
+atRp20
+sS'invitees'
+p21
+NstRp22
+g22
+b.

@@ -1,0 +1,43 @@
+(dp1
+S'interests'
+p2
+c__builtin__
+set
+p3
+((lp4
+Vshareware
+p5
+aV\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043f\u043e
+p6
+atRp7
+sS'friends'
+p8
+NsS'companies'
+p9
+g3
+((lp10
+VIntel
+p11
+atRp12
+sS'hubs'
+p13
+g3
+((lp14
+VASP
+p15
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p16
+aVDelphi
+p17
+aV.NET
+p18
+aVC++
+p19
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043f\u043e\u0434 iOS
+p20
+aVJavaScript
+p21
+atRp22
+sS'invitees'
+p23
+Ns.

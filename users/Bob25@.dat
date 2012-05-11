@@ -1,0 +1,216 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+NsS'companies'
+p7
+NsS'hubs'
+p8
+c__builtin__
+set
+p9
+((lp10
+VLiveStreet
+p11
+aVDNS
+p12
+aVNoSQL
+p13
+aVTwisted
+p14
+aV\u0410\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0431\u0430\u0437 \u0434\u0430\u043d\u043d\u044b\u0445
+p15
+aV\u0413\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043e\u0431\u043e\u043b\u043e\u0447\u043a\u0438
+p16
+aVMySQL
+p17
+aV\u041e\u0431\u043e\u043b\u043e\u0447\u043a\u0438
+p18
+aVAsterisk
+p19
+aVRuby on Rails
+p20
+aVFacebook API
+p21
+aVNginx
+p22
+aVApache
+p23
+aV\u042f\u043d\u0434\u0435\u043a\u0441 API
+p24
+aV\u0412\u043a\u043e\u043d\u0442\u0430\u043a\u0442\u0435 API
+p25
+aV\u0425\u0430\u0431\u0440\u0430\u0445\u0430\u0431\u0440 API
+p26
+aVDrupal
+p27
+aVYii
+p28
+aVEclipse
+p29
+aVDjango
+p30
+aVJoomla
+p31
+aVWiMAX
+p32
+aV\u041e\u0431\u043b\u0430\u0447\u043d\u044b\u0435 \u0432\u044b\u0447\u0438\u0441\u043b\u0435\u043d\u0438\u044f
+p33
+aVData Mining
+p34
+aVCakePHP
+p35
+aVSmartTV
+p36
+aVGPS
+p37
+aVCisco
+p38
+aV\u0422\u0435\u043b\u0435\u043a\u043e\u043c\u044b
+p39
+aVVIM
+p40
+aVNode.JS
+p41
+aVDoctrine ORM
+p42
+aVZend Framework
+p43
+aVKohana
+p44
+aVSQL
+p45
+aVWordpress
+p46
+aVPeer-to-Peer
+p47
+aVjQuery
+p48
+aVHelp Desk Software
+p49
+aVAndroid
+p50
+aVCMS
+p51
+aV1\u0421-\u0411\u0438\u0442\u0440\u0438\u043a\u0441
+p52
+aV\u0425\u043e\u0441\u0442\u0438\u043d\u0433
+p53
+aV\u0423\u0431\u0443\u043d\u0442\u0430\u0440\u0438\u0443\u043c
+p54
+aVAPI
+p55
+aVSafari
+p56
+aV*nix
+p57
+aV\u0422\u0435\u043b\u0435\u0444\u043e\u043d\u0438\u044f
+p58
+aVMicrosoft Access
+p59
+aVMicrosoft SQL Server
+p60
+aVSkype
+p61
+aVMaps API
+p62
+aVIPTV
+p63
+aV\u041e\u043f\u0435\u0440\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0441\u0438\u0441\u0442\u0435\u043c\u044b
+p64
+aVFirefox
+p65
+aV\u0411\u0440\u0430\u0443\u0437\u0435\u0440\u044b
+p66
+aV\u0421\u043e\u0444\u0442
+p67
+aV\u0413\u041b\u041e\u041d\u0410\u0421\u0421
+p68
+aVWiki-\u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u044f
+p69
+aVMooTools
+p70
+aVGoogle Chrome
+p71
+aVInternet Explorer
+p72
+aVCodeIgniter
+p73
+aVMac OS X
+p74
+aVINFOLUST
+p75
+aVQt Software
+p76
+aV\u0418\u0422-\u0418\u043d\u0444\u0440\u0430\u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0430
+p77
+aVOpera
+p78
+aVCAD/CAM
+p79
+aVLabVIEW
+p80
+aVLTE
+p81
+aVOracle
+p82
+aVMongoDB
+p83
+aV\u0411\u0435\u0441\u043f\u0440\u043e\u0432\u043e\u0434\u043d\u044b\u0435 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438
+p84
+aVGoogle API
+p85
+aVMODx
+p86
+aVWindows Phone
+p87
+aV\u0411\u0430\u0439\u043d\u0435\u0442
+p88
+aVIIS
+p89
+aV3G
+p90
+aV\u0420\u0430\u0434\u0438\u043e\u0441\u0432\u044f\u0437\u044c
+p91
+aV\u0414\u043e\u043c\u0435\u043d\u044b
+p92
+aVIP-\u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0438\u044f
+p93
+aVWindows
+p94
+aVCubrid
+p95
+aVGTK+
+p96
+aVFidonet
+p97
+aVIM
+p98
+aVSymfony
+p99
+aVPostgreSQL
+p100
+aVTwitter API
+p101
+aVGroovy & Grails
+p102
+aVLinux
+p103
+aV\u041c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0439 \u0432\u0435\u0431
+p104
+atRp105
+sS'invitees'
+p106
+NstRp107
+g107
+b.

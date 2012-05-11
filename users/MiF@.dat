@@ -1,0 +1,85 @@
+(dp1
+S'interests'
+p2
+c__builtin__
+set
+p3
+((lp4
+Vcappuccino
+p5
+aVmac os x
+p6
+aVobjective-c
+p7
+aVcocoa
+p8
+aVnix
+p9
+aVgui programming
+p10
+aVobjective-j
+p11
+aVweb programming
+p12
+atRp13
+sS'friends'
+p14
+g3
+((lp15
+VNotAngel
+p16
+aVkudzu
+p17
+atRp18
+sS'companies'
+p19
+g3
+((lp20
+VApple
+p21
+atRp22
+sS'hubs'
+p23
+g3
+((lp24
+VjQuery
+p25
+aVGit
+p26
+aVGTD
+p27
+aVApple
+p28
+aV\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c
+p29
+aVMac OS X
+p30
+aVJavaScript
+p31
+aVPerl
+p32
+aVNginx
+p33
+aVAjax
+p34
+aV\u041e\u0431\u043b\u0430\u0447\u043d\u044b\u0435 \u0432\u044b\u0447\u0438\u0441\u043b\u0435\u043d\u0438\u044f
+p35
+aVSafari
+p36
+aV*nix
+p37
+aV\u041c\u043e\u0439 \u0431\u0438\u0437\u043d\u0435\u0441
+p38
+aVPHP
+p39
+aV\u0427\u0443\u043b\u0430\u043d
+p40
+atRp41
+sS'invitees'
+p42
+g3
+((lp43
+Vpolymorphs
+p44
+atRp45
+s.

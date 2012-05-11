@@ -1,0 +1,87 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+V\u043c\u0443\u0437\u044b\u043a\u0430
+p8
+aV\u0440\u043e\u0431\u043e\u0442\u0438\u0437\u043c
+p9
+atRp10
+sS'friends'
+p11
+g6
+((lp12
+VRMaster
+p13
+aVavatar2009
+p14
+aV9_kun
+p15
+aVxeshik
+p16
+aVOGF
+p17
+atRp18
+sS'companies'
+p19
+g6
+((lp20
+VWebMoney Transfer
+p21
+aVLast.fm
+p22
+aVOpera Software ASA
+p23
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p24
+aVSkype
+p25
+aVFuturico
+p26
+atRp27
+sS'hubs'
+p28
+g6
+((lp29
+V\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p30
+aV\u0425\u0430\u0431\u0440\u0430\u0445\u0430\u0431\u0440
+p31
+aV\u0423\u0447\u0435\u0431\u043d\u044b\u0439 \u043f\u0440\u043e\u0446\u0435\u0441\u0441 \u0432 IT
+p32
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p33
+aV\u041c\u043e\u0439 \u0431\u0438\u0437\u043d\u0435\u0441
+p34
+aV\u0423\u0431\u0443\u043d\u0442\u0430\u0440\u0438\u0443\u043c
+p35
+aVOpera
+p36
+aV\u0427\u0443\u043b\u0430\u043d
+p37
+aV\u0411\u0443\u0434\u0443\u0449\u0435\u0435 \u0437\u0434\u0435\u0441\u044c
+p38
+aV\u041d\u0430\u0443\u0447\u043d\u043e-\u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u043e\u0435
+p39
+aV\u0410\u043d\u0438\u043c\u0430\u0446\u0438\u044f \u0438 3D \u0433\u0440\u0430\u0444\u0438\u043a\u0430
+p40
+aV\u0422\u0438\u043f\u043e\u0433\u0440\u0430\u0444\u0438\u043a\u0430
+p41
+atRp42
+sS'invitees'
+p43
+NstRp44
+g44
+b.

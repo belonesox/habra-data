@@ -1,0 +1,139 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+VAkit
+p9
+aVivansychev
+p10
+aVilyaraz
+p11
+aVGORKOFF
+p12
+aVrubyrabbit
+p13
+aVKuper
+p14
+aVprintf
+p15
+aVUnknownGosu
+p16
+aVrozboris
+p17
+aVZrok
+p18
+aVromik
+p19
+atRp20
+sS'companies'
+p21
+g7
+((lp22
+VGoogle
+p23
+aVAdobe
+p24
+aVIntel
+p25
+aV\u0422\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u041c\u0435\u0434\u0438\u0430
+p26
+aVLast.fm
+p27
+aV\u0421\u0442\u0443\u0434\u0438\u044f \u0410\u0440\u0442\u0435\u043c\u0438\u044f \u041b\u0435\u0431\u0435\u0434\u0435\u0432\u0430
+p28
+aVApple
+p29
+atRp30
+sS'hubs'
+p31
+g7
+((lp32
+VLaTeX
+p33
+aV\u0411\u043b\u043e\u0433\u043e\u0441\u0444\u0435\u0440\u0430
+p34
+aVNoSQL
+p35
+aV\u0414\u0435\u043c\u043e\u0441\u0446\u0435\u043d\u0430
+p36
+aV\u041f\u043e\u0434\u043a\u0430\u0441\u0442\u044b
+p37
+aV\u0424\u043e\u0442\u043e\u0442\u0435\u0445\u043d\u0438\u043a\u0430
+p38
+aVDIY \u0438\u043b\u0438 \u0421\u0434\u0435\u043b\u0430\u0439 \u0421\u0430\u043c
+p39
+aV\u0418\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044b
+p40
+aV\u0414\u0438\u0437\u0430\u0439\u043d \u0432 IT
+p41
+aVPython
+p42
+aVMac OS X
+p43
+aV\u0417\u0430\u043d\u0438\u043c\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0435 \u0437\u0430\u0434\u0430\u0447\u043a\u0438
+p44
+aV\u0420\u0430\u0431\u043e\u0442\u0430 \u0441 \u0432\u0438\u0434\u0435\u043e
+p45
+aVRuby
+p46
+aV\u0421\u043e\u0432\u0435\u0440\u0448\u0435\u043d\u043d\u044b\u0439 \u043a\u043e\u0434
+p47
+aV\u0425\u0430\u0431\u0440\u0430\u0445\u0430\u0431\u0440
+p48
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p49
+aV\u0411\u0443\u0434\u0443\u0449\u0435\u0435 \u0437\u0434\u0435\u0441\u044c
+p50
+aVC++
+p51
+aVGoogle App Engine
+p52
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043f\u043e\u0434 iOS
+p53
+aV\u0422\u0438\u043f\u043e\u0433\u0440\u0430\u0444\u0438\u043a\u0430
+p54
+aVApple
+p55
+aVTwitter
+p56
+aV\u0425\u043e\u0441\u0442\u0438\u043d\u0433
+p57
+aV\u041d\u0435\u043d\u043e\u0440\u043c\u0430\u043b\u044c\u043d\u043e\u0435 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p58
+atRp59
+sS'invitees'
+p60
+g7
+((lp61
+VAkit
+p62
+aVBelko_Letyago
+p63
+aVCorwin_ru
+p64
+aVGORKOFF
+p65
+aVMazos
+p66
+aVakme
+p67
+aVUnknownGosu
+p68
+atRp69
+stRp70
+g70
+b.

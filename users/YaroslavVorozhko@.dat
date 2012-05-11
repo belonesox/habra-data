@@ -1,0 +1,74 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+Vzend framework
+p8
+aVphp
+p9
+aVsphinx
+p10
+aVproject management
+p11
+aVmysql
+p12
+atRp13
+sS'friends'
+p14
+g6
+((lp15
+Vmrmot
+p16
+aVAntonShevchuk
+p17
+aVsan
+p18
+aVstfalcon
+p19
+aVvedeney
+p20
+atRp21
+sS'companies'
+p22
+NsS'hubs'
+p23
+g6
+((lp24
+V\u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043f\u0440\u043e\u0435\u043a\u0442\u0430\u043c\u0438
+p25
+aVGoogle
+p26
+aVSphinx
+p27
+aV\u0418\u0434\u0435\u0438 \u0434\u043b\u044f \u0441\u0442\u0430\u0440\u0442\u0430\u043f\u043e\u0432
+p28
+aVZend Framework
+p29
+aVWordpress
+p30
+aVMySQL
+p31
+aV\u041f\u043e\u0438\u0441\u043a\u043e\u0432\u044b\u0435 \u043c\u0430\u0448\u0438\u043d\u044b \u0438 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438
+p32
+aVPHP
+p33
+aV\u0427\u0443\u043b\u0430\u043d
+p34
+atRp35
+sS'invitees'
+p36
+NstRp37
+g37
+b.

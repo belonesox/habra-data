@@ -1,0 +1,105 @@
+(dp1
+S'interests'
+p2
+NsS'friends'
+p3
+c__builtin__
+set
+p4
+((lp5
+VJenjaman
+p6
+aVrevnivez
+p7
+aVakolganov
+p8
+aVTarasovMobile
+p9
+aVukhamitov
+p10
+aVartemkulyk
+p11
+atRp12
+sS'companies'
+p13
+g4
+((lp14
+V\u041c\u0422\u0421
+p15
+aVGoogle
+p16
+aVAdobe
+p17
+aVWikimapia
+p18
+aVNokia
+p19
+aVMozilla Foundation
+p20
+aV\u0421\u0442\u0443\u0434\u0438\u044f \u0410\u0440\u0442\u0435\u043c\u0438\u044f \u041b\u0435\u0431\u0435\u0434\u0435\u0432\u0430
+p21
+aVNomobile.Ru
+p22
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p23
+aVFacebook
+p24
+aVChristian Ghisler
+p25
+aV«\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u044f \u041a\u0430\u0441\u043f\u0435\u0440\u0441\u043a\u043e\u0433\u043e»
+p26
+aVMicrosoft
+p27
+aVCanonical
+p28
+atRp29
+sS'hubs'
+p30
+g4
+((lp31
+V\u041f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0430
+p32
+aV\u0414\u0435\u043c\u043e\u0441\u0446\u0435\u043d\u0430
+p33
+aV\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p34
+aV\u0411\u0440\u0430\u0443\u0437\u0435\u0440\u044b
+p35
+aVGTD
+p36
+aV\u0421\u043c\u0430\u0440\u0442\u0444\u043e\u043d\u044b \u0438 \u043a\u043e\u043c\u043c\u0443\u043d\u0438\u043a\u0430\u0442\u043e\u0440\u044b
+p37
+aV\u0413\u0430\u0434\u0436\u0435\u0442\u044b. \u0423\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u0430 \u0434\u043b\u044f \u0433\u0438\u043a\u043e\u0432
+p38
+aVOpera
+p39
+aV\u0427\u0443\u043b\u0430\u043d
+p40
+aVTwitter
+p41
+aVMozilla
+p42
+aVLiveJournal
+p43
+aV\u041d\u0435\u0442\u0431\u0443\u043a\u0438
+p44
+aVWindows
+p45
+aV\u0418\u0433\u0440\u043e\u0432\u044b\u0435 \u043f\u0440\u0438\u0441\u0442\u0430\u0432\u043a\u0438
+p46
+aV\u0421\u0442\u0430\u0440\u043e\u0435 \u0436\u0435\u043b\u0435\u0437\u043e
+p47
+aV\u041f\u043b\u0430\u043d\u0448\u0435\u0442\u044b
+p48
+aVLinux
+p49
+aVInternet Explorer
+p50
+aVWindows Phone
+p51
+aVGMail
+p52
+atRp53
+sS'invitees'
+p54
+Ns.

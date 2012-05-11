@@ -1,0 +1,165 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+Vxml
+p8
+aVweb
+p9
+aVjsf
+p10
+aVjava
+p11
+aV\u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438
+p12
+aVyii
+p13
+aV\u0432\u0435\u0440\u0441\u0442\u043a\u0430
+p14
+aVsymfony
+p15
+aVruby on rails
+p16
+aV\u043c\u0443\u0437\u044b\u043a\u0430
+p17
+aVmac
+p18
+aVhtml
+p19
+aVbsd
+p20
+aVajax
+p21
+aVfacelets
+p22
+aVruby
+p23
+aVcss
+p24
+aVjrpg
+p25
+atRp26
+sS'friends'
+p27
+g6
+((lp28
+Vburanik
+p29
+aVHabitat
+p30
+aVClusterM
+p31
+aViusik
+p32
+aVpost3r
+p33
+aVhomm
+p34
+aVshoguevara
+p35
+aVlopa
+p36
+aVArtem
+p37
+aVbofh
+p38
+aVu02
+p39
+aVStinkie
+p40
+atRp41
+sS'companies'
+p42
+g6
+((lp43
+V37signals
+p44
+aVRed Hat
+p45
+aVGoogle
+p46
+aVThe FreeBSD Foundation
+p47
+aVSun Microsystems
+p48
+aVNintendo
+p49
+aVApple
+p50
+atRp51
+sS'hubs'
+p52
+g6
+((lp53
+VjQuery
+p54
+aVOpen source
+p55
+aV\u0413\u0430\u0434\u0436\u0435\u0442\u044b. \u0423\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u0430 \u0434\u043b\u044f \u0433\u0438\u043a\u043e\u0432
+p56
+aVJavaScript
+p57
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p58
+aVCMS
+p59
+aV\u0418\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044b
+p60
+aV\u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043f\u0440\u043e\u0435\u043a\u0442\u0430\u043c\u0438
+p61
+aV\u0414\u0438\u0437\u0430\u0439\u043d \u0432 IT
+p62
+aVRuby on Rails
+p63
+aVAjax
+p64
+aVXML
+p65
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p66
+aVXSLT
+p67
+aV\u0424\u0440\u0438\u043b\u0430\u043d\u0441
+p68
+aVC++
+p69
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p70
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043f\u043e\u0434 iOS
+p71
+aV\u0410\u043b\u0433\u043e\u0440\u0438\u0442\u043c\u044b
+p72
+aVCSS
+p73
+aVGame Development
+p74
+aVJAVA
+p75
+aVApple
+p76
+aV\u0418\u0434\u0435\u0438 \u0434\u043b\u044f \u0441\u0442\u0430\u0440\u0442\u0430\u043f\u043e\u0432
+p77
+aVTwitter
+p78
+aV\u041d\u0435\u043d\u043e\u0440\u043c\u0430\u043b\u044c\u043d\u043e\u0435 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p79
+aV\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p80
+atRp81
+sS'invitees'
+p82
+NstRp83
+g83
+b.

@@ -1,0 +1,88 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+Vdish_sh
+p9
+aVElrond
+p10
+aVAChaplygin
+p11
+aVhayk
+p12
+atRp13
+sS'companies'
+p14
+g7
+((lp15
+VFree Software Foundation
+p16
+aVPixar Animation Studios
+p17
+aVMozilla Foundation
+p18
+aVOpera Software ASA
+p19
+aVWikimedia Foundation
+p20
+aVCanonical
+p21
+atRp22
+sS'hubs'
+p23
+g7
+((lp24
+VGoogle
+p25
+aVFirefox
+p26
+aV\u0422\u0438\u043f\u043e\u0433\u0440\u0430\u0444\u0438\u043a\u0430
+p27
+aV\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c
+p28
+aV\u0423\u0431\u0443\u043d\u0442\u0430\u0440\u0438\u0443\u043c
+p29
+aVPython
+p30
+aVIT-\u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u044b
+p31
+aVJavaScript
+p32
+aV\u041d\u0430\u0443\u0447\u043d\u043e-\u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u043e\u0435
+p33
+aVDjango
+p34
+aV\u041a\u043e\u043f\u0438\u0440\u0430\u0439\u0442
+p35
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p36
+aVAjax
+p37
+aVCSS
+p38
+aV\u041f\u043e\u0438\u0441\u043a\u043e\u0432\u0430\u044f \u043e\u043f\u0442\u0438\u043c\u0438\u0437\u0430\u0446\u0438\u044f
+p39
+aVOpen source
+p40
+aVGreaseMonkey
+p41
+atRp42
+sS'invitees'
+p43
+NstRp44
+g44
+b.

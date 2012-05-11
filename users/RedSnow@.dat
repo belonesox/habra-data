@@ -1,0 +1,109 @@
+(dp1
+S'interests'
+p2
+NsS'friends'
+p3
+c__builtin__
+set
+p4
+((lp5
+VIv38
+p6
+aVSGray
+p7
+aVJohn_Cherep
+p8
+aVjfima
+p9
+aVArtla
+p10
+aVneuymin
+p11
+aVDyn
+p12
+aVdanka
+p13
+aVolyapka
+p14
+aVaprusov
+p15
+aVlyxsus
+p16
+aVLeeb
+p17
+aVVazio
+p18
+aVmargulis
+p19
+aVDisDis
+p20
+aVAceed
+p21
+atRp22
+sS'companies'
+p23
+g4
+((lp24
+VWebMoney Transfer
+p25
+aVGoogle
+p26
+aV\u0418\u0414 \u041a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u0440\u0430
+p27
+aVMozilla Foundation
+p28
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p29
+aVRussian Podcasting
+p30
+aVUMI.CMS (Umisoft)
+p31
+atRp32
+sS'hubs'
+p33
+g4
+((lp34
+VjQuery
+p35
+aV\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p36
+aVGoogle
+p37
+aVOpen source
+p38
+aVDura Lex
+p39
+aV\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c
+p40
+aV\u041a\u0440\u0430\u0443\u0434\u0441\u043e\u0440\u0441\u0438\u043d\u0433
+p41
+aVPython
+p42
+aV\u0427\u0443\u043b\u0430\u043d
+p43
+aVMySQL
+p44
+aV\u041d\u0430\u0443\u0447\u043d\u043e-\u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u043e\u0435
+p45
+aVDjango
+p46
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p47
+aVGoogle App Engine
+p48
+aVLinux
+p49
+aV\u0423\u0431\u0443\u043d\u0442\u0430\u0440\u0438\u0443\u043c
+p50
+aVAndroid
+p51
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p52
+aVCSS
+p53
+aVGMail
+p54
+atRp55
+sS'invitees'
+p56
+Ns.

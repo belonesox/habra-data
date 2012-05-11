@@ -1,0 +1,47 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+Vhearing aid
+p8
+atRp9
+sS'friends'
+p10
+NsS'companies'
+p11
+NsS'hubs'
+p12
+g6
+((lp13
+VApple
+p14
+aVOpera
+p15
+aVMac OS X
+p16
+aVGoogle Chrome
+p17
+aViPhone
+p18
+aVSafari
+p19
+aV\u0427\u0443\u043b\u0430\u043d
+p20
+atRp21
+sS'invitees'
+p22
+NstRp23
+g23
+b.

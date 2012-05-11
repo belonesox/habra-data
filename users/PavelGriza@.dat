@@ -1,0 +1,110 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+NsS'companies'
+p7
+NsS'hubs'
+p8
+c__builtin__
+set
+p9
+((lp10
+VjQuery
+p11
+aVSharePoint
+p12
+aV\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435
+p13
+aVWindows Phone
+p14
+aV.NET
+p15
+aV\u0410\u043d\u0438\u043c\u0430\u0446\u0438\u044f \u0438 3D \u0433\u0440\u0430\u0444\u0438\u043a\u0430
+p16
+aVVisual Studio
+p17
+aVGoogle Chrome
+p18
+aVInternet Explorer
+p19
+aVAndroid
+p20
+aVASP
+p21
+aV\u0423\u0431\u0443\u043d\u0442\u0430\u0440\u0438\u0443\u043c
+p22
+aVMac OS X
+p23
+aVMozilla
+p24
+aVWindows
+p25
+aVHTML
+p26
+aVSafari
+p27
+aVMicrosoft SQL Server
+p28
+aV\u0421\u043e\u0432\u0435\u0440\u0448\u0435\u043d\u043d\u044b\u0439 \u043a\u043e\u0434
+p29
+aVMobile Development
+p30
+aVXML
+p31
+aVQt Software
+p32
+aVSilverlight
+p33
+aVJavaScript
+p34
+aVOpera
+p35
+aVSkype
+p36
+aVMaps API
+p37
+aVC++
+p38
+aV\u041f\u0440\u043e\u0435\u043a\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0438 \u0440\u0435\u0444\u0430\u043a\u0442\u043e\u0440\u0438\u043d\u0433
+p39
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043f\u043e\u0434 iOS
+p40
+aVJAVA
+p41
+aV\u0410\u043b\u0433\u043e\u0440\u0438\u0442\u043c\u044b
+p42
+aVMicrosoft
+p43
+aVGMail
+p44
+aVGoogle
+p45
+aVFirefox
+p46
+aV\u0421\u043c\u0430\u0440\u0442\u0444\u043e\u043d\u044b \u0438 \u043a\u043e\u043c\u043c\u0443\u043d\u0438\u043a\u0430\u0442\u043e\u0440\u044b
+p47
+aV\u0411\u0440\u0430\u0443\u0437\u0435\u0440\u044b
+p48
+aVHaskell
+p49
+aVLinux
+p50
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043f\u043e\u0434 Android
+p51
+atRp52
+sS'invitees'
+p53
+NstRp54
+g54
+b.

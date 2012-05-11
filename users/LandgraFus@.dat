@@ -1,0 +1,81 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+NsS'companies'
+p7
+c__builtin__
+set
+p8
+((lp9
+VABBYY
+p10
+atRp11
+sS'hubs'
+p12
+g8
+((lp13
+VWindows Phone
+p14
+aV\u0413\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043e\u0431\u043e\u043b\u043e\u0447\u043a\u0438
+p15
+aVGoogle Chrome
+p16
+aVInternet Explorer
+p17
+aVHelp Desk Software
+p18
+aVAndroid
+p19
+aVIIS
+p20
+aV\u0423\u0431\u0443\u043d\u0442\u0430\u0440\u0438\u0443\u043c
+p21
+aVMac OS X
+p22
+aVNginx
+p23
+aVWindows
+p24
+aVSafari
+p25
+aV*nix
+p26
+aVApache
+p27
+aVOpera
+p28
+aVCAD/CAM
+p29
+aVLabVIEW
+p30
+aV\u041e\u043f\u0435\u0440\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0441\u0438\u0441\u0442\u0435\u043c\u044b
+p31
+aV\u041e\u0431\u043e\u043b\u043e\u0447\u043a\u0438
+p32
+aVFirefox
+p33
+aV\u0411\u0440\u0430\u0443\u0437\u0435\u0440\u044b
+p34
+aVVIM
+p35
+aVLinux
+p36
+aV\u0421\u043e\u0444\u0442
+p37
+atRp38
+sS'invitees'
+p39
+NstRp40
+g40
+b.

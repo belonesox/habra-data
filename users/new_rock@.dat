@@ -1,0 +1,117 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+Vblizzard
+p8
+aV\u0437\u0430\u043f\u0440\u0430\u0432\u043a\u0430 \u043a\u0430\u0440\u0442\u0440\u0438\u0434\u0436\u0435\u0439
+p9
+aVlive cd
+p10
+aV\u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p11
+aVlinux
+p12
+aVadsl
+p13
+aV\u0441\u0435\u0442\u0438
+p14
+aV\u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u044b
+p15
+aVopen source
+p16
+aV\u043e\u043f\u0442\u0438\u043c\u0438\u0437\u0430\u0446\u0438\u044f
+p17
+aVwordpress
+p18
+aV\u0436\u0435\u043b\u0435\u0437\u043e
+p19
+aV\u043a\u043e\u043c\u0431\u043e
+p20
+aVjack the nipper
+p21
+aV\u0441\u0435\u0442\u0435\u0432\u043e\u0435 \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u0435
+p22
+aV\u0433\u0435\u0439\u043c\u043f\u0430\u0434
+p23
+aV\u0445\u043e\u0440\u043e\u0448\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430
+p24
+aVlive flash
+p25
+aVubuntu
+p26
+aV\u0443\u043f\u044f\u0447\u043a\u0430
+p27
+aVokosama starr
+p28
+aVmiranda-im
+p29
+aVzx spectrum
+p30
+aVad-hoc
+p31
+aV\u0432\u043b\u043e\u0441\u0438\u043f\u0435\u0434
+p32
+aVd-link
+p33
+aV\u044d\u0441\u0442\u0435\u0442\u0438\u043a\u0430
+p34
+aV\u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0442\u0443\u044e\u0449\u0438\u0435
+p35
+aV\u043b\u043e\u043a\u0430\u043b\u044c\u043d\u044b\u0435 \u0441\u0435\u0442\u0438
+p36
+aV\u0438\u0433\u0440\u044b
+p37
+aVwine
+p38
+atRp39
+sS'friends'
+p40
+g6
+((lp41
+Vswibl
+p42
+aVsensesearcher
+p43
+aVMona_Sax
+p44
+atRp45
+sS'companies'
+p46
+g6
+((lp47
+VdeviantART
+p48
+aV\u0421\u0442\u0443\u0434\u0438\u044f \u0410\u0440\u0442\u0435\u043c\u0438\u044f \u041b\u0435\u0431\u0435\u0434\u0435\u0432\u0430
+p49
+aVApache Software Foundation
+p50
+aVCanonical
+p51
+atRp52
+sS'hubs'
+p53
+g6
+((lp54
+V\u0427\u0443\u043b\u0430\u043d
+p55
+aVLiveJournal
+p56
+atRp57
+sS'invitees'
+p58
+NstRp59
+g59
+b.

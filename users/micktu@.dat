@@ -1,0 +1,137 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+Vjosser
+p9
+aV1che
+p10
+aVBaziak
+p11
+aVMinimall
+p12
+aVbuhuru
+p13
+aVAntonShevchuk
+p14
+aVcrtman
+p15
+atRp16
+sS'companies'
+p17
+g7
+((lp18
+VBee.FM
+p19
+aVHP
+p20
+aV\u0414\u043e\u043a\u0442\u043e\u0440 \u0412\u0435\u0431
+p21
+aVCreative People
+p22
+aVVMware Inc.
+p23
+aVWestByte Software
+p24
+aVFuturico
+p25
+aVBitTorrent
+p26
+aVBlizzard Entertainment
+p27
+aVFree-lance.ru
+p28
+aVCorel Corporation
+p29
+aVWikimedia Foundation
+p30
+aV\u0412\u044b\u043c\u043f\u0435\u043b\u041a\u043e\u043c (\u0411\u0438\u043b\u0430\u0439\u043d)
+p31
+aVIntel
+p32
+aVdeviantART
+p33
+aVMicrosoft
+p34
+aVAutodesk Inc.
+p35
+aVWebMoney Transfer
+p36
+aVGoogle
+p37
+aVAdobe
+p38
+aVApple
+p39
+aV\u0422\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u041c\u0435\u0434\u0438\u0430
+p40
+aVMozilla Foundation
+p41
+aVLast.fm
+p42
+aVWeb Standards Group
+p43
+aVSkype
+p44
+aVCanonical
+p45
+atRp46
+sS'hubs'
+p47
+g7
+((lp48
+VjQuery
+p49
+aVPostgreSQL
+p50
+aV\u041c\u043e\u0439 \u0431\u0438\u0437\u043d\u0435\u0441
+p51
+aV\u0414\u0438\u0437\u0430\u0439\u043d \u0432 IT
+p52
+aVPython
+p53
+aVMac OS X
+p54
+aV\u0427\u0443\u043b\u0430\u043d
+p55
+aVDjango
+p56
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p57
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p58
+aVMySQL
+p59
+aV\u0422\u0438\u043f\u043e\u0433\u0440\u0430\u0444\u0438\u043a\u0430
+p60
+aVPHP
+p61
+aVRuby
+p62
+aVCSS
+p63
+atRp64
+sS'invitees'
+p65
+g7
+((lp66
+VCrashus
+p67
+atRp68
+stRp69
+g69
+b.

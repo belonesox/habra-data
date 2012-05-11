@@ -1,0 +1,36 @@
+(dp1
+S'interests'
+p2
+NsS'friends'
+p3
+NsS'companies'
+p4
+c__builtin__
+set
+p5
+((lp6
+V300Murlocs
+p7
+atRp8
+sS'hubs'
+p9
+g5
+((lp10
+VjQuery
+p11
+aV\u041f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0430
+p12
+aVOpen source
+p13
+aVGame Development
+p14
+aVAjax
+p15
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p16
+aV\u0421\u043e\u0432\u0435\u0440\u0448\u0435\u043d\u043d\u044b\u0439 \u043a\u043e\u0434
+p17
+atRp18
+sS'invitees'
+p19
+Ns.

@@ -1,0 +1,110 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+Vpsychology
+p8
+aVmartial arts
+p9
+aVruby on rails
+p10
+aVcapoeira
+p11
+aVcartoons
+p12
+aVmafia
+p13
+aVruby
+p14
+atRp15
+sS'friends'
+p16
+g6
+((lp17
+Vmiolini
+p18
+aVgrishkaa
+p19
+aVEnfriz
+p20
+aVamima
+p21
+aVscorched
+p22
+aVsoulburner
+p23
+aVbelonesox
+p24
+aVXEK
+p25
+aV1int
+p26
+aVdezo
+p27
+aVjiexaspb
+p28
+aVdeardeer
+p29
+aVGenaB
+p30
+aVForhaxeD
+p31
+aVmpbikc
+p32
+aVGregory
+p33
+aVdeNULL
+p34
+atRp35
+sS'companies'
+p36
+NsS'hubs'
+p37
+g6
+((lp38
+V\u0425\u0430\u0431\u0440\u0430\u0445\u0430\u0431\u0440
+p39
+aV\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p40
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p41
+aVNoSQL
+p42
+aV\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c
+p43
+aV\u041e\u0444\u0438\u0441\u044b IT-\u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0439
+p44
+aVMongoDB
+p45
+aV\u0421\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0435 \u0441\u0435\u0442\u0438 \u0438 \u0441\u043e\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0430
+p46
+aVRuby on Rails
+p47
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043f\u043e\u0434 iOS
+p48
+aV\u0427\u0443\u043b\u0430\u043d
+p49
+aVMail.Ru
+p50
+aV\u042d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u0430\u044f \u043a\u043e\u043c\u043c\u0435\u0440\u0446\u0438\u044f
+p51
+aV\u0421\u0435\u0440\u0432\u0435\u0440\u043d\u0430\u044f \u043e\u043f\u0442\u0438\u043c\u0438\u0437\u0430\u0446\u0438\u044f
+p52
+atRp53
+sS'invitees'
+p54
+NstRp55
+g55
+b.

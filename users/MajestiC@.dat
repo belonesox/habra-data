@@ -1,0 +1,120 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+Vloss
+p9
+aVyshilyaev
+p10
+aVroh_roh
+p11
+aVphpclub
+p12
+aVFanatPHP
+p13
+aVfisher
+p14
+aVFolder
+p15
+aVHumanoIT
+p16
+atRp17
+sS'companies'
+p18
+g7
+((lp19
+VZend Technologies
+p20
+aVGoogle
+p21
+aVArtics Internet Solutions
+p22
+aVPixelhead
+p23
+aV\u0425\u043e\u0440\u043e\u0448\u0438\u0439 \u0434\u0438\u0437\u0430\u0439\u043d
+p24
+aV\u0431\u043e\u043b\u043etov.ru
+p25
+aVOrangeonweb
+p26
+aVOpera Software ASA
+p27
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p28
+aVFuturico
+p29
+atRp30
+sS'hubs'
+p31
+g7
+((lp32
+VjQuery
+p33
+aVIT-\u0411\u0438\u043e\u0433\u0440\u0430\u0444\u0438\u0438
+p34
+aVOpen source
+p35
+aV\u041e\u0444\u0438\u0441\u044b IT-\u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0439
+p36
+aVJavaScript
+p37
+aV\u041a\u043b\u0438\u0435\u043d\u0442\u0441\u043a\u0430\u044f \u043e\u043f\u0442\u0438\u043c\u0438\u0437\u0430\u0446\u0438\u044f
+p38
+aVPerl
+p39
+aV\u0411\u0430\u0439\u043d\u0435\u0442
+p40
+aVMySQL
+p41
+aV\u0412\u0438\u0440\u0443\u0441\u044b (\u0438 \u0430\u043d\u0442\u0438\u0432\u0438\u0440\u0443\u0441\u044b)
+p42
+aV\u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043f\u0440\u043e\u0435\u043a\u0442\u0430\u043c\u0438
+p43
+aVPython
+p44
+aV\u0411\u0438\u0437\u043d\u0435\u0441 \u0441\u0442\u0443\u0434\u0438\u0438
+p45
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p46
+aVOpera
+p47
+aVFidonet
+p48
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p49
+aV\u0410\u043b\u0433\u043e\u0440\u0438\u0442\u043c\u044b
+p50
+aVCSS
+p51
+aV\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p52
+aVGoogle
+p53
+aV\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c
+p54
+aV\u0411\u0440\u0430\u0443\u0437\u0435\u0440\u044b
+p55
+aV\u041d\u0435\u043d\u043e\u0440\u043c\u0430\u043b\u044c\u043d\u043e\u0435 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p56
+aVPHP
+p57
+atRp58
+sS'invitees'
+p59
+NstRp60
+g60
+b.

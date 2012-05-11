@@ -1,0 +1,40 @@
+(dp1
+S'interests'
+p2
+NsS'friends'
+p3
+NsS'companies'
+p4
+c__builtin__
+set
+p5
+((lp6
+VLenovo
+p7
+aVIBM
+p8
+aVSony Mobile Communications
+p9
+aVASUS Russia
+p10
+aVSynology
+p11
+aVGTV \u2014 \u0432\u0438\u0434\u0435\u043e\u043a\u0430\u043d\u0430\u043b \u043f\u0440\u043e \u0442\u0435\u0445\u043d\u0438\u043a\u0443
+p12
+atRp13
+sS'hubs'
+p14
+g5
+((lp15
+V\u0421\u0435\u0442\u0435\u0432\u044b\u0435 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438
+p16
+aVMicrosoft
+p17
+aV\u0416\u0435\u043b\u0435\u0437\u043e
+p18
+aVGMail
+p19
+atRp20
+sS'invitees'
+p21
+Ns.

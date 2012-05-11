@@ -1,0 +1,89 @@
+(dp1
+S'interests'
+p2
+NsS'friends'
+p3
+c__builtin__
+set
+p4
+((lp5
+V2kan
+p6
+aVksoiss
+p7
+aVAldanur
+p8
+aVjanvarev
+p9
+aVglider
+p10
+aVdvdai
+p11
+aVcompozer
+p12
+aVkhext
+p13
+aVgamajun
+p14
+atRp15
+sS'companies'
+p16
+g4
+((lp17
+VGoogle
+p18
+aVIBM
+p19
+aVApple
+p20
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p21
+aVOracle
+p22
+aVFacebook
+p23
+aV\u0421\u0442\u0443\u0434\u0438\u044f \u0410\u0440\u0442\u0435\u043c\u0438\u044f \u041b\u0435\u0431\u0435\u0434\u0435\u0432\u0430
+p24
+aVWikimedia Foundation
+p25
+atRp26
+sS'hubs'
+p27
+g4
+((lp28
+V\u0425\u0430\u0431\u0440\u0430\u0445\u0430\u0431\u0440
+p29
+aV\u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043f\u0440\u043e\u0435\u043a\u0442\u0430\u043c\u0438
+p30
+aVGoogle
+p31
+aVGTD
+p32
+aVApple
+p33
+aVAgile
+p34
+aV\u0421\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0435 \u0441\u0435\u0442\u0438 \u0438 \u0441\u043e\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0430
+p35
+aV\u041f\u043b\u0430\u0442\u0435\u0436\u043d\u044b\u0435 \u0441\u0438\u0441\u0442\u0435\u043c\u044b
+p36
+aV\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p37
+aV\u0418\u043d\u0444\u043e\u0433\u0440\u0430\u0444\u0438\u043a\u0430
+p38
+aVSQL
+p39
+aV\u0418\u0434\u0435\u0438 \u0434\u043b\u044f \u0441\u0442\u0430\u0440\u0442\u0430\u043f\u043e\u0432
+p40
+aVAndroid
+p41
+aVRuby
+p42
+aV\u0427\u0438\u0442\u0430\u043b\u044c\u043d\u044b\u0439 \u0437\u0430\u043b
+p43
+aV\u0418\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044b
+p44
+atRp45
+sS'invitees'
+p46
+Ns.

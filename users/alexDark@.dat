@@ -1,0 +1,125 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+VUnidot
+p9
+aVTermiT
+p10
+aVMinimall
+p11
+aVAntonShevchuk
+p12
+aVegoserg
+p13
+aVsvoyak
+p14
+aVmeshkoff
+p15
+atRp16
+sS'companies'
+p17
+g7
+((lp18
+VPravo.ru
+p19
+atRp20
+sS'hubs'
+p21
+g7
+((lp22
+V\u0423\u0447\u0435\u0431\u043d\u044b\u0439 \u043f\u0440\u043e\u0446\u0435\u0441\u0441 \u0432 IT
+p23
+aVNoSQL
+p24
+aV\u0413\u0430\u0434\u0436\u0435\u0442\u044b. \u0423\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u0430 \u0434\u043b\u044f \u0433\u0438\u043a\u043e\u0432
+p25
+aVJavaScript
+p26
+aVGoogle Chrome
+p27
+aV\u0416\u0435\u043b\u0435\u0437\u043e
+p28
+aV\u0412\u0435\u0431-\u0434\u0438\u0437\u0430\u0439\u043d
+p29
+aVAndroid
+p30
+aV\u0418\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044b
+p31
+aV\u0414\u0438\u0437\u0430\u0439\u043d \u0432 IT
+p32
+aVMac OS X
+p33
+aV\u0427\u0438\u0442\u0430\u043b\u044c\u043d\u044b\u0439 \u0437\u0430\u043b
+p34
+aVApple
+p35
+aVWindows
+p36
+aVMobile Development
+p37
+aV\u041a\u0438\u0431\u0435\u0440\u043f\u0430\u043d\u043a
+p38
+aV\u041f\u043b\u0430\u043d\u0448\u0435\u0442\u044b
+p39
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p40
+aVOpera
+p41
+aV\u0411\u0443\u0434\u0443\u0449\u0435\u0435 \u0437\u0434\u0435\u0441\u044c
+p42
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p43
+aViPhone
+p44
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043f\u043e\u0434 iOS
+p45
+aVMicrosoft
+p46
+aVCSS
+p47
+aVGPS
+p48
+aV\u0418\u0441\u0442\u043e\u0440\u0438\u044f \u0418\u0422
+p49
+aVGoogle
+p50
+aVFirefox
+p51
+aVGame Development
+p52
+aV\u0422\u0435\u043b\u0435\u043a\u043e\u043c\u044b
+p53
+aV\u0411\u0440\u0430\u0443\u0437\u0435\u0440\u044b
+p54
+aVNode.JS
+p55
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043f\u043e\u0434 Android
+p56
+atRp57
+sS'invitees'
+p58
+g7
+((lp59
+Vromazyan
+p60
+aValpine
+p61
+atRp62
+stRp63
+g63
+b.

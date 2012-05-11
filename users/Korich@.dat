@@ -1,0 +1,156 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+V\u0444\u0443\u0442\u0431\u043e\u043b
+p8
+aVapple
+p9
+aV\u0441\u043d\u043e\u0443\u0431\u043e\u0440\u0434
+p10
+aV\u0438\u0433\u0440\u044b
+p11
+aV\u0435\u043a\u0441\u0442\u0440\u0438\u043c
+p12
+aV\u043f\u0443\u0442\u0438\u0448\u0435\u0441\u0442\u0432\u0438\u044f
+p13
+aV\u0441\u043a\u0435\u0439\u0442
+p14
+aVgame porting
+p15
+aV\u0434\u0430\u0439\u0432\u0438\u043d\u0433
+p16
+aV\u0442\u0435\u043d\u043d\u0438\u0441
+p17
+atRp18
+sS'friends'
+p19
+g6
+((lp20
+Vstboris
+p21
+aVSAKrisT
+p22
+aVPantofobos
+p23
+aVAlBa231
+p24
+aVSlaX
+p25
+aV76sergey
+p26
+aVrukus
+p27
+aVMortas25
+p28
+aVrzn
+p29
+aVTeXiro
+p30
+aViOrange
+p31
+aValdin
+p32
+aVPushkoff
+p33
+atRp34
+sS'companies'
+p35
+g6
+((lp36
+VGoogle
+p37
+aVIntel
+p38
+aVFacebook
+p39
+aVdeviantART
+p40
+aV\u0421\u0442\u0443\u0434\u0438\u044f \u0410\u0440\u0442\u0435\u043c\u0438\u044f \u041b\u0435\u0431\u0435\u0434\u0435\u0432\u0430
+p41
+aVApple
+p42
+atRp43
+sS'hubs'
+p44
+g6
+((lp45
+VOpen source
+p46
+aV\u0427\u0443\u043b\u0430\u043d
+p47
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p48
+aVVisual Studio
+p49
+aVGoogle Chrome
+p50
+aV\u041f\u043b\u0430\u0442\u0435\u0436\u043d\u044b\u0435 \u0441\u0438\u0441\u0442\u0435\u043c\u044b
+p51
+aV\u0418\u043d\u0442\u0435\u0440\u0432\u044c\u044e
+p52
+aV\u0414\u0438\u0437\u0430\u0439\u043d \u0432 IT
+p53
+aVMac OS X
+p54
+aVFacebook
+p55
+aV\u0421\u0442\u0443\u0434\u0438\u044f \u0410\u0440\u0442\u0435\u043c\u0438\u044f \u041b\u0435\u0431\u0435\u0434\u0435\u0432\u0430
+p56
+aV\u0425\u0430\u0431\u0440\u0430\u0445\u0430\u0431\u0440
+p57
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p58
+aVDrupal
+p59
+aV\u0411\u0443\u0434\u0443\u0449\u0435\u0435 \u0437\u0434\u0435\u0441\u044c
+p60
+aVC++
+p61
+aViPhone
+p62
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043f\u043e\u0434 iOS
+p63
+aVGame Development
+p64
+aVGoogle
+p65
+aVApple
+p66
+aV\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c
+p67
+atRp68
+sS'invitees'
+p69
+g6
+((lp70
+VAlBa231
+p71
+aVSlaX
+p72
+aValex_bozhko
+p73
+aVrukus
+p74
+aViOrange
+p75
+aValdin
+p76
+aVPushkoff
+p77
+atRp78
+stRp79
+g79
+b.

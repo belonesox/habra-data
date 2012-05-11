@@ -1,0 +1,36 @@
+(dp1
+S'interests'
+p2
+NsS'friends'
+p3
+NsS'companies'
+p4
+c__builtin__
+set
+p5
+((lp6
+VGoogle
+p7
+aVAdMe
+p8
+aVBlizzard Entertainment
+p9
+aVMicrosoft
+p10
+aVChristian Ghisler
+p11
+aVI.UA
+p12
+aV\u0421\u0442\u0443\u0434\u0438\u044f \u0410\u0440\u0442\u0435\u043c\u0438\u044f \u041b\u0435\u0431\u0435\u0434\u0435\u0432\u0430
+p13
+atRp14
+sS'hubs'
+p15
+g5
+((lp16
+V\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p17
+atRp18
+sS'invitees'
+p19
+Ns.

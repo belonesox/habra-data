@@ -1,0 +1,66 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+VPEXA
+p9
+aVtakvot
+p10
+aVHeavenlyDrug
+p11
+atRp12
+sS'companies'
+p13
+g7
+((lp14
+VWebMoney Transfer
+p15
+aVMotorola
+p16
+aVAdobe
+p17
+aVMozilla Foundation
+p18
+aVParcsis/Turbomilk
+p19
+aVApache Software Foundation
+p20
+atRp21
+sS'hubs'
+p22
+g7
+((lp23
+VFirefox
+p24
+aV\u0414\u0438\u0437\u0430\u0439\u043d \u0432 IT
+p25
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p26
+aV\u0424\u0440\u0438\u043b\u0430\u043d\u0441
+p27
+aV\u0422\u0438\u043f\u043e\u0433\u0440\u0430\u0444\u0438\u043a\u0430
+p28
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p29
+aV\u0418\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044b
+p30
+atRp31
+sS'invitees'
+p32
+NstRp33
+g33
+b.

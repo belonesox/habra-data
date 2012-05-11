@@ -1,0 +1,168 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+Vkal4evskiy
+p9
+aVvedmedik
+p10
+aVblv
+p11
+aVsx000
+p12
+aVschenkh
+p13
+aVgothy
+p14
+atRp15
+sS'companies'
+p16
+g7
+((lp17
+VNews2
+p18
+aVWorld Wide Web Consortium
+p19
+aVIBM
+p20
+aV\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435
+p21
+aVSun Microsystems
+p22
+aV\u0414\u043e\u043a\u0442\u043e\u0440 \u0412\u0435\u0431
+p23
+aVNigma
+p24
+aVOpera Software ASA
+p25
+aV\u041c\u0435\u0442\u0430
+p26
+aVESET NOD32
+p27
+aVLiveInternet
+p28
+aVtoodoo
+p29
+aVFuturico
+p30
+aV\u0410\u0448\u043c\u0430\u043d\u043e\u0432 \u0438 \u041f\u0430\u0440\u0442\u043d\u0451\u0440\u044b
+p31
+aVBitTorrent
+p32
+aV\u041c\u0435\u0433\u0430\u0444\u043e\u043d
+p33
+aVYahoo
+p34
+aVBlizzard Entertainment
+p35
+aVRuTube
+p36
+aVNVIDIA Corporation
+p37
+aVFacebook
+p38
+aVFree-lance.ru
+p39
+aVChristian Ghisler
+p40
+aVCorel Corporation
+p41
+aV\u0421\u0442\u0443\u0434\u0438\u044f \u0410\u0440\u0442\u0435\u043c\u0438\u044f \u041b\u0435\u0431\u0435\u0434\u0435\u0432\u0430
+p42
+aVApache Software Foundation
+p43
+aVWikimedia Foundation
+p44
+aV\u041c\u0422\u0421
+p45
+aV\u0412\u044b\u043c\u043f\u0435\u043b\u041a\u043e\u043c (\u0411\u0438\u043b\u0430\u0439\u043d)
+p46
+aVHeadHunter
+p47
+aV\u0412\u0435\u0431\u0430\u043b\u044c\u0442\u0430
+p48
+aV\u0411\u043b\u043e\u0433\u0421\u0435\u0440\u0432\u0438\u0441
+p49
+aV\u0411\u0435\u0433\u0443\u043d
+p50
+aVI.UA
+p51
+aVQuintura
+p52
+aVWebMoney Transfer
+p53
+aVGoogle
+p54
+aVAdobe
+p55
+aVPixar Animation Studios
+p56
+aVMozilla Foundation
+p57
+aVNetscape
+p58
+aVTechnorati
+p59
+aVuCoz
+p60
+aVInternetUA
+p61
+aVABBYY
+p62
+aV\u0414\u0443\u0431\u043b\u044c\u0413\u0418\u0421 (2\u0413\u0418\u0421)
+p63
+aV\u0420\u043e\u0441\u0411\u0438\u0437\u043d\u0435\u0441\u041a\u043e\u043d\u0441\u0430\u043b\u0442\u0438\u043d\u0433
+p64
+aVSkype
+p65
+aVTvigle
+p66
+aV\u0411\u043b\u043e\u0433.\u0420\u0443
+p67
+atRp68
+sS'hubs'
+p69
+g7
+((lp70
+VGoogle
+p71
+aVOpen source
+p72
+aV\u0427\u0443\u043b\u0430\u043d
+p73
+aV\u041a\u043e\u043d\u0442\u0435\u043a\u0441\u0442\u043d\u0430\u044f \u0440\u0435\u043a\u043b\u0430\u043c\u0430
+p74
+aV\u041f\u043e\u0438\u0441\u043a\u043e\u0432\u0430\u044f \u043e\u043f\u0442\u0438\u043c\u0438\u0437\u0430\u0446\u0438\u044f
+p75
+aV\u041f\u043e\u0438\u0441\u043a\u043e\u0432\u044b\u0435 \u043c\u0430\u0448\u0438\u043d\u044b \u0438 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438
+p76
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p77
+aV\u0411\u0435\u0433\u0443\u043d
+p78
+aVFirefox
+p79
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p80
+aV\u0421\u043e\u0444\u0442
+p81
+atRp82
+sS'invitees'
+p83
+NstRp84
+g84
+b.

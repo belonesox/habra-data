@@ -1,0 +1,163 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+V\u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043f\u0440\u043e\u0435\u043a\u0442\u0430\u043c\u0438
+p8
+aV\u043f\u0440\u043e\u0435\u043a\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p9
+aV\u0438\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044b
+p10
+atRp11
+sS'friends'
+p12
+g6
+((lp13
+Vwzwz
+p14
+aVAnykeys
+p15
+aVlessio
+p16
+aVoleghka
+p17
+aVtrueowl
+p18
+aVbeskov
+p19
+aVx007xx
+p20
+aVsomistar
+p21
+aVsoftfacade
+p22
+aV4annel
+p23
+aVJunior
+p24
+aVzencd
+p25
+aVtonsky
+p26
+aVobject
+p27
+aVmelfa
+p28
+aVAler
+p29
+aVcherenkevich
+p30
+aVAlterEG0
+p31
+aVDarkWarrior
+p32
+aVilyap1
+p33
+aVallotus
+p34
+aVlasttale
+p35
+aVroTuKa
+p36
+aVmansLon
+p37
+aVnataly_bry
+p38
+aVDezmASter
+p39
+aVnsamoylov
+p40
+aVmeniam
+p41
+aVprovotorov
+p42
+aVAcet
+p43
+atRp44
+sS'companies'
+p45
+g6
+((lp46
+V\u0414\u0438\u0437\u0430\u0439\u043d-\u0431\u044e\u0440\u043e \u0410\u0440\u0442\u0435\u043c\u0430 \u0413\u043e\u0440\u0431\u0443\u043d\u043e\u0432\u0430
+p47
+aVUI Modeling Company
+p48
+aVGoogle
+p49
+aVApple
+p50
+aVEbayToday
+p51
+aV\u0422\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u041c\u0435\u0434\u0438\u0430
+p52
+aVAERO
+p53
+aV\u0431\u043e\u043b\u043etov.ru
+p54
+aVParcsis/Turbomilk
+p55
+aVSimple Sampler
+p56
+aVCreative People
+p57
+aVWe love CSS
+p58
+aVAteve Commercial
+p59
+aVdeviantART
+p60
+aV\u041f\u0440\u043e\u0434\u044e\u0441\u0435\u0440\u0441\u043a\u0438\u0439 \u0446\u0435\u043d\u0442\u0440 «\u0420\u043e\u0439\u0431\u0435\u0440»
+p61
+aV\u042d\u0441\u0442\u0435\u0442\u0438\u043a \u0434\u0438\u0437\u0430\u0439\u043d
+p62
+aV\u0421\u0442\u0443\u0434\u0438\u044f \u041e\u043b\u0435\u0433\u0430 \u0427\u0443\u043b\u0430\u043a\u043e\u0432\u0430
+p63
+atRp64
+sS'hubs'
+p65
+g6
+((lp66
+V\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p67
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p68
+aVApple
+p69
+aV\u0414\u0438\u0437\u0430\u0439\u043d \u0432 IT
+p70
+aV\u0410\u043d\u0430\u043b\u0438\u0437 \u0438 \u043f\u0440\u043e\u0435\u043a\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0441\u0438\u0441\u0442\u0435\u043c
+p71
+aV\u0424\u0440\u0438\u043b\u0430\u043d\u0441
+p72
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p73
+aV\u0427\u0443\u043b\u0430\u043d
+p74
+aV\u0412\u0435\u0431-\u0434\u0438\u0437\u0430\u0439\u043d
+p75
+aV\u0422\u0438\u043f\u043e\u0433\u0440\u0430\u0444\u0438\u043a\u0430
+p76
+aV\u042d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u0430\u044f \u043a\u043e\u043c\u043c\u0435\u0440\u0446\u0438\u044f
+p77
+aVDIY \u0438\u043b\u0438 \u0421\u0434\u0435\u043b\u0430\u0439 \u0421\u0430\u043c
+p78
+aV\u0418\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044b
+p79
+atRp80
+sS'invitees'
+p81
+NstRp82
+g82
+b.

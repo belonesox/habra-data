@@ -1,0 +1,113 @@
+(dp1
+S'interests'
+p2
+c__builtin__
+set
+p3
+((lp4
+V\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p5
+aV\u043c\u0443\u0437\u044b\u043a\u0430
+p6
+aV\u0444\u0430\u043d\u0442\u0430\u0441\u0442\u0438\u043a\u0430
+p7
+aV\u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u044b
+p8
+aV\u043a\u0438\u043d\u043e
+p9
+atRp10
+sS'friends'
+p11
+NsS'companies'
+p12
+g3
+((lp13
+VFree Software Foundation
+p14
+aVGoogle
+p15
+aVHTC
+p16
+aVDevExpress
+p17
+aVJetBrains
+p18
+aVWikimedia Foundation
+p19
+aVOpera Software ASA
+p20
+aV«\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u044f \u041a\u0430\u0441\u043f\u0435\u0440\u0441\u043a\u043e\u0433\u043e»
+p21
+aVApache Software Foundation
+p22
+aVCanonical
+p23
+atRp24
+sS'hubs'
+p25
+g3
+((lp26
+VGit
+p27
+aVOpen source
+p28
+aVDelphi
+p29
+aV.NET
+p30
+aVYii
+p31
+aV\u0422\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p32
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p33
+aVVisual Studio
+p34
+aVMySQL
+p35
+aVAndroid
+p36
+aV\u0418\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044b
+p37
+aV\u041d\u0430\u0443\u0447\u043d\u043e-\u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u043e\u0435
+p38
+aV\u0423\u0431\u0443\u043d\u0442\u0430\u0440\u0438\u0443\u043c
+p39
+aVMono \u0438 Moonlight
+p40
+aVMobile Development
+p41
+aVQt Software
+p42
+aV\u0418\u043a\u043e\u043d\u043e\u0441\u043a\u0430\u0437
+p43
+aVGTD
+p44
+aV\u041c\u043e\u0439 \u0431\u0438\u0437\u043d\u0435\u0441
+p45
+aVOpera
+p46
+aVLinux
+p47
+aV\u0421\u0438\u0441\u0442\u0435\u043c\u044b \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u0432\u0435\u0440\u0441\u0438\u044f\u043c\u0438
+p48
+aVGoogle
+p49
+aVJAVA
+p50
+aV\u0421\u043c\u0430\u0440\u0442\u0444\u043e\u043d\u044b \u0438 \u043a\u043e\u043c\u043c\u0443\u043d\u0438\u043a\u0430\u0442\u043e\u0440\u044b
+p51
+aVKohana
+p52
+aVSQL
+p53
+aV\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p54
+aVPHP
+p55
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043f\u043e\u0434 Android
+p56
+atRp57
+sS'invitees'
+p58
+Ns.

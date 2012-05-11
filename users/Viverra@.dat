@@ -1,0 +1,69 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+Vchateau
+p9
+atRp10
+sS'companies'
+p11
+NsS'hubs'
+p12
+g7
+((lp13
+VQt Software
+p14
+aV\u0418\u043a\u043e\u043d\u043e\u0441\u043a\u0430\u0437
+p15
+aVOpen source
+p16
+aV\u0421\u043c\u0430\u0440\u0442\u0444\u043e\u043d\u044b \u0438 \u043a\u043e\u043c\u043c\u0443\u043d\u0438\u043a\u0430\u0442\u043e\u0440\u044b
+p17
+aV\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c
+p18
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p19
+aVOpera
+p20
+aV\u041a\u0438\u0431\u0435\u0440\u043f\u0430\u043d\u043a
+p21
+aV\u0427\u0438\u0442\u0430\u043b\u044c\u043d\u044b\u0439 \u0437\u0430\u043b
+p22
+aV.NET
+p23
+aVDjango
+p24
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p25
+aVPython
+p26
+aVLinux
+p27
+aVPostgreSQL
+p28
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p29
+aV\u0423\u0431\u0443\u043d\u0442\u0430\u0440\u0438\u0443\u043c
+p30
+aV\u0421\u043e\u0444\u0442
+p31
+atRp32
+sS'invitees'
+p33
+NstRp34
+g34
+b.

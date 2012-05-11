@@ -1,0 +1,80 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+NsS'companies'
+p7
+NsS'hubs'
+p8
+c__builtin__
+set
+p9
+((lp10
+VjQuery
+p11
+aVScala
+p12
+aV\u041e\u0444\u0438\u0441\u044b IT-\u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0439
+p13
+aVAgile
+p14
+aVHuman Resources
+p15
+aVVisual Studio
+p16
+aVMySQL
+p17
+aV\u0418\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044b
+p18
+aV\u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043f\u0440\u043e\u0435\u043a\u0442\u0430\u043c\u0438
+p19
+aVASP
+p20
+aV\u0410\u043d\u0430\u043b\u0438\u0437 \u0438 \u043f\u0440\u043e\u0435\u043a\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0441\u0438\u0441\u0442\u0435\u043c
+p21
+aVRuby on Rails
+p22
+aV\u0418\u043d\u0444\u043e\u0433\u0440\u0430\u0444\u0438\u043a\u0430
+p23
+aV\u0427\u0443\u043b\u0430\u043d
+p24
+aVRuby
+p25
+aVMicrosoft SQL Server
+p26
+aVSilverlight
+p27
+aV.NET
+p28
+aVIPTV
+p29
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p30
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043f\u043e\u0434 Windows Phone
+p31
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043f\u043e\u0434 iOS
+p32
+aVOracle
+p33
+aVMono \u0438 Moonlight
+p34
+aVPHP
+p35
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043f\u043e\u0434 Android
+p36
+atRp37
+sS'invitees'
+p38
+NstRp39
+g39
+b.

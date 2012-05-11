@@ -1,0 +1,72 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+Vjava
+p8
+aVos x
+p9
+aVruby
+p10
+atRp11
+sS'friends'
+p12
+NsS'companies'
+p13
+g6
+((lp14
+V\u0416\u0443\u0440\u043d\u0430\u043b \u0425\u0430\u043a\u0435\u0440
+p15
+atRp16
+sS'hubs'
+p17
+g6
+((lp18
+V\u0418\u043a\u043e\u043d\u043e\u0441\u043a\u0430\u0437
+p19
+aVGoogle
+p20
+aVOpen source
+p21
+aV\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c
+p22
+aV\u0427\u0443\u043b\u0430\u043d
+p23
+aVOpera
+p24
+aV\u041c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0439 \u0432\u0435\u0431
+p25
+aVRuby on Rails
+p26
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p27
+aV\u041d\u0435\u043d\u043e\u0440\u043c\u0430\u043b\u044c\u043d\u043e\u0435 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p28
+aVOracle
+p29
+aVJAVA
+p30
+aVAndroid
+p31
+aV\u0410\u043b\u0433\u043e\u0440\u0438\u0442\u043c\u044b
+p32
+aV\u0418\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044b
+p33
+atRp34
+sS'invitees'
+p35
+NstRp36
+g36
+b.

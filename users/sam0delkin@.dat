@@ -1,0 +1,109 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+Vaber
+p9
+aVkorovyansk
+p10
+atRp11
+sS'companies'
+p12
+NsS'hubs'
+p13
+g7
+((lp14
+VjQuery
+p15
+aV\u0421\u0438\u0441\u0442\u0435\u043c\u043d\u043e\u0435 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p16
+aVGit
+p17
+aVWindows Phone
+p18
+aV.NET
+p19
+aV\u0413\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043e\u0431\u043e\u043b\u043e\u0447\u043a\u0438
+p20
+aVVisual Studio
+p21
+aVGoogle Chrome
+p22
+aVInternet Explorer
+p23
+aVAndroid
+p24
+aVASP
+p25
+aVCodeIgniter
+p26
+aV\u0423\u0431\u0443\u043d\u0442\u0430\u0440\u0438\u0443\u043c
+p27
+aVMac OS X
+p28
+aVMozilla
+p29
+aVOpera
+p30
+aVAjax
+p31
+aVWindows
+p32
+aVSafari
+p33
+aV*nix
+p34
+aV\u041f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0430
+p35
+aVJavaScript
+p36
+aV\u0411\u0440\u0430\u0443\u0437\u0435\u0440\u044b
+p37
+aVDrupal
+p38
+aVC++
+p39
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p40
+aV\u041e\u043f\u0435\u0440\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0441\u0438\u0441\u0442\u0435\u043c\u044b
+p41
+aV\u041e\u0431\u043e\u043b\u043e\u0447\u043a\u0438
+p42
+aVCakePHP
+p43
+aVSymfony
+p44
+aV\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p45
+aVFirefox
+p46
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043f\u043e\u0434 Android
+p47
+aVAssembler
+p48
+aVLinux
+p49
+aVPHP
+p50
+aVASCII
+p51
+atRp52
+sS'invitees'
+p53
+NstRp54
+g54
+b.

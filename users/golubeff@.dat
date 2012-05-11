@@ -1,0 +1,66 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+V\u0444\u0438\u043d\u0430\u043d\u0441\u044b
+p8
+aVios
+p9
+aV\u043f\u0443\u0442\u0435\u0448\u0435\u0441\u0442\u0432\u0438\u044f
+p10
+aVruby on rails
+p11
+aVmac
+p12
+aVfreebsd
+p13
+atRp14
+sS'friends'
+p15
+g6
+((lp16
+Vpanki
+p17
+aVseocoder
+p18
+aVNaTTs
+p19
+atRp20
+sS'companies'
+p21
+NsS'hubs'
+p22
+g6
+((lp23
+V\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p24
+aVGTD
+p25
+aVGame Development
+p26
+aV\u041d\u0430\u0443\u0447\u043d\u043e-\u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u043e\u0435
+p27
+aVRuby on Rails
+p28
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043f\u043e\u0434 iOS
+p29
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p30
+atRp31
+sS'invitees'
+p32
+NstRp33
+g33
+b.

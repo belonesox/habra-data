@@ -1,0 +1,149 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+Vmaximbo
+p9
+aVint20
+p10
+aVdesigens
+p11
+aVaparatos
+p12
+aVbsdemon
+p13
+aVn0s
+p14
+aVAChaplygin
+p15
+aVNulldevice
+p16
+aVvol_de_mar
+p17
+aVfledgling
+p18
+aVvitafil
+p19
+aVlizendir
+p20
+aVfenix8
+p21
+aVjunk
+p22
+aVbuendia
+p23
+aVashcan
+p24
+aVcatdog
+p25
+aVriffm
+p26
+aVAler
+p27
+aVrei07
+p28
+aVcr0t
+p29
+aVmisato
+p30
+aVoffline15
+p31
+aVdaevaorn
+p32
+aVwackum
+p33
+aValisadenisova
+p34
+aVjoukov
+p35
+atRp36
+sS'companies'
+p37
+g7
+((lp38
+VFree Software Foundation
+p39
+aV\u0412\u044b\u043c\u043f\u0435\u043b\u041a\u043e\u043c (\u0411\u0438\u043b\u0430\u0439\u043d)
+p40
+aVWorld Wide Web Consortium
+p41
+aVAdobe
+p42
+aVApple
+p43
+aVPR Hero
+p44
+aVEvernote Corporation
+p45
+aVGoogle
+p46
+aVTrolltech
+p47
+aV37signals
+p48
+aVApache Software Foundation
+p49
+aVWikimedia Foundation
+p50
+atRp51
+sS'hubs'
+p52
+g7
+((lp53
+V\u0423\u0447\u0435\u0431\u043d\u044b\u0439 \u043f\u0440\u043e\u0446\u0435\u0441\u0441 \u0432 IT
+p54
+aVGoogle
+p55
+aV\u0427\u0443\u043b\u0430\u043d
+p56
+aVApple
+p57
+aVPython
+p58
+aV\u0421\u0438\u0441\u0442\u0435\u043c\u043d\u043e\u0435 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p59
+aVJavaScript
+p60
+aV\u041e\u0446\u0435\u043d\u043a\u0430 \u0438 \u044d\u043a\u0441\u043f\u0435\u0440\u0442\u0438\u0437\u0430 IT-\u043f\u0440\u043e\u0435\u043a\u0442\u043e\u0432
+p61
+aV\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p62
+aVDjango
+p63
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p64
+aVGoogle Chrome
+p65
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p66
+aV\u041d\u0435\u043d\u043e\u0440\u043c\u0430\u043b\u044c\u043d\u043e\u0435 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p67
+aVErlang/OTP
+p68
+aVFlash-\u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u0430
+p69
+atRp70
+sS'invitees'
+p71
+g7
+((lp72
+VBron
+p73
+atRp74
+stRp75
+g75
+b.

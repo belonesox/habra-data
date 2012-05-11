@@ -1,0 +1,90 @@
+(dp1
+S'interests'
+p2
+NsS'friends'
+p3
+c__builtin__
+set
+p4
+((lp5
+VAmirL
+p6
+aVkremlin
+p7
+aVventure
+p8
+atRp9
+sS'companies'
+p10
+g4
+((lp11
+VATN
+p12
+aV\u0421\u0435\u043b\u0435\u043a\u0442\u0435\u043b
+p13
+aVGoogle
+p14
+aVApple
+p15
+aVPayOnline
+p16
+atRp17
+sS'hubs'
+p18
+g4
+((lp19
+VjQuery
+p20
+aV\u0427\u0443\u043b\u0430\u043d
+p21
+aVWordpress
+p22
+aV\u041f\u043b\u0430\u0442\u0435\u0436\u043d\u044b\u0435 \u0441\u0438\u0441\u0442\u0435\u043c\u044b
+p23
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p24
+aV\u042d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u0430\u044f \u043a\u043e\u043c\u043c\u0435\u0440\u0446\u0438\u044f
+p25
+aVCMS
+p26
+aV\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u0440\u0435\u043a\u043b\u0430\u043c\u0430
+p27
+aVMac OS X
+p28
+aV\u0427\u0438\u0442\u0430\u043b\u044c\u043d\u044b\u0439 \u0437\u0430\u043b
+p29
+aV\u0424\u0438\u043d\u0430\u043d\u0441\u044b \u0434\u043b\u044f \u0432\u0441\u0435\u0445
+p30
+aVSaaS / S+S
+p31
+aVGTD
+p32
+aV\u041c\u043e\u0439 \u0431\u0438\u0437\u043d\u0435\u0441
+p33
+aV\u041a\u043e\u043d\u0442\u0435\u043a\u0441\u0442\u043d\u0430\u044f \u0440\u0435\u043a\u043b\u0430\u043c\u0430
+p34
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p35
+aVGMail
+p36
+aV\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p37
+aVFirefox
+p38
+aVNode.JS
+p39
+aVGoogle Chrome
+p40
+aV\u0421\u043e\u0444\u0442
+p41
+atRp42
+sS'invitees'
+p43
+g4
+((lp44
+VAk74
+p45
+aVmarazot
+p46
+atRp47
+s.

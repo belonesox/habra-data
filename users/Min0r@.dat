@@ -1,0 +1,168 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+VNamashco
+p9
+aVslip7
+p10
+aVskazkin
+p11
+aVAlex_ki
+p12
+aVvimmer
+p13
+aVdisc
+p14
+aVdvig
+p15
+aVrusik
+p16
+aVskid
+p17
+aVdmitriid
+p18
+aVBraveHeart
+p19
+aV9Val
+p20
+aVpluto1667
+p21
+aVCelesteKing
+p22
+aVLabudometr
+p23
+aVMakcuM
+p24
+aVAlexeyK
+p25
+aVunera
+p26
+aVCab
+p27
+aVrogix
+p28
+aVanykey
+p29
+aVamida
+p30
+aVNickolas
+p31
+aVrshadow
+p32
+aVkrisstail
+p33
+aVBRED
+p34
+aVGet_A_Life_Jerk
+p35
+aVl1r
+p36
+aVzn_md
+p37
+aVLarsz
+p38
+atRp39
+sS'companies'
+p40
+g7
+((lp41
+V37signals
+p42
+aVRed Hat
+p43
+aVWorld Wide Web Consortium
+p44
+aVWebmascon
+p45
+aVIBM
+p46
+aVHP
+p47
+aVSun Microsystems
+p48
+aVVMware Inc.
+p49
+aVYahoo
+p50
+aVAMD (Advanced Micro Devices)
+p51
+aV\u0421\u0442\u0443\u0434\u0438\u044f \u0410\u0440\u0442\u0435\u043c\u0438\u044f \u041b\u0435\u0431\u0435\u0434\u0435\u0432\u0430
+p52
+aVApache Software Foundation
+p53
+aVWikimedia Foundation
+p54
+aVZend Technologies
+p55
+aVOracle
+p56
+aVDell Inc
+p57
+aVGoogle
+p58
+aVAdobe
+p59
+aVApple
+p60
+aVMozilla Foundation
+p61
+aVCisco Systems, Inc
+p62
+aVCanonical
+p63
+aVPanasonic
+p64
+atRp65
+sS'hubs'
+p66
+g7
+((lp67
+VSphinx
+p68
+aV\u0423\u0431\u0443\u043d\u0442\u0430\u0440\u0438\u0443\u043c
+p69
+aV\u0414\u043e\u043c\u0435\u043d\u044b
+p70
+aVLinux
+p71
+aV\u0421\u0438\u0441\u0442\u0435\u043c\u043d\u043e\u0435 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p72
+aVPerl
+p73
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p74
+aV\u041e\u043f\u0435\u0440\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0441\u0438\u0441\u0442\u0435\u043c\u044b
+p75
+aVMySQL
+p76
+aV\u041f\u043e\u0438\u0441\u043a\u043e\u0432\u044b\u0435 \u043c\u0430\u0448\u0438\u043d\u044b \u0438 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438
+p77
+aVOpen source
+p78
+aVPHP
+p79
+aV\u0427\u0443\u043b\u0430\u043d
+p80
+aV\u0418\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044b
+p81
+atRp82
+sS'invitees'
+p83
+NstRp84
+g84
+b.

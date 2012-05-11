@@ -1,0 +1,30 @@
+(dp1
+S'interests'
+p2
+NsS'friends'
+p3
+NsS'companies'
+p4
+c__builtin__
+set
+p5
+((lp6
+VMicrosoft
+p7
+atRp8
+sS'hubs'
+p9
+g5
+((lp10
+VPython
+p11
+aV\u0412\u0438\u0440\u0443\u0441\u044b (\u0438 \u0430\u043d\u0442\u0438\u0432\u0438\u0440\u0443\u0441\u044b)
+p12
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p13
+aVGame Development
+p14
+atRp15
+sS'invitees'
+p16
+Ns.

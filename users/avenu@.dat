@@ -1,0 +1,361 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+Veretik
+p9
+aVarkandos
+p10
+aVivanromanko
+p11
+aVcrazywebdev
+p12
+aVevilbloodydemon
+p13
+aVshellma
+p14
+aVelnara
+p15
+aVNova
+p16
+aVoowl
+p17
+aVjeka911
+p18
+aVXGen
+p19
+aVzaoooza
+p20
+aVnini
+p21
+aVfledgling
+p22
+aVNash
+p23
+aVal1k
+p24
+aVrumkin
+p25
+aVTogusa
+p26
+aVroTuKa
+p27
+atRp28
+sS'companies'
+p29
+g7
+((lp30
+V\u041e\u0437\u043e\u043d
+p31
+aVOpera Software ASA
+p32
+aV\u0422\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u041c\u0435\u0434\u0438\u0430
+p33
+aVPravo.ru
+p34
+atRp35
+sS'hubs'
+p36
+g7
+((lp37
+VCanvas
+p38
+aV\u0427\u0443\u043b\u0430\u043d
+p39
+aVDNS
+p40
+aVAgile
+p41
+aV\u0425\u0430\u0431\u0440\u0430\u0445\u0430\u0431\u0440 \u2014 \u0410\u043d\u043e\u043d\u0441\u044b
+p42
+aVGoogle Plus
+p43
+aVMySQL
+p44
+aVMail.Ru
+p45
+aV\u0421\u0443\u043f
+p46
+aV\u0418\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044b
+p47
+aVYouTube
+p48
+aV\u041d\u0435\u0442\u0431\u0443\u043a\u0438
+p49
+aVFacebook API
+p50
+aV\u041f\u043e\u0434\u043a\u0430\u0441\u0442\u044b
+p51
+aV\u041f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0430
+p52
+aV\u0425\u0430\u0431\u0440\u0430\u0445\u0430\u0431\u0440
+p53
+aV\u0412\u043a\u043e\u043d\u0442\u0430\u043a\u0442\u0435 API
+p54
+aV\u0425\u0430\u0431\u0440\u0430\u0445\u0430\u0431\u0440 API
+p55
+aV\u0414\u043e\u043c\u0435\u043d\u044b
+p56
+aVEclipse
+p57
+aVWiMAX
+p58
+aV\u041e\u0431\u043b\u0430\u0447\u043d\u044b\u0435 \u0432\u044b\u0447\u0438\u0441\u043b\u0435\u043d\u0438\u044f
+p59
+aViPhone
+p60
+aVAdobe
+p61
+aVCakePHP
+p62
+aVSmartTV
+p63
+aVGPS
+p64
+aVCisco
+p65
+aV\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c
+p66
+aV\u0422\u0435\u043b\u0435\u043a\u043e\u043c\u044b
+p67
+aV\u0418\u0434\u0435\u0438 \u0434\u043b\u044f \u0441\u0442\u0430\u0440\u0442\u0430\u043f\u043e\u0432
+p68
+aVNode.JS
+p69
+aVZend Framework
+p70
+aVSkype
+p71
+aV\u0424\u0440\u0438\u043b\u0430\u043d\u0441
+p72
+aVPeer-to-Peer
+p73
+aViPad
+p74
+aVLaTeX
+p75
+aV\u0423\u0447\u0435\u0431\u043d\u044b\u0439 \u043f\u0440\u043e\u0446\u0435\u0441\u0441 \u0432 IT
+p76
+aVCreative Commons
+p77
+aV\u0413\u0430\u0434\u0436\u0435\u0442\u044b. \u0423\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u0430 \u0434\u043b\u044f \u0433\u0438\u043a\u043e\u0432
+p78
+aV\u041e\u0444\u0438\u0441\u044b IT-\u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0439
+p79
+aV\u0421\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0435 \u0441\u0435\u0442\u0438 \u0438 \u0441\u043e\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0430
+p80
+aVWikipedia
+p81
+aVeBay
+p82
+aV\u0410\u043d\u0438\u043c\u0430\u0446\u0438\u044f \u0438 3D \u0433\u0440\u0430\u0444\u0438\u043a\u0430
+p83
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p84
+aV3G
+p85
+aVOpenStreetMap
+p86
+aVGoogle Analytics
+p87
+aV\u0420\u0430\u043c\u0431\u043b\u0435\u0440
+p88
+aVHTML
+p89
+aVFacebook
+p90
+aV\u0422\u0435\u043b\u0435\u0444\u043e\u043d\u0438\u044f
+p91
+aV\u042e\u0437\u0430\u0431\u0438\u043b\u0438\u0442\u0438 \u0432 IT
+p92
+aVIPTV
+p93
+aVMaps API
+p94
+aV\u041f\u0440\u0435\u0437\u0435\u043d\u0442\u0430\u0446\u0438\u0438
+p95
+aV\u0411\u0435\u0433\u0443\u043d
+p96
+aVMicrosoft
+p97
+aVCSS
+p98
+aVGMail
+p99
+aVPHP
+p100
+aV\u0412\u0435\u043a\u0442\u043e\u0440\u043d\u0430\u044f \u0433\u0440\u0430\u0444\u0438\u043a\u0430
+p101
+aVTumblr
+p102
+aVBlackBerry
+p103
+aV\u0420\u0430\u0431\u043e\u0442\u0430 \u0441\u043e \u0437\u0432\u0443\u043a\u043e\u043c
+p104
+aVAmazon Web Services
+p105
+aVjQuery
+p106
+aV\u0413\u041b\u041e\u041d\u0410\u0421\u0421
+p107
+aVWiki-\u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u044f
+p108
+aVAsterisk
+p109
+aV\u041f\u043b\u0430\u043d\u0448\u0435\u0442\u044b
+p110
+aVYii
+p111
+aV\u042d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u0430\u044f \u043a\u043e\u043c\u043c\u0435\u0440\u0446\u0438\u044f
+p112
+aVDIY \u0438\u043b\u0438 \u0421\u0434\u0435\u043b\u0430\u0439 \u0421\u0430\u043c
+p113
+aV\u0425\u043e\u0441\u0442\u0438\u043d\u0433
+p114
+aVGreaseMonkey
+p115
+aVAmazon Kindle
+p116
+aV\u0411\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u0430 ExtJS/Sencha
+p117
+aVMozilla
+p118
+aVYahoo
+p119
+aV\u0418\u043d\u0444\u043e\u0433\u0440\u0430\u0444\u0438\u043a\u0430
+p120
+aVAjax
+p121
+aV\u0420\u0430\u0431\u043e\u0442\u0430 \u0441 \u0432\u0438\u0434\u0435\u043e
+p122
+aVINFOLUST
+p123
+aVXML
+p124
+aVQt Software
+p125
+aV\u0418\u043a\u043e\u043d\u043e\u0441\u043a\u0430\u0437
+p126
+aV\u0418\u0422-\u0418\u043d\u0444\u0440\u0430\u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0430
+p127
+aVXSLT
+p128
+aVOpera
+p129
+aVBing
+p130
+aVAction Script
+p131
+aV\u041c\u0438\u043a\u0440\u043e\u0444\u043e\u0440\u043c\u0430\u0442\u044b
+p132
+aVLTE
+p133
+aV\u0422\u0438\u043f\u043e\u0433\u0440\u0430\u0444\u0438\u043a\u0430
+p134
+aV\u041d\u043e\u0443\u0442\u0431\u0443\u043a\u0438
+p135
+aV\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p136
+aV\u0421\u043c\u0430\u0440\u0442\u0444\u043e\u043d\u044b \u0438 \u043a\u043e\u043c\u043c\u0443\u043d\u0438\u043a\u0430\u0442\u043e\u0440\u044b
+p137
+aVTwitter
+p138
+aV\u0411\u0435\u0441\u043f\u0440\u043e\u0432\u043e\u0434\u043d\u044b\u0435 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438
+p139
+aVGoogle Checkout
+p140
+aVGoogle API
+p141
+aV\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435
+p142
+aVJavaScript
+p143
+aVSun Microsystems
+p144
+aV\u041a\u0440\u0430\u0443\u0434\u0441\u043e\u0440\u0441\u0438\u043d\u0433
+p145
+aV\u0411\u0430\u0439\u043d\u0435\u0442
+p146
+aVAPI
+p147
+aVSaaS / S+S
+p148
+aV\u0412\u0435\u0431-\u0434\u0438\u0437\u0430\u0439\u043d
+p149
+aVFlex
+p150
+aV\u0414\u0438\u0437\u0430\u0439\u043d \u0432 IT
+p151
+aV\u0420\u0430\u0434\u0438\u043e\u0441\u0432\u044f\u0437\u044c
+p152
+aVIP-\u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0438\u044f
+p153
+aV\u0421\u0442\u0443\u0434\u0438\u044f \u0410\u0440\u0442\u0435\u043c\u0438\u044f \u041b\u0435\u0431\u0435\u0434\u0435\u0432\u0430
+p154
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p155
+aV\u041c\u043e\u0439 \u0431\u0438\u0437\u043d\u0435\u0441
+p156
+aV\u042f\u043d\u0434\u0435\u043a\u0441 API
+p157
+aVMicrosoft Kinect
+p158
+aVFidonet
+p159
+aVIM
+p160
+aVGoogle AdSense
+p161
+aVSymfony
+p162
+aVGoogle
+p163
+aVApple
+p164
+aVTwitter API
+p165
+aVMySpace
+p166
+aVLinkedin
+p167
+aVLiveJournal
+p168
+aVGoogle App Engine
+p169
+aV\u041c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0439 \u0432\u0435\u0431
+p170
+atRp171
+sS'invitees'
+p172
+g7
+((lp173
+Varkandos
+p174
+aVivanromanko
+p175
+aVr3b00z
+p176
+aVGlebz
+p177
+aVMikhailAnikin
+p178
+aVzaoooza
+p179
+atRp180
+stRp181
+g181
+b.

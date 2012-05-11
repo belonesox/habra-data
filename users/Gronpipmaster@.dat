@@ -1,0 +1,220 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+Vgolodnyj
+p9
+aVinf2k
+p10
+aVvolanddd
+p11
+aVsectus
+p12
+aVLAT85
+p13
+aVilfa
+p14
+aVartlebsak
+p15
+aVyrygvay
+p16
+aVFanamura
+p17
+aVglazs
+p18
+atRp19
+sS'companies'
+p20
+g7
+((lp21
+V\u042f\u043d\u0434\u0435\u043a\u0441
+p22
+aV\u0414\u0443\u0431\u043b\u044c\u0413\u0418\u0421 (2\u0413\u0418\u0421)
+p23
+atRp24
+sS'hubs'
+p25
+g7
+((lp26
+VjQuery
+p27
+aVCanvas
+p28
+aVCreative Commons
+p29
+aVNoSQL
+p30
+aV\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435
+p31
+aVYouTube
+p32
+aV\u0421\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0435 \u0441\u0435\u0442\u0438 \u0438 \u0441\u043e\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0430
+p33
+aVJavaScript
+p34
+aVSun Microsystems
+p35
+aV\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c
+p36
+aV\u0410\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0431\u0430\u0437 \u0434\u0430\u043d\u043d\u044b\u0445
+p37
+aVeBay
+p38
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p39
+aV\u0411\u0435\u0433\u0443\u043d
+p40
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p41
+aVGoogle Plus
+p42
+aV\u0416\u0435\u043b\u0435\u0437\u043e
+p43
+aVMySQL
+p44
+aV\u0412\u0435\u0431-\u0434\u0438\u0437\u0430\u0439\u043d
+p45
+aVMail.Ru
+p46
+aVDIY \u0438\u043b\u0438 \u0421\u0434\u0435\u043b\u0430\u0439 \u0421\u0430\u043c
+p47
+aV\u0425\u043e\u0441\u0442\u0438\u043d\u0433
+p48
+aVOpenStreetMap
+p49
+aV\u0414\u0438\u0437\u0430\u0439\u043d \u0432 IT
+p50
+aVCMS
+p51
+aVMozilla
+p52
+aVLiveJournal
+p53
+aVYahoo
+p54
+aVFacebook API
+p55
+aV\u0423\u0431\u0443\u043d\u0442\u0430\u0440\u0438\u0443\u043c
+p56
+aVAjax
+p57
+aVFacebook
+p58
+aVYii
+p59
+aVMicrosoft Access
+p60
+aVMicrosoft SQL Server
+p61
+aV\u0425\u0430\u0431\u0440\u0430\u0445\u0430\u0431\u0440
+p62
+aV\u0418\u043a\u043e\u043d\u043e\u0441\u043a\u0430\u0437
+p63
+aV\u0412\u043a\u043e\u043d\u0442\u0430\u043a\u0442\u0435 API
+p64
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p65
+aV\u0425\u0430\u0431\u0440\u0430\u0445\u0430\u0431\u0440 API
+p66
+aV\u041c\u043e\u0439 \u0431\u0438\u0437\u043d\u0435\u0441
+p67
+aV\u042f\u043d\u0434\u0435\u043a\u0441 API
+p68
+aVCubrid
+p69
+aVBing
+p70
+aVSQL
+p71
+aV\u0421\u0438\u0441\u0442\u0435\u043c\u043d\u043e\u0435 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p72
+aVMaps API
+p73
+aV\u0421\u0442\u0430\u0440\u043e\u0435 \u0436\u0435\u043b\u0435\u0437\u043e
+p74
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p75
+aVWikipedia
+p76
+aVGoogle App Engine
+p77
+aVData Mining
+p78
+aVOracle
+p79
+aVPostgreSQL
+p80
+aVGoogle AdSense
+p81
+aVMicrosoft
+p82
+aVCSS
+p83
+aVGMail
+p84
+aV\u041d\u0430\u0443\u0447\u043d\u043e-\u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u043e\u0435
+p85
+aVGoogle
+p86
+aVAdobe
+p87
+aVApple
+p88
+aVTwitter API
+p89
+aVMongoDB
+p90
+aVTwitter
+p91
+aVMySpace
+p92
+aV\u0420\u0430\u043c\u0431\u043b\u0435\u0440
+p93
+aVLinkedin
+p94
+aV\u0421\u0442\u0443\u0434\u0438\u044f \u0410\u0440\u0442\u0435\u043c\u0438\u044f \u041b\u0435\u0431\u0435\u0434\u0435\u0432\u0430
+p95
+aVTumblr
+p96
+aVGoogle Analytics
+p97
+aVDoctrine ORM
+p98
+aVAPI
+p99
+aVGoogle Checkout
+p100
+aV\u0421\u0443\u043f
+p101
+aVLinux
+p102
+aVSaaS / S+S
+p103
+aVPHP
+p104
+aV\u0413\u0430\u0434\u0436\u0435\u0442\u044b. \u0423\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u0430 \u0434\u043b\u044f \u0433\u0438\u043a\u043e\u0432
+p105
+aVAmazon Web Services
+p106
+aVGoogle API
+p107
+atRp108
+sS'invitees'
+p109
+NstRp110
+g110
+b.

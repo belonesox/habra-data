@@ -1,0 +1,85 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+Vjavascript
+p8
+aVqml
+p9
+aVqtquick
+p10
+atRp11
+sS'friends'
+p12
+g6
+((lp13
+Vnokiaman
+p14
+aVvitaly_KF
+p15
+aVJVF
+p16
+aVTruf
+p17
+atRp18
+sS'companies'
+p19
+g6
+((lp20
+VLuxoft Personnel
+p21
+aVNokia
+p22
+aVIntel
+p23
+aVLuxoft
+p24
+aV\u0423\u0447\u0435\u0431\u043d\u044b\u0439 \u0426\u0435\u043d\u0442\u0440 Luxoft
+p25
+atRp26
+sS'hubs'
+p27
+g6
+((lp28
+VQt Software
+p29
+aV\u041a\u043e\u0434\u043e\u0411\u0440\u0435\u0434
+p30
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p31
+aV\u041a\u0438\u0431\u0435\u0440\u043f\u0430\u043d\u043a
+p32
+aV\u0418\u0434\u0435\u0438 \u0434\u043b\u044f \u0441\u0442\u0430\u0440\u0442\u0430\u043f\u043e\u0432
+p33
+aV\u0411\u0443\u0434\u0443\u0449\u0435\u0435 \u0437\u0434\u0435\u0441\u044c
+p34
+aVJavaScript
+p35
+aVMaps API
+p36
+aV\u0422\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p37
+aV\u0418\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442
+p38
+aV\u0418\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044b
+p39
+aVMobile Development
+p40
+atRp41
+sS'invitees'
+p42
+NstRp43
+g43
+b.

@@ -1,0 +1,244 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+V\u043a\u0440\u0438\u043f\u0442\u043e\u0430\u043d\u0430\u043b\u0438\u0437
+p8
+aVit security
+p9
+aVc
+aVadmining
+p10
+aVopen source
+p11
+aVsocial engineering
+p12
+aV\u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438
+p13
+aVwindows server
+p14
+aV\u0441\u0442\u0430\u0440\u044b\u0435 \u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u044b
+p15
+aVkaspersky
+p16
+aV\u0432\u0438\u0440\u0443\u0441\u044b
+p17
+aVhardware
+p18
+aV\u0430\u043d\u0442\u0438\u0432\u0438\u0440\u0443\u0441\u044b
+p19
+aVnix
+p20
+aVreverse social engineering
+p21
+aVfreebsd
+p22
+aVlinux
+p23
+aVbsd
+p24
+aVcisco
+p25
+aV\u043a\u0440\u0438\u043f\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u044f
+p26
+aVnetworks
+p27
+atRp28
+sS'friends'
+p29
+g6
+((lp30
+Vca5h
+p31
+aVflashvoid
+p32
+aVd1v3r
+p33
+aVFessAectan
+p34
+aVJerleShannara
+p35
+aVmadm1ke
+p36
+aVnuzgul
+p37
+aVfearan
+p38
+aVFedia
+p39
+aVzabr
+p40
+aVDenHawk
+p41
+aVjtootf
+p42
+aVenkryptor
+p43
+aViSage
+p44
+aVksurent
+p45
+aVAkademic
+p46
+aVexitusletaris
+p47
+aVgabriell
+p48
+aVairo
+p49
+aVUmnik_ADS
+p50
+aVartyfarty
+p51
+aVtrisch
+p52
+aVlewis
+p53
+aVkyzia
+p54
+aVojiga
+p55
+aVdlinyj
+p56
+aVilya_compman
+p57
+aVIllAIR
+p58
+aVZhilinsky
+p59
+aVlover
+p60
+aVsandman
+p61
+aVtouzoku
+p62
+aVshaman007
+p63
+aVspamer80
+p64
+aVSiur
+p65
+aVwearymax
+p66
+aVdish_sh
+p67
+aVkrivotester
+p68
+aVnaigovan
+p69
+aVivlad
+p70
+aVgolodnyj
+p71
+aVCheshirski_Kot
+p72
+aVCKA304HUK
+p73
+aVCaptcha
+p74
+aVIvanhoe
+p75
+aVCrashus
+p76
+aVloginex
+p77
+aVk1k
+p78
+aVal1k
+p79
+atRp80
+sS'companies'
+p81
+g6
+((lp82
+VGoogle
+p83
+aVMail.Ru Group
+p84
+aV\u041c\u0435\u0433\u0430\u0444\u043e\u043d
+p85
+aVMozilla Foundation
+p86
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p87
+aV\u0411\u0435\u0433\u0443\u043d
+p88
+aV«\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u044f \u041a\u0430\u0441\u043f\u0435\u0440\u0441\u043a\u043e\u0433\u043e»
+p89
+aV\u0421\u0442\u0443\u0434\u0438\u044f \u0410\u0440\u0442\u0435\u043c\u0438\u044f \u041b\u0435\u0431\u0435\u0434\u0435\u0432\u0430
+p90
+aVPRUFFI
+p91
+atRp92
+sS'hubs'
+p93
+g6
+((lp94
+V\u0413\u0430\u0434\u0436\u0435\u0442\u044b. \u0423\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u0430 \u0434\u043b\u044f \u0433\u0438\u043a\u043e\u0432
+p95
+aV\u0427\u0443\u043b\u0430\u043d
+p96
+aV\u041f\u043b\u0430\u043d\u0448\u0435\u0442\u044b
+p97
+aV\u0416\u0435\u043b\u0435\u0437\u043e
+p98
+aV\u041f\u043b\u0430\u0442\u0435\u0436\u043d\u044b\u0435 \u0441\u0438\u0441\u0442\u0435\u043c\u044b
+p99
+aVMail.Ru
+p100
+aV\u0421\u0435\u0440\u0432\u0435\u0440\u043d\u0430\u044f \u043e\u043f\u0442\u0438\u043c\u0438\u0437\u0430\u0446\u0438\u044f
+p101
+aV\u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043f\u0440\u043e\u0435\u043a\u0442\u0430\u043c\u0438
+p102
+aV\u042d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u0438\u043a\u0430 \u0434\u043b\u044f \u043d\u0430\u0447\u0438\u043d\u0430\u044e\u0449\u0438\u0445
+p103
+aV\u0425\u043e\u0441\u0442\u0438\u043d\u0433
+p104
+aV\u041d\u0430\u0443\u0447\u043d\u043e-\u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u043e\u0435
+p105
+aV\u0418\u043a\u043e\u043d\u043e\u0441\u043a\u0430\u0437
+p106
+aVGTD
+p107
+aVDura Lex
+p108
+aV\u0421\u0438\u0441\u0442\u0435\u043c\u043d\u043e\u0435 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p109
+aVMySQL
+p110
+aVFirefox
+p111
+aV\u0418\u0441\u0442\u043e\u0440\u0438\u044f \u0418\u0422
+p112
+aV\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p113
+aV\u0421\u0442\u0430\u0440\u043e\u0435 \u0436\u0435\u043b\u0435\u0437\u043e
+p114
+aVCisco
+p115
+aV\u0421\u043c\u0430\u0440\u0442\u0444\u043e\u043d\u044b \u0438 \u043a\u043e\u043c\u043c\u0443\u043d\u0438\u043a\u0430\u0442\u043e\u0440\u044b
+p116
+aV\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c
+p117
+aV\u0418\u0434\u0435\u0438 \u0434\u043b\u044f \u0441\u0442\u0430\u0440\u0442\u0430\u043f\u043e\u0432
+p118
+aVLinux
+p119
+atRp120
+sS'invitees'
+p121
+NstRp122
+g122
+b.

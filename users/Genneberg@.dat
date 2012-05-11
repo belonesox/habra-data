@@ -1,0 +1,129 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+NsS'companies'
+p7
+c__builtin__
+set
+p8
+((lp9
+VRed Hat
+p10
+aVSony Corporation
+p11
+aVOpera Software ASA
+p12
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p13
+aV\u0414\u0438\u0437\u0430\u0439\u043d-\u0431\u044e\u0440\u043e \u0410\u0440\u0442\u0435\u043c\u0430 \u0413\u043e\u0440\u0431\u0443\u043d\u043e\u0432\u0430
+p14
+aVid Software
+p15
+aVBlizzard Entertainment
+p16
+aVChristian Ghisler
+p17
+aVTrolltech
+p18
+aVNVIDIA Corporation
+p19
+aVIntel
+p20
+aV\u041e\u0437\u043e\u043d
+p21
+aV\u041b\u0435\u043d\u0442\u0430.\u0420\u0443
+p22
+aVDell Inc
+p23
+aVMicrosoft
+p24
+aVBethesda Softworks
+p25
+aVGoogle
+p26
+aVAdobe
+p27
+aVApple
+p28
+aVMozilla Foundation
+p29
+aV\u0421\u0442\u0443\u0434\u0438\u044f \u0410\u0440\u0442\u0435\u043c\u0438\u044f \u041b\u0435\u0431\u0435\u0434\u0435\u0432\u0430
+p30
+aVEvernote Corporation
+p31
+aVAMD (Advanced Micro Devices)
+p32
+aVSkype
+p33
+aVCanonical
+p34
+atRp35
+sS'hubs'
+p36
+g8
+((lp37
+VYouTube
+p38
+aV\u0413\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043e\u0431\u043e\u043b\u043e\u0447\u043a\u0438
+p39
+aVGoogle Chrome
+p40
+aVInternet Explorer
+p41
+aV\u0412\u0438\u0440\u0443\u0441\u044b (\u0438 \u0430\u043d\u0442\u0438\u0432\u0438\u0440\u0443\u0441\u044b)
+p42
+aV\u0423\u0431\u0443\u043d\u0442\u0430\u0440\u0438\u0443\u043c
+p43
+aVMac OS X
+p44
+aVMozilla
+p45
+aVLiveJournal
+p46
+aVWindows
+p47
+aVFacebook
+p48
+aVSafari
+p49
+aV\u0421\u043f\u0430\u043c (\u0438 \u0430\u043d\u0442\u0438\u0441\u043f\u0430\u043c)
+p50
+aVOpera
+p51
+aVMicrosoft
+p52
+aVGMail
+p53
+aVGoogle
+p54
+aVFirefox
+p55
+aVApple
+p56
+aV\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c
+p57
+aV\u0411\u0440\u0430\u0443\u0437\u0435\u0440\u044b
+p58
+aV\u0421\u0442\u0443\u0434\u0438\u044f \u0410\u0440\u0442\u0435\u043c\u0438\u044f \u041b\u0435\u0431\u0435\u0434\u0435\u0432\u0430
+p59
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p60
+aV\u041a\u0440\u0438\u043f\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u044f
+p61
+atRp62
+sS'invitees'
+p63
+NstRp64
+g64
+b.

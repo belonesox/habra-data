@@ -1,0 +1,43 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+Vhabrahabr
+p9
+atRp10
+sS'companies'
+p11
+g7
+((lp12
+VOpera Software ASA
+p13
+aVGoogle
+p14
+aVRussian Podcasting
+p15
+aVApple
+p16
+aVMozilla Foundation
+p17
+atRp18
+sS'hubs'
+p19
+NsS'invitees'
+p20
+NstRp21
+g21
+b.

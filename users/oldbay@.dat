@@ -1,0 +1,102 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+VdeBarb
+p9
+aVvalualit
+p10
+aVlnking
+p11
+atRp12
+sS'companies'
+p13
+g7
+((lp14
+VFree Software Foundation
+p15
+aVRed Hat
+p16
+aVGoogle
+p17
+aVIBM
+p18
+aVSamsung
+p19
+aV\u041a\u043e\u043c\u043f\u0430\u043d\u0438\u044f «\u0410\u043a\u0442\u0438\u0432»
+p20
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p21
+aVDell Inc
+p22
+aVNVIDIA Corporation
+p23
+aVCanonical
+p24
+atRp25
+sS'hubs'
+p26
+g7
+((lp27
+V\u0412\u0438\u0440\u0442\u0443\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u044f
+p28
+aV\u041f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0430
+p29
+aV\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p30
+aVGit
+p31
+aVOpen source
+p32
+aVGame Development
+p33
+aVNoSQL
+p34
+aVERP-\u0441\u0438\u0441\u0442\u0435\u043c\u044b
+p35
+aVPython
+p36
+aV\u0421\u0438\u0441\u0442\u0435\u043c\u043d\u043e\u0435 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p37
+aV\u0421\u0435\u0440\u0432\u0435\u0440\u043d\u043e\u0435 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p38
+aVLinux
+p39
+aVLiveJournal
+p40
+aV\u0427\u0443\u043b\u0430\u043d
+p41
+aV\u0410\u043d\u0438\u043c\u0430\u0446\u0438\u044f \u0438 3D \u0433\u0440\u0430\u0444\u0438\u043a\u0430
+p42
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p43
+aV*nix
+p44
+aV\u0424\u0440\u0438\u043b\u0430\u043d\u0441
+p45
+aVIP-\u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0438\u044f
+p46
+aVDIY \u0438\u043b\u0438 \u0421\u0434\u0435\u043b\u0430\u0439 \u0421\u0430\u043c
+p47
+aVPostgreSQL
+p48
+atRp49
+sS'invitees'
+p50
+NstRp51
+g51
+b.

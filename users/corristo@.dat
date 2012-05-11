@@ -1,0 +1,167 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+Vmacos x
+p8
+aVopencl
+p9
+aVjava
+p10
+aVapple
+p11
+aVopengl
+p12
+aVpython
+p13
+aVlinux
+p14
+aVnix
+p15
+aV3d graphics
+p16
+aVubuntu
+p17
+aV\u0442\u0440\u0451\u0445\u043c\u0435\u0440\u043d\u0430\u044f \u0433\u0440\u0430\u0444\u0438\u043a\u0430
+p18
+atRp19
+sS'friends'
+p20
+g6
+((lp21
+VInfuzzer
+p22
+aVDrKeeper
+p23
+aVhamMElion
+p24
+aVGreyCat
+p25
+aVMKrivosheev
+p26
+aVppbi
+p27
+aVolle
+p28
+aVmex3
+p29
+aVDart
+p30
+aVMrTiM
+p31
+aVrandomtoy
+p32
+aVmcm69
+p33
+aVSMiX
+p34
+aVt0ster
+p35
+aVdio77
+p36
+aVZibx
+p37
+aVzorba_buddha
+p38
+aV7paca
+p39
+aVWild_Deer
+p40
+atRp41
+sS'companies'
+p42
+g6
+((lp43
+VGoogle
+p44
+aVIBM
+p45
+aVIntel
+p46
+aVCanonical
+p47
+aV\u0422\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u041c\u0435\u0434\u0438\u0430
+p48
+aVLast.fm
+p49
+aVOpera Software ASA
+p50
+aVBethesda Softworks
+p51
+aVDell Inc
+p52
+aVFuturico
+p53
+aVNVIDIA Corporation
+p54
+aVApache Software Foundation
+p55
+aVApple
+p56
+atRp57
+sS'hubs'
+p58
+g6
+((lp59
+V\u0421\u0438\u0441\u0442\u0435\u043c\u043d\u043e\u0435 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p60
+aVAssembler
+p61
+aV\u0427\u0443\u043b\u0430\u043d
+p62
+aVDelphi
+p63
+aVGoogle Chrome
+p64
+aV\u0423\u0431\u0443\u043d\u0442\u0430\u0440\u0438\u0443\u043c
+p65
+aV\u041d\u0430\u0443\u0447\u043d\u043e-\u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u043e\u0435
+p66
+aV\u0417\u0430\u043d\u0438\u043c\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0435 \u0437\u0430\u0434\u0430\u0447\u043a\u0438
+p67
+aVWindows
+p68
+aV\u0425\u0430\u0431\u0440\u0430\u0445\u0430\u0431\u0440
+p69
+aVOpera
+p70
+aV\u0411\u0443\u0434\u0443\u0449\u0435\u0435 \u0437\u0434\u0435\u0441\u044c
+p71
+aVEclipse
+p72
+aV\u0410\u043b\u0433\u043e\u0440\u0438\u0442\u043c\u044b
+p73
+aV\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p74
+aVGoogle
+p75
+aVJAVA
+p76
+aVApple
+p77
+aV\u0411\u0440\u0430\u0443\u0437\u0435\u0440\u044b
+p78
+aV\u041d\u0435\u043d\u043e\u0440\u043c\u0430\u043b\u044c\u043d\u043e\u0435 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p79
+aV\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p80
+aV\u0421\u043e\u0444\u0442
+p81
+atRp82
+sS'invitees'
+p83
+NstRp84
+g84
+b.

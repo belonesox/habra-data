@@ -1,0 +1,130 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+VGAMER_ru
+p9
+aVSnapp
+p10
+aVCrazybot
+p11
+aVsericoff
+p12
+aVandreevich
+p13
+aVmr_gorbunov
+p14
+aVLaCTuK
+p15
+aVksenobayt
+p16
+aVksevelyar
+p17
+aVTaar
+p18
+aVbatollo
+p19
+aVDenai
+p20
+aVguvatara
+p21
+aVvikolyada
+p22
+aVGambb
+p23
+aVn7off
+p24
+aVVokabre
+p25
+atRp26
+sS'companies'
+p27
+g7
+((lp28
+VKanobu Network
+p29
+atRp30
+sS'hubs'
+p31
+g7
+((lp32
+V\u0420\u043e\u0431\u043e\u0442\u043e\u0442\u0435\u0445\u043d\u0438\u043a\u0430
+p33
+aV\u0411\u043b\u043e\u0433\u043e\u0441\u0444\u0435\u0440\u0430
+p34
+aV\u0413\u0430\u0434\u0436\u0435\u0442\u044b. \u0423\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u0430 \u0434\u043b\u044f \u0433\u0438\u043a\u043e\u0432
+p35
+aVWindows Phone
+p36
+aV\u041d\u0435\u0442\u0431\u0443\u043a\u0438
+p37
+aV\u0410\u043d\u0438\u043c\u0430\u0446\u0438\u044f \u0438 3D \u0433\u0440\u0430\u0444\u0438\u043a\u0430
+p38
+aVGoogle Chrome
+p39
+aV\u0416\u0435\u043b\u0435\u0437\u043e
+p40
+aV\u0418\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044b
+p41
+aV\u0414\u0438\u0437\u0430\u0439\u043d \u0432 IT
+p42
+aVLiveJournal
+p43
+aV\u041d\u0430\u0443\u0447\u043d\u043e-\u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u043e\u0435
+p44
+aVWindows
+p45
+aVFacebook
+p46
+aV\u0420\u0430\u0431\u043e\u0442\u0430 \u0441 \u0432\u0438\u0434\u0435\u043e
+p47
+aV\u0423\u0431\u0443\u043d\u0442\u0430\u0440\u0438\u0443\u043c
+p48
+aV\u0421\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0435 \u0441\u0435\u0442\u0438 \u0438 \u0441\u043e\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0430
+p49
+aV\u0425\u0430\u0431\u0440\u0430\u0445\u0430\u0431\u0440
+p50
+aVOpera
+p51
+aV\u0411\u0443\u0434\u0443\u0449\u0435\u0435 \u0437\u0434\u0435\u0441\u044c
+p52
+aV\u0418\u0433\u0440\u043e\u0432\u044b\u0435 \u043f\u0440\u0438\u0441\u0442\u0430\u0432\u043a\u0438
+p53
+aVIM
+p54
+aVMicrosoft
+p55
+aVGMail
+p56
+aV\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p57
+aVGoogle
+p58
+aV\u0421\u043c\u0430\u0440\u0442\u0444\u043e\u043d\u044b \u0438 \u043a\u043e\u043c\u043c\u0443\u043d\u0438\u043a\u0430\u0442\u043e\u0440\u044b
+p59
+aVTwitter
+p60
+aV\u0411\u0440\u0430\u0443\u0437\u0435\u0440\u044b
+p61
+aVPeer-to-Peer
+p62
+atRp63
+sS'invitees'
+p64
+NstRp65
+g65
+b.

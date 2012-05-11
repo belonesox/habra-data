@@ -1,0 +1,46 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+Vfoboss
+p9
+atRp10
+sS'companies'
+p11
+g7
+((lp12
+V\u0422\u0435\u043b\u0444\u0438\u043d (\u041e\u041e\u041e «\u041b\u0430\u0439\u0444\u0422\u0435\u043b\u0435\u043a\u043e\u043c»)
+p13
+aVe-Legion Ltd.
+p14
+aVNetApp
+p15
+atRp16
+sS'hubs'
+p17
+g7
+((lp18
+VGTD
+p19
+aV\u0421\u043c\u0430\u0440\u0442\u0444\u043e\u043d\u044b \u0438 \u043a\u043e\u043c\u043c\u0443\u043d\u0438\u043a\u0430\u0442\u043e\u0440\u044b
+p20
+atRp21
+sS'invitees'
+p22
+NstRp23
+g23
+b.

@@ -1,0 +1,101 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+VUnknownError
+p9
+aVvolly
+p10
+aVIronLAN
+p11
+atRp12
+sS'companies'
+p13
+g7
+((lp14
+V\u0412\u044b\u043c\u043f\u0435\u043b\u041a\u043e\u043c (\u0411\u0438\u043b\u0430\u0439\u043d)
+p15
+aVGoogle
+p16
+aVAdobe
+p17
+aVASUS Russia
+p18
+aVMozilla Foundation
+p19
+aVMicrosoft
+p20
+aVEvernote Corporation
+p21
+aVOpera Software ASA
+p22
+aVSkype
+p23
+aVdeviantART
+p24
+aV\u0421\u0442\u0443\u0434\u0438\u044f \u0410\u0440\u0442\u0435\u043c\u0438\u044f \u041b\u0435\u0431\u0435\u0434\u0435\u0432\u0430
+p25
+aVFuturico
+p26
+atRp27
+sS'hubs'
+p28
+g7
+((lp29
+V\u0425\u0430\u0431\u0440\u0430\u0445\u0430\u0431\u0440
+p30
+aVGoogle
+p31
+aVFirefox
+p32
+aVApple
+p33
+aV\u0413\u0430\u0434\u0436\u0435\u0442\u044b. \u0423\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u0430 \u0434\u043b\u044f \u0433\u0438\u043a\u043e\u0432
+p34
+aVOpera
+p35
+aV\u041e\u043f\u0435\u0440\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0441\u0438\u0441\u0442\u0435\u043c\u044b
+p36
+aV\u0417\u0430\u043d\u0438\u043c\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0435 \u0437\u0430\u0434\u0430\u0447\u043a\u0438
+p37
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p38
+aVIM
+p39
+aV\u0416\u0435\u043b\u0435\u0437\u043e
+p40
+aV\u0421\u043c\u0430\u0440\u0442\u0444\u043e\u043d\u044b \u0438 \u043a\u043e\u043c\u043c\u0443\u043d\u0438\u043a\u0430\u0442\u043e\u0440\u044b
+p41
+aVAdobe
+p42
+aVMobile Development
+p43
+aV\u0427\u0443\u043b\u0430\u043d
+p44
+aVGMail
+p45
+atRp46
+sS'invitees'
+p47
+g7
+((lp48
+VUnknownError
+p49
+atRp50
+stRp51
+g51
+b.

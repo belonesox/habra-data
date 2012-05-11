@@ -1,0 +1,44 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+Vjavascript+css+html
+p8
+aVjava
+p9
+aV\u0440\u0430\u0437\u043d\u044b\u0439 \u043c\u0443\u0437\u043e\u043d
+p10
+aVc++
+p11
+aVc-sharp
+p12
+aVsnowboard
+p13
+aV\u043d\u0435\u043c\u043d\u043e\u0433\u043e asm
+p14
+aV\u043a\u043e\u0434\u0438\u043d\u0433 \u0440\u0430\u0437\u043d\u044b\u0439
+p15
+atRp16
+sS'friends'
+p17
+NsS'companies'
+p18
+NsS'hubs'
+p19
+NsS'invitees'
+p20
+NstRp21
+g21
+b.

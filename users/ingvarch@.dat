@@ -1,0 +1,116 @@
+(dp1
+S'interests'
+p2
+c__builtin__
+set
+p3
+((lp4
+Vmodx
+p5
+aVsql
+p6
+aVlinux
+p7
+atRp8
+sS'friends'
+p9
+NsS'companies'
+p10
+NsS'hubs'
+p11
+g3
+((lp12
+VNoSQL
+p13
+aVScala
+p14
+aVDelphi
+p15
+aV.NET
+p16
+aV\u0422\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p17
+aVPerl
+p18
+aV\u0413\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043e\u0431\u043e\u043b\u043e\u0447\u043a\u0438
+p19
+aV\u041e\u0431\u043e\u043b\u043e\u0447\u043a\u0438
+p20
+aVMySQL
+p21
+aVAndroid
+p22
+aV\u0421\u0435\u0440\u0432\u0435\u0440\u043d\u0430\u044f \u043e\u043f\u0442\u0438\u043c\u0438\u0437\u0430\u0446\u0438\u044f
+p23
+aVASP
+p24
+aVSmall Basic
+p25
+aV\u0423\u0431\u0443\u043d\u0442\u0430\u0440\u0438\u0443\u043c
+p26
+aVPython
+p27
+aVMac OS X
+p28
+aVNginx
+p29
+aVWindows
+p30
+aV*nix
+p31
+aVRuby
+p32
+aVMicrosoft SQL Server
+p33
+aVWindows Phone
+p34
+aV\u0412\u0438\u0440\u0442\u0443\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u044f
+p35
+aVJavaScript
+p36
+aVLisp
+p37
+aVCubrid
+p38
+aVSQL
+p39
+aV\u0421\u0438\u0441\u0442\u0435\u043c\u043d\u043e\u0435 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p40
+aVC++
+p41
+aV\u041e\u0431\u043b\u0430\u0447\u043d\u044b\u0435 \u0432\u044b\u0447\u0438\u0441\u043b\u0435\u043d\u0438\u044f
+p42
+aV\u0412\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435 \u0434\u0430\u043d\u043d\u044b\u0445
+p43
+aVData Mining
+p44
+aVOracle
+p45
+aVPostgreSQL
+p46
+aVJAVA
+p47
+aV\u0421\u0435\u0440\u0432\u0435\u0440\u043d\u043e\u0435 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p48
+aVMongoDB
+p49
+aVAssembler
+p50
+aVDoctrine ORM
+p51
+aVHaskell
+p52
+aVBrainfuck
+p53
+aVLinux
+p54
+aV\u041e\u043f\u0435\u0440\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0441\u0438\u0441\u0442\u0435\u043c\u044b
+p55
+aVPHP
+p56
+aV\u0421\u0435\u0442\u0435\u0432\u044b\u0435 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438
+p57
+atRp58
+sS'invitees'
+p59
+Ns.

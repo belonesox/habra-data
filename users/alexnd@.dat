@@ -1,0 +1,100 @@
+(dp1
+S'interests'
+p2
+c__builtin__
+set
+p3
+((lp4
+Vjavascript
+p5
+aVc++
+p6
+aVperl
+p7
+aVsql
+p8
+aVphp
+p9
+aVruby
+p10
+atRp11
+sS'friends'
+p12
+g3
+((lp13
+Vrude
+p14
+aVvkramskikh
+p15
+aValgo
+p16
+aVboyan
+p17
+aVtigrenok
+p18
+atRp19
+sS'companies'
+p20
+g3
+((lp21
+VFree Software Foundation
+p22
+aV37signals
+p23
+aVWorld Wide Web Consortium
+p24
+aVThe FreeBSD Foundation
+p25
+aVGoogle
+p26
+aVWikimapia
+p27
+aVMozilla Foundation
+p28
+aV\u0410\u0448\u043c\u0430\u043d\u043e\u0432 \u0438 \u041f\u0430\u0440\u0442\u043d\u0451\u0440\u044b
+p29
+aVChristian Ghisler
+p30
+aVCanonical
+p31
+aVApache Software Foundation
+p32
+aVWikimedia Foundation
+p33
+atRp34
+sS'hubs'
+p35
+g3
+((lp36
+VjQuery
+p37
+aVRuby
+p38
+aVJAVA
+p39
+aV\u0423\u0431\u0443\u043d\u0442\u0430\u0440\u0438\u0443\u043c
+p40
+aVDIY \u0438\u043b\u0438 \u0421\u0434\u0435\u043b\u0430\u0439 \u0421\u0430\u043c
+p41
+aVJavaScript
+p42
+aVC++
+p43
+aVPerl
+p44
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p45
+aV\u041e\u043f\u0435\u0440\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0441\u0438\u0441\u0442\u0435\u043c\u044b
+p46
+aV\u0427\u0443\u043b\u0430\u043d
+p47
+aVPHP
+p48
+aVFlash-\u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u0430
+p49
+aVCSS
+p50
+atRp51
+sS'invitees'
+p52
+Ns.

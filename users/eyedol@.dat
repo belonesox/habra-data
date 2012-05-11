@@ -1,0 +1,64 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+Vc
+aVsharepoint services 4.0
+p8
+aV.net
+p9
+aVsharepoint server 2010
+p10
+aVwindows 7
+p11
+aVweb 2.0
+p12
+atRp13
+sS'friends'
+p14
+g6
+((lp15
+Vlogman
+p16
+atRp17
+sS'companies'
+p18
+g6
+((lp19
+VGoogle
+p20
+aVAdobe
+p21
+aVLast.fm
+p22
+aVOpera Software ASA
+p23
+aVMicrosoft
+p24
+aVWikimedia Foundation
+p25
+atRp26
+sS'hubs'
+p27
+g6
+((lp28
+VMicrosoft
+p29
+atRp30
+sS'invitees'
+p31
+NstRp32
+g32
+b.

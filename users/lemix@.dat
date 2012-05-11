@@ -1,0 +1,107 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+NsS'companies'
+p7
+c__builtin__
+set
+p8
+((lp9
+VIBM
+p10
+aVBitTorrent
+p11
+aVid Software
+p12
+aVBlizzard Entertainment
+p13
+aVNVIDIA Corporation
+p14
+aVOpera Software ASA
+p15
+aV«\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u044f \u041a\u0430\u0441\u043f\u0435\u0440\u0441\u043a\u043e\u0433\u043e»
+p16
+aVMicrosoft
+p17
+aVIntel
+p18
+atRp19
+sS'hubs'
+p20
+g8
+((lp21
+V\u0414\u0435\u043c\u043e\u0441\u0446\u0435\u043d\u0430
+p22
+aVAssembler
+p23
+aVNoSQL
+p24
+aV\u0427\u0443\u043b\u0430\u043d
+p25
+aV.NET
+p26
+aV\u0411\u0430\u0439\u043d\u0435\u0442
+p27
+aV\u0416\u0435\u043b\u0435\u0437\u043e
+p28
+aVMySQL
+p29
+aVASP
+p30
+aV\u0423\u0431\u0443\u043d\u0442\u0430\u0440\u0438\u0443\u043c
+p31
+aV\u041d\u0435\u0442\u0431\u0443\u043a\u0438
+p32
+aVWindows
+p33
+aV\u0421\u043e\u0432\u0435\u0440\u0448\u0435\u043d\u043d\u044b\u0439 \u043a\u043e\u0434
+p34
+aVSilverlight
+p35
+aVOpera
+p36
+aVSQL
+p37
+aVC++
+p38
+aVData Mining
+p39
+aVJAVA
+p40
+aV\u0410\u043b\u0433\u043e\u0440\u0438\u0442\u043c\u044b
+p41
+aVMicrosoft
+p42
+aVPHP
+p43
+aVFirefox
+p44
+aV\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c
+p45
+aV\u0411\u0440\u0430\u0443\u0437\u0435\u0440\u044b
+p46
+aVLinux
+p47
+aV\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p48
+aVPeer-to-Peer
+p49
+aV\u041d\u0435\u043d\u043e\u0440\u043c\u0430\u043b\u044c\u043d\u043e\u0435 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p50
+atRp51
+sS'invitees'
+p52
+NstRp53
+g53
+b.

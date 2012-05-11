@@ -1,0 +1,86 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+Vdropp
+p9
+aVvipfocus
+p10
+atRp11
+sS'companies'
+p12
+g7
+((lp13
+VZend Technologies
+p14
+aV\u0410\u0448\u043c\u0430\u043d\u043e\u0432 \u0438 \u041f\u0430\u0440\u0442\u043d\u0451\u0440\u044b
+p15
+aVApple
+p16
+aVWorld Wide Web Consortium
+p17
+aVSun Microsystems
+p18
+aVYahoo
+p19
+aVLast.fm
+p20
+aVMozilla Foundation
+p21
+aVGoogle
+p22
+aV\u041b\u0435\u043d\u0442\u0430.\u0420\u0443
+p23
+aVIBM
+p24
+aVSkype
+p25
+aV\u0411\u0435\u0433\u0443\u043d
+p26
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p27
+aVDigg
+p28
+aV\u0421\u0442\u0443\u0434\u0438\u044f \u0410\u0440\u0442\u0435\u043c\u0438\u044f \u041b\u0435\u0431\u0435\u0434\u0435\u0432\u0430
+p29
+aVWikimedia Foundation
+p30
+atRp31
+sS'hubs'
+p32
+g7
+((lp33
+V\u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043f\u0440\u043e\u0435\u043a\u0442\u0430\u043c\u0438
+p34
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p35
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p36
+aVZend Framework
+p37
+aV\u041e\u043f\u0435\u0440\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0441\u0438\u0441\u0442\u0435\u043c\u044b
+p38
+aVPHP
+p39
+aVRuby
+p40
+atRp41
+sS'invitees'
+p42
+NstRp43
+g43
+b.

@@ -1,0 +1,61 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+Vvirtools
+p8
+aVunity3d
+p9
+aV\u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043f\u0440\u043e\u0435\u043a\u0442\u0430\u043c\u0438
+p10
+aVgoogle
+p11
+aV\u043b\u0438\u0447\u043d\u0430\u044f \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u044c
+p12
+aV\u0442\u0430\u0439\u043c \u043c\u0435\u043d\u0435\u0434\u0436\u043c\u0435\u043d\u0442
+p13
+aVgamedev
+p14
+aV\u0441\u0430\u043c\u043e\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0438\u0435
+p15
+aV\u0438\u0433\u0440\u044b
+p16
+aV\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0438\u0435
+p17
+atRp18
+sS'friends'
+p19
+NsS'companies'
+p20
+NsS'hubs'
+p21
+g6
+((lp22
+V\u041e\u0444\u0438\u0441\u044b IT-\u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0439
+p23
+aVAgile
+p24
+aV\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p25
+aVGoogle
+p26
+aVGTD
+p27
+atRp28
+sS'invitees'
+p29
+NstRp30
+g30
+b.

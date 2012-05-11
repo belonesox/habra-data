@@ -1,0 +1,99 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+NsS'companies'
+p7
+c__builtin__
+set
+p8
+((lp9
+VMozilla Foundation
+p10
+aVWikimedia Foundation
+p11
+atRp12
+sS'hubs'
+p13
+g8
+((lp14
+V\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435
+p15
+aVYouTube
+p16
+aVWikipedia
+p17
+aVeBay
+p18
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p19
+aVWordpress
+p20
+aV\u0416\u0435\u043b\u0435\u0437\u043e
+p21
+aVInternet Explorer
+p22
+aVAndroid
+p23
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p24
+aVOpenStreetMap
+p25
+aVMozilla
+p26
+aVLiveJournal
+p27
+aVSafari
+p28
+aVSaaS / S+S
+p29
+aV\u041f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0430
+p30
+aVGTD
+p31
+aVOpera
+p32
+aVBing
+p33
+aV\u0421\u0438\u0441\u0442\u0435\u043c\u043d\u043e\u0435 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p34
+aVData Mining
+p35
+aVCisco
+p36
+aVGMail
+p37
+aV\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p38
+aVGoogle
+p39
+aVFirefox
+p40
+aV\u0421\u043c\u0430\u0440\u0442\u0444\u043e\u043d\u044b \u0438 \u043a\u043e\u043c\u043c\u0443\u043d\u0438\u043a\u0430\u0442\u043e\u0440\u044b
+p41
+aV\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c
+p42
+aV\u0422\u0435\u043b\u0435\u043a\u043e\u043c\u044b
+p43
+aVTwitter
+p44
+aV\u0411\u0440\u0430\u0443\u0437\u0435\u0440\u044b
+p45
+aVGoogle Chrome
+p46
+atRp47
+sS'invitees'
+p48
+NstRp49
+g49
+b.

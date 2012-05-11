@@ -1,0 +1,202 @@
+(dp1
+S'interests'
+p2
+c__builtin__
+set
+p3
+((lp4
+Vweb
+p5
+aVjava
+p6
+aV\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0435 \u0441\u0435\u0442\u0438
+p7
+aVmarketing
+p8
+aVeconomics
+p9
+aV\u043c\u0443\u0437\u044b\u043a\u0430
+p10
+aVlinux
+p11
+aV\u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p12
+aVgtd
+p13
+aVruby
+p14
+atRp15
+sS'friends'
+p16
+g3
+((lp17
+Vlessio
+p18
+aVmraleph
+p19
+aVmaxlapshin
+p20
+aVindigo
+p21
+aVlabria
+p22
+aVScREW
+p23
+aVakzhan
+p24
+aVXaocCPS
+p25
+aVKane
+p26
+aVmixen
+p27
+aVSigura
+p28
+aVxunbeliever
+p29
+aVMaxElc
+p30
+aVfreehome
+p31
+aVreinvigorate
+p32
+aVgreen_mouse
+p33
+aVkoneko
+p34
+aVSemenov
+p35
+aVgaidar
+p36
+aVkremlin
+p37
+aViv_s
+p38
+atRp39
+sS'companies'
+p40
+g3
+((lp41
+VOpera Software ASA
+p42
+aVAdobe
+p43
+aV\u0412\u0435\u0434\u043e\u043c\u043e\u0441\u0442\u0438
+p44
+atRp45
+sS'hubs'
+p46
+g3
+((lp47
+VCreative Commons
+p48
+aVNoSQL
+p49
+aVIT-\u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u044b
+p50
+aV\u0427\u0443\u043b\u0430\u043d
+p51
+aVSun Microsystems
+p52
+aV\u0421\u043c\u0430\u0440\u0442\u0444\u043e\u043d\u044b \u0438 \u043a\u043e\u043c\u043c\u0443\u043d\u0438\u043a\u0430\u0442\u043e\u0440\u044b
+p53
+aV\u0410\u043d\u0438\u043c\u0430\u0446\u0438\u044f \u0438 3D \u0433\u0440\u0430\u0444\u0438\u043a\u0430
+p54
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p55
+aV\u0412\u0435\u043a\u0442\u043e\u0440\u043d\u0430\u044f \u0433\u0440\u0430\u0444\u0438\u043a\u0430
+p56
+aVGoogle Chrome
+p57
+aVMySQL
+p58
+aV\u0412\u0435\u0431-\u0434\u0438\u0437\u0430\u0439\u043d
+p59
+aVInternet Explorer
+p60
+aV\u0421\u0443\u043f
+p61
+aV\u0418\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044b
+p62
+aV\u0412\u0438\u0440\u0443\u0441\u044b (\u0438 \u0430\u043d\u0442\u0438\u0432\u0438\u0440\u0443\u0441\u044b)
+p63
+aVMail.Ru
+p64
+aVFirefox
+p65
+aV\u0414\u0438\u0437\u0430\u0439\u043d \u0432 IT
+p66
+aV\u0422\u0438\u043f\u043e\u0433\u0440\u0430\u0444\u0438\u043a\u0430
+p67
+aVMozilla
+p68
+aV\u0420\u0430\u043c\u0431\u043b\u0435\u0440
+p69
+aVYahoo
+p70
+aV\u0417\u0430\u043d\u0438\u043c\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0435 \u0437\u0430\u0434\u0430\u0447\u043a\u0438
+p71
+aV\u0418\u043d\u0444\u043e\u0433\u0440\u0430\u0444\u0438\u043a\u0430
+p72
+aV\u0423\u0431\u0443\u043d\u0442\u0430\u0440\u0438\u0443\u043c
+p73
+aVFacebook
+p74
+aVSafari
+p75
+aVRuby
+p76
+aVMicrosoft SQL Server
+p77
+aV\u0411\u0435\u0433\u0443\u043d
+p78
+aV\u0418\u043a\u043e\u043d\u043e\u0441\u043a\u0430\u0437
+p79
+aVOpera
+p80
+aVCubrid
+p81
+aVSQL
+p82
+aV\u041f\u0440\u0435\u0437\u0435\u043d\u0442\u0430\u0446\u0438\u0438
+p83
+aVData Mining
+p84
+aVOracle
+p85
+aVAdobe
+p86
+aVMicrosoft
+p87
+aVGame Development
+p88
+aVGoogle
+p89
+aVCisco
+p90
+aVApple
+p91
+aV\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c
+p92
+aVMongoDB
+p93
+aV\u0411\u0440\u0430\u0443\u0437\u0435\u0440\u044b
+p94
+aV\u0421\u043f\u0430\u043c (\u0438 \u0430\u043d\u0442\u0438\u0441\u043f\u0430\u043c)
+p95
+aVDoctrine ORM
+p96
+aV\u041f\u0440\u043e\u0446\u0435\u0441\u0441\u043e\u0440\u044b
+p97
+aVLinux
+p98
+aV\u0421\u0442\u0443\u0434\u0438\u044f \u0410\u0440\u0442\u0435\u043c\u0438\u044f \u041b\u0435\u0431\u0435\u0434\u0435\u0432\u0430
+p99
+aV\u041a\u0440\u0438\u043f\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u044f
+p100
+aVPostgreSQL
+p101
+atRp102
+sS'invitees'
+p103
+Ns.

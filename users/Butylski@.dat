@@ -1,0 +1,130 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+Vshahidjanyan
+p9
+aVladyAmalteya
+p10
+aVtimafor
+p11
+aVleptor
+p12
+aVredhummer
+p13
+aVAlexsib
+p14
+aVkey
+p15
+aVArtDesigner
+p16
+aVmivlad
+p17
+aVkolomeetz
+p18
+aVboltikov
+p19
+atRp20
+sS'companies'
+p21
+g7
+((lp22
+VZend Technologies
+p23
+aVGoogle
+p24
+aVWebmascon
+p25
+aVLast.fm
+p26
+aV\u041d\u043e\u0432\u043e\u0441\u0438\u0431\u0438\u0440\u0441\u043a\u0438\u0439 \u0413\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u0421\u0430\u0439\u0442
+p27
+aVTrackStudio
+p28
+atRp29
+sS'hubs'
+p30
+g7
+((lp31
+VjQuery
+p32
+aVOpen source
+p33
+aVMODx
+p34
+aV\u0427\u0443\u043b\u0430\u043d
+p35
+aVGoogle Chrome
+p36
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p37
+aVAndroid
+p38
+aVCMS
+p39
+aV\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u0440\u0435\u043a\u043b\u0430\u043c\u0430
+p40
+aV\u0418\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044b
+p41
+aV\u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043f\u0440\u043e\u0435\u043a\u0442\u0430\u043c\u0438
+p42
+aV\u0414\u0438\u0437\u0430\u0439\u043d \u0432 IT
+p43
+aVMozilla
+p44
+aV\u041f\u043e\u0438\u0441\u043a\u043e\u0432\u0430\u044f \u043e\u043f\u0442\u0438\u043c\u0438\u0437\u0430\u0446\u0438\u044f
+p45
+aV\u041e\u0444\u0438\u0441\u044b IT-\u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0439
+p46
+aVAjax
+p47
+aV\u0423\u0431\u0443\u043d\u0442\u0430\u0440\u0438\u0443\u043c
+p48
+aVGTD
+p49
+aVOpera
+p50
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p51
+aVGoogle App Engine
+p52
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043f\u043e\u0434 iOS
+p53
+aV\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p54
+aVGoogle
+p55
+aVFirefox
+p56
+aVApple
+p57
+aV\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c
+p58
+aV\u0411\u0440\u0430\u0443\u0437\u0435\u0440\u044b
+p59
+aVLinux
+p60
+aVPHP
+p61
+aV\u0421\u043e\u0444\u0442
+p62
+atRp63
+sS'invitees'
+p64
+NstRp65
+g65
+b.

@@ -1,0 +1,73 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+V\u043e\u0431\u043e\u043b\u043e\u043d\u044c \u0441\u043e\u0431\u043e\u0440\u043d\u043e\u0435 ;)
+p8
+atRp9
+sS'friends'
+p10
+NsS'companies'
+p11
+NsS'hubs'
+p12
+g6
+((lp13
+VSymfony
+p14
+aVjQuery
+p15
+aVPHP
+p16
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p17
+aVNoSQL
+p18
+aVCodeIgniter
+p19
+aVPython
+p20
+aVMongoDB
+p21
+aVJavaScript
+p22
+aVYii
+p23
+aVNginx
+p24
+aVDoctrine ORM
+p25
+aVZend Framework
+p26
+aVWindows
+p27
+aVKohana
+p28
+aVMySQL
+p29
+aV\u042d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u044b\u0435 \u043a\u043d\u0438\u0433\u0438
+p30
+aVCakePHP
+p31
+aV\u0421\u043e\u0432\u0435\u0440\u0448\u0435\u043d\u043d\u044b\u0439 \u043a\u043e\u0434
+p32
+aV\u0411\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u0430 ExtJS/Sencha
+p33
+atRp34
+sS'invitees'
+p35
+NstRp36
+g36
+b.

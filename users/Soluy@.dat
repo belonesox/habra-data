@@ -1,0 +1,66 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+NsS'companies'
+p7
+c__builtin__
+set
+p8
+((lp9
+VZeptoLab
+p10
+aVGoogle
+p11
+aVApple
+p12
+aVMicrosoft
+p13
+atRp14
+sS'hubs'
+p15
+g8
+((lp16
+ViPad
+p17
+aV\u0412\u0438\u0440\u0443\u0441\u044b (\u0438 \u0430\u043d\u0442\u0438\u0432\u0438\u0440\u0443\u0441\u044b)
+p18
+aVC
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p19
+aVWindows Phone
+p20
+aV\u0421\u043f\u043e\u0440\u0442\u0438\u0432\u043d\u043e\u0435 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p21
+aV\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p22
+aVC++
+p23
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p24
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043f\u043e\u0434 Windows Phone
+p25
+aViPhone
+p26
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043f\u043e\u0434 iOS
+p27
+aV\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p28
+aVMicrosoft
+p29
+atRp30
+sS'invitees'
+p31
+NstRp32
+g32
+b.

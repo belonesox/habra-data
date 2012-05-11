@@ -1,0 +1,26 @@
+(dp1
+S'interests'
+p2
+NsS'friends'
+p3
+NsS'companies'
+p4
+c__builtin__
+set
+p5
+((lp6
+VApple
+p7
+atRp8
+sS'hubs'
+p9
+g5
+((lp10
+VMac OS X
+p11
+aVIPTV
+p12
+atRp13
+sS'invitees'
+p14
+Ns.

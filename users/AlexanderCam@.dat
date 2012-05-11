@@ -1,0 +1,33 @@
+(dp1
+S'interests'
+p2
+c__builtin__
+set
+p3
+((lp4
+Vemail systems
+p5
+aVstorage systems
+p6
+aV\u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438
+p7
+atRp8
+sS'friends'
+p9
+NsS'companies'
+p10
+g3
+((lp11
+VNetApp
+p12
+atRp13
+sS'hubs'
+p14
+g3
+((lp15
+V\u041f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0430
+p16
+atRp17
+sS'invitees'
+p18
+Ns.

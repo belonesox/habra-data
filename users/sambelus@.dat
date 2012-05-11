@@ -1,0 +1,119 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+NsS'companies'
+p7
+c__builtin__
+set
+p8
+((lp9
+VGoogle
+p10
+aVApple
+p11
+aV\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435
+p12
+aVHP
+p13
+aVOpera Software ASA
+p14
+aV\u0414\u0443\u0431\u043b\u044c\u0413\u0418\u0421 (2\u0413\u0418\u0421)
+p15
+aV\u0421\u0431\u0435\u0440\u0431\u0430\u043d\u043a \u0420\u043e\u0441\u0441\u0438\u0438
+p16
+aVSkype
+p17
+aVSony Mobile Communications
+p18
+atRp19
+sS'hubs'
+p20
+g8
+((lp21
+ViPad
+p22
+aV\u0411\u043b\u043e\u0433\u043e\u0441\u0444\u0435\u0440\u0430
+p23
+aV\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435
+p24
+aVWindows Phone
+p25
+aV\u041f\u043b\u0430\u043d\u0448\u0435\u0442\u044b
+p26
+aVWikipedia
+p27
+aVeBay
+p28
+aV\u0421\u043c\u0430\u0440\u0442\u0444\u043e\u043d\u044b \u0438 \u043a\u043e\u043c\u043c\u0443\u043d\u0438\u043a\u0430\u0442\u043e\u0440\u044b
+p29
+aVSony PlayStation
+p30
+aVGoogle Chrome
+p31
+aVMail.Ru
+p32
+aVInternet Explorer
+p33
+aVAndroid
+p34
+aVMac OS X
+p35
+aVMozilla
+p36
+aVYouTube
+p37
+aVYahoo
+p38
+aVWindows
+p39
+aVFacebook
+p40
+aVSafari
+p41
+aV\u0421\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0435 \u0441\u0435\u0442\u0438 \u0438 \u0441\u043e\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0430
+p42
+aVOpera
+p43
+aVIM
+p44
+aViPhone
+p45
+aVAdobe
+p46
+aVMicrosoft
+p47
+aVGMail
+p48
+aVGoogle
+p49
+aVFirefox
+p50
+aVApple
+p51
+aVTwitter
+p52
+aV\u0411\u0440\u0430\u0443\u0437\u0435\u0440\u044b
+p53
+aVSkype
+p54
+aV\u042d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u044b\u0435 \u043a\u043d\u0438\u0433\u0438
+p55
+aV\u041d\u0435\u0442\u0431\u0443\u043a\u0438
+p56
+atRp57
+sS'invitees'
+p58
+NstRp59
+g59
+b.

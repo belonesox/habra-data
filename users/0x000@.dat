@@ -1,0 +1,321 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+Vkri
+p9
+atRp10
+sS'companies'
+p11
+g7
+((lp12
+VLOVATA Group
+p13
+aV\u0413\u0430\u0437\u0435\u0442\u0430.Ru
+p14
+aVOracle
+p15
+aVPalm Inc.
+p16
+aV\u0422\u044d\u0433\u043b\u0430\u0439\u043d
+p17
+aV\u0412\u0435\u0434\u043e\u043c\u043e\u0441\u0442\u0438
+p18
+aV\u0410\u0444\u0438\u0448\u0430
+p19
+aV\u041f\u0440\u043e\u0434\u044e\u0441\u0435\u0440\u0441\u043a\u0438\u0439 \u0446\u0435\u043d\u0442\u0440 «\u0420\u043e\u0439\u0431\u0435\u0440»
+p20
+aV\u042d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u044b\u0439 \u0433\u043e\u0440\u043e\u0434
+p21
+aVWorkrocks
+p22
+aVBitTorrent
+p23
+aV3DNews
+p24
+aVUIDesign Group
+p25
+aV\u041c\u0435\u0433\u0430\u0444\u043e\u043d
+p26
+aVAmazon
+p27
+aVApache Software Foundation
+p28
+aVx2plastic
+p29
+aV\u0421\u0442\u0443\u0434\u0438\u044f Visions
+p30
+aV\u0423\u0440\u0430\u043b\u0441\u0432\u044f\u0437\u044c\u0438\u043d\u0444\u043e\u0440\u043c
+p31
+aVJ'son & Partners
+p32
+aV\u0424\u0421\u0411 \u0420\u0424
+p33
+aV\u0411\u043b\u043e\u0433.\u0420\u0443
+p34
+aVTrackStudio
+p35
+aV\u041c\u0435\u0434\u0438\u0430\u0441\u0430\u0439\u0442
+p36
+aVFree Software Foundation
+p37
+aV\u041c\u0430\u0440\u043a\u0435\u0442\u0438\u043d\u0433\u043e\u0432\u0430\u044f \u0433\u0440\u0443\u043f\u043f\u0430 TechArt
+p38
+aVAdobe
+p39
+aV\u0411\u0438\u0437\u043d\u0435\u0441 \u0432 \u0441\u0442\u0438\u043b\u0435 .RU
+p40
+aVMozilla Foundation
+p41
+aVSkype
+p42
+aVHumanized
+p43
+aVRG Lab
+p44
+aVCanonical
+p45
+aVNews2
+p46
+aV\u0411\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u0430 I2R
+p47
+aV.masterhost
+p48
+aVTele2
+p49
+aV\u0418\u0414 \u041a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u0440\u0430
+p50
+aVNTV-design
+p51
+aVHP
+p52
+aVMajordomo
+p53
+aV\u0414\u043e\u043a\u0442\u043e\u0440 \u0412\u0435\u0431
+p54
+aVeBay
+p55
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p56
+aVB2Blogger.com
+p57
+aVLiveInternet
+p58
+aVtoodoo
+p59
+aVFuturico
+p60
+aV\u0414\u0438\u0437\u0430\u0439\u043d-\u0431\u044e\u0440\u043e \u0410\u0440\u0442\u0435\u043c\u0430 \u0413\u043e\u0440\u0431\u0443\u043d\u043e\u0432\u0430
+p61
+aVWestByte Software
+p62
+aVArtics Internet Solutions
+p63
+aVdbest.ru
+p64
+aVPark
+p65
+aVRU-CENTER
+p66
+aVWayback Machine
+p67
+aV.mastername
+p68
+aVFree-lance.ru
+p69
+aVDigg
+p70
+aVNetscape
+p71
+aVHeadHunter
+p72
+aVUsystems
+p73
+aV\u041a\u0410\u0411iNET
+p74
+aVWikia
+p75
+aVNewmedia Stars
+p76
+aV\u0414\u043e\u0437\u043e\u0440\u044b
+p77
+aV\u041e\u0437\u043e\u043d
+p78
+aV\u0411\u0435\u0433\u0443\u043d
+p79
+aV\u0412\u0435\u0431\u0430\u043b\u044c\u0442\u0430
+p80
+aV\u0424\u0438\u043d\u0430\u043c
+p81
+aVPSYHO design
+p82
+aVAcronis
+p83
+aV\u041a\u043b\u044e\u0447\u0435\u0432\u044b\u0435 \u0420\u0435\u0448\u0435\u043d\u0438\u044f
+p84
+aV908
+p85
+aVPromo.\u041c\u0435\u0434\u0438\u0430\u0441\u0430\u0439\u0442
+p86
+aV\u041b\u044e\u0431\u0438\u043c\u044b\u0439 \u0433\u043e\u0440\u043e\u0434
+p87
+aVRed Hat
+p88
+aVWorld Wide Web Consortium
+p89
+aVBlisswise Entertainment
+p90
+aVBee.FM
+p91
+aVActis Systems
+p92
+aVBhost
+p93
+aVPortmone.com
+p94
+aVMediachase Russia
+p95
+aVSix Apart
+p96
+aVYahoo
+p97
+aVRuTube
+p98
+aVOrangeonweb
+p99
+aVAteve Commercial
+p100
+aVTrolltech
+p101
+aVDigital Zone
+p102
+aVZend Technologies
+p103
+aV\u0411\u043b\u043e\u0433\u0421\u0435\u0440\u0432\u0438\u0441
+p104
+aV\u041b\u0435\u043d\u0442\u0430.\u0420\u0443
+p105
+aVDominion
+p106
+aV\u0414\u0438\u0437\u0430\u0439\u043d-\u0431\u044e\u0440\u043e «Knock Knock»
+p107
+aVRecordings.ru
+p108
+aVDjem Solutions
+p109
+aV\u0421\u0442\u0443\u0434\u0438\u044f \u0412\u0430\u043b\u0435\u0440\u0438\u044f \u041a\u043e\u043c\u044f\u0433\u0438\u043d\u0430
+p110
+aVIntegra
+p111
+aV\u0420\u0410 \u041c\u0430\u043d\u044c\u044f\u043a\u043e
+p112
+aVQuintura
+p113
+aVWebMoney Transfer
+p114
+aVTechnorati
+p115
+aV\u0420\u0410 \u041c\u0430\u043d\u0438\u0444\u0435\u0441\u0442
+p116
+aV\u042d\u043a\u0441\u043f\u0435\u0440\u0442
+p117
+aVDeForum
+p118
+aVGizmo
+p119
+aVNews Corporation
+p120
+aVWebmascon
+p121
+aVIBM
+p122
+aV\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435
+p123
+aVSun Microsystems
+p124
+aVOpera Software ASA
+p125
+aVParcsis/Turbomilk
+p126
+aV\u0413\u0430\u0437\u043f\u0440\u043e\u043c-\u041c\u0435\u0434\u0438\u0430
+p127
+aV\u0410\u0448\u043c\u0430\u043d\u043e\u0432 \u0438 \u041f\u0430\u0440\u0442\u043d\u0451\u0440\u044b
+p128
+aVTest-The-Best
+p129
+aVmagnetoo.com
+p130
+aVADV/web-engineering co.
+p131
+aVCorbina Telecom
+p132
+aVLanck Telecom
+p133
+aVTopCoder, Inc.
+p134
+aVDEFA Interaktiv
+p135
+aV\u0411\u0430\u043d\u043d\u0435\u0440\u0431\u0430\u043d\u043a
+p136
+aVDiscogs
+p137
+aVRed Graphic Systems
+p138
+aVVersus
+p139
+aVGammagroup
+p140
+aVLinden Lab
+p141
+aV\u0420\u0435\u0430\u043a\u0442\u043e\u0440
+p142
+aVDesigncollector
+p143
+aVAdMe
+p144
+aVExigen Services
+p145
+aVAgnitum Ltd. / \u0410\u0433\u043d\u0438\u0442\u0443\u043c
+p146
+aVAdvertka
+p147
+aVDell Inc
+p148
+aV\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u044f "\u041a\u0441\u0430\u043d"
+p149
+aVDevoler
+p150
+aVGoogle
+p151
+aVLast.fm
+p152
+aVwork.com.ua
+p153
+aV\u0422\u0435\u043b\u0435\u0444\u043e\u043d.\u0420\u0443
+p154
+aV\u0421\u0442\u0443\u0434\u0438\u044f TeleType
+p155
+aVMotka Design Studio
+p156
+atRp157
+sS'hubs'
+p158
+NsS'invitees'
+p159
+NstRp160
+g160
+b.

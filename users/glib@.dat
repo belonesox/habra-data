@@ -1,0 +1,87 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+NsS'companies'
+p7
+c__builtin__
+set
+p8
+((lp9
+VZend Technologies
+p10
+aVGoogle
+p11
+aVAdobe
+p12
+aVApple
+p13
+aVIntel
+p14
+aV\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435
+p15
+aVTrolltech
+p16
+aVHP
+p17
+aVSun Microsystems
+p18
+aVLast.fm
+p19
+aVNVIDIA Corporation
+p20
+aVNigma
+p21
+aVAdvertka
+p22
+aV\u0410\u0448\u043c\u0430\u043d\u043e\u0432 \u0438 \u041f\u0430\u0440\u0442\u043d\u0451\u0440\u044b
+p23
+aVLinkedIn
+p24
+aVSkype
+p25
+aVdeviantART
+p26
+aVOpera Software ASA
+p27
+aV\u0421\u0442\u0443\u0434\u0438\u044f \u0410\u0440\u0442\u0435\u043c\u0438\u044f \u041b\u0435\u0431\u0435\u0434\u0435\u0432\u0430
+p28
+aVApache Software Foundation
+p29
+aVFuturico
+p30
+atRp31
+sS'hubs'
+p32
+g8
+((lp33
+VjQuery
+p34
+aV\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p35
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p36
+aVDIY \u0438\u043b\u0438 \u0421\u0434\u0435\u043b\u0430\u0439 \u0421\u0430\u043c
+p37
+aV.NET
+p38
+aV\u0427\u0443\u043b\u0430\u043d
+p39
+aVMono \u0438 Moonlight
+p40
+atRp41
+sS'invitees'
+p42
+NstRp43
+g43
+b.

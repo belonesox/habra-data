@@ -1,0 +1,88 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+VKoshelew
+p9
+aVVolCh
+p10
+aVZotovSergey
+p11
+aVukrainian
+p12
+atRp13
+sS'companies'
+p14
+NsS'hubs'
+p15
+g7
+((lp16
+V\u041f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0430
+p17
+aV\u0420\u043e\u0431\u043e\u0442\u043e\u0442\u0435\u0445\u043d\u0438\u043a\u0430
+p18
+aV\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p19
+aVCisco
+p20
+aVDura Lex
+p21
+aVOpen source
+p22
+aV\u0413\u0430\u0434\u0436\u0435\u0442\u044b. \u0423\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u0430 \u0434\u043b\u044f \u0433\u0438\u043a\u043e\u0432
+p23
+aV\u0427\u0443\u043b\u0430\u043d
+p24
+aV\u0411\u0443\u0434\u0443\u0449\u0435\u0435 \u0437\u0434\u0435\u0441\u044c
+p25
+aV\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c
+p26
+aV\u041d\u0430\u0443\u0447\u043d\u043e-\u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u043e\u0435
+p27
+aV\u0418\u043d\u0444\u043e\u0441\u0444\u0435\u0440\u0430 - \u043c\u044b\u0441\u043b\u0438 \u0432\u0441\u043b\u0443\u0445
+p28
+aV\u0423\u0431\u0443\u043d\u0442\u0430\u0440\u0438\u0443\u043c
+p29
+aVGoogle Chrome
+p30
+aVLinux
+p31
+aVOracle
+p32
+aVIP-\u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0438\u044f
+p33
+aVMicrosoft
+p34
+aV\u042d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u044b\u0435 \u043a\u043d\u0438\u0433\u0438
+p35
+atRp36
+sS'invitees'
+p37
+g7
+((lp38
+VVovka1982
+p39
+aVhostadmin
+p40
+aVLexozz
+p41
+aVTanlord
+p42
+atRp43
+stRp44
+g44
+b.

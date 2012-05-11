@@ -1,0 +1,47 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+Vjavascript)
+p8
+aVweb (php
+p9
+aVhtml
+p10
+aVadmin (gnu/linux)
+p11
+aVmysql
+p12
+aVprogramming (c++/qt)
+p13
+aVcss
+p14
+atRp15
+sS'friends'
+p16
+NsS'companies'
+p17
+NsS'hubs'
+p18
+g6
+((lp19
+V\u041f\u043b\u0430\u0442\u0435\u0436\u043d\u044b\u0435 \u0441\u0438\u0441\u0442\u0435\u043c\u044b
+p20
+atRp21
+sS'invitees'
+p22
+NstRp23
+g23
+b.

@@ -1,0 +1,164 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+VJuliyan
+p9
+aVredchrom
+p10
+aVmrsad
+p11
+aVpiroman
+p12
+aVKedaRasta
+p13
+aVdiagrun
+p14
+atRp15
+sS'companies'
+p16
+g7
+((lp17
+VFree Software Foundation
+p18
+aVWebMoney Transfer
+p19
+aVGoogle
+p20
+aVApple
+p21
+aVBitTorrent
+p22
+aVid Software
+p23
+aVMozilla Foundation
+p24
+aVBlizzard Entertainment
+p25
+aVThe FreeBSD Foundation
+p26
+aVSkype
+p27
+aVDell Inc
+p28
+aVCanonical
+p29
+aVNVIDIA Corporation
+p30
+aVApache Software Foundation
+p31
+aVWikimedia Foundation
+p32
+atRp33
+sS'hubs'
+p34
+g7
+((lp35
+VOpen source
+p36
+aVNoSQL
+p37
+aV\u0412\u0438\u0440\u0442\u0443\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u044f
+p38
+aVPerl
+p39
+aV\u0421\u043c\u0430\u0440\u0442\u0444\u043e\u043d\u044b \u0438 \u043a\u043e\u043c\u043c\u0443\u043d\u0438\u043a\u0430\u0442\u043e\u0440\u044b
+p40
+aVGoogle Chrome
+p41
+aV\u0416\u0435\u043b\u0435\u0437\u043e
+p42
+aVMySQL
+p43
+aVAndroid
+p44
+aV\u0421\u0435\u0440\u0432\u0435\u0440\u043d\u0430\u044f \u043e\u043f\u0442\u0438\u043c\u0438\u0437\u0430\u0446\u0438\u044f
+p45
+aV\u0414\u0438\u0437\u0430\u0439\u043d \u0432 IT
+p46
+aVPython
+p47
+aVMac OS X
+p48
+aVYouTube
+p49
+aV\u041d\u0435\u0442\u0431\u0443\u043a\u0438
+p50
+aV\u0425\u043e\u0441\u0442\u0438\u043d\u0433
+p51
+aVNginx
+p52
+aVFacebook
+p53
+aVSafari
+p54
+aV*nix
+p55
+aV\u0423\u0431\u0443\u043d\u0442\u0430\u0440\u0438\u0443\u043c
+p56
+aV\u0421\u043f\u0430\u043c (\u0438 \u0430\u043d\u0442\u0438\u0441\u043f\u0430\u043c)
+p57
+aV\u0425\u0430\u0431\u0440\u0430\u0445\u0430\u0431\u0440
+p58
+aV\u041f\u043b\u0430\u043d\u0448\u0435\u0442\u044b
+p59
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p60
+aV\u0411\u0443\u0434\u0443\u0449\u0435\u0435 \u0437\u0434\u0435\u0441\u044c
+p61
+aVSkype
+p62
+aV\u0421\u0438\u0441\u0442\u0435\u043c\u043d\u043e\u0435 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p63
+aV\u0421\u0442\u0430\u0440\u043e\u0435 \u0436\u0435\u043b\u0435\u0437\u043e
+p64
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p65
+aVWiMAX
+p66
+aViPhone
+p67
+aV\u041a\u0440\u0438\u043f\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u044f
+p68
+aVPostgreSQL
+p69
+aVGMail
+p70
+aV\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p71
+aVGoogle
+p72
+aVFirefox
+p73
+aVApple
+p74
+aV\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c
+p75
+aV\u0411\u0440\u0430\u0443\u0437\u0435\u0440\u044b
+p76
+aVVIM
+p77
+aVLinux
+p78
+aVPeer-to-Peer
+p79
+atRp80
+sS'invitees'
+p81
+NstRp82
+g82
+b.

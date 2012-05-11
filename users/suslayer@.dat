@@ -1,0 +1,146 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+Vnecros
+p9
+aVArcKain
+p10
+aVPhoen
+p11
+atRp12
+sS'companies'
+p13
+g7
+((lp14
+VFree Software Foundation
+p15
+aV\u0412\u044b\u043c\u043f\u0435\u043b\u041a\u043e\u043c (\u0411\u0438\u043b\u0430\u0439\u043d)
+p16
+aVGoogle
+p17
+aVNews2
+p18
+aVIBM
+p19
+aVAcronis
+p20
+aV\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435
+p21
+aVCorbina Telecom
+p22
+aVHP
+p23
+aVNokia
+p24
+aV\u041c\u0435\u0433\u0430\u0444\u043e\u043d
+p25
+aVMajordomo
+p26
+aVOpera Software ASA
+p27
+aVALT Linux
+p28
+aVCanonical
+p29
+aVAMD (Advanced Micro Devices)
+p30
+aVApache Software Foundation
+p31
+aVWikimedia Foundation
+p32
+atRp33
+sS'hubs'
+p34
+g7
+((lp35
+VNoSQL
+p36
+aV\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435
+p37
+aVYouTube
+p38
+aVWikipedia
+p39
+aVeBay
+p40
+aVGoogle Chrome
+p41
+aVMySQL
+p42
+aVInternet Explorer
+p43
+aVOpenStreetMap
+p44
+aV\u0412\u0438\u0440\u0443\u0441\u044b (\u0438 \u0430\u043d\u0442\u0438\u0432\u0438\u0440\u0443\u0441\u044b)
+p45
+aV\u041c\u043e\u0439 \u0431\u0438\u0437\u043d\u0435\u0441
+p46
+aVMozilla
+p47
+aVLiveJournal
+p48
+aVSafari
+p49
+aVMicrosoft SQL Server
+p50
+aVGTD
+p51
+aVWordpress
+p52
+aVOpera
+p53
+aVCubrid
+p54
+aVBing
+p55
+aVLinux
+p56
+aV\u0421\u0438\u0441\u0442\u0435\u043c\u043d\u043e\u0435 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p57
+aVData Mining
+p58
+aVOracle
+p59
+aVPostgreSQL
+p60
+aVGMail
+p61
+aV\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p62
+aVGoogle
+p63
+aVFirefox
+p64
+aVMongoDB
+p65
+aVTwitter
+p66
+aV\u0411\u0440\u0430\u0443\u0437\u0435\u0440\u044b
+p67
+aVDoctrine ORM
+p68
+aVSQL
+p69
+aVSaaS / S+S
+p70
+atRp71
+sS'invitees'
+p72
+NstRp73
+g73
+b.

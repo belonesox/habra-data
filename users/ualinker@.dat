@@ -1,0 +1,112 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+VZerkella
+p9
+aVDemiurgeOrion
+p10
+aVVojToshik
+p11
+aVserjoga
+p12
+aVl_nagash
+p13
+aVfear86
+p14
+aValmazmusic
+p15
+atRp16
+sS'companies'
+p17
+g7
+((lp18
+VOpera Software ASA
+p19
+aVPayoneer
+p20
+aVSamsung
+p21
+aVJetBrains
+p22
+atRp23
+sS'hubs'
+p24
+g7
+((lp25
+VjQuery
+p26
+aVGit
+p27
+aV\u0427\u0443\u043b\u0430\u043d
+p28
+aV\u0410\u043d\u0438\u043c\u0430\u0446\u0438\u044f \u0438 3D \u0433\u0440\u0430\u0444\u0438\u043a\u0430
+p29
+aVSony PlayStation
+p30
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p31
+aVAndroid
+p32
+aVCMS
+p33
+aVAjax
+p34
+aV\u0421\u043e\u0432\u0435\u0440\u0448\u0435\u043d\u043d\u044b\u0439 \u043a\u043e\u0434
+p35
+aV\u041f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0430
+p36
+aV\u041a\u043e\u0434\u043e\u0411\u0440\u0435\u0434
+p37
+aVSphinx
+p38
+aVDura Lex
+p39
+aVOpera
+p40
+aV\u0411\u0443\u0434\u0443\u0449\u0435\u0435 \u0437\u0434\u0435\u0441\u044c
+p41
+aV\u0418\u0433\u0440\u043e\u0432\u044b\u0435 \u043f\u0440\u0438\u0441\u0442\u0430\u0432\u043a\u0438
+p42
+aVWiMAX
+p43
+aV\u041d\u0430\u043a\u043e\u043f\u0438\u0442\u0435\u043b\u0438
+p44
+aVSymfony
+p45
+aV\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p46
+aVGoogle
+p47
+aV\u0421\u043c\u0430\u0440\u0442\u0444\u043e\u043d\u044b \u0438 \u043a\u043e\u043c\u043c\u0443\u043d\u0438\u043a\u0430\u0442\u043e\u0440\u044b
+p48
+aV\u041c\u0435\u0440\u043e\u043f\u0440\u0438\u044f\u0442\u0438\u044f
+p49
+aVZend Framework
+p50
+aVLinux
+p51
+aV\u0424\u0440\u0438\u043b\u0430\u043d\u0441
+p52
+aVPHP
+p53
+atRp54
+sS'invitees'
+p55
+NstRp56
+g56
+b.

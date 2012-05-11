@@ -1,0 +1,52 @@
+(dp1
+S'interests'
+p2
+c__builtin__
+set
+p3
+((lp4
+V\u043c\u0430\u0440\u043a\u0435\u0442\u0438\u043d\u0433 \u0438 pr
+p5
+aV\u0441\u043f\u043e\u0440\u0442
+p6
+aV\u0444\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u044f
+p7
+atRp8
+sS'friends'
+p9
+g3
+((lp10
+Vsani4
+p11
+aVyuradakal
+p12
+aVkorobka
+p13
+aVVikaka
+p14
+aVGDWLab
+p15
+atRp16
+sS'companies'
+p17
+g3
+((lp18
+VYellow Media Group
+p19
+atRp20
+sS'hubs'
+p21
+g3
+((lp22
+VMac OS X
+p23
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p24
+aVApple
+p25
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043f\u043e\u0434 iOS
+p26
+atRp27
+sS'invitees'
+p28
+Ns.

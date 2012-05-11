@@ -1,0 +1,62 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+Vstilax
+p9
+atRp10
+sS'companies'
+p11
+g7
+((lp12
+VFree Software Foundation
+p13
+aVRed Hat
+p14
+aVGoogle
+p15
+aVSun Microsystems
+p16
+aVMozilla Foundation
+p17
+aVCanonical
+p18
+atRp19
+sS'hubs'
+p20
+g7
+((lp21
+VFirefox
+p22
+aV\u0423\u0431\u0443\u043d\u0442\u0430\u0440\u0438\u0443\u043c
+p23
+aV\u0427\u0443\u043b\u0430\u043d
+p24
+aVMozilla
+p25
+aV\u0410\u043d\u0438\u043c\u0430\u0446\u0438\u044f \u0438 3D \u0433\u0440\u0430\u0444\u0438\u043a\u0430
+p26
+aVLinux
+p27
+aVAndroid
+p28
+atRp29
+sS'invitees'
+p30
+NstRp31
+g31
+b.

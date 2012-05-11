@@ -1,0 +1,79 @@
+(dp1
+S'interests'
+p2
+NsS'friends'
+p3
+c__builtin__
+set
+p4
+((lp5
+Vd1p
+p6
+aValtblog
+p7
+aVIstergul
+p8
+atRp9
+sS'companies'
+p10
+g4
+((lp11
+VZend Technologies
+p12
+aVWebMoney Transfer
+p13
+aVGoogle
+p14
+aVAdobe
+p15
+aVApple
+p16
+aVSun Microsystems
+p17
+aVMozilla Foundation
+p18
+aVESET NOD32
+p19
+aVOpera Software ASA
+p20
+aVVMware Inc.
+p21
+aVMicrosoft
+p22
+aVWikimedia Foundation
+p23
+atRp24
+sS'hubs'
+p25
+g4
+((lp26
+V\u0425\u0430\u0431\u0440\u0430\u0445\u0430\u0431\u0440
+p27
+aV\u0423\u0447\u0435\u0431\u043d\u044b\u0439 \u043f\u0440\u043e\u0446\u0435\u0441\u0441 \u0432 IT
+p28
+aVGTD
+p29
+aV\u041c\u043e\u0439 \u0431\u0438\u0437\u043d\u0435\u0441
+p30
+aV\u0427\u0443\u043b\u0430\u043d
+p31
+aVJavaScript
+p32
+aV\u0418\u043d\u0444\u043e\u0441\u0444\u0435\u0440\u0430 - \u043c\u044b\u0441\u043b\u0438 \u0432\u0441\u043b\u0443\u0445
+p33
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p34
+aVGoogle Chrome
+p35
+aVMySQL
+p36
+aVPHP
+p37
+aVCMS
+p38
+aVCSS
+p39
+atRp40
+sS'invitees'
+p41
+Ns.

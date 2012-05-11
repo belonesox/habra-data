@@ -1,0 +1,54 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+V\u0438\u0441\u043e 9000
+p8
+aV\u0438\u0441\u043e 9001
+p9
+aV\u0438\u0441\u043e
+p10
+aV\u0441\u0435\u0440\u0442\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u044f iso
+p11
+aViso 9000
+p12
+aViso 9001
+p13
+aV\u0441\u0435\u0440\u0442\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u044f \u0438\u0441\u043e
+p14
+aViso
+p15
+aV\u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u044b \u0438\u0441\u043e \u0441\u0435\u0440\u0438\u0438 9000
+p16
+aV\u0441\u0435\u0440\u0442\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u044f
+p17
+aV\u0441\u043c\u043a
+p18
+aV\u0441\u0435\u0440\u0442\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u044f iso 9000
+p19
+aV\u0441\u0438\u0441\u0442\u0435\u043c\u0430 \u043c\u0435\u043d\u0435\u0434\u0436\u043c\u0435\u043d\u0442\u0430 \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0430
+p20
+atRp21
+sS'friends'
+p22
+NsS'companies'
+p23
+NsS'hubs'
+p24
+NsS'invitees'
+p25
+NstRp26
+g26
+b.

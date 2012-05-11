@@ -1,0 +1,113 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+V\u043e\u0431\u043b\u0430\u0447\u043d\u044b\u0435 \u0432\u044b\u0447\u0438\u0441\u043b\u0435\u043d\u0438\u044f
+p8
+aV\u0432\u0438\u0440\u0442\u0443\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u044f
+p9
+atRp10
+sS'friends'
+p11
+g6
+((lp12
+VWizardBox
+p13
+aVyairishka
+p14
+aVSystem32
+p15
+aVnipanov
+p16
+aVvzayko
+p17
+aVAntonVirtual
+p18
+aVInc
+p19
+aVParnassus
+p20
+aVSergun
+p21
+aVIVorontsov
+p22
+aVmbakirov
+p23
+atRp24
+sS'companies'
+p25
+g6
+((lp26
+VGoogle
+p27
+aVApple
+p28
+aVHP
+p29
+aVSun Microsystems
+p30
+aVAmazon
+p31
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p32
+aVOracle
+p33
+aVEMC²
+p34
+aVNetApp
+p35
+aVMicrosoft
+p36
+aVIntel
+p37
+atRp38
+sS'hubs'
+p39
+g6
+((lp40
+V\u0412\u0438\u0440\u0443\u0441\u044b (\u0438 \u0430\u043d\u0442\u0438\u0432\u0438\u0440\u0443\u0441\u044b)
+p41
+aVOpen source
+p42
+aV\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c
+p43
+aV\u0418\u0422-\u0418\u043d\u0444\u0440\u0430\u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0430
+p44
+aV\u0427\u0443\u043b\u0430\u043d
+p45
+aV\u0412\u0438\u0440\u0442\u0443\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u044f
+p46
+aV\u0421\u0438\u0441\u0442\u0435\u043c\u043d\u043e\u0435 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p47
+aVMicrosoft
+p48
+aV\u041e\u0431\u043b\u0430\u0447\u043d\u044b\u0435 \u0432\u044b\u0447\u0438\u0441\u043b\u0435\u043d\u0438\u044f
+p49
+aVSaaS / S+S
+p50
+aVLinux
+p51
+aVInternet Explorer
+p52
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p53
+aVPowerShell
+p54
+atRp55
+sS'invitees'
+p56
+NstRp57
+g57
+b.

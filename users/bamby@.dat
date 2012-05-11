@@ -1,0 +1,92 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+VInsideOut
+p9
+aVdmitrybitman
+p10
+aVGarik
+p11
+aVarty
+p12
+aVVoDmAl
+p13
+aVzolotukhin
+p14
+aVzinigor
+p15
+aVcompwoman
+p16
+aValex_sv
+p17
+atRp18
+sS'companies'
+p19
+g7
+((lp20
+VHeadHunter
+p21
+aVGoogle
+p22
+aVCorbina Telecom
+p23
+aVMozilla Foundation
+p24
+aVCisco Systems, Inc
+p25
+aVFacebook
+p26
+aVdeviantART
+p27
+aV\u041c\u0438\u0440 \u0422\u0435\u0441\u0435\u043d
+p28
+aV\u0421\u0442\u0443\u0434\u0438\u044f \u0410\u0440\u0442\u0435\u043c\u0438\u044f \u041b\u0435\u0431\u0435\u0434\u0435\u0432\u0430
+p29
+aVPlaxo
+p30
+atRp31
+sS'hubs'
+p32
+g7
+((lp33
+V\u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043f\u0440\u043e\u0435\u043a\u0442\u0430\u043c\u0438
+p34
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p35
+aVIT-\u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u044b
+p36
+aV\u041a\u043e\u043d\u0442\u0435\u043a\u0441\u0442\u043d\u0430\u044f \u0440\u0435\u043a\u043b\u0430\u043c\u0430
+p37
+aV\u0421\u0442\u0443\u0434\u0438\u044f \u0410\u0440\u0442\u0435\u043c\u0438\u044f \u041b\u0435\u0431\u0435\u0434\u0435\u0432\u0430
+p38
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p39
+aV\u041f\u043e\u0434\u043a\u0430\u0441\u0442\u044b
+p40
+aV\u0418\u0434\u0435\u0438 \u0434\u043b\u044f \u0441\u0442\u0430\u0440\u0442\u0430\u043f\u043e\u0432
+p41
+aV\u0421\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0435 \u0441\u0435\u0442\u0438 \u0438 \u0441\u043e\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0430
+p42
+aV\u0418\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044b
+p43
+atRp44
+sS'invitees'
+p45
+NstRp46
+g46
+b.

@@ -1,0 +1,47 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+VNatalie
+p9
+aVweekend
+p10
+aVmagdel
+p11
+atRp12
+sS'companies'
+p13
+g7
+((lp14
+V\u0420\u0410 \u041c\u0430\u043d\u044c\u044f\u043a\u043e
+p15
+aVPixar Animation Studios
+p16
+aVGoogle
+p17
+aVAdobe
+p18
+aVDigital Zone
+p19
+atRp20
+sS'hubs'
+p21
+NsS'invitees'
+p22
+NstRp23
+g23
+b.

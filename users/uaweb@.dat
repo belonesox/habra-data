@@ -1,0 +1,105 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+Vpr
+p8
+aV\u0433\u0430\u0434\u0436\u0435\u0442\u044b
+p9
+aV\u0438\u043d\u043d\u043e\u0432\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0432\u0435\u0431-\u043f\u0440\u043e\u0435\u043a\u0442\u044b
+p10
+atRp11
+sS'friends'
+p12
+g6
+((lp13
+VRulez
+p14
+aVjimbo
+p15
+aVigorshubovych
+p16
+aVcyberpank
+p17
+aVJTOne
+p18
+aVpietrovich
+p19
+aVJackdaw
+p20
+aVrozhik
+p21
+atRp22
+sS'companies'
+p23
+g6
+((lp24
+VGoogle
+p25
+aVApple
+p26
+atRp27
+sS'hubs'
+p28
+g6
+((lp29
+V\u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043f\u0440\u043e\u0435\u043a\u0442\u0430\u043c\u0438
+p30
+aV\u041a\u043e\u0434\u043e\u0411\u0440\u0435\u0434
+p31
+aVCoworking: \u0440\u0430\u0431\u043e\u0442\u0430 2.0
+p32
+aVFirefox
+p33
+aVApple
+p34
+aVCodeIgniter
+p35
+aV\u0414\u0438\u0437\u0430\u0439\u043d \u0432 IT
+p36
+aVRuby
+p37
+aV\u0421\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0435 \u0441\u0435\u0442\u0438 \u0438 \u0441\u043e\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0430
+p38
+aVYii
+p39
+aVRuby on Rails
+p40
+aV\u0411\u0438\u0437\u043d\u0435\u0441 \u0441\u0442\u0443\u0434\u0438\u0438
+p41
+aV\u0427\u0443\u043b\u0430\u043d
+p42
+aV\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p43
+aV\u0418\u0434\u0435\u0438 \u0434\u043b\u044f \u0441\u0442\u0430\u0440\u0442\u0430\u043f\u043e\u0432
+p44
+aV\u041c\u043e\u0439 \u0431\u0438\u0437\u043d\u0435\u0441
+p45
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p46
+aVPHP
+p47
+aVCMS
+p48
+aV\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u0440\u0435\u043a\u043b\u0430\u043c\u0430
+p49
+aV\u0424\u043e\u0442\u043e\u0442\u0435\u0445\u043d\u0438\u043a\u0430
+p50
+atRp51
+sS'invitees'
+p52
+NstRp53
+g53
+b.

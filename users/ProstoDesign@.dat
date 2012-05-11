@@ -1,0 +1,121 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+NsS'companies'
+p7
+c__builtin__
+set
+p8
+((lp9
+VGoogle
+p10
+aV\u0431\u043e\u043b\u043etov.ru
+p11
+atRp12
+sS'hubs'
+p13
+g8
+((lp14
+VjQuery
+p15
+aVLiveStreet
+p16
+aVWiki-\u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u044f
+p17
+aVCreative Commons
+p18
+aVMODx
+p19
+aVMooTools
+p20
+aVTwisted
+p21
+aVYahoo
+p22
+aV\u0410\u043d\u0438\u043c\u0430\u0446\u0438\u044f \u0438 3D \u0433\u0440\u0430\u0444\u0438\u043a\u0430
+p23
+aV\u041f\u0440\u043e\u0446\u0435\u0441\u0441\u043e\u0440\u044b
+p24
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p25
+aVMail.Ru
+p26
+aVCMS
+p27
+aVCodeIgniter
+p28
+aV\u0414\u0438\u0437\u0430\u0439\u043d \u0432 IT
+p29
+aV\u0421\u0443\u043f
+p30
+aV\u0420\u0430\u043c\u0431\u043b\u0435\u0440
+p31
+aVRuby on Rails
+p32
+aVAjax
+p33
+aVFacebook
+p34
+aVYii
+p35
+aV\u0421\u043f\u0430\u043c (\u0438 \u0430\u043d\u0442\u0438\u0441\u043f\u0430\u043c)
+p36
+aVQt Software
+p37
+aVDrupal
+p38
+aVSun Microsystems
+p39
+aVEclipse
+p40
+aVDjango
+p41
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p42
+aV\u0411\u0435\u0433\u0443\u043d
+p43
+aVCisco
+p44
+aVCakePHP
+p45
+aVMicrosoft
+p46
+aVCSS
+p47
+aV\u0421\u043c\u0430\u0440\u0442\u0444\u043e\u043d\u044b \u0438 \u043a\u043e\u043c\u043c\u0443\u043d\u0438\u043a\u0430\u0442\u043e\u0440\u044b
+p48
+aVSymfony
+p49
+aVGoogle
+p50
+aVAdobe
+p51
+aVApple
+p52
+aV\u0421\u0442\u0443\u0434\u0438\u044f \u0410\u0440\u0442\u0435\u043c\u0438\u044f \u041b\u0435\u0431\u0435\u0434\u0435\u0432\u0430
+p53
+aVNode.JS
+p54
+aVZend Framework
+p55
+aVGroovy & Grails
+p56
+aVKohana
+p57
+atRp58
+sS'invitees'
+p59
+NstRp60
+g60
+b.

@@ -1,0 +1,62 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+VZonk
+p9
+aVres
+p10
+aVsilkleo
+p11
+aVupominator
+p12
+aVart_of_press
+p13
+aVBlackWizard
+p14
+atRp15
+sS'companies'
+p16
+g7
+((lp17
+V«\u0410\u0444\u0438\u0448\u0430» \u0438 «\u0420\u0430\u043c\u0431\u043b\u0435\u0440»
+p18
+aV\u041f\u043e\u043a\u0443\u043f\u0430\u0442\u043e\u0440
+p19
+atRp20
+sS'hubs'
+p21
+g7
+((lp22
+V\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p23
+aV\u0414\u043e\u043c\u0435\u043d\u044b
+p24
+aV\u041f\u043e\u0438\u0441\u043a\u043e\u0432\u0430\u044f \u043e\u043f\u0442\u0438\u043c\u0438\u0437\u0430\u0446\u0438\u044f
+p25
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p26
+aVSaaS / S+S
+p27
+aV\u042d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u0430\u044f \u043a\u043e\u043c\u043c\u0435\u0440\u0446\u0438\u044f
+p28
+atRp29
+sS'invitees'
+p30
+NstRp31
+g31
+b.

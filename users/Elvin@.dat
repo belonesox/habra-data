@@ -1,0 +1,132 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+VKAFLAN
+p9
+aVWebstudent
+p10
+aVrosnovsky
+p11
+atRp12
+sS'companies'
+p13
+g7
+((lp14
+VNews2
+p15
+aVWebMoney Transfer
+p16
+aVCNews
+p17
+aV.masterhost
+p18
+aV\u041c\u0435\u0434\u0438\u0430\u0441\u0430\u0439\u0442
+p19
+aVSix Apart
+p20
+aVFuturico
+p21
+aVYahoo
+p22
+aVLast.fm
+p23
+aVMozilla Foundation
+p24
+aVGoogle
+p25
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p26
+aVSkype
+p27
+aV\u041b\u0435\u043d\u0442\u0430.\u0420\u0443
+p28
+aVRussian Podcasting
+p29
+aVOpera Software ASA
+p30
+aVApple
+p31
+atRp32
+sS'hubs'
+p33
+g7
+((lp34
+V\u0427\u0443\u043b\u0430\u043d
+p35
+aV\u0411\u043b\u043e\u0433\u043e\u0441\u0444\u0435\u0440\u0430
+p36
+aV\u041e\u0444\u0438\u0441\u044b IT-\u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0439
+p37
+aV\u041f\u043e\u0434\u043a\u0430\u0441\u0442\u044b
+p38
+aV\u0421\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0435 \u0441\u0435\u0442\u0438 \u0438 \u0441\u043e\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0430
+p39
+aV\u0425\u0430\u0431\u0440\u0430\u0445\u0430\u0431\u0440 \u2014 \u0410\u043d\u043e\u043d\u0441\u044b
+p40
+aVeBay
+p41
+aVWordpress
+p42
+aV\u0416\u0435\u043b\u0435\u0437\u043e
+p43
+aV\u0412\u0435\u0431-\u0434\u0438\u0437\u0430\u0439\u043d
+p44
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p45
+aVCMS
+p46
+aV\u0418\u043d\u0442\u0435\u0440\u0432\u044c\u044e
+p47
+aVLiveJournal
+p48
+aV\u041f\u043e\u0438\u0441\u043a\u043e\u0432\u0430\u044f \u043e\u043f\u0442\u0438\u043c\u0438\u0437\u0430\u0446\u0438\u044f
+p49
+aV\u0420\u0430\u0431\u043e\u0442\u0430 \u0441 \u0432\u0438\u0434\u0435\u043e
+p50
+aV\u0425\u0430\u0431\u0440\u0430\u0445\u0430\u0431\u0440
+p51
+aV\u0420\u0430\u043c\u0431\u043b\u0435\u0440
+p52
+aVGTD
+p53
+aV\u041a\u043e\u043d\u0442\u0435\u043a\u0441\u0442\u043d\u0430\u044f \u0440\u0435\u043a\u043b\u0430\u043c\u0430
+p54
+aVLinux
+p55
+aV\u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043f\u0440\u043e\u0435\u043a\u0442\u0430\u043c\u0438
+p56
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p57
+aVIM
+p58
+aViPhone
+p59
+aVGoogle
+p60
+aVFirefox
+p61
+aVApple
+p62
+aVSkype
+p63
+atRp64
+sS'invitees'
+p65
+NstRp66
+g66
+b.

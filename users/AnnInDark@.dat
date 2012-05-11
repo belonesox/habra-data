@@ -1,0 +1,66 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+NsS'companies'
+p7
+NsS'hubs'
+p8
+c__builtin__
+set
+p9
+((lp10
+V\u041f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0430
+p11
+aV\u041a\u0438\u0431\u0435\u0440\u043f\u0430\u043d\u043a
+p12
+aVPostgreSQL
+p13
+aVNoSQL
+p14
+aVSQL
+p15
+aVCubrid
+p16
+aVData Mining
+p17
+aV\u0421\u0438\u0441\u0442\u0435\u043c\u044b \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u0432\u0435\u0440\u0441\u0438\u044f\u043c\u0438
+p18
+aVMongoDB
+p19
+aV\u0413\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043e\u0431\u043e\u043b\u043e\u0447\u043a\u0438
+p20
+aV\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p21
+aVDoctrine ORM
+p22
+aV\u041f\u0440\u043e\u0435\u043a\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0438 \u0440\u0435\u0444\u0430\u043a\u0442\u043e\u0440\u0438\u043d\u0433
+p23
+aV\u0424\u0440\u0438\u043b\u0430\u043d\u0441
+p24
+aVLinux
+p25
+aVOracle
+p26
+aV\u0423\u0431\u0443\u043d\u0442\u0430\u0440\u0438\u0443\u043c
+p27
+aVPowerShell
+p28
+aVMicrosoft SQL Server
+p29
+atRp30
+sS'invitees'
+p31
+NstRp32
+g32
+b.

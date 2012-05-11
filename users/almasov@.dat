@@ -1,0 +1,38 @@
+(dp1
+S'interests'
+p2
+c__builtin__
+set
+p3
+((lp4
+Vsoftware development
+p5
+aVstreet photography
+p6
+aV\u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438
+p7
+aV\u0443\u043b\u0438\u0447\u043d\u0430\u044f \u0444\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u044f
+p8
+aV\u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p9
+aVit management
+p10
+aVproject management
+p11
+atRp12
+sS'friends'
+p13
+NsS'companies'
+p14
+NsS'hubs'
+p15
+g3
+((lp16
+V\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p17
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043f\u043e\u0434 iOS
+p18
+atRp19
+sS'invitees'
+p20
+Ns.

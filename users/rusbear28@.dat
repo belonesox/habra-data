@@ -1,0 +1,33 @@
+(dp1
+S'interests'
+p2
+c__builtin__
+set
+p3
+((lp4
+Vweb-\u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p5
+atRp6
+sS'friends'
+p7
+NsS'companies'
+p8
+g3
+((lp9
+V\u0421\u0435\u043b\u0435\u043a\u0442\u0435\u043b
+p10
+atRp11
+sS'hubs'
+p12
+g3
+((lp13
+V\u0427\u0443\u043b\u0430\u043d
+p14
+aV\u0411\u0443\u0434\u0443\u0449\u0435\u0435 \u0437\u0434\u0435\u0441\u044c
+p15
+aV\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p16
+atRp17
+sS'invitees'
+p18
+Ns.

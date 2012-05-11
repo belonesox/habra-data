@@ -1,0 +1,37 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+Ve-commerce
+p8
+aV\u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438
+p9
+atRp10
+sS'friends'
+p11
+NsS'companies'
+p12
+g6
+((lp13
+V\u0414\u0435\u043d\u044c\u0433\u0438 Online
+p14
+atRp15
+sS'hubs'
+p16
+NsS'invitees'
+p17
+NstRp18
+g18
+b.

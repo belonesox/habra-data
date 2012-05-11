@@ -1,0 +1,86 @@
+(dp1
+S'interests'
+p2
+c__builtin__
+set
+p3
+((lp4
+Vgoogle
+p5
+atRp6
+sS'friends'
+p7
+g3
+((lp8
+Vuralan
+p9
+aVmisha_kvakin
+p10
+aViPavel
+p11
+atRp12
+sS'companies'
+p13
+g3
+((lp14
+V\u0412\u044b\u043c\u043f\u0435\u043b\u041a\u043e\u043c (\u0411\u0438\u043b\u0430\u0439\u043d)
+p15
+aVGoogle
+p16
+aV\u0421\u0442\u0443\u0434\u0438\u044f \u0410\u0440\u0442\u0435\u043c\u0438\u044f \u041b\u0435\u0431\u0435\u0434\u0435\u0432\u0430
+p17
+aVApple
+p18
+atRp19
+sS'hubs'
+p20
+g3
+((lp21
+VIT-\u0411\u0438\u043e\u0433\u0440\u0430\u0444\u0438\u0438
+p22
+aV\u0421\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0435 \u0441\u0435\u0442\u0438 \u0438 \u0441\u043e\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0430
+p23
+aVJavaScript
+p24
+aVWordpress
+p25
+aVMySQL
+p26
+aVAndroid
+p27
+aVDIY \u0438\u043b\u0438 \u0421\u0434\u0435\u043b\u0430\u0439 \u0421\u0430\u043c
+p28
+aV\u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043f\u0440\u043e\u0435\u043a\u0442\u0430\u043c\u0438
+p29
+aV\u0414\u0438\u0437\u0430\u0439\u043d \u0432 IT
+p30
+aV\u0423\u0431\u0443\u043d\u0442\u0430\u0440\u0438\u0443\u043c
+p31
+aV\u0425\u0430\u0431\u0440\u0430\u0445\u0430\u0431\u0440
+p32
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p33
+aVDura Lex
+p34
+aVWiMAX
+p35
+aVIM
+p36
+aV\u0422\u0438\u043f\u043e\u0433\u0440\u0430\u0444\u0438\u043a\u0430
+p37
+aVCSS
+p38
+aVGoogle
+p39
+aVGoogle Chrome
+p40
+aVLinux
+p41
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p42
+aVPHP
+p43
+atRp44
+sS'invitees'
+p45
+Ns.

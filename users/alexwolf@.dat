@@ -1,0 +1,112 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+VNumberOne
+p9
+aVbat
+p10
+aVHagen
+p11
+aVmakkl
+p12
+aVbishop3000
+p13
+aVostrovityanin
+p14
+aVwearymax
+p15
+aVFanXFire
+p16
+aValtblog
+p17
+atRp18
+sS'companies'
+p19
+g7
+((lp20
+VFree Software Foundation
+p21
+aVCNews
+p22
+aVAdobe
+p23
+aVApple
+p24
+aV\u0411\u043b\u043e\u0433\u0443\u0441
+p25
+aVWorld Wide Web Consortium
+p26
+aVSun Microsystems
+p27
+aV\u041c\u0435\u0433\u0430\u0444\u043e\u043d
+p28
+aVMozilla Foundation
+p29
+aVGoogle
+p30
+aV\u0412\u0435\u0431\u043f\u043b\u0430\u043d\u0435\u0442\u0430
+p31
+aVSubscribe.Ru
+p32
+aVWebmascon
+p33
+aVOpera Software ASA
+p34
+aVWikimedia Foundation
+p35
+atRp36
+sS'hubs'
+p37
+g7
+((lp38
+VjQuery
+p39
+aVQt Software
+p40
+aV\u0423\u0447\u0435\u0431\u043d\u044b\u0439 \u043f\u0440\u043e\u0446\u0435\u0441\u0441 \u0432 IT
+p41
+aVGoogle
+p42
+aVOpen source
+p43
+aVApple
+p44
+aVNoSQL
+p45
+aV\u0427\u0443\u043b\u0430\u043d
+p46
+aVNginx
+p47
+aV\u041e\u043f\u0435\u0440\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0441\u0438\u0441\u0442\u0435\u043c\u044b
+p48
+aV\u0418\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044b
+p49
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043f\u043e\u0434 iOS
+p50
+aV\u041f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0430
+p51
+aV\u0422\u0438\u043f\u043e\u0433\u0440\u0430\u0444\u0438\u043a\u0430
+p52
+aVCSS
+p53
+atRp54
+sS'invitees'
+p55
+NstRp56
+g56
+b.

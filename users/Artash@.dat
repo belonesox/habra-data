@@ -1,0 +1,197 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+Vweb-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p8
+atRp9
+sS'friends'
+p10
+g6
+((lp11
+Vpresto5
+p12
+aVsericoff
+p13
+atRp14
+sS'companies'
+p15
+g6
+((lp16
+V\u0422\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u041c\u0435\u0434\u0438\u0430
+p17
+aVApple
+p18
+aVLast.fm
+p19
+atRp20
+sS'hubs'
+p21
+g6
+((lp22
+VjQuery
+p23
+aVLaTeX
+p24
+aVCanvas
+p25
+aVWiki-\u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u044f
+p26
+aVNoSQL
+p27
+aVLiveStreet
+p28
+aVMODx
+p29
+aV\u041f\u043e\u0434\u043a\u0430\u0441\u0442\u044b
+p30
+aV\u0421\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0435 \u0441\u0435\u0442\u0438 \u0438 \u0441\u043e\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0430
+p31
+aVJavaScript
+p32
+aVMooTools
+p33
+aVTwisted
+p34
+aV\u0410\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0431\u0430\u0437 \u0434\u0430\u043d\u043d\u044b\u0445
+p35
+aV\u0410\u043d\u0438\u043c\u0430\u0446\u0438\u044f \u0438 3D \u0433\u0440\u0430\u0444\u0438\u043a\u0430
+p36
+aVWordpress
+p37
+aVMySQL
+p38
+aV\u0412\u0435\u0431-\u0434\u0438\u0437\u0430\u0439\u043d
+p39
+aVAndroid
+p40
+aVCMS
+p41
+aVGreaseMonkey
+p42
+aV1\u0421-\u0411\u0438\u0442\u0440\u0438\u043a\u0441
+p43
+aVFlex
+p44
+aVCodeIgniter
+p45
+aV\u0414\u0438\u0437\u0430\u0439\u043d \u0432 IT
+p46
+aV\u0411\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u0430 ExtJS/Sencha
+p47
+aVRuby on Rails
+p48
+aV\u0418\u043d\u0444\u043e\u0433\u0440\u0430\u0444\u0438\u043a\u0430
+p49
+aVAjax
+p50
+aVHTML
+p51
+aVFacebook
+p52
+aV\u0418\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044b
+p53
+aVYii
+p54
+aV\u0420\u0430\u0431\u043e\u0442\u0430 \u0441 \u0432\u0438\u0434\u0435\u043e
+p55
+aVMicrosoft Access
+p56
+aV\u0412\u0438\u0440\u0443\u0441\u044b (\u0438 \u0430\u043d\u0442\u0438\u0432\u0438\u0440\u0443\u0441\u044b)
+p57
+aVMicrosoft SQL Server
+p58
+aV\u042e\u0437\u0430\u0431\u0438\u043b\u0438\u0442\u0438 \u0432 IT
+p59
+aVXML
+p60
+aVQt Software
+p61
+aV\u0418\u043a\u043e\u043d\u043e\u0441\u043a\u0430\u0437
+p62
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p63
+aVXSLT
+p64
+aVDrupal
+p65
+aVCubrid
+p66
+aVSQL
+p67
+aVEclipse
+p68
+aVDjango
+p69
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p70
+aVAction Script
+p71
+aViPhone
+p72
+aVData Mining
+p73
+aVOracle
+p74
+aV\u0422\u0438\u043f\u043e\u0433\u0440\u0430\u0444\u0438\u043a\u0430
+p75
+aVCakePHP
+p76
+aVCSS
+p77
+aV\u0412\u0435\u043a\u0442\u043e\u0440\u043d\u0430\u044f \u0433\u0440\u0430\u0444\u0438\u043a\u0430
+p78
+aVSymfony
+p79
+aV\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p80
+aV\u041c\u0438\u043a\u0440\u043e\u0444\u043e\u0440\u043c\u0430\u0442\u044b
+p81
+aVPostgreSQL
+p82
+aVApple
+p83
+aV\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c
+p84
+aV\u041f\u0440\u0435\u0437\u0435\u043d\u0442\u0430\u0446\u0438\u0438
+p85
+aVMongoDB
+p86
+aVJoomla
+p87
+aV\u0421\u043f\u0430\u043c (\u0438 \u0430\u043d\u0442\u0438\u0441\u043f\u0430\u043c)
+p88
+aVNode.JS
+p89
+aVDoctrine ORM
+p90
+aVZend Framework
+p91
+aVGroovy & Grails
+p92
+aVKohana
+p93
+aVGTK+
+p94
+aV\u0420\u0430\u0431\u043e\u0442\u0430 \u0441\u043e \u0437\u0432\u0443\u043a\u043e\u043c
+p95
+aV\u041a\u0440\u0438\u043f\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u044f
+p96
+atRp97
+sS'invitees'
+p98
+NstRp99
+g99
+b.

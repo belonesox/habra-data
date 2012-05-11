@@ -1,0 +1,79 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+Vsteck
+p9
+aVsdramare
+p10
+atRp11
+sS'companies'
+p12
+NsS'hubs'
+p13
+g7
+((lp14
+V\u0421\u043f\u043e\u0440\u0442\u0438\u0432\u043d\u043e\u0435 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p15
+aV\u0427\u0443\u043b\u0430\u043d
+p16
+aV.NET
+p17
+aVVisual Studio
+p18
+aVAndroid
+p19
+aV\u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043f\u0440\u043e\u0435\u043a\u0442\u0430\u043c\u0438
+p20
+aVASP
+p21
+aV\u041e\u0431\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u0438\u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u0439
+p22
+aVPython
+p23
+aV\u041a\u043e\u043c\u043f\u0438\u043b\u044f\u0442\u043e\u0440\u044b
+p24
+aVAjax
+p25
+aVSilverlight
+p26
+aVJavaScript
+p27
+aVLisp
+p28
+aVGoogle App Engine
+p29
+aV\u041e\u043f\u0435\u0440\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0441\u0438\u0441\u0442\u0435\u043c\u044b
+p30
+aVData Mining
+p31
+aV\u0410\u043b\u0433\u043e\u0440\u0438\u0442\u043c\u044b
+p32
+aV\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c
+p33
+aVHaskell
+p34
+aVSQL
+p35
+aV\u041a\u0440\u0438\u043f\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u044f
+p36
+atRp37
+sS'invitees'
+p38
+NstRp39
+g39
+b.

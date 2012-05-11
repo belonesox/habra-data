@@ -1,0 +1,54 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+Vrisk management
+p8
+aVproject management
+p9
+atRp10
+sS'friends'
+p11
+g6
+((lp12
+VArchy
+p13
+aVkeltanas
+p14
+aVdfuse
+p15
+atRp16
+sS'companies'
+p17
+NsS'hubs'
+p18
+g6
+((lp19
+V\u041a\u0438\u0431\u0435\u0440\u043f\u0430\u043d\u043a
+p20
+aV\u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043f\u0440\u043e\u0435\u043a\u0442\u0430\u043c\u0438
+p21
+aVGTD
+p22
+aVDura Lex
+p23
+aV\u0423\u0447\u0435\u0431\u043d\u044b\u0439 \u043f\u0440\u043e\u0446\u0435\u0441\u0441 \u0432 IT
+p24
+atRp25
+sS'invitees'
+p26
+NstRp27
+g27
+b.

@@ -1,0 +1,36 @@
+(dp1
+S'interests'
+p2
+c__builtin__
+set
+p3
+((lp4
+Vgit
+p5
+aVruby on rails
+p6
+aVsubversion
+p7
+aVzend framework
+p8
+aVmysql
+p9
+aVphp
+p10
+aVruby
+p11
+atRp12
+sS'friends'
+p13
+g3
+((lp14
+Vmdevils
+p15
+atRp16
+sS'companies'
+p17
+NsS'hubs'
+p18
+NsS'invitees'
+p19
+Ns.

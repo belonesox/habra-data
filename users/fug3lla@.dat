@@ -1,0 +1,91 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+NsS'companies'
+p7
+c__builtin__
+set
+p8
+((lp9
+VGoogle
+p10
+aVAdobe
+p11
+aVApple
+p12
+aV\u0416\u0443\u0440\u043d\u0430\u043b \u0425\u0430\u043a\u0435\u0440
+p13
+aVOpera Software ASA
+p14
+aVIntel
+p15
+atRp16
+sS'hubs'
+p17
+g8
+((lp18
+ViPad
+p19
+aVjQuery
+p20
+aVIT-\u0411\u0438\u043e\u0433\u0440\u0430\u0444\u0438\u0438
+p21
+aVHuman Resources
+p22
+aV\u0423\u0447\u0435\u0431\u043d\u044b\u0439 \u043f\u0440\u043e\u0446\u0435\u0441\u0441 \u0432 IT
+p23
+aVAndroid
+p24
+aV\u0414\u0438\u0437\u0430\u0439\u043d \u0432 IT
+p25
+aVMac OS X
+p26
+aVAjax
+p27
+aVHTML
+p28
+aV*nix
+p29
+aV\u0421\u043e\u0432\u0435\u0440\u0448\u0435\u043d\u043d\u044b\u0439 \u043a\u043e\u0434
+p30
+aVMobile Development
+p31
+aV\u041f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0430
+p32
+aVC++
+p33
+aViPhone
+p34
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043f\u043e\u0434 iOS
+p35
+aV\u0410\u043b\u0433\u043e\u0440\u0438\u0442\u043c\u044b
+p36
+aVApple
+p37
+aVGoogle
+p38
+aVJAVA
+p39
+aVGame Development
+p40
+aV\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c
+p41
+aV\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p42
+atRp43
+sS'invitees'
+p44
+NstRp45
+g45
+b.

@@ -1,0 +1,40 @@
+(dp1
+S'interests'
+p2
+NsS'friends'
+p3
+NsS'companies'
+p4
+c__builtin__
+set
+p5
+((lp6
+VNews2
+p7
+aVGoogle
+p8
+aVApple
+p9
+aVSun Microsystems
+p10
+aVOracle
+p11
+aVDigg
+p12
+aVApache Software Foundation
+p13
+aVWikimedia Foundation
+p14
+atRp15
+sS'hubs'
+p16
+g5
+((lp17
+VWikipedia
+p18
+aVOpen source
+p19
+atRp20
+sS'invitees'
+p21
+Ns.

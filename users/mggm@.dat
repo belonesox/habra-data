@@ -1,0 +1,166 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+VKukalyakin
+p9
+aVzoomiq
+p10
+aVTravin
+p11
+aVfreetonik
+p12
+aVdevenge
+p13
+aVrosnovsky
+p14
+aVtmr
+p15
+aVolyapka
+p16
+aVminibikini
+p17
+aValfsoft
+p18
+aVDilf4
+p19
+aVELIZIUM
+p20
+aVteroff
+p21
+aVanvar
+p22
+aVDeleteOne
+p23
+aVwpm
+p24
+aVnomad
+p25
+aVBBSoD
+p26
+aVAzs
+p27
+aVKiranoff
+p28
+aVincident404
+p29
+aVManPavel
+p30
+aVdik
+p31
+aVumputun
+p32
+aVagl666
+p33
+aVsamolet
+p34
+aV2Bad
+p35
+aVnini
+p36
+atRp37
+sS'companies'
+p38
+g7
+((lp39
+VRed Hat
+p40
+aVPalm Inc.
+p41
+aVIBM
+p42
+aVSun Microsystems
+p43
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p44
+aV\u0412\u0435\u0434\u043e\u043c\u043e\u0441\u0442\u0438
+p45
+aVVMware Inc.
+p46
+aVRussian Podcasting
+p47
+aVFuturico
+p48
+aV\u0414\u0438\u0437\u0430\u0439\u043d-\u0431\u044e\u0440\u043e \u0410\u0440\u0442\u0435\u043c\u0430 \u0413\u043e\u0440\u0431\u0443\u043d\u043e\u0432\u0430
+p49
+aVBitTorrent
+p50
+aVAmazon
+p51
+aVDigg
+p52
+aVTrolltech
+p53
+aVApache Software Foundation
+p54
+aVWikimedia Foundation
+p55
+aV\u0431\u043e\u043b\u043etov.ru
+p56
+aVDell Inc
+p57
+aVdeviantART
+p58
+aVGoogle
+p59
+aVAdobe
+p60
+aVApple
+p61
+aV\u0422\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u041c\u0435\u0434\u0438\u0430
+p62
+aVMozilla Foundation
+p63
+aVParcsis/Turbomilk
+p64
+aVSkype
+p65
+aVGizmo
+p66
+atRp67
+sS'hubs'
+p68
+g7
+((lp69
+V\u041a\u0438\u0431\u0435\u0440\u043f\u0430\u043d\u043a
+p70
+aV\u0421\u0442\u0430\u0440\u043e\u0435 \u0436\u0435\u043b\u0435\u0437\u043e
+p71
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p72
+aVApple
+p73
+aV\u0414\u0438\u0437\u0430\u0439\u043d \u0432 IT
+p74
+aV\u041f\u043e\u0434\u043a\u0430\u0441\u0442\u044b
+p75
+aV\u0411\u0443\u0434\u0443\u0449\u0435\u0435 \u0437\u0434\u0435\u0441\u044c
+p76
+aV\u0413\u0430\u0434\u0436\u0435\u0442\u044b. \u0423\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u0430 \u0434\u043b\u044f \u0433\u0438\u043a\u043e\u0432
+p77
+aV\u0416\u0435\u043b\u0435\u0437\u043e
+p78
+aVAndroid
+p79
+aV\u0421\u043c\u0430\u0440\u0442\u0444\u043e\u043d\u044b \u0438 \u043a\u043e\u043c\u043c\u0443\u043d\u0438\u043a\u0430\u0442\u043e\u0440\u044b
+p80
+atRp81
+sS'invitees'
+p82
+NstRp83
+g83
+b.

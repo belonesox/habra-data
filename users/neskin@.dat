@@ -1,0 +1,97 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+V\u0434\u043e\u043f\u043e\u043b\u043d\u0435\u043d\u043d\u0430\u044f \u0440\u0435\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u044c
+p8
+aVcomputer vision
+p9
+aVflash
+p10
+atRp11
+sS'friends'
+p12
+g6
+((lp13
+Vkal1sha
+p14
+aVnever_again
+p15
+aVdivanikus
+p16
+aVmarinchello
+p17
+aVCyberKot
+p18
+aVFrodo
+p19
+aVTerion
+p20
+aVTerekhov
+p21
+aVArtyomCH
+p22
+aVArtur
+p23
+aVVitaliyACTIVITI
+p24
+aVRabik
+p25
+aVflyingboar
+p26
+atRp27
+sS'companies'
+p28
+g6
+((lp29
+VGoogle
+p30
+atRp31
+sS'hubs'
+p32
+g6
+((lp33
+V\u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043f\u0440\u043e\u0435\u043a\u0442\u0430\u043c\u0438
+p34
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p35
+aV\u041c\u043e\u0439 \u0431\u0438\u0437\u043d\u0435\u0441
+p36
+aVDIY \u0438\u043b\u0438 \u0421\u0434\u0435\u043b\u0430\u0439 \u0421\u0430\u043c
+p37
+aV\u041a\u043e\u043d\u0442\u0435\u043a\u0441\u0442\u043d\u0430\u044f \u0440\u0435\u043a\u043b\u0430\u043c\u0430
+p38
+aVYouTube
+p39
+aV\u041c\u0435\u0440\u043e\u043f\u0440\u0438\u044f\u0442\u0438\u044f
+p40
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p41
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p42
+aVHTML
+p43
+aViPhone
+p44
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043f\u043e\u0434 iOS
+p45
+aVFlash-\u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u0430
+p46
+atRp47
+sS'invitees'
+p48
+NstRp49
+g49
+b.

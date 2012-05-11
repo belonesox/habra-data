@@ -1,0 +1,67 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+Vopen source
+p8
+aV\u0444\u0440\u0438\u0434\u0430\u0439\u0432\u0438\u043d\u0433
+p9
+aV\u043d\u043e\u0436\u0435\u0432\u043e\u0439 \u0431\u043e\u0439
+p10
+aV\u043f\u043e\u0434\u043a\u0430\u0441\u0442\u044b
+p11
+aVbike
+p12
+aV\u0446\u0438\u0433\u0443\u043d
+p13
+aVdiy
+p14
+aVspectrum-soft.ru :)
+p15
+atRp16
+sS'friends'
+p17
+g6
+((lp18
+VBris
+p19
+aVFatalius
+p20
+atRp21
+sS'companies'
+p22
+g6
+((lp23
+V\u041c\u043e\u0441\u0438\u0433\u0440\u0430
+p24
+atRp25
+sS'hubs'
+p26
+g6
+((lp27
+V\u0427\u0443\u043b\u0430\u043d
+p28
+aV\u0411\u0443\u0434\u0443\u0449\u0435\u0435 \u0437\u0434\u0435\u0441\u044c
+p29
+aVDIY \u0438\u043b\u0438 \u0421\u0434\u0435\u043b\u0430\u0439 \u0421\u0430\u043c
+p30
+aVArduino
+p31
+atRp32
+sS'invitees'
+p33
+NstRp34
+g34
+b.

@@ -1,0 +1,117 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+NsS'companies'
+p7
+c__builtin__
+set
+p8
+((lp9
+VGoogle
+p10
+aVIntel
+p11
+aVSony Mobile Communications
+p12
+aVMozilla Foundation
+p13
+aVLast.fm
+p14
+aVNVIDIA Corporation
+p15
+aVCanonical
+p16
+atRp17
+sS'hubs'
+p18
+g8
+((lp19
+VjQuery
+p20
+aVGit
+p21
+aVOpen source
+p22
+aV\u0427\u0443\u043b\u0430\u043d
+p23
+aVJavaScript
+p24
+aVYii
+p25
+aV\u0416\u0435\u043b\u0435\u0437\u043e
+p26
+aVMySQL
+p27
+aVDIY \u0438\u043b\u0438 \u0421\u0434\u0435\u043b\u0430\u0439 \u0421\u0430\u043c
+p28
+aV\u0418\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044b
+p29
+aV\u0412\u044b\u0441\u043e\u043a\u0430\u044f \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c
+p30
+aVPython
+p31
+aVMozilla
+p32
+aVYouTube
+p33
+aVAjax
+p34
+aVHTML
+p35
+aV\u0421\u043e\u0432\u0435\u0440\u0448\u0435\u043d\u043d\u044b\u0439 \u043a\u043e\u0434
+p36
+aV\u041a\u043e\u043c\u043f\u0438\u043b\u044f\u0442\u043e\u0440\u044b
+p37
+aVXML
+p38
+aVQt Software
+p39
+aVGPGPU
+p40
+aV\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u043d\u0433 \u043c\u0438\u043a\u0440\u043e\u043a\u043e\u043d\u0442\u0440\u043e\u043b\u043b\u0435\u0440\u043e\u0432
+p41
+aVC++
+p42
+aVDjango
+p43
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p44
+aV\u041e\u0431\u043b\u0430\u0447\u043d\u044b\u0435 \u0432\u044b\u0447\u0438\u0441\u043b\u0435\u043d\u0438\u044f
+p45
+aVCSS
+p46
+aVGMail
+p47
+aVSymfony
+p48
+aVGoogle
+p49
+aVFirefox
+p50
+aV\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c
+p51
+aVLinux
+p52
+aV\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p53
+aVErlang/OTP
+p54
+aV\u042d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u0438\u043a\u0430 \u0434\u043b\u044f \u043d\u0430\u0447\u0438\u043d\u0430\u044e\u0449\u0438\u0445
+p55
+atRp56
+sS'invitees'
+p57
+NstRp58
+g58
+b.

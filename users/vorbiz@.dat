@@ -1,0 +1,100 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+VDeTeam
+p9
+aVrealabs
+p10
+aVeveel
+p11
+aVfoxweb
+p12
+aVUseRifle
+p13
+aVptzn
+p14
+aVzayko
+p15
+aVChikey
+p16
+aVfabiaN
+p17
+aVmotiv
+p18
+aVLev_in
+p19
+aVolegche
+p20
+aVandoriyu
+p21
+aVtamaki
+p22
+atRp23
+sS'companies'
+p24
+g7
+((lp25
+VAviasales 
+p26
+aV\u041c\u043e\u0435 \u0434\u0435\u043b\u043e
+p27
+aVCanonical
+p28
+atRp29
+sS'hubs'
+p30
+g7
+((lp31
+V\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p32
+aV\u0412\u0438\u0440\u0443\u0441\u044b (\u0438 \u0430\u043d\u0442\u0438\u0432\u0438\u0440\u0443\u0441\u044b)
+p33
+aV\u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043f\u0440\u043e\u0435\u043a\u0442\u0430\u043c\u0438
+p34
+aVSphinx
+p35
+aV\u041c\u043e\u0439 \u0431\u0438\u0437\u043d\u0435\u0441
+p36
+aV\u0425\u0430\u0431\u0440\u0430\u0445\u0430\u0431\u0440
+p37
+aV\u041e\u0444\u0438\u0441\u044b IT-\u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0439
+p38
+aVDIY \u0438\u043b\u0438 \u0421\u0434\u0435\u043b\u0430\u0439 \u0421\u0430\u043c
+p39
+aVRuby on Rails
+p40
+aV\u0413\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043e\u0431\u043e\u043b\u043e\u0447\u043a\u0438
+p41
+aV\u0423\u0431\u0443\u043d\u0442\u0430\u0440\u0438\u0443\u043c
+p42
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p43
+aV\u0427\u0443\u043b\u0430\u043d
+p44
+aVFirefox
+p45
+aVRuby
+p46
+aVCSS
+p47
+atRp48
+sS'invitees'
+p49
+NstRp50
+g50
+b.

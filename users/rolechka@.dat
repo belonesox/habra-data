@@ -1,0 +1,100 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+V\u0431\u0430\u0437\u044b \u0434\u0430\u043d\u043d\u044b\u0445 \u0438 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0441\u0438\u0441\u0442\u0435\u043c\u044b \u0432 \u0447\u0430\u0441\u0442\u043d\u043e\u0441\u0442\u0438
+p8
+aV\u0441\u043d\u043e\u0443\u0431\u043e\u0440\u0434\u0438\u043d\u0433
+p9
+aVit \u0432 \u0446\u0435\u043b\u043e\u043c
+p10
+aV\u0432\u0435\u043b\u043e\u043f\u043e\u043a\u0430\u0442\u0443\u0448\u043a\u0438 \u0438 \u043c\u043d\u043e\u0433\u043e\u0435 \u0434\u0440\u0443\u0433\u043e\u0435
+p11
+aV\u0442\u0430\u043d\u0446\u044b
+p12
+atRp13
+sS'friends'
+p14
+g6
+((lp15
+Vaiotko
+p16
+aVkometa_triatlon
+p17
+atRp18
+sS'companies'
+p19
+NsS'hubs'
+p20
+g6
+((lp21
+VCreative Commons
+p22
+aVNoSQL
+p23
+aV\u0427\u0443\u043b\u0430\u043d
+p24
+aVSun Microsystems
+p25
+aV\u0410\u043d\u0438\u043c\u0430\u0446\u0438\u044f \u0438 3D \u0433\u0440\u0430\u0444\u0438\u043a\u0430
+p26
+aV\u041f\u0440\u043e\u0446\u0435\u0441\u0441\u043e\u0440\u044b
+p27
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p28
+aVMySQL
+p29
+aVAdobe
+p30
+aV\u0420\u0430\u043c\u0431\u043b\u0435\u0440
+p31
+aVYahoo
+p32
+aVFacebook
+p33
+aVMicrosoft SQL Server
+p34
+aV\u0411\u0435\u0433\u0443\u043d
+p35
+aVData Mining
+p36
+aVOracle
+p37
+aVPostgreSQL
+p38
+aVMicrosoft
+p39
+aV\u0421\u043c\u0430\u0440\u0442\u0444\u043e\u043d\u044b \u0438 \u043a\u043e\u043c\u043c\u0443\u043d\u0438\u043a\u0430\u0442\u043e\u0440\u044b
+p40
+aV\u0418\u0441\u0442\u043e\u0440\u0438\u044f \u0418\u0422
+p41
+aVGoogle
+p42
+aVCisco
+p43
+aVApple
+p44
+aV\u0421\u0442\u0443\u0434\u0438\u044f \u0410\u0440\u0442\u0435\u043c\u0438\u044f \u041b\u0435\u0431\u0435\u0434\u0435\u0432\u0430
+p45
+aVDoctrine ORM
+p46
+aVSQL
+p47
+atRp48
+sS'invitees'
+p49
+NstRp50
+g50
+b.

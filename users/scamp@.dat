@@ -1,0 +1,111 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+V\u0438 \u0432\u0441\u044f\u0447\u0435\u0441\u043a\u0438\u0439 advanced networking
+p8
+aVcisco
+p9
+aVfreebsd
+p10
+aVlinux
+p11
+atRp12
+sS'friends'
+p13
+g6
+((lp14
+Vpanandy
+p15
+aVnightfly
+p16
+aVElektronik
+p17
+aVclonefuture
+p18
+aVclick0
+p19
+aVwalkman7
+p20
+aVaxiom
+p21
+aVlorc
+p22
+atRp23
+sS'companies'
+p24
+g6
+((lp25
+VSamsung
+p26
+aVALT Linux
+p27
+aVCisco Systems, Inc
+p28
+aVBlizzard Entertainment
+p29
+aVSkype
+p30
+atRp31
+sS'hubs'
+p32
+g6
+((lp33
+V\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p34
+aVGit
+p35
+aVGTD
+p36
+aV\u0418\u0422-\u0418\u043d\u0444\u0440\u0430\u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0430
+p37
+aVGoogle Chrome
+p38
+aV\u0425\u043e\u0441\u0442\u0438\u043d\u0433
+p39
+aV\u0422\u0435\u043b\u0435\u043a\u043e\u043c\u044b
+p40
+aV\u0421\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0435 \u0441\u0435\u0442\u0438 \u0438 \u0441\u043e\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0430
+p41
+aVLinux
+p42
+aV\u0421\u0438\u0441\u0442\u0435\u043c\u043d\u043e\u0435 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p43
+aV\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c
+p44
+aVNginx
+p45
+aV\u0421\u0442\u0430\u0440\u043e\u0435 \u0436\u0435\u043b\u0435\u0437\u043e
+p46
+aVIM
+p47
+aV*nix
+p48
+aVCisco
+p49
+aVPeer-to-Peer
+p50
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p51
+aV\u0421\u0435\u0440\u0432\u0435\u0440\u043d\u0430\u044f \u043e\u043f\u0442\u0438\u043c\u0438\u0437\u0430\u0446\u0438\u044f
+p52
+aVSkype
+p53
+atRp54
+sS'invitees'
+p55
+NstRp56
+g56
+b.

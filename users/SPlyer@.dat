@@ -1,0 +1,65 @@
+(dp1
+S'interests'
+p2
+NsS'friends'
+p3
+c__builtin__
+set
+p4
+((lp5
+VPhunakoshi
+p6
+aVsimanyay
+p7
+aVhornet
+p8
+aVfreakqueen
+p9
+atRp10
+sS'companies'
+p11
+g4
+((lp12
+VGoogle
+p13
+aVMozilla Foundation
+p14
+aVLast.fm
+p15
+atRp16
+sS'hubs'
+p17
+g4
+((lp18
+V\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p19
+aVOpen source
+p20
+aVApple
+p21
+aVPython
+p22
+aV\u0427\u0443\u043b\u0430\u043d
+p23
+aVSun Microsystems
+p24
+aV\u041d\u0430\u0443\u0447\u043d\u043e-\u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u043e\u0435
+p25
+aVDjango
+p26
+aV\u0423\u0431\u0443\u043d\u0442\u0430\u0440\u0438\u0443\u043c
+p27
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043f\u043e\u0434 iOS
+p28
+aVLinux
+p29
+aV\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p30
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p31
+aVDura Lex
+p32
+atRp33
+sS'invitees'
+p34
+Ns.

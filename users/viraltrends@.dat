@@ -1,0 +1,195 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+Vbig clients
+p8
+aVnew media
+p9
+aVsaas
+p10
+aVanalysis
+p11
+aVanalytics
+p12
+aVsocial graphs
+p13
+aVdigital
+p14
+aV\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0435 \u0441\u0435\u0442\u0438
+p15
+aVweb 2.0
+p16
+atRp17
+sS'friends'
+p18
+g6
+((lp19
+Vigorekk
+p20
+aVleros
+p21
+aVapivovarov
+p22
+aVManPavel
+p23
+aVRas_Dan
+p24
+aVolyapka
+p25
+aValexkbs
+p26
+aVRoman_Mix
+p27
+aVantonwork
+p28
+aVhabibti
+p29
+aVtrankov
+p30
+aVurbansheep
+p31
+aVmironeg
+p32
+aVimhosubb
+p33
+atRp34
+sS'companies'
+p35
+g6
+((lp36
+VGolden Telecom
+p37
+aVSony Corporation
+p38
+aVIBM
+p39
+aV\u0413\u0430\u0437\u0435\u0442\u0430.Ru
+p40
+aVeBay
+p41
+aVParcsis/Turbomilk
+p42
+aV\u0410\u0444\u0438\u0448\u0430
+p43
+aVtoodoo
+p44
+aVFuturico
+p45
+aVBitTorrent
+p46
+aVSix Apart
+p47
+aVYahoo
+p48
+aVRU-CENTER
+p49
+aVFacebook
+p50
+aVNintendo
+p51
+aVAERO
+p52
+aVdeviantART
+p53
+aVAutodesk Inc.
+p54
+aVGoogle
+p55
+aVAdobe
+p56
+aVApple
+p57
+aV\u0411\u0438\u0437\u043d\u0435\u0441 \u0432 \u0441\u0442\u0438\u043b\u0435 .RU
+p58
+aVTelenor
+p59
+aVMySpace
+p60
+aVLast.fm
+p61
+aVTechnorati
+p62
+aVSkype
+p63
+atRp64
+sS'hubs'
+p65
+g6
+((lp66
+V\u041c\u0435\u0434\u0438\u0430
+p67
+aVCoworking: \u0440\u0430\u0431\u043e\u0442\u0430 2.0
+p68
+aV\u0411\u043b\u043e\u0433\u043e\u0441\u0444\u0435\u0440\u0430
+p69
+aV\u0421\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u043a\u0430 \u0432 IT
+p70
+aV\u0427\u0443\u043b\u0430\u043d
+p71
+aV\u0421\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0435 \u0441\u0435\u0442\u0438 \u0438 \u0441\u043e\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0430
+p72
+aV\u041a\u0440\u0430\u0443\u0434\u0441\u043e\u0440\u0441\u0438\u043d\u0433
+p73
+aV\u0416\u0435\u043b\u0435\u0437\u043e
+p74
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p75
+aVAndroid
+p76
+aV\u042d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u0430\u044f \u043a\u043e\u043c\u043c\u0435\u0440\u0446\u0438\u044f
+p77
+aV3G
+p78
+aV\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u0440\u0435\u043a\u043b\u0430\u043c\u0430
+p79
+aV\u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043f\u0440\u043e\u0435\u043a\u0442\u0430\u043c\u0438
+p80
+aVYouTube
+p81
+aV\u041f\u043e\u0438\u0441\u043a\u043e\u0432\u0430\u044f \u043e\u043f\u0442\u0438\u043c\u0438\u0437\u0430\u0446\u0438\u044f
+p82
+aV\u041a\u043e\u043f\u0438\u0440\u0430\u0439\u0442
+p83
+aV\u0424\u0438\u043d\u0430\u043d\u0441\u044b \u0434\u043b\u044f \u0432\u0441\u0435\u0445
+p84
+aV\u0420\u0430\u0431\u043e\u0442\u0430 \u0441 \u0432\u0438\u0434\u0435\u043e
+p85
+aVGTD
+p86
+aV\u041c\u043e\u0439 \u0431\u0438\u0437\u043d\u0435\u0441
+p87
+aV\u0411\u0443\u0434\u0443\u0449\u0435\u0435 \u0437\u0434\u0435\u0441\u044c
+p88
+aV\u0418\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442
+p89
+aVIM
+p90
+aVGoogle
+p91
+aVApple
+p92
+aV\u0422\u0435\u043b\u0435\u043a\u043e\u043c\u044b
+p93
+aVPeer-to-Peer
+p94
+aV\u041c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0439 \u0432\u0435\u0431
+p95
+atRp96
+sS'invitees'
+p97
+NstRp98
+g98
+b.

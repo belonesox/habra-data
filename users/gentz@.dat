@@ -1,0 +1,120 @@
+(dp1
+S'interests'
+p2
+c__builtin__
+set
+p3
+((lp4
+V\u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p5
+aVweb
+p6
+aV\u0434\u0438\u0437\u0430\u0439\u043d
+p7
+atRp8
+sS'friends'
+p9
+g3
+((lp10
+Vfreeek
+p11
+aVCB9TOIIIA
+p12
+atRp13
+sS'companies'
+p14
+g3
+((lp15
+VGoogle
+p16
+aVAdobe
+p17
+aVApple
+p18
+aVBitTorrent
+p19
+aV\u0422\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u041c\u0435\u0434\u0438\u0430
+p20
+aVCanonical
+p21
+aVFuturico
+p22
+aVMozilla Foundation
+p23
+aVParcsis/Turbomilk
+p24
+aVYota
+p25
+aVABBYY
+p26
+aVWorld Wide Web Consortium
+p27
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p28
+aVSkype
+p29
+aVdeviantART
+p30
+aVRussian Podcasting
+p31
+aV\u0421\u0442\u0443\u0434\u0438\u044f \u0410\u0440\u0442\u0435\u043c\u0438\u044f \u041b\u0435\u0431\u0435\u0434\u0435\u0432\u0430
+p32
+aVApache Software Foundation
+p33
+aVWikimedia Foundation
+p34
+atRp35
+sS'hubs'
+p36
+g3
+((lp37
+VjQuery
+p38
+aV\u0411\u043b\u043e\u0433\u043e\u0441\u0444\u0435\u0440\u0430
+p39
+aV\u0427\u0443\u043b\u0430\u043d
+p40
+aVWindows Phone
+p41
+aVJavaScript
+p42
+aVGoogle Chrome
+p43
+aVMySQL
+p44
+aV\u0412\u0435\u0431-\u0434\u0438\u0437\u0430\u0439\u043d
+p45
+aV\u0418\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044b
+p46
+aV\u0414\u0438\u0437\u0430\u0439\u043d \u0432 IT
+p47
+aV\u0421\u043f\u043e\u0440\u0442\u0438\u0432\u043d\u043e\u0435 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p48
+aVAjax
+p49
+aVMobile Development
+p50
+aV\u0425\u0430\u0431\u0440\u0430\u0445\u0430\u0431\u0440
+p51
+aVGTD
+p52
+aV\u0411\u0443\u0434\u0443\u0449\u0435\u0435 \u0437\u0434\u0435\u0441\u044c
+p53
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p54
+aVCSS
+p55
+aV\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p56
+aVGoogle
+p57
+aVFirefox
+p58
+aVLinux
+p59
+aVPHP
+p60
+atRp61
+sS'invitees'
+p62
+Ns.

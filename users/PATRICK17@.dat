@@ -1,0 +1,100 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+VKAFLAN
+p9
+aVVitaZheltyakov
+p10
+aVDoctorDemon
+p11
+aVmunchhausen
+p12
+atRp13
+sS'companies'
+p14
+g7
+((lp15
+VGoogle
+p16
+aVAdobe
+p17
+aVApple
+p18
+aVIBM
+p19
+aV\u041c\u043e\u0441\u0438\u0433\u0440\u0430
+p20
+aVSun Microsystems
+p21
+aVApache Software Foundation
+p22
+aVCanonical
+p23
+atRp24
+sS'hubs'
+p25
+g7
+((lp26
+VjQuery
+p27
+aV\u0412\u0438\u0440\u0443\u0441\u044b (\u0438 \u0430\u043d\u0442\u0438\u0432\u0438\u0440\u0443\u0441\u044b)
+p28
+aV\u0425\u0430\u0431\u0440\u0430\u0445\u0430\u0431\u0440
+p29
+aVGTD
+p30
+aVApple
+p31
+aVOpen source
+p32
+aVLinux
+p33
+aV\u0427\u0443\u043b\u0430\u043d
+p34
+aV\u0411\u0443\u0434\u0443\u0449\u0435\u0435 \u0437\u0434\u0435\u0441\u044c
+p35
+aV.NET
+p36
+aVEclipse
+p37
+aVIPTV
+p38
+aV\u0423\u0431\u0443\u043d\u0442\u0430\u0440\u0438\u0443\u043c
+p39
+aVGoogle Chrome
+p40
+aV*nix
+p41
+aVJAVA
+p42
+aVAndroid
+p43
+aVPHP
+p44
+aV\u0427\u0438\u0442\u0430\u043b\u044c\u043d\u044b\u0439 \u0437\u0430\u043b
+p45
+aV\u042d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u044b\u0435 \u043a\u043d\u0438\u0433\u0438
+p46
+aV\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p47
+atRp48
+sS'invitees'
+p49
+NstRp50
+g50
+b.

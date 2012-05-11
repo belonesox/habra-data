@@ -1,0 +1,111 @@
+(dp1
+S'interests'
+p2
+NsS'friends'
+p3
+c__builtin__
+set
+p4
+((lp5
+Vtyggy
+p6
+aVtuganbaev
+p7
+aVpavlentij
+p8
+aVkernel32
+p9
+aVNIcque
+p10
+aVoutfoxer
+p11
+aVdimm
+p12
+aVSol_Habr
+p13
+aVShapelez
+p14
+aVromaklimenko
+p15
+aVinlanger
+p16
+aVvlar
+p17
+aVvadimdne
+p18
+aValios
+p19
+atRp20
+sS'companies'
+p21
+g4
+((lp22
+V37signals
+p23
+aVGoogle
+p24
+aVApple
+p25
+aVPixar Animation Studios
+p26
+aVLast.fm
+p27
+aVEvernote Corporation
+p28
+aVDigg
+p29
+aVSkype
+p30
+aVRussian Podcasting
+p31
+aVCiklum
+p32
+atRp33
+sS'hubs'
+p34
+g4
+((lp35
+ViPad
+p36
+aV\u041f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0430
+p37
+aV\u041f\u043e\u0434\u043a\u0430\u0441\u0442\u044b
+p38
+aVGit
+p39
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p40
+aVApple
+p41
+aV\u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043f\u0440\u043e\u0435\u043a\u0442\u0430\u043c\u0438
+p42
+aV\u0418\u0434\u0435\u0438 \u0434\u043b\u044f \u0441\u0442\u0430\u0440\u0442\u0430\u043f\u043e\u0432
+p43
+aVTwitter
+p44
+aV\u0411\u0440\u0430\u0443\u0437\u0435\u0440\u044b
+p45
+aV\u041d\u0430\u0443\u0447\u043d\u043e-\u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u043e\u0435
+p46
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p47
+aV\u041f\u043b\u0430\u0442\u0435\u0436\u043d\u044b\u0435 \u0441\u0438\u0441\u0442\u0435\u043c\u044b
+p48
+aViPhone
+p49
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043f\u043e\u0434 iOS
+p50
+aVMySQL
+p51
+aVPHP
+p52
+aV\u0427\u0438\u0442\u0430\u043b\u044c\u043d\u044b\u0439 \u0437\u0430\u043b
+p53
+aV\u0418\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044b
+p54
+aV\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p55
+atRp56
+sS'invitees'
+p57
+Ns.

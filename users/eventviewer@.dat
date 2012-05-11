@@ -1,0 +1,66 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+VKidsReview
+p9
+aVPoker
+p10
+aVBukasa
+p11
+aVraliev
+p12
+aVflaer
+p13
+aVnons
+p14
+aVmaqdev
+p15
+aVipswitch
+p16
+aVArtemKonovalov
+p17
+atRp18
+sS'companies'
+p19
+g7
+((lp20
+VPayOnline
+p21
+atRp22
+sS'hubs'
+p23
+g7
+((lp24
+V\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p25
+aVDura Lex
+p26
+aV\u0418\u0434\u0435\u0438 \u0434\u043b\u044f \u0441\u0442\u0430\u0440\u0442\u0430\u043f\u043e\u0432
+p27
+aV\u0417\u0430\u043d\u0438\u043c\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0435 \u0437\u0430\u0434\u0430\u0447\u043a\u0438
+p28
+aV\u041f\u043b\u0430\u0442\u0435\u0436\u043d\u044b\u0435 \u0441\u0438\u0441\u0442\u0435\u043c\u044b
+p29
+aV\u042d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u0430\u044f \u043a\u043e\u043c\u043c\u0435\u0440\u0446\u0438\u044f
+p30
+atRp31
+sS'invitees'
+p32
+NstRp33
+g33
+b.

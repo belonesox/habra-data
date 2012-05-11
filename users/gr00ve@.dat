@@ -1,0 +1,88 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+Vapple
+p8
+aVblizzard
+p9
+aV\u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438
+p10
+aVbsd
+p11
+aVnix
+p12
+aVwcg
+p13
+aVmysql
+p14
+aVapache
+p15
+aVsony
+p16
+aVphp
+p17
+atRp18
+sS'friends'
+p19
+NsS'companies'
+p20
+g6
+((lp21
+VGoogle
+p22
+aVApple
+p23
+aV\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435
+p24
+aVSun Microsystems
+p25
+aVNokia
+p26
+aV\u041c\u0435\u0433\u0430\u0444\u043e\u043d
+p27
+aVLast.fm
+p28
+aVCisco Systems, Inc
+p29
+aVNVIDIA Corporation
+p30
+aV\u0416\u0443\u0440\u043d\u0430\u043b \u0425\u0430\u043a\u0435\u0440
+p31
+aV\u041b\u0435\u043d\u0442\u0430.\u0420\u0443
+p32
+aVBlizzard Entertainment
+p33
+aVOracle
+p34
+aV\u0421\u0442\u0443\u0434\u0438\u044f \u0410\u0440\u0442\u0435\u043c\u0438\u044f \u041b\u0435\u0431\u0435\u0434\u0435\u0432\u0430
+p35
+aVFrodio
+p36
+atRp37
+sS'hubs'
+p38
+g6
+((lp39
+V\u0418\u043a\u043e\u043d\u043e\u0441\u043a\u0430\u0437
+p40
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p41
+atRp42
+sS'invitees'
+p43
+NstRp44
+g44
+b.

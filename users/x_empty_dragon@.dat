@@ -1,0 +1,60 @@
+(dp1
+S'interests'
+p2
+NsS'friends'
+p3
+NsS'companies'
+p4
+c__builtin__
+set
+p5
+((lp6
+VSony Mobile Communications
+p7
+atRp8
+sS'hubs'
+p9
+g5
+((lp10
+VXML
+p11
+aVFlex
+p12
+aVCanvas
+p13
+aV\u041c\u0438\u043a\u0440\u043e\u0444\u043e\u0440\u043c\u0430\u0442\u044b
+p14
+aV\u0427\u0443\u043b\u0430\u043d
+p15
+aV\u041c\u043e\u0439 \u0431\u0438\u0437\u043d\u0435\u0441
+p16
+aVLaTeX
+p17
+aVXSLT
+p18
+aV\u0412\u0438\u0440\u0442\u0443\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u044f
+p19
+aVJavaScript
+p20
+aVAjax
+p21
+aV\u0411\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u0430 ExtJS/Sencha
+p22
+aVAction Script
+p23
+aVHTML
+p24
+aV\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p25
+aVGreaseMonkey
+p26
+aVLinux
+p27
+aVDIY \u0438\u043b\u0438 \u0421\u0434\u0435\u043b\u0430\u0439 \u0421\u0430\u043c
+p28
+aVCSS
+p29
+atRp30
+sS'invitees'
+p31
+Ns.

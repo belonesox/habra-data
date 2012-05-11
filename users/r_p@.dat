@@ -1,0 +1,65 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+NsS'companies'
+p7
+c__builtin__
+set
+p8
+((lp9
+V1\u0421
+p10
+aVEvernote Corporation
+p11
+aVApple
+p12
+aVDroider.Ru
+p13
+atRp14
+sS'hubs'
+p15
+g8
+((lp16
+V\u041f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0430
+p17
+aV\u041e\u043f\u0435\u0440\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0441\u0438\u0441\u0442\u0435\u043c\u044b
+p18
+aV\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p19
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p20
+aVApple
+p21
+aV\u0425\u0430\u0431\u0440\u0430\u0445\u0430\u0431\u0440
+p22
+aVERP-\u0441\u0438\u0441\u0442\u0435\u043c\u044b
+p23
+aVMac OS X
+p24
+aVGoogle Chrome
+p25
+aViPhone
+p26
+aVWordpress
+p27
+aV\u0420\u0430\u0431\u043e\u0442\u0430 \u0441\u043e \u0437\u0432\u0443\u043a\u043e\u043c
+p28
+aV\u0424\u043e\u0442\u043e\u0442\u0435\u0445\u043d\u0438\u043a\u0430
+p29
+atRp30
+sS'invitees'
+p31
+NstRp32
+g32
+b.

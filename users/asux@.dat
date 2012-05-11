@@ -1,0 +1,127 @@
+(dp1
+S'interests'
+p2
+c__builtin__
+set
+p3
+((lp4
+V\u043f\u0440\u043e\u0435\u043a\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043f\u043e
+p5
+aVflex
+p6
+aVopen source
+p7
+aV\u0444\u0438\u0437\u0438\u043a\u0430
+p8
+aV\u0432\u0435\u0431-\u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u044b
+p9
+aV\u043f\u0441\u0438\u0445\u043e\u043b\u043e\u0433\u0438\u044f
+p10
+aV\u0441\u043e\u0446\u0438\u043e\u043d\u0438\u043a\u0430
+p11
+aV\u0431\u0438\u043e\u043b\u043e\u0433\u0438\u044f
+p12
+aVpython
+p13
+aVunix
+p14
+aV\u0445\u0438\u043c\u0438\u044f
+p15
+aV\u043b\u044b\u0436\u0438
+p16
+aVlinux
+p17
+aV\u043c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u043a\u0430
+p18
+aVphp
+p19
+aVruby
+p20
+aVria
+p21
+atRp22
+sS'friends'
+p23
+NsS'companies'
+p24
+g3
+((lp25
+VFree Software Foundation
+p26
+aVGoogle
+p27
+aVApple
+p28
+aVMozilla Foundation
+p29
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p30
+aVAMD (Advanced Micro Devices)
+p31
+aVApache Software Foundation
+p32
+aVGlobalLogic Ukraine
+p33
+atRp34
+sS'hubs'
+p35
+g3
+((lp36
+VLaTeX
+p37
+aVGit
+p38
+aV\u041f\u043e\u0434\u043a\u0430\u0441\u0442\u044b
+p39
+aVJavaScript
+p40
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p41
+aV\u042d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u044b\u0435 \u043a\u043d\u0438\u0433\u0438
+p42
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p43
+aV\u0425\u043e\u0441\u0442\u0438\u043d\u0433
+p44
+aVPython
+p45
+aVRuby on Rails
+p46
+aVRuby
+p47
+aVQt Software
+p48
+aVGTD
+p49
+aVDjango
+p50
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p51
+aVIM
+p52
+aViPhone
+p53
+aVPostgreSQL
+p54
+aV\u0410\u043b\u0433\u043e\u0440\u0438\u0442\u043c\u044b
+p55
+aV\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p56
+aVGoogle
+p57
+aVAdobe
+p58
+aVTwitter
+p59
+aVVIM
+p60
+aVLinux
+p61
+aV\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p62
+aVPHP
+p63
+atRp64
+sS'invitees'
+p65
+Ns.

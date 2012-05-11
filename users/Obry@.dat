@@ -1,0 +1,47 @@
+(dp1
+S'interests'
+p2
+c__builtin__
+set
+p3
+((lp4
+Vsmo
+p5
+aV\u0430\u043d\u0430\u043b\u0438\u0437 \u0438 \u0430\u0443\u0434\u0438\u0442
+p6
+aVsmm
+p7
+aVseo \u043f\u0440\u043e\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u0435
+p8
+atRp9
+sS'friends'
+p10
+g3
+((lp11
+VRational_Yurij
+p12
+aVthestorm
+p13
+aViandrew_lis
+p14
+aVvinnishtein
+p15
+aVshvagir
+p16
+atRp17
+sS'companies'
+p18
+NsS'hubs'
+p19
+g3
+((lp20
+V\u0421\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0435 \u0441\u0435\u0442\u0438 \u0438 \u0441\u043e\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0430
+p21
+aVCoworking: \u0440\u0430\u0431\u043e\u0442\u0430 2.0
+p22
+aV\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u0440\u0435\u043a\u043b\u0430\u043c\u0430
+p23
+atRp24
+sS'invitees'
+p25
+Ns.

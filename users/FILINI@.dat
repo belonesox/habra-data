@@ -1,0 +1,102 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+Vaosiniao
+p9
+aVmeramo
+p10
+aVsorvalliny
+p11
+aVAvantasia
+p12
+aVbadlittleduck
+p13
+aVArseny_Info
+p14
+aVpro4pro
+p15
+aVDMinsky
+p16
+aVrbugaev
+p17
+aVchipp
+p18
+atRp19
+sS'companies'
+p20
+g7
+((lp21
+V37signals
+p22
+aVHeadHunter
+p23
+aV\u0410\u0448\u043c\u0430\u043d\u043e\u0432 \u0438 \u041f\u0430\u0440\u0442\u043d\u0451\u0440\u044b
+p24
+aVPixar Animation Studios
+p25
+aVNokia
+p26
+aVBlizzard Entertainment
+p27
+aV\u0421\u0435\u043b\u0435\u043a\u0442\u0435\u043b
+p28
+aVABBYY
+p29
+aVGoogle
+p30
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p31
+aVLenovo
+p32
+aVRussian Podcasting
+p33
+aVOpera Software ASA
+p34
+aV\u0421\u0442\u0443\u0434\u0438\u044f \u0410\u0440\u0442\u0435\u043c\u0438\u044f \u041b\u0435\u0431\u0435\u0434\u0435\u0432\u0430
+p35
+aVAlterGeo
+p36
+atRp37
+sS'hubs'
+p38
+g7
+((lp39
+VGoogle
+p40
+aVGTD
+p41
+aV\u0418\u0434\u0435\u0438 \u0434\u043b\u044f \u0441\u0442\u0430\u0440\u0442\u0430\u043f\u043e\u0432
+p42
+aV\u0421\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0435 \u0441\u0435\u0442\u0438 \u0438 \u0441\u043e\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0430
+p43
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p44
+aV\u0411\u0430\u0439\u043d\u0435\u0442
+p45
+aV\u0424\u0440\u0438\u043b\u0430\u043d\u0441
+p46
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p47
+aVAndroid
+p48
+atRp49
+sS'invitees'
+p50
+NstRp51
+g51
+b.

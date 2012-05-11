@@ -1,0 +1,162 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+VAlexMorozov
+p9
+aVAlexAkimov
+p10
+aVbeliakov
+p11
+aVSky3d
+p12
+atRp13
+sS'companies'
+p14
+g7
+((lp15
+VDevExpress
+p16
+atRp17
+sS'hubs'
+p18
+g7
+((lp19
+VjQuery
+p20
+aVLiveStreet
+p21
+aVWiki-\u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u044f
+p22
+aVCreative Commons
+p23
+aV\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435
+p24
+aVMODx
+p25
+aVYouTube
+p26
+aV\u0421\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0435 \u0441\u0435\u0442\u0438 \u0438 \u0441\u043e\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0430
+p27
+aVMooTools
+p28
+aVTwisted
+p29
+aVYahoo
+p30
+aVWikipedia
+p31
+aVGoogle Plus
+p32
+aVMail.Ru
+p33
+aVCMS
+p34
+aV1\u0421-\u0411\u0438\u0442\u0440\u0438\u043a\u0441
+p35
+aVOpenStreetMap
+p36
+aVTumblr
+p37
+aVCodeIgniter
+p38
+aV\u0421\u0443\u043f
+p39
+aVMozilla
+p40
+aVLiveJournal
+p41
+aVRuby on Rails
+p42
+aVFacebook
+p43
+aVYii
+p44
+aV\u0421\u0442\u0443\u0434\u0438\u044f \u0410\u0440\u0442\u0435\u043c\u0438\u044f \u041b\u0435\u0431\u0435\u0434\u0435\u0432\u0430
+p45
+aVQt Software
+p46
+aV\u0420\u0430\u043c\u0431\u043b\u0435\u0440
+p47
+aVWordpress
+p48
+aVDrupal
+p49
+aVSun Microsystems
+p50
+aVBing
+p51
+aVEclipse
+p52
+aVDjango
+p53
+aVJoomla
+p54
+aVGoogle App Engine
+p55
+aV\u0411\u0435\u0433\u0443\u043d
+p56
+aVCakePHP
+p57
+aVGoogle AdSense
+p58
+aVMicrosoft
+p59
+aVGMail
+p60
+aVSymfony
+p61
+aVGoogle
+p62
+aVAdobe
+p63
+aVApple
+p64
+aVTwitter
+p65
+aVMySpace
+p66
+aVeBay
+p67
+aVLinkedin
+p68
+aVNode.JS
+p69
+aVGoogle Analytics
+p70
+aVZend Framework
+p71
+aVGoogle Checkout
+p72
+aVGroovy & Grails
+p73
+aVKohana
+p74
+aVGTK+
+p75
+aVSaaS / S+S
+p76
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p77
+aVAmazon Web Services
+p78
+atRp79
+sS'invitees'
+p80
+NstRp81
+g81
+b.

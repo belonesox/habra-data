@@ -1,0 +1,109 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+V\u0432\u0435\u0431-\u0434\u0438\u0437\u0430\u0439\u043d
+p8
+aVpunk rock
+p9
+aVweb-coding
+p10
+aV\u0438\u0433\u0440\u044b
+p11
+aVheavy metal
+p12
+atRp13
+sS'friends'
+p14
+g6
+((lp15
+Vdmitriyn76
+p16
+atRp17
+sS'companies'
+p18
+g6
+((lp19
+VGoogle
+p20
+aV\u0416\u0443\u0440\u043d\u0430\u043b \u0425\u0430\u043a\u0435\u0440
+p21
+aVKanobu Network
+p22
+aVLenovo
+p23
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p24
+aV\u0414\u0443\u0431\u043b\u044c\u0413\u0418\u0421 (2\u0413\u0418\u0421)
+p25
+atRp26
+sS'hubs'
+p27
+g6
+((lp28
+VjQuery
+p29
+aVCanvas
+p30
+aVOpen source
+p31
+aV\u0427\u0443\u043b\u0430\u043d
+p32
+aVJavaScript
+p33
+aVWordpress
+p34
+aV\u0418\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044b
+p35
+aV\u0414\u0438\u0437\u0430\u0439\u043d \u0432 IT
+p36
+aV\u0411\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u0430 ExtJS/Sencha
+p37
+aV\u041f\u043e\u0438\u0441\u043a\u043e\u0432\u0430\u044f \u043e\u043f\u0442\u0438\u043c\u0438\u0437\u0430\u0446\u0438\u044f
+p38
+aVHTML
+p39
+aVQt Software
+p40
+aVSphinx
+p41
+aV\u041c\u043e\u0439 \u0431\u0438\u0437\u043d\u0435\u0441
+p42
+aVWindows
+p43
+aV\u0414\u043e\u043c\u0435\u043d\u044b
+p44
+aV\u042d\u043d\u0435\u0440\u0433\u0438\u044f \u0438 \u044d\u043b\u0435\u043c\u0435\u043d\u0442\u044b \u043f\u0438\u0442\u0430\u043d\u0438\u044f
+p45
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p46
+aV\u0424\u0438\u043d\u0430\u043d\u0441\u044b \u0434\u043b\u044f \u0432\u0441\u0435\u0445
+p47
+aV\u041c\u0438\u043a\u0440\u043e\u0444\u043e\u0440\u043c\u0430\u0442\u044b
+p48
+aV\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c
+p49
+aV\u0425\u043e\u0441\u0442\u0438\u043d\u0433
+p50
+aVKohana
+p51
+aVPHP
+p52
+atRp53
+sS'invitees'
+p54
+NstRp55
+g55
+b.

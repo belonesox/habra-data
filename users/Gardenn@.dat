@@ -1,0 +1,78 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+Vlinl
+p9
+aVcsman
+p10
+aVofficer
+p11
+aVyagr
+p12
+atRp13
+sS'companies'
+p14
+g7
+((lp15
+V37signals
+p16
+aVHeadHunter
+p17
+aV\u041f\u0440\u043e\u0434\u044e\u0441\u0435\u0440\u0441\u043a\u0438\u0439 \u0446\u0435\u043d\u0442\u0440 «\u0420\u043e\u0439\u0431\u0435\u0440»
+p18
+aV\u041c\u0435\u0433\u0430\u0444\u043e\u043d
+p19
+aVBlizzard Entertainment
+p20
+aVSports.ru
+p21
+aVLenovo
+p22
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p23
+aV\u042d\u043a\u0441\u043f\u0435\u0440\u0442
+p24
+aVDjem Solutions
+p25
+aV\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u044f "\u041a\u0441\u0430\u043d"
+p26
+aV\u0421\u0442\u0443\u0434\u0438\u044f \u0410\u0440\u0442\u0435\u043c\u0438\u044f \u041b\u0435\u0431\u0435\u0434\u0435\u0432\u0430
+p27
+aVMotka Design Studio
+p28
+atRp29
+sS'hubs'
+p30
+g7
+((lp31
+V\u042d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u0430\u044f \u043a\u043e\u043c\u043c\u0435\u0440\u0446\u0438\u044f
+p32
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p33
+aV\u0424\u0438\u043d\u0430\u043d\u0441\u044b \u0434\u043b\u044f \u0432\u0441\u0435\u0445
+p34
+aVGTD
+p35
+aVMicrosoft
+p36
+atRp37
+sS'invitees'
+p38
+NstRp39
+g39
+b.

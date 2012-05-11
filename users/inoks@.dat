@@ -1,0 +1,46 @@
+(dp1
+S'interests'
+p2
+NsS'friends'
+p3
+NsS'companies'
+p4
+c__builtin__
+set
+p5
+((lp6
+V\u041c\u043e\u0435 \u0434\u0435\u043b\u043e
+p7
+atRp8
+sS'hubs'
+p9
+g5
+((lp10
+VjQuery
+p11
+aVGoogle
+p12
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p13
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p14
+aVDrupal
+p15
+aV\u0427\u0443\u043b\u0430\u043d
+p16
+aVPython
+p17
+aVDjango
+p18
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p19
+aVOpera
+p20
+aVGoogle App Engine
+p21
+aV\u042d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u044b\u0435 \u043a\u043d\u0438\u0433\u0438
+p22
+atRp23
+sS'invitees'
+p24
+Ns.

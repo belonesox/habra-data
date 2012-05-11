@@ -1,0 +1,50 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+NsS'companies'
+p7
+NsS'hubs'
+p8
+c__builtin__
+set
+p9
+((lp10
+V\u041f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0430
+p11
+aV\u041a\u043e\u043c\u043f\u0438\u043b\u044f\u0442\u043e\u0440\u044b
+p12
+aVOpen source
+p13
+aVGame Development
+p14
+aVLisp
+p15
+aV.NET
+p16
+aVVisual Studio
+p17
+aVWindows
+p18
+aVHaskell
+p19
+aVMono \u0438 Moonlight
+p20
+aV\u0418\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044b
+p21
+atRp22
+sS'invitees'
+p23
+NstRp24
+g24
+b.

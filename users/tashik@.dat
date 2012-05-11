@@ -1,0 +1,134 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+VForJest_mute
+p9
+atRp10
+sS'companies'
+p11
+g7
+((lp12
+V\u0416\u0443\u0440\u043d\u0430\u043b \u0425\u0430\u043a\u0435\u0440
+p13
+atRp14
+sS'hubs'
+p15
+g7
+((lp16
+VjQuery
+p17
+aVLiveStreet
+p18
+aV\u041a\u043b\u0438\u0435\u043d\u0442\u0441\u043a\u0430\u044f \u043e\u043f\u0442\u0438\u043c\u0438\u0437\u0430\u0446\u0438\u044f
+p19
+aVGit
+p20
+aVMODx
+p21
+aVAgile
+p22
+aVJavaScript
+p23
+aVYii
+p24
+aVMySQL
+p25
+aVTDD
+p26
+aVCMS
+p27
+aV\u0421\u0435\u0440\u0432\u0435\u0440\u043d\u0430\u044f \u043e\u043f\u0442\u0438\u043c\u0438\u0437\u0430\u0446\u0438\u044f
+p28
+aV\u0418\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044b
+p29
+aV\u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043f\u0440\u043e\u0435\u043a\u0442\u0430\u043c\u0438
+p30
+aVCodeIgniter
+p31
+aV\u0411\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u0430 ExtJS/Sencha
+p32
+aVMac OS X
+p33
+aV\u0427\u0438\u0442\u0430\u043b\u044c\u043d\u044b\u0439 \u0437\u0430\u043b
+p34
+aVRuby on Rails
+p35
+aVNginx
+p36
+aVAjax
+p37
+aV\u0427\u0443\u043b\u0430\u043d
+p38
+aVRuby
+p39
+aVXML
+p40
+aVDrupal
+p41
+aV\u0421\u0438\u0441\u0442\u0435\u043c\u044b \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u0432\u0435\u0440\u0441\u0438\u044f\u043c\u0438
+p42
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p43
+aVGoogle App Engine
+p44
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043f\u043e\u0434 iOS
+p45
+aV\u041a\u0440\u0438\u043f\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u044f
+p46
+aVCakePHP
+p47
+aVCSS
+p48
+aVSymfony
+p49
+aVGoogle
+p50
+aVPostgreSQL
+p51
+aVApple
+p52
+aV\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c
+p53
+aVMongoDB
+p54
+aV\u041f\u0440\u043e\u0435\u043a\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0438 \u0440\u0435\u0444\u0430\u043a\u0442\u043e\u0440\u0438\u043d\u0433
+p55
+aVGoogle Web Toolkit
+p56
+aVNode.JS
+p57
+aVDoctrine ORM
+p58
+aVZend Framework
+p59
+aVKohana
+p60
+aVLinux
+p61
+aV\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p62
+aVPHP
+p63
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043f\u043e\u0434 Android
+p64
+atRp65
+sS'invitees'
+p66
+NstRp67
+g67
+b.

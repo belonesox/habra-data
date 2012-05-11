@@ -1,0 +1,62 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+Vcrea7or
+p9
+aVhesa
+p10
+aVCellard
+p11
+atRp12
+sS'companies'
+p13
+g7
+((lp14
+VMail.Ru Group
+p15
+atRp16
+sS'hubs'
+p17
+g7
+((lp18
+V\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p19
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p20
+aV\u041c\u043e\u0439 \u0431\u0438\u0437\u043d\u0435\u0441
+p21
+aV\u0425\u043e\u0441\u0442\u0438\u043d\u0433
+p22
+aV\u0427\u0443\u043b\u0430\u043d
+p23
+aV\u0411\u0438\u0437\u043d\u0435\u0441 \u0441\u0442\u0443\u0434\u0438\u0438
+p24
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p25
+aVMySQL
+p26
+aV\u0412\u0435\u0431-\u0434\u0438\u0437\u0430\u0439\u043d
+p27
+aVPHP
+p28
+atRp29
+sS'invitees'
+p30
+NstRp31
+g31
+b.

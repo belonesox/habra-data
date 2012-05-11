@@ -1,0 +1,122 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+Vglazkova
+p9
+aVSilenceAndy
+p10
+aVerock
+p11
+aVrestyler
+p12
+aVimac
+p13
+aVtuta_larson
+p14
+aVorange12
+p15
+aVzenuch
+p16
+atRp17
+sS'companies'
+p18
+g7
+((lp19
+VPravo.ru
+p20
+aVMozilla Foundation
+p21
+aVWikimedia Foundation
+p22
+atRp23
+sS'hubs'
+p24
+g7
+((lp25
+VGit
+p26
+aVCreative Commons
+p27
+aV\u041e\u0444\u0438\u0441\u044b IT-\u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0439
+p28
+aV\u0427\u0443\u043b\u0430\u043d
+p29
+aVJavaScript
+p30
+aVSun Microsystems
+p31
+aV\u0410\u043d\u0438\u043c\u0430\u0446\u0438\u044f \u0438 3D \u0433\u0440\u0430\u0444\u0438\u043a\u0430
+p32
+aV\u041f\u0440\u043e\u0446\u0435\u0441\u0441\u043e\u0440\u044b
+p33
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p34
+aVMySQL
+p35
+aVMail.Ru
+p36
+aV\u042d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u0430\u044f \u043a\u043e\u043c\u043c\u0435\u0440\u0446\u0438\u044f
+p37
+aV\u0421\u0443\u043f
+p38
+aVPython
+p39
+aVMac OS X
+p40
+aV\u0420\u0430\u043c\u0431\u043b\u0435\u0440
+p41
+aVYahoo
+p42
+aVFacebook
+p43
+aVRuby
+p44
+aV\u0421\u0442\u0443\u0434\u0438\u044f \u0410\u0440\u0442\u0435\u043c\u0438\u044f \u041b\u0435\u0431\u0435\u0434\u0435\u0432\u0430
+p45
+aVQt Software
+p46
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p47
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p48
+aV\u0411\u0435\u0433\u0443\u043d
+p49
+aVAdobe
+p50
+aVMicrosoft
+p51
+aV\u0421\u043c\u0430\u0440\u0442\u0444\u043e\u043d\u044b \u0438 \u043a\u043e\u043c\u043c\u0443\u043d\u0438\u043a\u0430\u0442\u043e\u0440\u044b
+p52
+aVGoogle
+p53
+aVCisco
+p54
+aVApple
+p55
+aV\u0420\u0435\u0433\u0443\u043b\u044f\u0440\u043d\u044b\u0435 \u0432\u044b\u0440\u0430\u0436\u0435\u043d\u0438\u044f
+p56
+aVErlang/OTP
+p57
+aVPHP
+p58
+atRp59
+sS'invitees'
+p60
+NstRp61
+g61
+b.

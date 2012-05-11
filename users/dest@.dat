@@ -1,0 +1,54 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+Vdoddoindan
+p9
+atRp10
+sS'companies'
+p11
+g7
+((lp12
+V\u0412\u044b\u043c\u043f\u0435\u043b\u041a\u043e\u043c (\u0411\u0438\u043b\u0430\u0439\u043d)
+p13
+aVGoogle
+p14
+aVApple
+p15
+aVRed Hat
+p16
+aVMozilla Foundation
+p17
+aVdeviantART
+p18
+aVWikimedia Foundation
+p19
+aVFuturico
+p20
+atRp21
+sS'hubs'
+p22
+g7
+((lp23
+VApple
+p24
+atRp25
+sS'invitees'
+p26
+NstRp27
+g27
+b.

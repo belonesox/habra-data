@@ -1,0 +1,61 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+NsS'companies'
+p7
+c__builtin__
+set
+p8
+((lp9
+VNokia
+p10
+aVMicrosoft
+p11
+atRp12
+sS'hubs'
+p13
+g8
+((lp14
+VSilverlight
+p15
+aVJAVA
+p16
+aVOpen source
+p17
+aVWindows
+p18
+aV\u0427\u0443\u043b\u0430\u043d
+p19
+aVWindows Phone
+p20
+aV.NET
+p21
+aVEclipse
+p22
+aVVisual Studio
+p23
+aV\u041e\u0431\u043b\u0430\u0447\u043d\u044b\u0435 \u0432\u044b\u0447\u0438\u0441\u043b\u0435\u043d\u0438\u044f
+p24
+aVInternet Explorer
+p25
+aVMicrosoft
+p26
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043f\u043e\u0434 Windows Phone
+p27
+atRp28
+sS'invitees'
+p29
+NstRp30
+g30
+b.

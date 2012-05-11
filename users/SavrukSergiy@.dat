@@ -1,0 +1,69 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+NsS'companies'
+p7
+c__builtin__
+set
+p8
+((lp9
+VEvernote Corporation
+p10
+aVDigital Security
+p11
+aVDroider.Ru
+p12
+atRp13
+sS'hubs'
+p14
+g8
+((lp15
+VGit
+p16
+aV\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c
+p17
+aV\u0414\u0438\u0437\u0430\u0439\u043d \u0432 IT
+p18
+aVVisual Studio
+p19
+aV.NET
+p20
+aVC++
+p21
+aVGoogle Web Toolkit
+p22
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p23
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p24
+aVGoogle
+p25
+aV\u041f\u043b\u0430\u043d\u0448\u0435\u0442\u044b
+p26
+aVMySQL
+p27
+aV\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p28
+aVAndroid
+p29
+aVPHP
+p30
+aVRuby
+p31
+atRp32
+sS'invitees'
+p33
+NstRp34
+g34
+b.

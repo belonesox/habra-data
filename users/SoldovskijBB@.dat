@@ -1,0 +1,70 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+VNagg
+p9
+aVXaocCPS
+p10
+atRp11
+sS'companies'
+p12
+g7
+((lp13
+VMicrosoft
+p14
+aVIntel
+p15
+aVIBM
+p16
+atRp17
+sS'hubs'
+p18
+g7
+((lp19
+V\u041f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0430
+p20
+aV\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p21
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p22
+aVGame Development
+p23
+aV\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c
+p24
+aVWindows
+p25
+aV\u0427\u0443\u043b\u0430\u043d
+p26
+aVWindows Phone
+p27
+aV.NET
+p28
+aV\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p29
+aV\u0410\u043b\u0433\u043e\u0440\u0438\u0442\u043c\u044b
+p30
+aVMicrosoft
+p31
+aVMobile Development
+p32
+atRp33
+sS'invitees'
+p34
+NstRp35
+g35
+b.

@@ -1,0 +1,54 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+Vconcept art
+p8
+aVgame art
+p9
+aVcharacter design
+p10
+aVillustration
+p11
+atRp12
+sS'friends'
+p13
+NsS'companies'
+p14
+g6
+((lp15
+VNevosoft
+p16
+aV\u041c\u043e\u0441\u0438\u0433\u0440\u0430
+p17
+aVParcsis/Turbomilk
+p18
+aVZeptoLab
+p19
+atRp20
+sS'hubs'
+p21
+g6
+((lp22
+V\u0424\u0440\u0438\u043b\u0430\u043d\u0441
+p23
+aV\u0423\u0447\u0435\u0431\u043d\u044b\u0439 \u043f\u0440\u043e\u0446\u0435\u0441\u0441 \u0432 IT
+p24
+atRp25
+sS'invitees'
+p26
+NstRp27
+g27
+b.

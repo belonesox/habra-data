@@ -1,0 +1,81 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+V\u043c\u044b\u043b\u044c\u043d\u044b\u0435 \u043f\u0443\u0437\u044b\u0440\u0438\u043a\u0438
+p8
+atRp9
+sS'friends'
+p10
+g6
+((lp11
+Valxspb
+p12
+aVellont
+p13
+aVdemand
+p14
+atRp15
+sS'companies'
+p16
+g6
+((lp17
+V37signals
+p18
+aVGoogle
+p19
+aVApple
+p20
+aVHP
+p21
+aVParcsis/Turbomilk
+p22
+aVABBYY
+p23
+atRp24
+sS'hubs'
+p25
+g6
+((lp26
+V\u041f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0430
+p27
+aV\u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043f\u0440\u043e\u0435\u043a\u0442\u0430\u043c\u0438
+p28
+aVGTD
+p29
+aVApple
+p30
+aV\u041e\u0444\u0438\u0441\u044b IT-\u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0439
+p31
+aVMac OS X
+p32
+aVRuby on Rails
+p33
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p34
+aV\u041e\u043f\u0435\u0440\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0441\u0438\u0441\u0442\u0435\u043c\u044b
+p35
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043f\u043e\u0434 iOS
+p36
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p37
+aVRuby
+p38
+atRp39
+sS'invitees'
+p40
+NstRp41
+g41
+b.

@@ -1,0 +1,65 @@
+(dp1
+S'interests'
+p2
+c__builtin__
+set
+p3
+((lp4
+Vroll.
+p5
+aV\u0441\u0435\u043a\u0441
+p6
+aVn
+aV\u043e\u0431\u0449\u0435\u043d\u0438\u0435
+p7
+aV\u043f\u0438\u0432\u0430\u0441\u0438\u043a
+p8
+aV\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043f\u0440\u043e\u0435\u043a\u0442\u043e\u0432
+p9
+aV\u043c\u043e\u0442\u043e\u0446\u0438\u043a\u043b\u044b \u0438 rock
+p10
+atRp11
+sS'friends'
+p12
+g3
+((lp13
+VFladeX
+p14
+aVLucieferius
+p15
+aVarround
+p16
+aVLuiCifer
+p17
+aVDuoDesign
+p18
+atRp19
+sS'companies'
+p20
+g3
+((lp21
+VWebMoney Transfer
+p22
+aVGoogle
+p23
+aV\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435
+p24
+aVNokia
+p25
+aVOpera Software ASA
+p26
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p27
+atRp28
+sS'hubs'
+p29
+g3
+((lp30
+V\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p31
+aVApple
+p32
+atRp33
+sS'invitees'
+p34
+Ns.

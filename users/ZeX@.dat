@@ -1,0 +1,127 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+Vsilverlight
+p8
+aVpython
+p9
+aVxaml
+p10
+aVc-sharp
+p11
+aVasp.net
+p12
+aVajax
+p13
+aV\u0432\u0435\u0431-\u0434\u0438\u0437\u0430\u0439\u043d
+p14
+aVphp
+p15
+atRp16
+sS'friends'
+p17
+g6
+((lp18
+Vlambot
+p19
+aVmecommayou
+p20
+atRp21
+sS'companies'
+p22
+g6
+((lp23
+V\u0422\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u041c\u0435\u0434\u0438\u0430
+p24
+aVGoogle
+p25
+aVSun Microsystems
+p26
+aV\u041c\u0435\u0433\u0430\u0444\u043e\u043d
+p27
+aVBlizzard Entertainment
+p28
+aVOpera Software ASA
+p29
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p30
+aVMicrosoft
+p31
+aVWikimedia Foundation
+p32
+atRp33
+sS'hubs'
+p34
+g6
+((lp35
+VjQuery
+p36
+aV\u0420\u043e\u0431\u043e\u0442\u043e\u0442\u0435\u0445\u043d\u0438\u043a\u0430
+p37
+aVOpen source
+p38
+aV\u0427\u0443\u043b\u0430\u043d
+p39
+aV.NET
+p40
+aVYii
+p41
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p42
+aVGoogle Chrome
+p43
+aV\u0416\u0435\u043b\u0435\u0437\u043e
+p44
+aVAndroid
+p45
+aVCMS
+p46
+aV\u0418\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044b
+p47
+aV\u0414\u0438\u0437\u0430\u0439\u043d \u0432 IT
+p48
+aVAjax
+p49
+aV\u0425\u0430\u0431\u0440\u0430\u0445\u0430\u0431\u0440
+p50
+aVSilverlight
+p51
+aVJavaScript
+p52
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p53
+aVWindows
+p54
+aV\u0411\u0443\u0434\u0443\u0449\u0435\u0435 \u0437\u0434\u0435\u0441\u044c
+p55
+aV\u0418\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442
+p56
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p57
+aVMicrosoft
+p58
+aV\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p59
+aVGoogle
+p60
+aVPHP
+p61
+atRp62
+sS'invitees'
+p63
+NstRp64
+g64
+b.

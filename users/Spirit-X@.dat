@@ -1,0 +1,49 @@
+(dp1
+S'interests'
+p2
+c__builtin__
+set
+p3
+((lp4
+V\u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438
+p5
+atRp6
+sS'friends'
+p7
+NsS'companies'
+p8
+g3
+((lp9
+V\u041c\u0422\u0421
+p10
+aVParallels
+p11
+aVIntel
+p12
+aVQIWI \u041a\u043e\u0448\u0435\u043b\u0435\u043a
+p13
+aVKanobu Network
+p14
+aVeBay
+p15
+aVSkype
+p16
+aVNVIDIA Corporation
+p17
+aVApple
+p18
+atRp19
+sS'hubs'
+p20
+g3
+((lp21
+VFlash-\u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u0430
+p22
+aVApple
+p23
+aVGame Development
+p24
+atRp25
+sS'invitees'
+p26
+Ns.

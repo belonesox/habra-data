@@ -1,0 +1,111 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+V\u0440\u0435\u0438\u043d\u0436\u0435\u043d\u0435\u0440\u0438\u043d\u0433
+p8
+aVjava
+p9
+aV\u043d\u0438\u0437\u043a\u043e\u0443\u0440\u043e\u0432\u043d\u0435\u0432\u043e\u0435 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p10
+aVacm
+p11
+atRp12
+sS'friends'
+p13
+g6
+((lp14
+VGPcH
+p15
+aVbetal
+p16
+aVfocus
+p17
+aVnaum
+p18
+aVgjf
+p19
+aVDimitarSerg
+p20
+atRp21
+sS'companies'
+p22
+g6
+((lp23
+VGoogle
+p24
+aVIntel
+p25
+aVSun Microsystems
+p26
+aVABBYY
+p27
+aVWikimedia Foundation
+p28
+aVNVIDIA Corporation
+p29
+aVCanonical
+p30
+atRp31
+sS'hubs'
+p32
+g6
+((lp33
+VjQuery
+p34
+aVQt Software
+p35
+aV\u0425\u0430\u0431\u0440\u0430\u0445\u0430\u0431\u0440
+p36
+aVAssembler
+p37
+aVOpen source
+p38
+aV\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c
+p39
+aV\u0421\u0438\u0441\u0442\u0435\u043c\u043d\u043e\u0435 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p40
+aVVisual Studio
+p41
+aV\u0410\u043b\u0433\u043e\u0440\u0438\u0442\u043c\u044b
+p42
+aVHuman Resources
+p43
+aV\u0427\u0443\u043b\u0430\u043d
+p44
+aVC++
+p45
+aV\u0418\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442
+p46
+aV\u0413\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043e\u0431\u043e\u043b\u043e\u0447\u043a\u0438
+p47
+aVGoogle
+p48
+aVGoogle Chrome
+p49
+aV\u041e\u043f\u0435\u0440\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0441\u0438\u0441\u0442\u0435\u043c\u044b
+p50
+aVIM
+p51
+aVDIY \u0438\u043b\u0438 \u0421\u0434\u0435\u043b\u0430\u0439 \u0421\u0430\u043c
+p52
+aV\u0418\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044b
+p53
+atRp54
+sS'invitees'
+p55
+NstRp56
+g56
+b.

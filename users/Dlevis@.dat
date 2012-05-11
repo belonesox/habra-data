@@ -1,0 +1,166 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+NsS'companies'
+p7
+NsS'hubs'
+p8
+c__builtin__
+set
+p9
+((lp10
+V\u0413\u041b\u041e\u041d\u0410\u0421\u0421
+p11
+aVCreative Commons
+p12
+aV\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435
+p13
+aVLiveJournal
+p14
+aV\u0421\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0435 \u0441\u0435\u0442\u0438 \u0438 \u0441\u043e\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0430
+p15
+aVSun Microsystems
+p16
+aV\u041e\u0431\u043b\u0430\u0447\u043d\u044b\u0435 \u0432\u044b\u0447\u0438\u0441\u043b\u0435\u043d\u0438\u044f
+p17
+aVeBay
+p18
+aV\u0411\u0430\u0439\u043d\u0435\u0442
+p19
+aVGoogle Plus
+p20
+aVMail.Ru
+p21
+aV3G
+p22
+aV\u0425\u043e\u0441\u0442\u0438\u043d\u0433
+p23
+aVYouTube
+p24
+aVOpenStreetMap
+p25
+aVLTE
+p26
+aV\u0411\u0435\u0441\u043f\u0440\u043e\u0432\u043e\u0434\u043d\u044b\u0435 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438
+p27
+aV\u0420\u0430\u0434\u0438\u043e\u0441\u0432\u044f\u0437\u044c
+p28
+aVMozilla
+p29
+aVAsterisk
+p30
+aVYahoo
+p31
+aVFacebook API
+p32
+aVWiMAX
+p33
+aVFacebook
+p34
+aV\u0414\u043e\u043c\u0435\u043d\u044b
+p35
+aVINFOLUST
+p36
+aVIP-\u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0438\u044f
+p37
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p38
+aVGMail
+p39
+aV\u0421\u0442\u0443\u0434\u0438\u044f \u0410\u0440\u0442\u0435\u043c\u0438\u044f \u041b\u0435\u0431\u0435\u0434\u0435\u0432\u0430
+p40
+aV\u0412\u043a\u043e\u043d\u0442\u0430\u043a\u0442\u0435 API
+p41
+aV\u0425\u0430\u0431\u0440\u0430\u0445\u0430\u0431\u0440 API
+p42
+aV\u0418\u0422-\u0418\u043d\u0444\u0440\u0430\u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0430
+p43
+aV\u042f\u043d\u0434\u0435\u043a\u0441 API
+p44
+aVWikipedia
+p45
+aVBing
+p46
+aVIPTV
+p47
+aVFidonet
+p48
+aVMaps API
+p49
+aV\u0422\u0435\u043b\u0435\u0444\u043e\u043d\u0438\u044f
+p50
+aVGoogle App Engine
+p51
+aVIM
+p52
+aVDNS
+p53
+aV\u0411\u0435\u0433\u0443\u043d
+p54
+aVCisco
+p55
+aVGoogle AdSense
+p56
+aVMicrosoft
+p57
+aVSmartTV
+p58
+aVGPS
+p59
+aVGoogle
+p60
+aVAdobe
+p61
+aVApple
+p62
+aVTwitter API
+p63
+aV\u0422\u0435\u043b\u0435\u043a\u043e\u043c\u044b
+p64
+aVTwitter
+p65
+aVMySpace
+p66
+aV\u0420\u0430\u043c\u0431\u043b\u0435\u0440
+p67
+aVLinkedin
+p68
+aV\u0421\u0443\u043f
+p69
+aVTumblr
+p70
+aVGoogle Analytics
+p71
+aVAPI
+p72
+aVGoogle Checkout
+p73
+aVSkype
+p74
+aVSaaS / S+S
+p75
+aVPeer-to-Peer
+p76
+aV\u041c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0439 \u0432\u0435\u0431
+p77
+aVAmazon Web Services
+p78
+aVGoogle API
+p79
+atRp80
+sS'invitees'
+p81
+NstRp82
+g82
+b.

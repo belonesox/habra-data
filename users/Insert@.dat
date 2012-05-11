@@ -1,0 +1,44 @@
+(dp1
+S'interests'
+p2
+NsS'friends'
+p3
+NsS'companies'
+p4
+c__builtin__
+set
+p5
+((lp6
+VRed Hat
+p7
+aVGoogle
+p8
+aVAdobe
+p9
+aVMozilla Foundation
+p10
+aVRU-CENTER
+p11
+aVMandriva
+p12
+aVSkype
+p13
+aVFree-lance.ru
+p14
+aVdeviantART
+p15
+aVALT Linux
+p16
+aVApache Software Foundation
+p17
+atRp18
+sS'hubs'
+p19
+g5
+((lp20
+V\u0422\u0435\u043b\u0435\u043a\u043e\u043c\u044b
+p21
+atRp22
+sS'invitees'
+p23
+Ns.

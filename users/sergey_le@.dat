@@ -1,0 +1,61 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+Vweb
+p8
+aVinternet marketing
+p9
+aVexplorer
+p10
+aVsmo
+p11
+aV\u043c\u0443\u0437\u044b\u043a\u0430
+p12
+aVsmm
+p13
+aVsport
+p14
+aV\u0440\u0435\u043a\u043b\u0430\u043c\u0430
+p15
+atRp16
+sS'friends'
+p17
+NsS'companies'
+p18
+NsS'hubs'
+p19
+g6
+((lp20
+V\u0421\u0442\u0430\u0440\u043e\u0435 \u0436\u0435\u043b\u0435\u0437\u043e
+p21
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p22
+aV\u041c\u043e\u0439 \u0431\u0438\u0437\u043d\u0435\u0441
+p23
+aV\u0422\u0435\u043b\u0435\u043a\u043e\u043c\u044b
+p24
+aV\u0421\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0435 \u0441\u0435\u0442\u0438 \u0438 \u0441\u043e\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0430
+p25
+aVAndroid
+p26
+aVTwitter
+p27
+atRp28
+sS'invitees'
+p29
+NstRp30
+g30
+b.

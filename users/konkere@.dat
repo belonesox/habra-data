@@ -1,0 +1,148 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+VAshikTC
+p9
+aVblia
+p10
+aVk12th
+p11
+aValkeeper
+p12
+aVkugaevsky
+p13
+aVadnull
+p14
+aVkodji
+p15
+aVyamalight
+p16
+aVmou
+p17
+aVthestorm
+p18
+aVlol2Fast4U
+p19
+aVexelens
+p20
+aVkorynd
+p21
+aVindigo_ru
+p22
+aVbliashechka
+p23
+aVHitMan
+p24
+aVschors
+p25
+aVfoo
+p26
+aVypirenish
+p27
+aVnorguhtar
+p28
+atRp29
+sS'companies'
+p30
+g7
+((lp31
+VGoogle
+p32
+aVIntel
+p33
+aV\u0414\u0440\u0435\u043c\u0443\u0447\u0438\u0439 \u041b\u0435\u0441
+p34
+aVJuick
+p35
+aVSun Microsystems
+p36
+aVMozilla Foundation
+p37
+aV\u041a\u0415\u041d\u0413\u0423\u0420\u0423.\u0422\u0412
+p38
+aVEvernote Corporation
+p39
+aVOpera Software ASA
+p40
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p41
+aVSkype
+p42
+aVAMD (Advanced Micro Devices)
+p43
+aVCanonical
+p44
+aVFuturico
+p45
+atRp46
+sS'hubs'
+p47
+g7
+((lp48
+V\u041c\u0435\u0434\u0438\u0430
+p49
+aVOpen source
+p50
+aV\u0411\u043b\u043e\u0433\u043e\u0441\u0444\u0435\u0440\u0430
+p51
+aV\u0413\u0430\u0434\u0436\u0435\u0442\u044b. \u0423\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u0430 \u0434\u043b\u044f \u0433\u0438\u043a\u043e\u0432
+p52
+aV\u0421\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0435 \u0441\u0435\u0442\u0438 \u0438 \u0441\u043e\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0430
+p53
+aV\u0413\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043e\u0431\u043e\u043b\u043e\u0447\u043a\u0438
+p54
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p55
+aVWordpress
+p56
+aVAndroid
+p57
+aV\u0412\u0438\u0440\u0443\u0441\u044b (\u0438 \u0430\u043d\u0442\u0438\u0432\u0438\u0440\u0443\u0441\u044b)
+p58
+aVMozilla
+p59
+aV\u0423\u0431\u0443\u043d\u0442\u0430\u0440\u0438\u0443\u043c
+p60
+aV*nix
+p61
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p62
+aVOpera
+p63
+aVIM
+p64
+aVGMail
+p65
+aVGoogle
+p66
+aVFirefox
+p67
+aV\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c
+p68
+aVLinux
+p69
+aV\u042d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u044b\u0435 \u043a\u043d\u0438\u0433\u0438
+p70
+aVPeer-to-Peer
+p71
+atRp72
+sS'invitees'
+p73
+NstRp74
+g74
+b.

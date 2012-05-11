@@ -1,0 +1,268 @@
+(dp1
+S'interests'
+p2
+c__builtin__
+set
+p3
+((lp4
+V\u043a\u0438\u043d\u043e
+p5
+aV\u0436\u0438\u0437\u043d\u044c
+p6
+aVweb 2.0
+p7
+aV\u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u044b
+p8
+aVweb
+p9
+aV\u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442
+p10
+aV\u043d\u043e\u0432\u043e\u0441\u0442\u0438
+p11
+aV\u043d\u0430\u0443\u0447\u043d\u0430\u044f \u0444\u0430\u043d\u0442\u0430\u0441\u0442\u0438\u043a\u0430
+p12
+aV\u0434\u0438\u0437\u0430\u0439\u043d
+p13
+aV\u0432\u0435\u0431-\u0434\u0438\u0437\u0430\u0439\u043d
+p14
+aV\u0432\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0438
+p15
+aV\u043c\u0430\u0440\u043a\u0435\u0442\u0438\u043d\u0433
+p16
+aV\u0440\u043e\u043b
+p17
+aVsci-fi
+p18
+aV\u043c\u0443\u0437\u044b\u043a\u0430
+p19
+aV\u0444\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u044f
+p20
+aV\u043c\u043e\u0431\u0438\u043b\u044c\u043d\u0430\u044f \u0441\u0432\u044f\u0437\u044c
+p21
+aV\u044e\u0437\u0430\u0431\u0438\u043b\u0438\u0442\u0438
+p22
+aV\u0444\u044d\u043d\u0442\u0435\u0437\u0438
+p23
+aV\u043f\u043e\u043b\u0438\u0442\u0438\u043a\u0430
+p24
+aV\u0430\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u0438
+p25
+aV\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u0441\u0430\u0439\u0442\u043e\u0432
+p26
+aV\u0438\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044b
+p27
+aV\u0440\u0435\u043a\u043b\u0430\u043c\u0430
+p28
+atRp29
+sS'friends'
+p30
+g3
+((lp31
+VKiller
+p32
+aVdimadubina
+p33
+aVvikfed
+p34
+aVrefuzZer
+p35
+aVral
+p36
+aVpodarokua
+p37
+aVrybnadzorro
+p38
+aVmilax
+p39
+aVmcdavid
+p40
+aVVidmak
+p41
+aVIgrOK
+p42
+aVFrichX
+p43
+aVRulez
+p44
+aVnsamoylov
+p45
+aVArtemikus
+p46
+aVmaaxws
+p47
+aVbananos
+p48
+aVmyshyak
+p49
+aVVasiliadi
+p50
+aVVBykanov
+p51
+aVwblake
+p52
+aVAKarlov
+p53
+aVarturclancy
+p54
+aVhellveen
+p55
+aVgray
+p56
+aVinternetessa1
+p57
+aVb2blogger
+p58
+aVpasyuta
+p59
+aVneskin
+p60
+aVvysoven
+p61
+aVdaeq3
+p62
+aVAlexeyTokar
+p63
+aVnikolaypavlov
+p64
+aVmeua
+p65
+aVkid06
+p66
+aVCooluck
+p67
+aVace
+p68
+aVdennydo
+p69
+aVklubov
+p70
+aVpetruccio
+p71
+aVmagnatik
+p72
+aVvinddetta
+p73
+aVTerion
+p74
+aVkarpolan
+p75
+aVmarinchello
+p76
+aVniju
+p77
+aVwoofer_beta
+p78
+aVbexcite
+p79
+atRp80
+sS'companies'
+p81
+g3
+((lp82
+VSony Corporation
+p83
+aVHP
+p84
+aVLinkedIn
+p85
+aVeBay
+p86
+aVOpera Software ASA
+p87
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p88
+aV\u0410\u0448\u043c\u0430\u043d\u043e\u0432 \u0438 \u041f\u0430\u0440\u0442\u043d\u0451\u0440\u044b
+p89
+aVBitTorrent
+p90
+aVNokia
+p91
+aVBlizzard Entertainment
+p92
+aVFacebook
+p93
+aVSpb Software House Company
+p94
+aVNovell
+p95
+aVNVIDIA Corporation
+p96
+aVWikimedia Foundation
+p97
+aVNews2
+p98
+aV3DNews
+p99
+aVIntel
+p100
+aVAdMe
+p101
+aVASUS Russia
+p102
+aVAdvertka
+p103
+aVdeviantART
+p104
+aVUsabilityLab
+p105
+aVBethesda Softworks
+p106
+aVWebMoney Transfer
+p107
+aVGoogle
+p108
+aVAdobe
+p109
+aVPixar Animation Studios
+p110
+aVMozilla Foundation
+p111
+aVParcsis/Turbomilk
+p112
+aVCisco Systems, Inc
+p113
+aVEvernote Corporation
+p114
+aVSkype
+p115
+aV«\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u044f \u041a\u0430\u0441\u043f\u0435\u0440\u0441\u043a\u043e\u0433\u043e»
+p116
+atRp117
+sS'hubs'
+p118
+g3
+((lp119
+V\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p120
+aVGoogle
+p121
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p122
+aV\u041c\u043e\u0439 \u0431\u0438\u0437\u043d\u0435\u0441
+p123
+aV\u0413\u0430\u0434\u0436\u0435\u0442\u044b. \u0423\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u0430 \u0434\u043b\u044f \u0433\u0438\u043a\u043e\u0432
+p124
+aV\u0427\u0443\u043b\u0430\u043d
+p125
+aVTwitter
+p126
+aV\u041d\u0430\u0443\u0447\u043d\u043e-\u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u043e\u0435
+p127
+aV\u041f\u043e\u0438\u0441\u043a\u043e\u0432\u0430\u044f \u043e\u043f\u0442\u0438\u043c\u0438\u0437\u0430\u0446\u0438\u044f
+p128
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p129
+aV\u0416\u0435\u043b\u0435\u0437\u043e
+p130
+aV\u0421\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0435 \u0441\u0435\u0442\u0438 \u0438 \u0441\u043e\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0430
+p131
+aV\u042d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u0430\u044f \u043a\u043e\u043c\u043c\u0435\u0440\u0446\u0438\u044f
+p132
+aV\u041a\u043e\u043d\u0442\u0435\u043a\u0441\u0442\u043d\u0430\u044f \u0440\u0435\u043a\u043b\u0430\u043c\u0430
+p133
+aV\u0418\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044b
+p134
+atRp135
+sS'invitees'
+p136
+Ns.

@@ -1,0 +1,138 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+VeisernWolf
+p9
+aVvalCooL
+p10
+aVinetstar
+p11
+aVerni
+p12
+aVaparatos
+p13
+aVjay_minsk
+p14
+aVOmeZ
+p15
+aVdeshevii
+p16
+aVmrBadim
+p17
+aVXmasterX
+p18
+atRp19
+sS'companies'
+p20
+g7
+((lp21
+VZend Technologies
+p22
+aVRed Hat
+p23
+aVWebMoney Transfer
+p24
+aVGoogle
+p25
+aVApple
+p26
+aVIntel
+p27
+aVSun Microsystems
+p28
+aVMozilla Foundation
+p29
+aVLast.fm
+p30
+aVFree-lance.ru
+p31
+aVEvernote Corporation
+p32
+aV\u041b\u0435\u043d\u0442\u0430.\u0420\u0443
+p33
+aVSkype
+p34
+aV\u0411\u0435\u0433\u0443\u043d
+p35
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p36
+aV\u0421\u0442\u0443\u0434\u0438\u044f \u0410\u0440\u0442\u0435\u043c\u0438\u044f \u041b\u0435\u0431\u0435\u0434\u0435\u0432\u0430
+p37
+aVWikimedia Foundation
+p38
+atRp39
+sS'hubs'
+p40
+g7
+((lp41
+VLinux
+p42
+aV\u0427\u0443\u043b\u0430\u043d
+p43
+aV\u0421\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0435 \u0441\u0435\u0442\u0438 \u0438 \u0441\u043e\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0430
+p44
+aV\u0411\u0430\u0439\u043d\u0435\u0442
+p45
+aV\u041f\u043e\u0438\u0441\u043a\u043e\u0432\u044b\u0435 \u043c\u0430\u0448\u0438\u043d\u044b \u0438 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438
+p46
+aV\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u0440\u0435\u043a\u043b\u0430\u043c\u0430
+p47
+aV\u0418\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044b
+p48
+aV\u0418\u043d\u0442\u0435\u0440\u0432\u044c\u044e
+p49
+aV\u0414\u0438\u0437\u0430\u0439\u043d \u0432 IT
+p50
+aVMac OS X
+p51
+aV\u0425\u0430\u0431\u0440\u0430\u0445\u0430\u0431\u0440
+p52
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p53
+aVSkype
+p54
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p55
+aV\u041e\u043f\u0435\u0440\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0441\u0438\u0441\u0442\u0435\u043c\u044b
+p56
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043f\u043e\u0434 iOS
+p57
+aVFirefox
+p58
+aVGoogle
+p59
+aVJAVA
+p60
+aVApple
+p61
+aV\u0411\u0440\u0430\u0443\u0437\u0435\u0440\u044b
+p62
+aVZend Framework
+p63
+aVSQL
+p64
+aV\u0424\u0440\u0438\u043b\u0430\u043d\u0441
+p65
+aVPHP
+p66
+atRp67
+sS'invitees'
+p68
+NstRp69
+g69
+b.

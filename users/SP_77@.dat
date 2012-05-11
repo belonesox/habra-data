@@ -1,0 +1,68 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+Vmfc
+p8
+aV\u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u043d\u0430\u044f \u043b\u0438\u043d\u0433\u0432\u0438\u0441\u0442\u0438\u043a\u0430
+p9
+aVjavascript
+p10
+aVc++
+p11
+aVmac
+p12
+aVvisual studio 6.0
+p13
+aV\u043f\u0440\u043e\u0432\u0435\u0440\u043a\u0430 \u0433\u0440\u0430\u043c\u043c\u0430\u0442\u0438\u043a\u0438
+p14
+aV\u043d\u043b\u043f
+p15
+aV\u043f\u0440\u043e\u0432\u0435\u0440\u043a\u0430 \u043f\u0440\u0430\u0432\u043e\u043f\u0438\u0441\u0430\u043d\u0438\u044f
+p16
+aV\u0438\u0433\u0440\u044b
+p17
+aV\u043e\u0431\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u0442\u0435\u043a\u0441\u0442\u043e\u0432
+p18
+atRp19
+sS'friends'
+p20
+g6
+((lp21
+Vrg_software
+p22
+aVsergeys
+p23
+aVp1nger
+p24
+atRp25
+sS'companies'
+p26
+NsS'hubs'
+p27
+g6
+((lp28
+V\u041f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0430
+p29
+aV\u0427\u0443\u043b\u0430\u043d
+p30
+aV\u0418\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442
+p31
+atRp32
+sS'invitees'
+p33
+NstRp34
+g34
+b.

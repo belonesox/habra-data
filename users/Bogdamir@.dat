@@ -1,0 +1,65 @@
+(dp1
+S'interests'
+p2
+NsS'friends'
+p3
+c__builtin__
+set
+p4
+((lp5
+VVORus
+p6
+atRp7
+sS'companies'
+p8
+g4
+((lp9
+VGoogle
+p10
+aVApple
+p11
+aV\u041c\u043e\u0435 \u0434\u0435\u043b\u043e
+p12
+aVLast.fm
+p13
+aVeBay
+p14
+aVOpera Software ASA
+p15
+aVSkype
+p16
+aVFree-lance.ru
+p17
+aVRussian Podcasting
+p18
+aVCanonical
+p19
+atRp20
+sS'hubs'
+p21
+g4
+((lp22
+V\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p23
+aV\u0413\u0430\u0434\u0436\u0435\u0442\u044b. \u0423\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u0430 \u0434\u043b\u044f \u0433\u0438\u043a\u043e\u0432
+p24
+aVMODx
+p25
+aV\u041f\u043e\u0434\u043a\u0430\u0441\u0442\u044b
+p26
+aV\u0411\u0443\u0434\u0443\u0449\u0435\u0435 \u0437\u0434\u0435\u0441\u044c
+p27
+aV\u0411\u0438\u0437\u043d\u0435\u0441 \u0441\u0442\u0443\u0434\u0438\u0438
+p28
+aViPhone
+p29
+aVAndroid
+p30
+aVDIY \u0438\u043b\u0438 \u0421\u0434\u0435\u043b\u0430\u0439 \u0421\u0430\u043c
+p31
+aV\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u0440\u0435\u043a\u043b\u0430\u043c\u0430
+p32
+atRp33
+sS'invitees'
+p34
+Ns.

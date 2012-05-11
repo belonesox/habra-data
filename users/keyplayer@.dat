@@ -1,0 +1,136 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+Vsmart
+p9
+atRp10
+sS'companies'
+p11
+g7
+((lp12
+VIBM
+p13
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p14
+aVBitTorrent
+p15
+aVid Software
+p16
+aVLinguaLeo
+p17
+aV\u0418\u043c\u0445\u043e\u043d\u0435\u0442
+p18
+aVApache Software Foundation
+p19
+aVWikimedia Foundation
+p20
+aV3DNews
+p21
+aVLenovo
+p22
+aVIntel
+p23
+aVMail.Ru Group
+p24
+aVQIWI \u041a\u043e\u0448\u0435\u043b\u0435\u043a
+p25
+aVFree Software Foundation
+p26
+aVGoogle
+p27
+aVDroider.Ru
+p28
+aVPixar Animation Studios
+p29
+aVPocketBook
+p30
+aVMozilla Foundation
+p31
+aVLast.fm
+p32
+aV1\u0421
+p33
+aVNomobile.Ru
+p34
+aVCanonical
+p35
+atRp36
+sS'hubs'
+p37
+g7
+((lp38
+V\u0423\u0447\u0435\u0431\u043d\u044b\u0439 \u043f\u0440\u043e\u0446\u0435\u0441\u0441 \u0432 IT
+p39
+aVOpen source
+p40
+aVNoSQL
+p41
+aVScala
+p42
+aV\u041e\u0444\u0438\u0441\u044b IT-\u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0439
+p43
+aV\u0427\u0443\u043b\u0430\u043d
+p44
+aV\u041f\u043b\u0430\u043d\u0448\u0435\u0442\u044b
+p45
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p46
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p47
+aVGoogle Chrome
+p48
+aVAndroid
+p49
+aV\u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043f\u0440\u043e\u0435\u043a\u0442\u0430\u043c\u0438
+p50
+aVYouTube
+p51
+aV\u0423\u0431\u0443\u043d\u0442\u0430\u0440\u0438\u0443\u043c
+p52
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p53
+aVLinux
+p54
+aVEclipse
+p55
+aV\u0418\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442
+p56
+aV\u041e\u043f\u0435\u0440\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0441\u0438\u0441\u0442\u0435\u043c\u044b
+p57
+aVLTE
+p58
+aV\u0410\u043b\u0433\u043e\u0440\u0438\u0442\u043c\u044b
+p59
+aVGoogle
+p60
+aVFirefox
+p61
+aVHaskell
+p62
+aVSQL
+p63
+aV\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p64
+aVErlang/OTP
+p65
+atRp66
+sS'invitees'
+p67
+NstRp68
+g68
+b.

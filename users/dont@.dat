@@ -1,0 +1,41 @@
+(dp1
+S'interests'
+p2
+NsS'friends'
+p3
+c__builtin__
+set
+p4
+((lp5
+Vantigona
+p6
+aVak
+p7
+aVplaksa
+p8
+aVvictor_lavrenko
+p9
+atRp10
+sS'companies'
+p11
+g4
+((lp12
+V\u0421\u0442\u0443\u0434\u0438\u044f \u0410\u0440\u0442\u0435\u043c\u0438\u044f \u041b\u0435\u0431\u0435\u0434\u0435\u0432\u0430
+p13
+aVMail.Ru Group
+p14
+aVFuturico
+p15
+atRp16
+sS'hubs'
+p17
+g4
+((lp18
+VMail.Ru
+p19
+aV\u042d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u0430\u044f \u043a\u043e\u043c\u043c\u0435\u0440\u0446\u0438\u044f
+p20
+atRp21
+sS'invitees'
+p22
+Ns.

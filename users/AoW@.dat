@@ -1,0 +1,45 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+NsS'companies'
+p7
+c__builtin__
+set
+p8
+((lp9
+VAMD (Advanced Micro Devices)
+p10
+aV«\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u044f \u041a\u0430\u0441\u043f\u0435\u0440\u0441\u043a\u043e\u0433\u043e»
+p11
+aVOpera Software ASA
+p12
+aVLast.fm
+p13
+aVCanonical
+p14
+atRp15
+sS'hubs'
+p16
+g8
+((lp17
+V\u0427\u0443\u043b\u0430\u043d
+p18
+aVIM
+p19
+atRp20
+sS'invitees'
+p21
+NstRp22
+g22
+b.

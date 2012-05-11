@@ -1,0 +1,332 @@
+(dp1
+S'interests'
+p2
+c__builtin__
+set
+p3
+((lp4
+Vweb
+p5
+aVstart-up
+p6
+aV\u0434\u0438\u0437\u0430\u0439\u043d
+p7
+atRp8
+sS'friends'
+p9
+g3
+((lp10
+Vlalaki
+p11
+aVMio
+p12
+aVShapelez
+p13
+aVandreevich
+p14
+aVShpankov
+p15
+aVtimzinin
+p16
+aVart_of_press
+p17
+aVspiff
+p18
+aVmikeSP
+p19
+aVAlik_Kirillovich
+p20
+aVBercut
+p21
+aVainu
+p22
+aVLithium
+p23
+aVP_r_i_m_a_t
+p24
+aViDooble
+p25
+aVemuravjev
+p26
+aVdarkolorin
+p27
+aVimpersonalis
+p28
+aVolyapka
+p29
+aVmarks
+p30
+aVXaocCPS
+p31
+aVtehnolog
+p32
+aVmike114
+p33
+aValizar
+p34
+aVtassadar_ha
+p35
+aVznamensky
+p36
+aVnolka
+p37
+aVhellveen
+p38
+aVKonovalov
+p39
+aVakamuza
+p40
+aVAtv
+p41
+aVMcBernar
+p42
+aVKumarunster
+p43
+aVjack7277
+p44
+aVsigizmund
+p45
+aVRebus
+p46
+aVcycero
+p47
+aVDmitriyN
+p48
+aVKuuuzya
+p49
+aVlaevsky
+p50
+aVakuklev
+p51
+aVCr00t
+p52
+aVooprizrakoo
+p53
+aVzevvssibirix
+p54
+aVsvscorp
+p55
+aVmrskam
+p56
+aVG0BLIN
+p57
+aVTosh
+p58
+aVDileSoft
+p59
+aVAlexeyFrolov
+p60
+aVTerehoff
+p61
+aVgefix
+p62
+atRp63
+sS'companies'
+p64
+g3
+((lp65
+VATN
+p66
+aVRound Lake
+p67
+aVOpera Software ASA
+p68
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p69
+atRp70
+sS'hubs'
+p71
+g3
+((lp72
+VLiveStreet
+p73
+aVCanvas
+p74
+aV\u0427\u0443\u043b\u0430\u043d
+p75
+aVAgile
+p76
+aVHuman Resources
+p77
+aV\u0425\u0430\u0431\u0440\u0430\u0445\u0430\u0431\u0440 \u2014 \u0410\u043d\u043e\u043d\u0441\u044b
+p78
+aVTwisted
+p79
+aV\u0413\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043e\u0431\u043e\u043b\u043e\u0447\u043a\u0438
+p80
+aV\u0418\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044b
+p81
+aV\u0410\u043d\u0430\u043b\u0438\u0437 \u0438 \u043f\u0440\u043e\u0435\u043a\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0441\u0438\u0441\u0442\u0435\u043c
+p82
+aV\u041e\u0431\u043e\u043b\u043e\u0447\u043a\u0438
+p83
+aVRuby on Rails
+p84
+aVNginx
+p85
+aV\u041f\u043e\u0434\u043a\u0430\u0441\u0442\u044b
+p86
+aVApache
+p87
+aVDrupal
+p88
+aVYii
+p89
+aVEclipse
+p90
+aVDjango
+p91
+aVJoomla
+p92
+aVCakePHP
+p93
+aVVIM
+p94
+aVNode.JS
+p95
+aVZend Framework
+p96
+aVKohana
+p97
+aVWordpress
+p98
+aVjQuery
+p99
+aVLaTeX
+p100
+aV\u0413\u0430\u0434\u0436\u0435\u0442\u044b. \u0423\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u0430 \u0434\u043b\u044f \u0433\u0438\u043a\u043e\u0432
+p101
+aV\u041e\u0444\u0438\u0441\u044b IT-\u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0439
+p102
+aV\u0410\u043d\u0438\u043c\u0430\u0446\u0438\u044f \u0438 3D \u0433\u0440\u0430\u0444\u0438\u043a\u0430
+p103
+aVHelp Desk Software
+p104
+aVAndroid
+p105
+aVCMS
+p106
+aV1\u0421-\u0411\u0438\u0442\u0440\u0438\u043a\u0441
+p107
+aV\u0423\u0431\u0443\u043d\u0442\u0430\u0440\u0438\u0443\u043c
+p108
+aVHTML
+p109
+aVSafari
+p110
+aV*nix
+p111
+aV\u042e\u0437\u0430\u0431\u0438\u043b\u0438\u0442\u0438 \u0432 IT
+p112
+aV\u041f\u0440\u0435\u0437\u0435\u043d\u0442\u0430\u0446\u0438\u0438
+p113
+aV\u041e\u043f\u0435\u0440\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0441\u0438\u0441\u0442\u0435\u043c\u044b
+p114
+aVCSS
+p115
+aVFirefox
+p116
+aV\u0412\u0435\u043a\u0442\u043e\u0440\u043d\u0430\u044f \u0433\u0440\u0430\u0444\u0438\u043a\u0430
+p117
+aV\u0411\u0440\u0430\u0443\u0437\u0435\u0440\u044b
+p118
+aV\u0420\u0430\u0431\u043e\u0442\u0430 \u0441\u043e \u0437\u0432\u0443\u043a\u043e\u043c
+p119
+aVIT-\u0411\u0438\u043e\u0433\u0440\u0430\u0444\u0438\u0438
+p120
+aVWiki-\u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u044f
+p121
+aVMooTools
+p122
+aVGoogle Chrome
+p123
+aVInternet Explorer
+p124
+aV\u042d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u0430\u044f \u043a\u043e\u043c\u043c\u0435\u0440\u0446\u0438\u044f
+p125
+aVGreaseMonkey
+p126
+aV\u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043f\u0440\u043e\u0435\u043a\u0442\u0430\u043c\u0438
+p127
+aVCodeIgniter
+p128
+aV\u0411\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u0430 ExtJS/Sencha
+p129
+aVMac OS X
+p130
+aV\u0418\u043d\u0444\u043e\u0433\u0440\u0430\u0444\u0438\u043a\u0430
+p131
+aVAjax
+p132
+aV\u0424\u0438\u043d\u0430\u043d\u0441\u044b \u0434\u043b\u044f \u0432\u0441\u0435\u0445
+p133
+aV\u0420\u0430\u0431\u043e\u0442\u0430 \u0441 \u0432\u0438\u0434\u0435\u043e
+p134
+aVXML
+p135
+aVQt Software
+p136
+aV\u0418\u043a\u043e\u043d\u043e\u0441\u043a\u0430\u0437
+p137
+aVGTD
+p138
+aVXSLT
+p139
+aVOpera
+p140
+aVCAD/CAM
+p141
+aVLabVIEW
+p142
+aVAction Script
+p143
+aVGoogle
+p144
+aV\u0422\u0438\u043f\u043e\u0433\u0440\u0430\u0444\u0438\u043a\u0430
+p145
+aV\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p146
+aVTwitter
+p147
+aV\u0411\u0435\u0441\u043f\u0440\u043e\u0432\u043e\u0434\u043d\u044b\u0435 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438
+p148
+aV\u0421\u043e\u0444\u0442
+p149
+aVCoworking: \u0440\u0430\u0431\u043e\u0442\u0430 2.0
+p150
+aVMODx
+p151
+aVWindows Phone
+p152
+aVJavaScript
+p153
+aV\u0412\u0435\u0431-\u0434\u0438\u0437\u0430\u0439\u043d
+p154
+aVFlex
+p155
+aVIIS
+p156
+aV\u0414\u0438\u0437\u0430\u0439\u043d \u0432 IT
+p157
+aV\u0411\u0438\u0437\u043d\u0435\u0441 \u0441\u0442\u0443\u0434\u0438\u0438
+p158
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p159
+aVWindows
+p160
+aVGTK+
+p161
+aVSymfony
+p162
+aV\u041c\u0438\u043a\u0440\u043e\u0444\u043e\u0440\u043c\u0430\u0442\u044b
+p163
+aVERP-\u0441\u0438\u0441\u0442\u0435\u043c\u044b
+p164
+aVGroovy & Grails
+p165
+aVLinux
+p166
+atRp167
+sS'invitees'
+p168
+Ns.

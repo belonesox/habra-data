@@ -1,0 +1,73 @@
+(dp1
+S'interests'
+p2
+NsS'friends'
+p3
+c__builtin__
+set
+p4
+((lp5
+VDesTincT
+p6
+aVsubcat
+p7
+aVChips
+p8
+aVxaja
+p9
+aVAirWorker
+p10
+atRp11
+sS'companies'
+p12
+g4
+((lp13
+VREG.RU
+p14
+aVOpera Software ASA
+p15
+aVHighload Lab.
+p16
+aVJetBrains
+p17
+atRp18
+sS'hubs'
+p19
+g4
+((lp20
+VjQuery
+p21
+aVCanvas
+p22
+aV\u041c\u0438\u043a\u0440\u043e\u0444\u043e\u0440\u043c\u0430\u0442\u044b
+p23
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p24
+aVNoSQL
+p25
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p26
+aVOpera
+p27
+aVJavaScript
+p28
+aV\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p29
+aVNginx
+p30
+aVHTML
+p31
+aV\u0416\u0435\u043b\u0435\u0437\u043e
+p32
+aVInternet Explorer
+p33
+aVErlang/OTP
+p34
+aV\u042d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u0430\u044f \u043a\u043e\u043c\u043c\u0435\u0440\u0446\u0438\u044f
+p35
+aVRuby
+p36
+atRp37
+sS'invitees'
+p38
+Ns.

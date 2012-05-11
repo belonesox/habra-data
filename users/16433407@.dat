@@ -1,0 +1,68 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+VAlles_gut
+p9
+atRp10
+sS'companies'
+p11
+g7
+((lp12
+VIntel
+p13
+atRp14
+sS'hubs'
+p15
+g7
+((lp16
+VjQuery
+p17
+aVGit
+p18
+aVJAVA
+p19
+aVOpen source
+p20
+aVGoogle Web Toolkit
+p21
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p22
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p23
+aVGoogle App Engine
+p24
+aV\u0421\u0435\u043c\u0430\u043d\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0421\u0435\u0442\u044c
+p25
+aV\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p26
+aVIP-\u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0438\u044f
+p27
+aVVIM
+p28
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p29
+aV\u0421\u0435\u0440\u0432\u0435\u0440\u043d\u0430\u044f \u043e\u043f\u0442\u0438\u043c\u0438\u0437\u0430\u0446\u0438\u044f
+p30
+aV\u0421\u043e\u0432\u0435\u0440\u0448\u0435\u043d\u043d\u044b\u0439 \u043a\u043e\u0434
+p31
+atRp32
+sS'invitees'
+p33
+NstRp34
+g34
+b.

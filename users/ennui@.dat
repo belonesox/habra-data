@@ -1,0 +1,50 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+V\u0445\u0443\u0434\u043e\u0436\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u0430\u044f \u043b\u0438\u0442\u0435\u0440\u0430\u0442\u0443\u0440\u0430
+p8
+aVasp.net
+p9
+aVjs \u0444\u0440\u0435\u0439\u043c\u0432\u043e\u0440\u043a\u0438.
+p10
+aVasp.net mvc
+p11
+atRp12
+sS'friends'
+p13
+NsS'companies'
+p14
+g6
+((lp15
+VMicrosoft
+p16
+atRp17
+sS'hubs'
+p18
+g6
+((lp19
+VASP
+p20
+aV\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p21
+aV.NET
+p22
+atRp23
+sS'invitees'
+p24
+NstRp25
+g25
+b.

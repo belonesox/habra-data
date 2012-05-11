@@ -1,0 +1,251 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+V\u0441\u0438\u0441\u0442\u0435\u043c\u043d\u043e\u0435 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p8
+aV\u0430\u043d\u0438\u043c\u0435
+p9
+aVweb-\u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p10
+atRp11
+sS'friends'
+p12
+g6
+((lp13
+VKnakl
+p14
+aVmarkshevchenko
+p15
+aVbakaneko
+p16
+aVerock
+p17
+aVelve
+p18
+aViManiacDev
+p19
+aVddsl
+p20
+aVTook
+p21
+aVoisee
+p22
+aVartyfarty
+p23
+aVMaGIc2laNTern
+p24
+aVmikedin
+p25
+aVclamaw
+p26
+aVtheaqua
+p27
+aVTiFFolk
+p28
+aVIvanB
+p29
+aVNazghoul
+p30
+aVChikiro
+p31
+aVus573
+p32
+aVgorl
+p33
+aVhibou
+p34
+aVmdevils
+p35
+aVkrisstail
+p36
+aVOsaka
+p37
+aVstrikov
+p38
+aVgryphon
+p39
+aVnons
+p40
+aVS2nek
+p41
+aVEskat0n
+p42
+atRp43
+sS'companies'
+p44
+g6
+((lp45
+VWorld Wide Web Consortium
+p46
+aVIBM
+p47
+aVHP
+p48
+aVSun Microsystems
+p49
+aVOpera Software ASA
+p50
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p51
+aVBitTorrent
+p52
+aVNokia
+p53
+aVToshiba
+p54
+aVNovell
+p55
+aVAMD (Advanced Micro Devices)
+p56
+aV\u0421\u0442\u0443\u0434\u0438\u044f \u0410\u0440\u0442\u0435\u043c\u0438\u044f \u041b\u0435\u0431\u0435\u0434\u0435\u0432\u0430
+p57
+aVZend Technologies
+p58
+aVIntel
+p59
+aVFree-lance.ru
+p60
+aVMandriva
+p61
+aVMicrosoft
+p62
+aVFree Software Foundation
+p63
+aVWebMoney Transfer
+p64
+aVGoogle
+p65
+aVAdobe
+p66
+aVApple
+p67
+aVMozilla Foundation
+p68
+aVLast.fm
+p69
+aVNVIDIA Corporation
+p70
+atRp71
+sS'hubs'
+p72
+g6
+((lp73
+VLaTeX
+p74
+aV\u041a\u043b\u0438\u0435\u043d\u0442\u0441\u043a\u0430\u044f \u043e\u043f\u0442\u0438\u043c\u0438\u0437\u0430\u0446\u0438\u044f
+p75
+aVRuby
+p76
+aVOpen source
+p77
+aVNoSQL
+p78
+aV\u0421\u0438\u0441\u0442\u0435\u043c\u043d\u043e\u0435 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p79
+aVJavaScript
+p80
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p81
+aVLua
+p82
+aVMySQL
+p83
+aV\u0418\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044b
+p84
+aVFlex
+p85
+aV\u0412\u044b\u0441\u043e\u043a\u0430\u044f \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c
+p86
+aVPython
+p87
+aVFacebook API
+p88
+aVAjax
+p89
+aVHTML
+p90
+aVFlash-\u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u0430
+p91
+aV\u0421\u043e\u0432\u0435\u0440\u0448\u0435\u043d\u043d\u044b\u0439 \u043a\u043e\u0434
+p92
+aVC
+aV\u0412\u043a\u043e\u043d\u0442\u0430\u043a\u0442\u0435 API
+p93
+aV\u0425\u0430\u0431\u0440\u0430\u0445\u0430\u0431\u0440 API
+p94
+aV\u042f\u043d\u0434\u0435\u043a\u0441 API
+p95
+aVMercurial
+p96
+aVMaps API
+p97
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p98
+aVAction Script
+p99
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043f\u043e\u0434 iOS
+p100
+aVData Mining
+p101
+aV\u0422\u0438\u043f\u043e\u0433\u0440\u0430\u0444\u0438\u043a\u0430
+p102
+aV\u0410\u043b\u0433\u043e\u0440\u0438\u0442\u043c\u044b
+p103
+aVCSS
+p104
+aVPostgreSQL
+p105
+aVGame Development
+p106
+aVTwitter API
+p107
+aVMongoDB
+p108
+aV\u0411\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u0430 ExtJS/Sencha
+p109
+aVAPI
+p110
+aVSQL
+p111
+aV\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p112
+aVPHP
+p113
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043f\u043e\u0434 Android
+p114
+aVGoogle API
+p115
+atRp116
+sS'invitees'
+p117
+g6
+((lp118
+VAnjin
+p119
+aVKnakl
+p120
+aVFakeFactFelis
+p121
+aVZerstoren
+p122
+aVITcheburashka
+p123
+aValexsudachen
+p124
+atRp125
+stRp126
+g126
+b.

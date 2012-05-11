@@ -1,0 +1,115 @@
+(dp1
+S'interests'
+p2
+NsS'friends'
+p3
+c__builtin__
+set
+p4
+((lp5
+VWikiFun
+p6
+aVkrisstail
+p7
+aVAlik_Kirillovich
+p8
+aVKaberc
+p9
+atRp10
+sS'companies'
+p11
+g4
+((lp12
+V\u041c\u0422\u0421
+p13
+aVSony Corporation
+p14
+aV\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435
+p15
+aVHP
+p16
+aVZend Technologies
+p17
+aVNigma
+p18
+aVOpera Software ASA
+p19
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p20
+aVFuturico
+p21
+aVALT Linux
+p22
+aV1\u0421-\u0411\u0438\u0442\u0440\u0438\u043a\u0441
+p23
+aVCorel Corporation
+p24
+aVNVIDIA Corporation
+p25
+aVApache Software Foundation
+p26
+aVWikimedia Foundation
+p27
+aV\u041e\u0434\u043d\u043e\u043a\u043b\u0430\u0441\u0441\u043d\u0438\u043a\u0438
+p28
+aVIntel
+p29
+aVMail.Ru Group
+p30
+aVDell Inc
+p31
+aVGoogle
+p32
+aVApple
+p33
+aVMozilla Foundation
+p34
+aVLast.fm
+p35
+aV«\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u044f \u041a\u0430\u0441\u043f\u0435\u0440\u0441\u043a\u043e\u0433\u043e»
+p36
+atRp37
+sS'hubs'
+p38
+g4
+((lp39
+VGoogle
+p40
+aVGTD
+p41
+aVApple
+p42
+aV\u0427\u0443\u043b\u0430\u043d
+p43
+aVYouTube
+p44
+aV\u0427\u0438\u0442\u0430\u043b\u044c\u043d\u044b\u0439 \u0437\u0430\u043b
+p45
+aVLiveJournal
+p46
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p47
+aV\u041f\u043e\u0434\u043a\u0430\u0441\u0442\u044b
+p48
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p49
+aVSafari
+p50
+aVLinux
+p51
+aV\u0412\u0435\u0431-\u0434\u0438\u0437\u0430\u0439\u043d
+p52
+aVFirefox
+p53
+aVPHP
+p54
+aVCMS
+p55
+aVCSS
+p56
+aV\u0421\u043c\u0430\u0440\u0442\u0444\u043e\u043d\u044b \u0438 \u043a\u043e\u043c\u043c\u0443\u043d\u0438\u043a\u0430\u0442\u043e\u0440\u044b
+p57
+atRp58
+sS'invitees'
+p59
+Ns.

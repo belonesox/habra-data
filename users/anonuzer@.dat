@@ -1,0 +1,176 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+V\u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u044b\u0435 \u043a\u043d\u0438\u0433\u0438
+p8
+aV\u0434\u0440\u0443\u0433\u043e\u0435
+p9
+atRp10
+sS'friends'
+p11
+g6
+((lp12
+Vkernel
+p13
+aVserho
+p14
+aVlarshin
+p15
+aVcostique
+p16
+aVNaTTs
+p17
+aVmironeg
+p18
+aVbzhmurov
+p19
+aVjuks
+p20
+aVkaraboz
+p21
+aVvictor_lavrenko
+p22
+aVvladimirlosinsky
+p23
+aVSweety
+p24
+aVAstramak
+p25
+aVhmelyoff
+p26
+aVmaxlapshin
+p27
+aVbuxley
+p28
+aVvasilyesmanov
+p29
+aViloveya
+p30
+aVvovasty
+p31
+aVlatrommi
+p32
+aVanotony
+p33
+aVLoveHurts
+p34
+aVDead_horse
+p35
+aVSergeySergeich
+p36
+aVgenue
+p37
+aVESQUELETO
+p38
+aVDenD
+p39
+atRp40
+sS'companies'
+p41
+g6
+((lp42
+VBookmate
+p43
+aVIBM
+p44
+aV\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435
+p45
+aVSix Apart
+p46
+aVSun Microsystems
+p47
+aVLast.fm
+p48
+aV\u0424\u0421\u0411 \u0420\u0424
+p49
+aVSkype
+p50
+aVWikimedia Foundation
+p51
+aVtoodoo
+p52
+aVFuturico
+p53
+atRp54
+sS'hubs'
+p55
+g6
+((lp56
+V\u0420\u043e\u0431\u043e\u0442\u043e\u0442\u0435\u0445\u043d\u0438\u043a\u0430
+p57
+aV\u041c\u0435\u0434\u0438\u0430
+p58
+aVGoogle
+p59
+aV\u0427\u0443\u043b\u0430\u043d
+p60
+aV\u0411\u043b\u043e\u0433\u043e\u0441\u0444\u0435\u0440\u0430
+p61
+aV\u0427\u0438\u0442\u0430\u043b\u044c\u043d\u044b\u0439 \u0437\u0430\u043b
+p62
+aV\u0414\u0438\u0437\u0430\u0439\u043d \u0432 IT
+p63
+aV\u041a\u043e\u043d\u0442\u0435\u043a\u0441\u0442\u043d\u0430\u044f \u0440\u0435\u043a\u043b\u0430\u043c\u0430
+p64
+aV\u0418\u0434\u0435\u0438 \u0434\u043b\u044f \u0441\u0442\u0430\u0440\u0442\u0430\u043f\u043e\u0432
+p65
+aV\u0411\u0443\u0434\u0443\u0449\u0435\u0435 \u0437\u0434\u0435\u0441\u044c
+p66
+aV\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p67
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p68
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p69
+aVFacebook
+p70
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p71
+aV\u041f\u043b\u0430\u0442\u0435\u0436\u043d\u044b\u0435 \u0441\u0438\u0441\u0442\u0435\u043c\u044b
+p72
+aV\u042d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u044b\u0435 \u043a\u043d\u0438\u0433\u0438
+p73
+aV\u041e\u0444\u0438\u0441\u044b IT-\u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0439
+p74
+aV\u042d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u0430\u044f \u043a\u043e\u043c\u043c\u0435\u0440\u0446\u0438\u044f
+p75
+aVRuby
+p76
+aVMicrosoft
+p77
+atRp78
+sS'invitees'
+p79
+g6
+((lp80
+VMirra
+p81
+aVmacovsky
+p82
+aVvovasty
+p83
+aVLvenka
+p84
+aVanotony
+p85
+aVbzhmurov
+p86
+aVksavenkov
+p87
+atRp88
+stRp89
+g89
+b.

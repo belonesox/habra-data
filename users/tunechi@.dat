@@ -1,0 +1,62 @@
+(dp1
+S'interests'
+p2
+NsS'friends'
+p3
+NsS'companies'
+p4
+c__builtin__
+set
+p5
+((lp6
+VOpera Software ASA
+p7
+atRp8
+sS'hubs'
+p9
+g5
+((lp10
+VGoogle
+p11
+aVFirefox
+p12
+aV\u0421\u043c\u0430\u0440\u0442\u0444\u043e\u043d\u044b \u0438 \u043a\u043e\u043c\u043c\u0443\u043d\u0438\u043a\u0430\u0442\u043e\u0440\u044b
+p13
+aV\u0421\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0435 \u0441\u0435\u0442\u0438 \u0438 \u0441\u043e\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0430
+p14
+aV\u0411\u0440\u0430\u0443\u0437\u0435\u0440\u044b
+p15
+aVOpera
+p16
+aVIT-\u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u044b
+p17
+aVTwitter
+p18
+aVMozilla
+p19
+aVYouTube
+p20
+aV\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u0440\u0435\u043a\u043b\u0430\u043c\u0430
+p21
+aVWindows
+p22
+aV\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435
+p23
+aVFacebook
+p24
+aVSafari
+p25
+aVInternet Explorer
+p26
+aVGoogle Chrome
+p27
+aV\u0421\u043e\u0444\u0442
+p28
+aVMicrosoft
+p29
+aVGMail
+p30
+atRp31
+sS'invitees'
+p32
+Ns.

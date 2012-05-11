@@ -1,0 +1,96 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+Vbdd
+p8
+aV\u043a\u0438\u043d\u043e
+p9
+aVc#
+p10
+aV.net
+p11
+aVsaas
+p12
+aVtdd
+p13
+aVgo
+p14
+aV«\u0445\u0443\u0434\u043e\u0436\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u0430\u044f \u043b\u0438\u0442\u0435\u0440\u0430\u0442\u0443\u0440\u0430»
+p15
+atRp16
+sS'friends'
+p17
+g6
+((lp18
+VAlexander_Smirnov
+p19
+aVQuetzal
+p20
+aVmythmaker
+p21
+atRp22
+sS'companies'
+p23
+NsS'hubs'
+p24
+g6
+((lp25
+V\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p26
+aVGoogle
+p27
+aVGTD
+p28
+aV\u042d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u044b\u0435 \u043a\u043d\u0438\u0433\u0438
+p29
+aVC#
+p30
+aVMercurial
+p31
+aV.NET
+p32
+aVMicrosoft
+p33
+aV\u041e\u0431\u043b\u0430\u0447\u043d\u044b\u0435 \u0432\u044b\u0447\u0438\u0441\u043b\u0435\u043d\u0438\u044f
+p34
+aV\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p35
+aV\u041e\u0442\u043b\u0430\u0434\u043a\u0430
+p36
+aVVisual Studio
+p37
+aVSaaS / S+S
+p38
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p39
+aV\u0427\u0443\u043b\u0430\u043d
+p40
+aVGo
+p41
+aVOpen source
+p42
+aVTDD
+p43
+aV\u0410\u043b\u0433\u043e\u0440\u0438\u0442\u043c\u044b
+p44
+aVAmazon Web Services
+p45
+atRp46
+sS'invitees'
+p47
+NstRp48
+g48
+b.

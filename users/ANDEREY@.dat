@@ -1,0 +1,79 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+V\u0432\u0435\u0431-\u0434\u0438\u0437\u0430\u0439\u043d
+p8
+aV\u043c\u0443\u0437\u044b\u043a\u0430
+p9
+aV\u0445\u0443\u0434\u043e\u0436\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u0430\u044f \u043b\u0438\u0442\u0435\u0440\u0430\u0442\u0443\u0440\u0430
+p10
+atRp11
+sS'friends'
+p12
+g6
+((lp13
+Vdimap
+p14
+aVGLiTch
+p15
+aVhumpook
+p16
+atRp17
+sS'companies'
+p18
+g6
+((lp19
+VWebMoney Transfer
+p20
+aVGoogle
+p21
+aVAdobe
+p22
+aVApple
+p23
+aVMozilla Foundation
+p24
+aVBlizzard Entertainment
+p25
+aV\u0421\u0442\u0443\u0434\u0438\u044f \u0410\u0440\u0442\u0435\u043c\u0438\u044f \u041b\u0435\u0431\u0435\u0434\u0435\u0432\u0430
+p26
+aVNVIDIA Corporation
+p27
+aV\u041b\u0435\u043d\u0442\u0430.\u0420\u0443
+p28
+aVNintendo
+p29
+aVFree-lance.ru
+p30
+aVWebmascon
+p31
+aVUMI.CMS (Umisoft)
+p32
+aVMicrosoft
+p33
+atRp34
+sS'hubs'
+p35
+g6
+((lp36
+VCSS
+p37
+atRp38
+sS'invitees'
+p39
+NstRp40
+g40
+b.

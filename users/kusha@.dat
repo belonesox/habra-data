@@ -1,0 +1,65 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+NsS'companies'
+p7
+c__builtin__
+set
+p8
+((lp9
+VGTV \u2014 \u0432\u0438\u0434\u0435\u043e\u043a\u0430\u043d\u0430\u043b \u043f\u0440\u043e \u0442\u0435\u0445\u043d\u0438\u043a\u0443
+p10
+aVSurfingbird
+p11
+atRp12
+sS'hubs'
+p13
+g8
+((lp14
+VjQuery
+p15
+aV\u041a\u043e\u043f\u0438\u0440\u0430\u0439\u0442
+p16
+aVApple
+p17
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p18
+aV\u0411\u0443\u0434\u0443\u0449\u0435\u0435 \u0437\u0434\u0435\u0441\u044c
+p19
+aVJavaScript
+p20
+aV\u0418\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442
+p21
+aVNode.JS
+p22
+aV\u0412\u0435\u0431-\u0434\u0438\u0437\u0430\u0439\u043d
+p23
+aVGoogle Chrome
+p24
+aV\u0421\u043e\u0432\u0435\u0440\u0448\u0435\u043d\u043d\u044b\u0439 \u043a\u043e\u0434
+p25
+aVGo
+p26
+aVPHP
+p27
+aV\u0420\u043e\u0431\u043e\u0442\u043e\u0442\u0435\u0445\u043d\u0438\u043a\u0430
+p28
+aV\u0418\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044b
+p29
+atRp30
+sS'invitees'
+p31
+NstRp32
+g32
+b.

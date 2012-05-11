@@ -1,0 +1,35 @@
+(dp1
+S'interests'
+p2
+NsS'friends'
+p3
+NsS'companies'
+p4
+NsS'hubs'
+p5
+c__builtin__
+set
+p6
+((lp7
+VGoogle
+p8
+aVApple
+p9
+aVMac OS X
+p10
+aV\u0418\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442
+p11
+aVGoogle Chrome
+p12
+aViPhone
+p13
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043f\u043e\u0434 iOS
+p14
+aVAndroid
+p15
+aV\u0420\u0430\u0431\u043e\u0442\u0430 \u0441\u043e \u0437\u0432\u0443\u043a\u043e\u043c
+p16
+atRp17
+sS'invitees'
+p18
+Ns.

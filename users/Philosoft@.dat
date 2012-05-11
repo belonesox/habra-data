@@ -1,0 +1,134 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+NsS'companies'
+p7
+NsS'hubs'
+p8
+c__builtin__
+set
+p9
+((lp10
+VjQuery
+p11
+aVLiveStreet
+p12
+aV\u0423\u0447\u0435\u0431\u043d\u044b\u0439 \u043f\u0440\u043e\u0446\u0435\u0441\u0441 \u0432 IT
+p13
+aVOpen source
+p14
+aVScala
+p15
+aVMODx
+p16
+aV\u0427\u0443\u043b\u0430\u043d
+p17
+aVDelphi
+p18
+aVJavaScript
+p19
+aVMooTools
+p20
+aVTwisted
+p21
+aVPerl
+p22
+aV\u041a\u0440\u0430\u0443\u0434\u0441\u043e\u0440\u0441\u0438\u043d\u0433
+p23
+aVCMS
+p24
+aV\u0425\u043e\u0441\u0442\u0438\u043d\u0433
+p25
+aV\u0412\u0438\u0440\u0443\u0441\u044b (\u0438 \u0430\u043d\u0442\u0438\u0432\u0438\u0440\u0443\u0441\u044b)
+p26
+aVASP
+p27
+aVSmall Basic
+p28
+aV\u042d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u0438\u043a\u0430 \u0434\u043b\u044f \u043d\u0430\u0447\u0438\u043d\u0430\u044e\u0449\u0438\u0445
+p29
+aVCodeIgniter
+p30
+aV\u0423\u0431\u0443\u043d\u0442\u0430\u0440\u0438\u0443\u043c
+p31
+aVPython
+p32
+aV\u0421\u0438\u0441\u0442\u0435\u043c\u043d\u043e\u0435 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p33
+aVRuby on Rails
+p34
+aV\u0417\u0430\u043d\u0438\u043c\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0435 \u0437\u0430\u0434\u0430\u0447\u043a\u0438
+p35
+aVLisp
+p36
+aVZend Framework
+p37
+aV\u0420\u0430\u0431\u043e\u0442\u0430 \u0441 \u0432\u0438\u0434\u0435\u043e
+p38
+aVRuby
+p39
+aV\u041f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0430
+p40
+aV\u0425\u0430\u0431\u0440\u0430\u0445\u0430\u0431\u0440
+p41
+aV.NET
+p42
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p43
+aVDrupal
+p44
+aVYii
+p45
+aVEclipse
+p46
+aVC++
+p47
+aVDjango
+p48
+aVIM
+p49
+aVJAVA
+p50
+aVCakePHP
+p51
+aVSymfony
+p52
+aV\u041d\u0430\u0443\u0447\u043d\u043e-\u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u043e\u0435
+p53
+aV\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p54
+aVFirefox
+p55
+aVAssembler
+p56
+aVVIM
+p57
+aVNode.JS
+p58
+aVHaskell
+p59
+aVGroovy & Grails
+p60
+aVKohana
+p61
+aVLinux
+p62
+aVPHP
+p63
+atRp64
+sS'invitees'
+p65
+NstRp66
+g66
+b.

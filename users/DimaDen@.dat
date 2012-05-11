@@ -1,0 +1,39 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+VSwitch
+p9
+atRp10
+sS'companies'
+p11
+g7
+((lp12
+V\u041b\u044e\u0431\u0438\u043c\u044b\u0439 \u0433\u043e\u0440\u043e\u0434
+p13
+aV\u0421\u0442\u0443\u0434\u0438\u044f \u0410\u0440\u0442\u0435\u043c\u0438\u044f \u041b\u0435\u0431\u0435\u0434\u0435\u0432\u0430
+p14
+aV\u0422\u0443 \u0412\u0435\u0431
+p15
+atRp16
+sS'hubs'
+p17
+NsS'invitees'
+p18
+NstRp19
+g19
+b.

@@ -1,0 +1,67 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+Vpr
+p8
+aV\u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438
+p9
+aV\u043c\u0443\u0437\u044b\u043a\u0430
+p10
+aV\u0434\u0438\u0437\u0430\u0439\u043d
+p11
+aV\u0432\u044b\u0441\u043e\u043a\u0438\u0435 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0435
+p12
+aV\u0440\u0435\u043a\u043b\u0430\u043c\u0430
+p13
+atRp14
+sS'friends'
+p15
+g6
+((lp16
+Vangel_hearted
+p17
+aVdotCypress
+p18
+aVpiratus
+p19
+aVhabrrich
+p20
+atRp21
+sS'companies'
+p22
+g6
+((lp23
+VEPAM Systems Ukraine
+p24
+aVEPAM Systems
+p25
+atRp26
+sS'hubs'
+p27
+g6
+((lp28
+V\u041f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0430
+p29
+aVGTD
+p30
+aV\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c
+p31
+atRp32
+sS'invitees'
+p33
+NstRp34
+g34
+b.

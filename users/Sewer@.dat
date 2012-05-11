@@ -1,0 +1,112 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+V\u0434\u0438\u0437\u0430\u0439\u043d \u0438\u043d\u0442\u0435\u0440\u044c\u0435\u0440\u0430
+p8
+aV\u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442
+p9
+aV\u043c\u0435\u043d\u0435\u0434\u0436\u043c\u0435\u043d\u0442
+p10
+aV\u0434\u0438\u0437\u0430\u0439\u043d \u0438\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u043e\u0432
+p11
+aV\u0441\u0430\u043c\u043e\u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0435
+p12
+atRp13
+sS'friends'
+p14
+g6
+((lp15
+VJuliyan
+p16
+aVNipar
+p17
+aVNAIs
+p18
+aVrudomilov
+p19
+aVVitaliyACTIVITI
+p20
+aValexkorr
+p21
+aVnons
+p22
+aVkail_sazerland
+p23
+aViluhaha
+p24
+atRp25
+sS'companies'
+p26
+g6
+((lp27
+VAdobe
+p28
+aVApple
+p29
+aV«\u041c\u0435\u0434\u0432\u0435\u0434\u0435\u0432 \u0413\u0440\u0443\u043f\u043f»
+p30
+aVEvernote Corporation
+p31
+aVOpera Software ASA
+p32
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p33
+aV\u0414\u0443\u0431\u043b\u044c\u0413\u0418\u0421 (2\u0413\u0418\u0421)
+p34
+aVFree-lance.ru
+p35
+aV\u0421\u0442\u0443\u0434\u0438\u044f \u0410\u0440\u0442\u0435\u043c\u0438\u044f \u041b\u0435\u0431\u0435\u0434\u0435\u0432\u0430
+p36
+aVFuturico
+p37
+atRp38
+sS'hubs'
+p39
+g6
+((lp40
+V\u041a\u0440\u0430\u0443\u0434\u0441\u043e\u0440\u0441\u0438\u043d\u0433
+p41
+aVGTD
+p42
+aV\u0414\u0438\u0437\u0430\u0439\u043d \u0432 IT
+p43
+aV\u0418\u0434\u0435\u0438 \u0434\u043b\u044f \u0441\u0442\u0430\u0440\u0442\u0430\u043f\u043e\u0432
+p44
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p45
+aV\u0427\u0443\u043b\u0430\u043d
+p46
+aVAdobe
+p47
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p48
+aV\u0421\u0442\u0443\u0434\u0438\u044f \u0410\u0440\u0442\u0435\u043c\u0438\u044f \u041b\u0435\u0431\u0435\u0434\u0435\u0432\u0430
+p49
+aV\u0418\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044b
+p50
+atRp51
+sS'invitees'
+p52
+g6
+((lp53
+Vkail_sazerland
+p54
+aVBrianES
+p55
+atRp56
+stRp57
+g57
+b.

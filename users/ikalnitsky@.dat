@@ -1,0 +1,131 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+Vpython
+p8
+aVboost
+p9
+aVqt
+p10
+aVc++
+p11
+aVdjango
+p12
+atRp13
+sS'friends'
+p14
+g6
+((lp15
+Vsiv
+p16
+aVesvitaly
+p17
+aVG0ran
+p18
+aVVass
+p19
+aVtass
+p20
+aVGooRoo
+p21
+atRp22
+sS'companies'
+p23
+NsS'hubs'
+p24
+g6
+((lp25
+V\u0421\u0438\u0441\u0442\u0435\u043c\u043d\u043e\u0435 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p26
+aVGit
+p27
+aVOpen source
+p28
+aVNoSQL
+p29
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p30
+aVVisual Studio
+p31
+aVAndroid
+p32
+aVPython
+p33
+aVMac OS X
+p34
+aV\u041a\u043e\u043c\u043f\u0438\u043b\u044f\u0442\u043e\u0440\u044b
+p35
+aVNginx
+p36
+aV\u041f\u0440\u043e\u0435\u043a\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0438 \u0440\u0435\u0444\u0430\u043a\u0442\u043e\u0440\u0438\u043d\u0433
+p37
+aVWindows
+p38
+aV*nix
+p39
+aVGMail
+p40
+aV\u0421\u043e\u0432\u0435\u0440\u0448\u0435\u043d\u043d\u044b\u0439 \u043a\u043e\u0434
+p41
+aVMobile Development
+p42
+aVQt Software
+p43
+aVC
+aVOpera
+p44
+aVMercurial
+p45
+aV\u041d\u0435\u043d\u043e\u0440\u043c\u0430\u043b\u044c\u043d\u043e\u0435 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p46
+aV\u0421\u0438\u0441\u0442\u0435\u043c\u044b \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u0432\u0435\u0440\u0441\u0438\u044f\u043c\u0438
+p47
+aVC++
+p48
+aVDjango
+p49
+aVGoogle App Engine
+p50
+aV\u0410\u043b\u0433\u043e\u0440\u0438\u0442\u043c\u044b
+p51
+aVMicrosoft
+p52
+aVGame Development
+p53
+aVGoogle
+p54
+aVJAVA
+p55
+aVApple
+p56
+aVAssembler
+p57
+aVVIM
+p58
+aVHaskell
+p59
+aVLinux
+p60
+aV\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p61
+aV\u0421\u043e\u0444\u0442
+p62
+atRp63
+sS'invitees'
+p64
+NstRp65
+g65
+b.

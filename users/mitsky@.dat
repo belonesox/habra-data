@@ -1,0 +1,67 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+NsS'companies'
+p7
+c__builtin__
+set
+p8
+((lp9
+VMicrosoft
+p10
+atRp11
+sS'hubs'
+p12
+g8
+((lp13
+V\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p14
+aVASP
+p15
+aVOpen source
+p16
+aVGame Development
+p17
+aVXSLT
+p18
+aVC#
+p19
+aV.NET
+p20
+aVVisual Studio
+p21
+aV\u0423\u0447\u0435\u0431\u043d\u044b\u0439 \u043f\u0440\u043e\u0446\u0435\u0441\u0441 \u0432 IT
+p22
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p23
+aV\u041f\u0440\u043e\u0435\u043a\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0438 \u0440\u0435\u0444\u0430\u043a\u0442\u043e\u0440\u0438\u043d\u0433
+p24
+aVHTML
+p25
+aV\u0418\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044b
+p26
+aV\u0412\u0435\u0431-\u0434\u0438\u0437\u0430\u0439\u043d
+p27
+aVJavaScript
+p28
+aVCSS
+p29
+aV\u0421\u043e\u0432\u0435\u0440\u0448\u0435\u043d\u043d\u044b\u0439 \u043a\u043e\u0434
+p30
+atRp31
+sS'invitees'
+p32
+NstRp33
+g33
+b.

@@ -1,0 +1,53 @@
+(dp1
+S'interests'
+p2
+c__builtin__
+set
+p3
+((lp4
+V\u044d\u043a\u0441\u043f\u0435\u0440\u0438\u043c\u0435\u043d\u0442\u044b
+p5
+atRp6
+sS'friends'
+p7
+g3
+((lp8
+Vrobinzone
+p9
+aVHiTechAnarxi
+p10
+aVghisguth
+p11
+aVkibork
+p12
+atRp13
+sS'companies'
+p14
+NsS'hubs'
+p15
+g3
+((lp16
+VjQuery
+p17
+aV\u0423\u0447\u0435\u0431\u043d\u044b\u0439 \u043f\u0440\u043e\u0446\u0435\u0441\u0441 \u0432 IT
+p18
+aVGoogle
+p19
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p20
+aVDrupal
+p21
+aV\u0427\u0443\u043b\u0430\u043d
+p22
+aV\u0421\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0435 \u0441\u0435\u0442\u0438 \u0438 \u0441\u043e\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0430
+p23
+aV\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p24
+aVWindows
+p25
+aV\u0421\u043f\u0430\u043c (\u0438 \u0430\u043d\u0442\u0438\u0441\u043f\u0430\u043c)
+p26
+atRp27
+sS'invitees'
+p28
+Ns.

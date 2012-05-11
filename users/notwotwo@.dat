@@ -1,0 +1,62 @@
+(dp1
+S'interests'
+p2
+NsS'friends'
+p3
+NsS'companies'
+p4
+c__builtin__
+set
+p5
+((lp6
+V\u042f\u043d\u0434\u0435\u043a\u0441
+p7
+atRp8
+sS'hubs'
+p9
+g5
+((lp10
+V\u041e\u043f\u0435\u0440\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0441\u0438\u0441\u0442\u0435\u043c\u044b
+p11
+aVMozilla
+p12
+aVFirefox
+p13
+aV\u0423\u0431\u0443\u043d\u0442\u0430\u0440\u0438\u0443\u043c
+p14
+aV\u0411\u0440\u0430\u0443\u0437\u0435\u0440\u044b
+p15
+aVOpera
+p16
+aVMac OS X
+p17
+aVWindows Phone
+p18
+aV*nix
+p19
+aV\u0413\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043e\u0431\u043e\u043b\u043e\u0447\u043a\u0438
+p20
+aVWindows
+p21
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p22
+aVGoogle Chrome
+p23
+aV\u041e\u0431\u043e\u043b\u043e\u0447\u043a\u0438
+p24
+aVSafari
+p25
+aVLinux
+p26
+aVInternet Explorer
+p27
+aVAndroid
+p28
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p29
+aV\u0421\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0435 \u0441\u0435\u0442\u0438 \u0438 \u0441\u043e\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0430
+p30
+atRp31
+sS'invitees'
+p32
+Ns.

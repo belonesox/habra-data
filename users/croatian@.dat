@@ -1,0 +1,50 @@
+(dp1
+S'interests'
+p2
+NsS'friends'
+p3
+NsS'companies'
+p4
+c__builtin__
+set
+p5
+((lp6
+VGoogle
+p7
+aV\u041d\u043e\u0432\u043e\u0441\u0438\u0431\u0438\u0440\u0441\u043a\u0438\u0439 \u0413\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u0421\u0430\u0439\u0442
+p8
+aVParcsis/Turbomilk
+p9
+atRp10
+sS'hubs'
+p11
+g5
+((lp12
+VjQuery
+p13
+aV\u0425\u0430\u0431\u0440\u0430\u0445\u0430\u0431\u0440
+p14
+aV\u0423\u0447\u0435\u0431\u043d\u044b\u0439 \u043f\u0440\u043e\u0446\u0435\u0441\u0441 \u0432 IT
+p15
+aVSphinx
+p16
+aVNoSQL
+p17
+aV\u0413\u0430\u0434\u0436\u0435\u0442\u044b. \u0423\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u0430 \u0434\u043b\u044f \u0433\u0438\u043a\u043e\u0432
+p18
+aV\u0427\u0443\u043b\u0430\u043d
+p19
+aVJavaScript
+p20
+aVNginx
+p21
+aVZend Framework
+p22
+aVMySQL
+p23
+aVPHP
+p24
+atRp25
+sS'invitees'
+p26
+Ns.

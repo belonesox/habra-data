@@ -1,0 +1,159 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+V\u0442\u0438\u043f\u043e\u0433\u0440\u0430\u0444\u0438\u043a\u0430
+p8
+aV\u0432\u0435\u0440\u0441\u0442\u043a\u0430
+p9
+aV\u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438
+p10
+aV\u0434\u0438\u0437\u0430\u0439\u043d
+p11
+aV\u0440\u0435\u043a\u043b\u0430\u043c\u0430
+p12
+atRp13
+sS'friends'
+p14
+g6
+((lp15
+Vokolobaxa
+p16
+aVBullDER
+p17
+aVsunofvault
+p18
+aVGasoid
+p19
+aVlortonix
+p20
+aVTermiT
+p21
+aVexpression
+p22
+aVvanaf
+p23
+atRp24
+sS'companies'
+p25
+g6
+((lp26
+VGoogle
+p27
+aVApple
+p28
+aVASUS Russia
+p29
+aVSun Microsystems
+p30
+aVCisco Systems, Inc
+p31
+aV\u0424\u0421\u0411 \u0420\u0424
+p32
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p33
+aVParallels
+p34
+aVCanonical
+p35
+atRp36
+sS'hubs'
+p37
+g6
+((lp38
+VjQuery
+p39
+aVGit
+p40
+aV\u0425\u0430\u0431\u0440\u0430\u0445\u0430\u0431\u0440
+p41
+aVJavaScript
+p42
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p43
+aVMySQL
+p44
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p45
+aV\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u0440\u0435\u043a\u043b\u0430\u043c\u0430
+p46
+aV\u0418\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044b
+p47
+aV\u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043f\u0440\u043e\u0435\u043a\u0442\u0430\u043c\u0438
+p48
+aVCodeIgniter
+p49
+aV\u0414\u0438\u0437\u0430\u0439\u043d \u0432 IT
+p50
+aVPython
+p51
+aVMac OS X
+p52
+aV\u041f\u043e\u0438\u0441\u043a\u043e\u0432\u0430\u044f \u043e\u043f\u0442\u0438\u043c\u0438\u0437\u0430\u0446\u0438\u044f
+p53
+aV\u0411\u0438\u0437\u043d\u0435\u0441 \u0441\u0442\u0443\u0434\u0438\u0438
+p54
+aVNginx
+p55
+aVAjax
+p56
+aV\u0423\u0431\u0443\u043d\u0442\u0430\u0440\u0438\u0443\u043c
+p57
+aV\u0418\u0441\u0442\u043e\u0440\u0438\u0438 \u0443\u0441\u043f\u0435\u0445\u0430
+p58
+aVQt Software
+p59
+aVGTD
+p60
+aVXSLT
+p61
+aVLinux
+p62
+aV\u0421\u0438\u0441\u0442\u0435\u043c\u043d\u043e\u0435 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p63
+aVC++
+p64
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p65
+aVGoogle App Engine
+p66
+aViPhone
+p67
+aV\u0422\u0438\u043f\u043e\u0433\u0440\u0430\u0444\u0438\u043a\u0430
+p68
+aVCSS
+p69
+aV\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p70
+aVFirefox
+p71
+aVApple
+p72
+aVIT-\u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u044b
+p73
+aVVIM
+p74
+aVSQL
+p75
+aVPHP
+p76
+aV\u0421\u043e\u0444\u0442
+p77
+atRp78
+sS'invitees'
+p79
+NstRp80
+g80
+b.

@@ -1,0 +1,93 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+VRed_Hedgehog
+p9
+aVf_s_b_37
+p10
+aVandreevich
+p11
+aVDarkPreacher
+p12
+aVnetAn
+p13
+aVp0xek
+p14
+aVTakeji
+p15
+aVJaver
+p16
+aVwebbolt
+p17
+aVUndCon
+p18
+atRp19
+sS'companies'
+p20
+NsS'hubs'
+p21
+g7
+((lp22
+V\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p23
+aVSilverlight
+p24
+aVGit
+p25
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p26
+aV\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c
+p27
+aVArduino
+p28
+aVOpera
+p29
+aV\u0427\u0443\u043b\u0430\u043d
+p30
+aV\u0411\u0443\u0434\u0443\u0449\u0435\u0435 \u0437\u0434\u0435\u0441\u044c
+p31
+aV.NET
+p32
+aVVisual Studio
+p33
+aV\u041d\u0430\u0443\u0447\u043d\u043e-\u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u043e\u0435
+p34
+aV\u0418\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442
+p35
+aVWindows
+p36
+aVGoogle
+p37
+aVIM
+p38
+aV\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p39
+aV\u042d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u044b\u0435 \u043a\u043d\u0438\u0433\u0438
+p40
+aVMicrosoft
+p41
+aV\u0418\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044b
+p42
+aV\u0423\u0447\u0435\u0431\u043d\u044b\u0439 \u043f\u0440\u043e\u0446\u0435\u0441\u0441 \u0432 IT
+p43
+atRp44
+sS'invitees'
+p45
+NstRp46
+g46
+b.

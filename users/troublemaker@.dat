@@ -1,0 +1,233 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+V\u0444\u0438\u043b\u043e\u0441\u043e\u0444\u0438\u044f
+p8
+aV\u0430\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439 \u044f\u0437\u044b\u043a
+p9
+aV\u0444\u0438\u0437\u0438\u043a\u0430
+p10
+aVopen source software
+p11
+aV\u0438\u0441\u0442\u043e\u0440\u0438\u044f
+p12
+aV\u0432\u0435\u043b\u043e\u0441\u0438\u043f\u0435\u0434
+p13
+aVunix way
+p14
+aV\u043d\u0435\u0432\u0440\u043e\u043b\u043e\u0433\u0438\u044f
+p15
+aV\u0430\u0441\u0442\u0440\u043e\u043d\u043e\u043c\u0438\u044f
+p16
+aV\u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p17
+aV\u043c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u043a\u0430
+p18
+aV\u0433\u043e\u043b\u043b\u0430\u043d\u0434\u0441\u043a\u0438\u0439 \u044f\u0437\u044b\u043a
+p19
+aV\u043a\u043e\u0441\u043c\u043e\u043b\u043e\u0433\u0438\u044f
+p20
+aVdjing
+p21
+atRp22
+sS'friends'
+p23
+NsS'companies'
+p24
+NsS'hubs'
+p25
+g6
+((lp26
+VCanvas
+p27
+aV\u0427\u0443\u043b\u0430\u043d
+p28
+aVHuman Resources
+p29
+aV\u0413\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043e\u0431\u043e\u043b\u043e\u0447\u043a\u0438
+p30
+aVGoogle Plus
+p31
+aVMail.Ru
+p32
+aV\u0421\u0443\u043f
+p33
+aV\u0410\u043d\u0430\u043b\u0438\u0437 \u0438 \u043f\u0440\u043e\u0435\u043a\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0441\u0438\u0441\u0442\u0435\u043c
+p34
+aV\u041e\u0431\u043e\u043b\u043e\u0447\u043a\u0438
+p35
+aVYouTube
+p36
+aVNginx
+p37
+aVAgile
+p38
+aVApache
+p39
+aVGoogle App Engine
+p40
+aVAdobe
+p41
+aVVIM
+p42
+aVLaTeX
+p43
+aVCreative Commons
+p44
+aV\u041e\u0444\u0438\u0441\u044b IT-\u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0439
+p45
+aV\u0421\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0435 \u0441\u0435\u0442\u0438 \u0438 \u0441\u043e\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0430
+p46
+aVWikipedia
+p47
+aVeBay
+p48
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p49
+aVHelp Desk Software
+p50
+aVAndroid
+p51
+aVOpenStreetMap
+p52
+aV\u0420\u0430\u043c\u0431\u043b\u0435\u0440
+p53
+aV\u0423\u0431\u0443\u043d\u0442\u0430\u0440\u0438\u0443\u043c
+p54
+aVHTML
+p55
+aVFacebook
+p56
+aVSafari
+p57
+aV*nix
+p58
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p59
+aV\u041e\u043f\u0435\u0440\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0441\u0438\u0441\u0442\u0435\u043c\u044b
+p60
+aV\u0411\u0435\u0433\u0443\u043d
+p61
+aVMicrosoft
+p62
+aVCSS
+p63
+aVGMail
+p64
+aVFirefox
+p65
+aV\u0411\u0440\u0430\u0443\u0437\u0435\u0440\u044b
+p66
+aVTumblr
+p67
+aVAmazon Web Services
+p68
+aVLiveJournal
+p69
+aVGoogle Chrome
+p70
+aVInternet Explorer
+p71
+aV\u042d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u0430\u044f \u043a\u043e\u043c\u043c\u0435\u0440\u0446\u0438\u044f
+p72
+aVGreaseMonkey
+p73
+aV\u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043f\u0440\u043e\u0435\u043a\u0442\u0430\u043c\u0438
+p74
+aV\u0411\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u0430 ExtJS/Sencha
+p75
+aVMac OS X
+p76
+aVMozilla
+p77
+aVYahoo
+p78
+aVAjax
+p79
+aV\u0424\u0438\u043d\u0430\u043d\u0441\u044b \u0434\u043b\u044f \u0432\u0441\u0435\u0445
+p80
+aVXML
+p81
+aVGTD
+p82
+aVXSLT
+p83
+aVOpera
+p84
+aVBing
+p85
+aVCAD/CAM
+p86
+aVLabVIEW
+p87
+aVAction Script
+p88
+aVGoogle
+p89
+aVGame Development
+p90
+aVTwitter
+p91
+aVGoogle Analytics
+p92
+aVGoogle Checkout
+p93
+aV\u0421\u043e\u0444\u0442
+p94
+aVCoworking: \u0440\u0430\u0431\u043e\u0442\u0430 2.0
+p95
+aV\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435
+p96
+aVWindows Phone
+p97
+aVJavaScript
+p98
+aVSun Microsystems
+p99
+aVSaaS / S+S
+p100
+aVFlex
+p101
+aVIIS
+p102
+aV\u0411\u0438\u0437\u043d\u0435\u0441 \u0441\u0442\u0443\u0434\u0438\u0438
+p103
+aV\u0421\u0442\u0443\u0434\u0438\u044f \u0410\u0440\u0442\u0435\u043c\u0438\u044f \u041b\u0435\u0431\u0435\u0434\u0435\u0432\u0430
+p104
+aVWindows
+p105
+aVGTK+
+p106
+aVGoogle AdSense
+p107
+aV\u041c\u0438\u043a\u0440\u043e\u0444\u043e\u0440\u043c\u0430\u0442\u044b
+p108
+aVApple
+p109
+aVERP-\u0441\u0438\u0441\u0442\u0435\u043c\u044b
+p110
+aVMySpace
+p111
+aVLinkedin
+p112
+aVLinux
+p113
+atRp114
+sS'invitees'
+p115
+NstRp116
+g116
+b.

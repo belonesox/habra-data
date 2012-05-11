@@ -1,0 +1,36 @@
+(dp1
+S'interests'
+p2
+NsS'friends'
+p3
+NsS'companies'
+p4
+c__builtin__
+set
+p5
+((lp6
+VASUS Russia
+p7
+aVMozilla Foundation
+p8
+atRp9
+sS'hubs'
+p10
+g5
+((lp11
+VGoogle
+p12
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p13
+aV\u0414\u0438\u0437\u0430\u0439\u043d \u0432 IT
+p14
+aVPython
+p15
+aVDjango
+p16
+aVDIY \u0438\u043b\u0438 \u0421\u0434\u0435\u043b\u0430\u0439 \u0421\u0430\u043c
+p17
+atRp18
+sS'invitees'
+p19
+Ns.

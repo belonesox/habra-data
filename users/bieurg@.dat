@@ -1,0 +1,77 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+NsS'companies'
+p7
+c__builtin__
+set
+p8
+((lp9
+VGoogle
+p10
+aVIntel
+p11
+aVTele2
+p12
+aVApple
+p13
+aVASUS Russia
+p14
+aVLast.fm
+p15
+aVCisco Systems, Inc
+p16
+aVSony Corporation
+p17
+aVBlizzard Entertainment
+p18
+aVLenovo
+p19
+aVWikimedia Foundation
+p20
+atRp21
+sS'hubs'
+p22
+g8
+((lp23
+V\u0425\u0430\u0431\u0440\u0430\u0445\u0430\u0431\u0440
+p24
+aV\u0418\u043a\u043e\u043d\u043e\u0441\u043a\u0430\u0437
+p25
+aV\u0421\u0442\u0430\u0440\u043e\u0435 \u0436\u0435\u043b\u0435\u0437\u043e
+p26
+aVApple
+p27
+aV\u0423\u0431\u0443\u043d\u0442\u0430\u0440\u0438\u0443\u043c
+p28
+aV\u0427\u0443\u043b\u0430\u043d
+p29
+aVTwitter
+p30
+aVJavaScript
+p31
+aV\u0418\u043d\u0444\u043e\u0433\u0440\u0430\u0444\u0438\u043a\u0430
+p32
+aV\u0410\u043d\u0438\u043c\u0430\u0446\u0438\u044f \u0438 3D \u0433\u0440\u0430\u0444\u0438\u043a\u0430
+p33
+aViPhone
+p34
+aVLinux
+p35
+atRp36
+sS'invitees'
+p37
+NstRp38
+g38
+b.

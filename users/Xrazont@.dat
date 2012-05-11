@@ -1,0 +1,228 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+Vc
+aVjava
+p8
+aVpython
+p9
+aVmac os x
+p10
+aVruby on rails
+p11
+aVdjango
+p12
+aV\u043c\u0443\u0437\u044b\u043a\u0430
+p13
+aVunix
+p14
+aVemacs
+p15
+aViphone
+p16
+aVcocoa.
+p17
+aV\u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p18
+aV\u0442\u0438\u043f\u043e\u0433\u0440\u0430\u0444\u0438\u043a\u0430
+p19
+aV\u0438\u043d\u0434\u0438 \u0438\u0433\u0440\u044b
+p20
+aVruby
+p21
+aV8bit
+p22
+atRp23
+sS'friends'
+p24
+g6
+((lp25
+VMrZoidberg
+p26
+aVKalan
+p27
+aVzboris
+p28
+aVIskin
+p29
+aVSvarog
+p30
+aVporqz
+p31
+aVG0rnap5chtickn3R
+p32
+aVSilenius
+p33
+aVCoder89
+p34
+aVmr_stupid
+p35
+aVsomeone
+p36
+aVMrHerrn
+p37
+aVVolmontovich
+p38
+aVMedal
+p39
+aVAquaXP
+p40
+aVed_tsech
+p41
+aV0leGG
+p42
+aVSkammer
+p43
+aVmdevils
+p44
+aVllexa
+p45
+aVlikhter
+p46
+aVgrayhex
+p47
+aVicekeeper
+p48
+aVechoes
+p49
+aVInfuzzer
+p50
+aVropotov
+p51
+atRp52
+sS'companies'
+p53
+NsS'hubs'
+p54
+g6
+((lp55
+ViPad
+p56
+aV\u041a\u043e\u043c\u043f\u0438\u043b\u044f\u0442\u043e\u0440\u044b
+p57
+aVOpen source
+p58
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043f\u043e\u0434 iOS
+p59
+aV\u0425\u0430\u0431\u0440\u0430\u0445\u0430\u0431\u0440
+p60
+aV\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435
+p61
+aVWindows Phone
+p62
+aVJavaScript
+p63
+aVWikipedia
+p64
+aV\u0413\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043e\u0431\u043e\u043b\u043e\u0447\u043a\u0438
+p65
+aVLua
+p66
+aVGoogle Chrome
+p67
+aVAndroid
+p68
+aV\u0418\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044b
+p69
+aV\u0414\u0438\u0437\u0430\u0439\u043d \u0432 IT
+p70
+aVMac OS X
+p71
+aV\u0427\u0438\u0442\u0430\u043b\u044c\u043d\u044b\u0439 \u0437\u0430\u043b
+p72
+aVMozilla
+p73
+aV\u0417\u0430\u043d\u0438\u043c\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0435 \u0437\u0430\u0434\u0430\u0447\u043a\u0438
+p74
+aVHTML
+p75
+aV*nix
+p76
+aVRuby
+p77
+aV\u0421\u0442\u0443\u0434\u0438\u044f \u0410\u0440\u0442\u0435\u043c\u0438\u044f \u041b\u0435\u0431\u0435\u0434\u0435\u0432\u0430
+p78
+aV\u042e\u0437\u0430\u0431\u0438\u043b\u0438\u0442\u0438 \u0432 IT
+p79
+aVMobile Development
+p80
+aVQt Software
+p81
+aV\u0412\u043a\u043e\u043d\u0442\u0430\u043a\u0442\u0435 API
+p82
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p83
+aV\u042f\u043d\u0434\u0435\u043a\u0441 API
+p84
+aV\u0425\u0430\u0431\u0440\u0430\u0445\u0430\u0431\u0440 \u2014 \u0410\u043d\u043e\u043d\u0441\u044b
+p85
+aVC++
+p86
+aV\u041e\u043f\u0435\u0440\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0441\u0438\u0441\u0442\u0435\u043c\u044b
+p87
+aViPhone
+p88
+aVLTE
+p89
+aV\u0422\u0438\u043f\u043e\u0433\u0440\u0430\u0444\u0438\u043a\u0430
+p90
+aVGoogle
+p91
+aVJAVA
+p92
+aVApple
+p93
+aVTwitter API
+p94
+aVTwitter
+p95
+aVCocoa
+p96
+aVObjective C
+p97
+aV\u041d\u0435\u043d\u043e\u0440\u043c\u0430\u043b\u044c\u043d\u043e\u0435 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p98
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p99
+aVPeer-to-Peer
+p100
+aV\u0421\u043e\u0444\u0442
+p101
+atRp102
+sS'invitees'
+p103
+g6
+((lp104
+VThe_Player
+p105
+aVaviktorov
+p106
+aVbimeg
+p107
+aVRennnon
+p108
+aVTacocaT
+p109
+aVCyanogen
+p110
+aVAquaXP
+p111
+aVNevis
+p112
+atRp113
+stRp114
+g114
+b.

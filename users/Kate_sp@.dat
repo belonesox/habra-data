@@ -1,0 +1,70 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+VNickMitin
+p9
+aVmechsoft
+p10
+atRp11
+sS'companies'
+p12
+g7
+((lp13
+V\u0412\u044b\u043c\u043f\u0435\u043b\u041a\u043e\u043c (\u0411\u0438\u043b\u0430\u0439\u043d)
+p14
+aVHP
+p15
+aVGoogle
+p16
+aV\u0412\u0435\u0431\u043e\u0440\u0430\u043c\u0430
+p17
+atRp18
+sS'hubs'
+p19
+g7
+((lp20
+VLaTeX
+p21
+aVGTD
+p22
+aVLinux
+p23
+aV\u041e\u0444\u0438\u0441\u044b IT-\u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0439
+p24
+aV\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u043d\u0433 \u043c\u0438\u043a\u0440\u043e\u043a\u043e\u043d\u0442\u0440\u043e\u043b\u043b\u0435\u0440\u043e\u0432
+p25
+aV.NET
+p26
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043f\u043e\u0434 iOS
+p27
+aVData Mining
+p28
+aVErlang/OTP
+p29
+aVDIY \u0438\u043b\u0438 \u0421\u0434\u0435\u043b\u0430\u0439 \u0421\u0430\u043c
+p30
+aV*nix
+p31
+aV\u0418\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044b
+p32
+atRp33
+sS'invitees'
+p34
+NstRp35
+g35
+b.

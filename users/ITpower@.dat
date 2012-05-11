@@ -1,0 +1,53 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+Vebay
+p8
+aV\u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438
+p9
+atRp10
+sS'friends'
+p11
+NsS'companies'
+p12
+NsS'hubs'
+p13
+g6
+((lp14
+V\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p15
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p16
+aVDura Lex
+p17
+aV\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c
+p18
+aV\u0414\u0438\u0437\u0430\u0439\u043d \u0432 IT
+p19
+aVWindows
+p20
+aV\u0427\u0443\u043b\u0430\u043d
+p21
+aV\u0416\u0435\u043b\u0435\u0437\u043e
+p22
+aVIP-\u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0438\u044f
+p23
+atRp24
+sS'invitees'
+p25
+NstRp26
+g26
+b.

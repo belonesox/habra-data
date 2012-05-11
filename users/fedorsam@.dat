@@ -1,0 +1,74 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+NsS'companies'
+p7
+NsS'hubs'
+p8
+c__builtin__
+set
+p9
+((lp10
+ViPad
+p11
+aVWindows Phone
+p12
+aV\u041f\u043b\u0430\u043d\u0448\u0435\u0442\u044b
+p13
+aV\u042d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u043e\u0435 \u043f\u0440\u0430\u0432\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u043e
+p14
+aVAndroid
+p15
+aVMac OS X
+p16
+aVApple
+p17
+aVFlash-\u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u0430
+p18
+aVMobile Development
+p19
+aV\u0421\u0438\u0441\u0442\u0435\u043c\u044b \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u0432\u0435\u0440\u0441\u0438\u044f\u043c\u0438
+p20
+aVEclipse
+p21
+aV\u0418\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442
+p22
+aVGoogle App Engine
+p23
+aViPhone
+p24
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043f\u043e\u0434 iOS
+p25
+aV\u0410\u043b\u0433\u043e\u0440\u0438\u0442\u043c\u044b
+p26
+aV\u0421\u043c\u0430\u0440\u0442\u0444\u043e\u043d\u044b \u0438 \u043a\u043e\u043c\u043c\u0443\u043d\u0438\u043a\u0430\u0442\u043e\u0440\u044b
+p27
+aVGoogle
+p28
+aVAdobe
+p29
+aVGame Development
+p30
+aVGoogle Web Toolkit
+p31
+aV\u0424\u0440\u0438\u043b\u0430\u043d\u0441
+p32
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043f\u043e\u0434 Android
+p33
+atRp34
+sS'invitees'
+p35
+NstRp36
+g36
+b.

@@ -1,0 +1,83 @@
+(dp1
+S'interests'
+p2
+NsS'friends'
+p3
+c__builtin__
+set
+p4
+((lp5
+VFerumFlex
+p6
+aVArtod
+p7
+atRp8
+sS'companies'
+p9
+g4
+((lp10
+VGoogle
+p11
+aVMozilla Foundation
+p12
+aVIntel
+p13
+atRp14
+sS'hubs'
+p15
+g4
+((lp16
+VCanvas
+p17
+aVArduino
+p18
+aV\u0427\u0443\u043b\u0430\u043d
+p19
+aVJavaScript
+p20
+aV\u041a\u043b\u0438\u0435\u043d\u0442\u0441\u043a\u0430\u044f \u043e\u043f\u0442\u0438\u043c\u0438\u0437\u0430\u0446\u0438\u044f
+p21
+aVGoogle Chrome
+p22
+aV\u0416\u0435\u043b\u0435\u0437\u043e
+p23
+aV\u0412\u0435\u0431-\u0434\u0438\u0437\u0430\u0439\u043d
+p24
+aVAndroid
+p25
+aVDIY \u0438\u043b\u0438 \u0421\u0434\u0435\u043b\u0430\u0439 \u0421\u0430\u043c
+p26
+aV\u042d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u0438\u043a\u0430 \u0434\u043b\u044f \u043d\u0430\u0447\u0438\u043d\u0430\u044e\u0449\u0438\u0445
+p27
+aV\u0411\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u0430 ExtJS/Sencha
+p28
+aV\u0413\u0430\u0434\u0436\u0435\u0442\u044b. \u0423\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u0430 \u0434\u043b\u044f \u0433\u0438\u043a\u043e\u0432
+p29
+aVYouTube
+p30
+aVAjax
+p31
+aVHTML
+p32
+aVMobile Development
+p33
+aVWindows
+p34
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p35
+aVGoogle App Engine
+p36
+aVCSS
+p37
+aVGMail
+p38
+aVFirefox
+p39
+aV\u0411\u0440\u0430\u0443\u0437\u0435\u0440\u044b
+p40
+aV\u0424\u0440\u0438\u043b\u0430\u043d\u0441
+p41
+atRp42
+sS'invitees'
+p43
+Ns.

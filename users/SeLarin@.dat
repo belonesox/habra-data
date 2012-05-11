@@ -1,0 +1,118 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+Vrawing
+p9
+aVfoo
+p10
+aVSIO
+p11
+aVbagzilla
+p12
+aVImEugene
+p13
+atRp14
+sS'companies'
+p15
+g7
+((lp16
+VIBM
+p17
+aVABBYY
+p18
+aVSony Mobile Communications
+p19
+aV\u0421\u0442\u0443\u0434\u0438\u044f \u0410\u0440\u0442\u0435\u043c\u0438\u044f \u041b\u0435\u0431\u0435\u0434\u0435\u0432\u0430
+p20
+aVMicrosoft
+p21
+atRp22
+sS'hubs'
+p23
+g7
+((lp24
+VLaTeX
+p25
+aV\u0423\u0447\u0435\u0431\u043d\u044b\u0439 \u043f\u0440\u043e\u0446\u0435\u0441\u0441 \u0432 IT
+p26
+aVOpen source
+p27
+aV\u0427\u0443\u043b\u0430\u043d
+p28
+aVWindows Phone
+p29
+aV\u042d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u044b\u0435 \u043a\u043d\u0438\u0433\u0438
+p30
+aV\u0416\u0435\u043b\u0435\u0437\u043e
+p31
+aV\u0422\u0438\u043f\u043e\u0433\u0440\u0430\u0444\u0438\u043a\u0430
+p32
+aVDIY \u0438\u043b\u0438 \u0421\u0434\u0435\u043b\u0430\u0439 \u0421\u0430\u043c
+p33
+aV\u0424\u043e\u0442\u043e\u0442\u0435\u0445\u043d\u0438\u043a\u0430
+p34
+aV\u041d\u0430\u0443\u0447\u043d\u043e-\u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u043e\u0435
+p35
+aV\u0418\u043d\u0444\u043e\u0433\u0440\u0430\u0444\u0438\u043a\u0430
+p36
+aV\u0421\u043e\u0432\u0435\u0440\u0448\u0435\u043d\u043d\u044b\u0439 \u043a\u043e\u0434
+p37
+aVMobile Development
+p38
+aV\u0425\u0430\u0431\u0440\u0430\u0445\u0430\u0431\u0440
+p39
+aVWindows
+p40
+aVC++
+p41
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p42
+aVWiMAX
+p43
+aVIM
+p44
+aVJAVA
+p45
+aV\u0410\u043b\u0433\u043e\u0440\u0438\u0442\u043c\u044b
+p46
+aVCSS
+p47
+aV\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p48
+aVFirefox
+p49
+aVZend Framework
+p50
+aVLinux
+p51
+aV\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p52
+aVPHP
+p53
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043f\u043e\u0434 Android
+p54
+aVPowerShell
+p55
+aV\u0421\u043e\u0444\u0442
+p56
+atRp57
+sS'invitees'
+p58
+NstRp59
+g59
+b.

@@ -1,0 +1,113 @@
+(dp1
+S'interests'
+p2
+NsS'friends'
+p3
+NsS'companies'
+p4
+NsS'hubs'
+p5
+c__builtin__
+set
+p6
+((lp7
+V\u0421\u0438\u0441\u0442\u0435\u043c\u043d\u043e\u0435 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p8
+aVRuby
+p9
+aVOpen source
+p10
+aVNoSQL
+p11
+aVScala
+p12
+aVDelphi
+p13
+aV.NET
+p14
+aVPerl
+p15
+aV\u0413\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043e\u0431\u043e\u043b\u043e\u0447\u043a\u0438
+p16
+aVVisual Studio
+p17
+aVMySQL
+p18
+aVAndroid
+p19
+aVASP
+p20
+aVSmall Basic
+p21
+aV\u0423\u0431\u0443\u043d\u0442\u0430\u0440\u0438\u0443\u043c
+p22
+aVPython
+p23
+aVMac OS X
+p24
+aVSharePoint
+p25
+aVWindows
+p26
+aV*nix
+p27
+aVMono \u0438 Moonlight
+p28
+aVMicrosoft SQL Server
+p29
+aVWindows Phone
+p30
+aVMobile Development
+p31
+aVJavaScript
+p32
+aVLisp
+p33
+aVCubrid
+p34
+aVSQL
+p35
+aVC++
+p36
+aV\u041e\u043f\u0435\u0440\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0441\u0438\u0441\u0442\u0435\u043c\u044b
+p37
+aV\u041e\u0431\u043e\u043b\u043e\u0447\u043a\u0438
+p38
+aVData Mining
+p39
+aVOracle
+p40
+aVPostgreSQL
+p41
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p42
+aVJAVA
+p43
+aVMongoDB
+p44
+aVAssembler
+p45
+aVTDD
+p46
+aVDoctrine ORM
+p47
+aVHaskell
+p48
+aVBrainfuck
+p49
+aV\u0421\u043e\u0432\u0435\u0440\u0448\u0435\u043d\u043d\u044b\u0439 \u043a\u043e\u0434
+p50
+aVLinux
+p51
+aV\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p52
+aVPHP
+p53
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043f\u043e\u0434 Android
+p54
+aVPowerShell
+p55
+atRp56
+sS'invitees'
+p57
+Ns.

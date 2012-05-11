@@ -1,0 +1,41 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+Vnetwork technologies
+p8
+aVautomobile electronic and fuel systems
+p9
+aVopen source
+p10
+aVautomation
+p11
+atRp12
+sS'friends'
+p13
+NsS'companies'
+p14
+NsS'hubs'
+p15
+g6
+((lp16
+VLinux
+p17
+atRp18
+sS'invitees'
+p19
+NstRp20
+g20
+b.

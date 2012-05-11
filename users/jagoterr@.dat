@@ -1,0 +1,116 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+V\u044e\u0437\u0430\u0431\u0438\u043b\u0438\u0442\u0438
+p8
+atRp9
+sS'friends'
+p10
+g6
+((lp11
+Vkossnocorp
+p12
+aVynkulbyh
+p13
+aVAlaunquirie
+p14
+atRp15
+sS'companies'
+p16
+g6
+((lp17
+VFree Software Foundation
+p18
+aV37signals
+p19
+aV\u0418\u0414 \u041a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u0440\u0430
+p20
+aVMozilla Foundation
+p21
+aVLast.fm
+p22
+aV\u041e\u0437\u043e\u043d
+p23
+aVBlizzard Entertainment
+p24
+aVdeviantART
+p25
+aVHumanized
+p26
+aVApache Software Foundation
+p27
+atRp28
+sS'hubs'
+p29
+g6
+((lp30
+VLaTeX
+p31
+aVGit
+p32
+aVOpen source
+p33
+aVArduino
+p34
+aV\u0427\u0443\u043b\u0430\u043d
+p35
+aV\u0421\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0435 \u0441\u0435\u0442\u0438 \u0438 \u0441\u043e\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0430
+p36
+aVeBay
+p37
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p38
+aVWordpress
+p39
+aV\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u0440\u0435\u043a\u043b\u0430\u043c\u0430
+p40
+aV\u0418\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044b
+p41
+aV\u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043f\u0440\u043e\u0435\u043a\u0442\u0430\u043c\u0438
+p42
+aV\u041d\u0435\u0442\u0431\u0443\u043a\u0438
+p43
+aV\u0417\u0430\u043d\u0438\u043c\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0435 \u0437\u0430\u0434\u0430\u0447\u043a\u0438
+p44
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p45
+aVXSLT
+p46
+aV\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p47
+aVFirefox
+p48
+aV\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c
+p49
+aVTwitter
+p50
+aV\u0411\u0440\u0430\u0443\u0437\u0435\u0440\u044b
+p51
+aVVIM
+p52
+aV\u0421\u043e\u0444\u0442
+p53
+atRp54
+sS'invitees'
+p55
+g6
+((lp56
+VGrage
+p57
+atRp58
+stRp59
+g59
+b.

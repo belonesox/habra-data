@@ -1,0 +1,107 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+V\u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p8
+aV\u0444\u0443\u0442\u0431\u043e\u043b
+p9
+aV\u043a\u043b\u0430\u0441\u0441\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0440\u043e\u043a
+p10
+aVdata mining
+p11
+atRp12
+sS'friends'
+p13
+g6
+((lp14
+VFil
+p15
+atRp16
+sS'companies'
+p17
+g6
+((lp18
+VASUS Russia
+p19
+atRp20
+sS'hubs'
+p21
+g6
+((lp22
+VScala
+p23
+aVDelphi
+p24
+aV.NET
+p25
+aVPerl
+p26
+aV\u0413\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043e\u0431\u043e\u043b\u043e\u0447\u043a\u0438
+p27
+aVGoogle Chrome
+p28
+aVAndroid
+p29
+aVASP
+p30
+aVSmall Basic
+p31
+aV\u0423\u0431\u0443\u043d\u0442\u0430\u0440\u0438\u0443\u043c
+p32
+aVPython
+p33
+aVMac OS X
+p34
+aVWindows
+p35
+aV*nix
+p36
+aVRuby
+p37
+aVWindows Phone
+p38
+aVJavaScript
+p39
+aVLisp
+p40
+aVC++
+p41
+aV\u041e\u043f\u0435\u0440\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0441\u0438\u0441\u0442\u0435\u043c\u044b
+p42
+aV\u041e\u0431\u043e\u043b\u043e\u0447\u043a\u0438
+p43
+aVGoogle
+p44
+aVJAVA
+p45
+aV\u0421\u043c\u0430\u0440\u0442\u0444\u043e\u043d\u044b \u0438 \u043a\u043e\u043c\u043c\u0443\u043d\u0438\u043a\u0430\u0442\u043e\u0440\u044b
+p46
+aVAssembler
+p47
+aVHaskell
+p48
+aVLinux
+p49
+aV\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p50
+aVPHP
+p51
+atRp52
+sS'invitees'
+p53
+NstRp54
+g54
+b.

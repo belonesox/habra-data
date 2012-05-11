@@ -1,0 +1,52 @@
+(dp1
+S'interests'
+p2
+c__builtin__
+set
+p3
+((lp4
+Vproject management
+p5
+aVexecutive management
+p6
+atRp7
+sS'friends'
+p8
+g3
+((lp9
+VCyrill
+p10
+aVdimkin
+p11
+aVadamson
+p12
+aVdrema
+p13
+aVmamontov
+p14
+atRp15
+sS'companies'
+p16
+NsS'hubs'
+p17
+g3
+((lp18
+VIP-\u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0438\u044f
+p19
+aV\u0411\u0443\u0434\u0443\u0449\u0435\u0435 \u0437\u0434\u0435\u0441\u044c
+p20
+aV\u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043f\u0440\u043e\u0435\u043a\u0442\u0430\u043c\u0438
+p21
+aVBlackBerry
+p22
+aV\u0411\u0438\u0437\u043d\u0435\u0441 \u0441\u0442\u0443\u0434\u0438\u0438
+p23
+atRp24
+sS'invitees'
+p25
+g3
+((lp26
+VBizzmo
+p27
+atRp28
+s.

@@ -1,0 +1,120 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+VDigal
+p9
+aVkel
+p10
+aVdamnerd
+p11
+aVre_agent
+p12
+aVkkvt
+p13
+aVganqqwerty
+p14
+aVsometime_sniff
+p15
+aVjeck_landin
+p16
+aVDmitriev
+p17
+aVze0n
+p18
+aVjcmvbkbc
+p19
+atRp20
+sS'companies'
+p21
+g7
+((lp22
+VGoogle
+p23
+aVIBM
+p24
+aVSun Microsystems
+p25
+aVABBYY
+p26
+aVe-Legion Ltd.
+p27
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p28
+aVVMware Inc.
+p29
+aVApache Software Foundation
+p30
+aVCanonical
+p31
+atRp32
+sS'hubs'
+p33
+g7
+((lp34
+V\u0423\u0447\u0435\u0431\u043d\u044b\u0439 \u043f\u0440\u043e\u0446\u0435\u0441\u0441 \u0432 IT
+p35
+aVGit
+p36
+aVOpen source
+p37
+aVNoSQL
+p38
+aVScala
+p39
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p40
+aV\u0421\u0435\u043c\u0430\u043d\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0421\u0435\u0442\u044c
+p41
+aVPython
+p42
+aV\u0413\u0430\u0434\u0436\u0435\u0442\u044b. \u0423\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u0430 \u0434\u043b\u044f \u0433\u0438\u043a\u043e\u0432
+p43
+aV\u041d\u0430\u0443\u0447\u043d\u043e-\u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u043e\u0435
+p44
+aV\u0421\u043e\u0432\u0435\u0440\u0448\u0435\u043d\u043d\u044b\u0439 \u043a\u043e\u0434
+p45
+aV\u041a\u0438\u0431\u0435\u0440\u043f\u0430\u043d\u043a
+p46
+aV\u0411\u0443\u0434\u0443\u0449\u0435\u0435 \u0437\u0434\u0435\u0441\u044c
+p47
+aVEclipse
+p48
+aV\u0418\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442
+p49
+aVPostgreSQL
+p50
+aVJAVA
+p51
+aVMongoDB
+p52
+aVNode.JS
+p53
+aVHaskell
+p54
+aV\u041d\u0435\u043d\u043e\u0440\u043c\u0430\u043b\u044c\u043d\u043e\u0435 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p55
+aV\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p56
+aVErlang/OTP
+p57
+atRp58
+sS'invitees'
+p59
+NstRp60
+g60
+b.

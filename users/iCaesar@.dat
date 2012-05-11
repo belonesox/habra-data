@@ -1,0 +1,82 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+Vgoogle
+p8
+aVapple
+p9
+aVwin7
+p10
+aVwave
+p11
+aV\u043a\u0438\u0430\u043d\u0443 \u0440\u0438\u0432\u0437
+p12
+aVlinux
+p13
+aV\u043b\u0443\u043a\u044c\u044f\u043d\u0435\u043d\u043a\u043e
+p14
+aV\u0441\u0435\u0442\u0438
+p15
+aV\u0441\u0435\u0440\u0432\u0435\u0440\u044b
+p16
+atRp17
+sS'friends'
+p18
+NsS'companies'
+p19
+g6
+((lp20
+V\u041c\u0422\u0421
+p21
+aVRussian Podcasting
+p22
+aVApple
+p23
+aVAcronis
+p24
+aVCisco Systems, Inc
+p25
+aVeBay
+p26
+aVGoogle
+p27
+aVSkype
+p28
+aV«\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u044f \u041a\u0430\u0441\u043f\u0435\u0440\u0441\u043a\u043e\u0433\u043e»
+p29
+aVMicrosoft
+p30
+atRp31
+sS'hubs'
+p32
+g6
+((lp33
+VAndroid
+p34
+aVGoogle
+p35
+aVGoogle Chrome
+p36
+aV\u0421\u043c\u0430\u0440\u0442\u0444\u043e\u043d\u044b \u0438 \u043a\u043e\u043c\u043c\u0443\u043d\u0438\u043a\u0430\u0442\u043e\u0440\u044b
+p37
+aV\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c
+p38
+atRp39
+sS'invitees'
+p40
+NstRp41
+g41
+b.

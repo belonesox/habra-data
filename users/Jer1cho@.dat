@@ -1,0 +1,40 @@
+(dp1
+S'interests'
+p2
+NsS'friends'
+p3
+NsS'companies'
+p4
+c__builtin__
+set
+p5
+((lp6
+VZend Technologies
+p7
+aVRed Hat
+p8
+aVGoogle
+p9
+aVAdobe
+p10
+aVApple
+p11
+aVIntel
+p12
+aVSun Microsystems
+p13
+aVWorld Wide Web Consortium
+p14
+aVIBM
+p15
+atRp16
+sS'hubs'
+p17
+g5
+((lp18
+V\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p19
+atRp20
+sS'invitees'
+p21
+Ns.

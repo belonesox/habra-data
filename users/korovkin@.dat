@@ -1,0 +1,226 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+Vfirefox
+p9
+aVkudzu
+p10
+aVkorowkin
+p11
+aVkulakowka
+p12
+aVklyuchnik
+p13
+aVlogan
+p14
+aVimager
+p15
+aVoleg_bunin
+p16
+aVShoohurt
+p17
+aVMio
+p18
+aVGrol
+p19
+aVmaratk
+p20
+aVZigzag
+p21
+aVcheckpoint
+p22
+aVkostin
+p23
+aValizar
+p24
+aVLolka
+p25
+aVdeniskin
+p26
+aVTigger
+p27
+aVDeleteOne
+p28
+aVTelman
+p29
+aVmaximax
+p30
+aVOdeann
+p31
+aVBBSoD
+p32
+aVAlisher
+p33
+aVunno
+p34
+aVPazorrr
+p35
+aVdze
+p36
+aVc0r0ner
+p37
+aVManPavel
+p38
+aVmdevils
+p39
+aVVitart
+p40
+aVkuprikow
+p41
+aVshergin
+p42
+aVDanolaktis
+p43
+aVKapishin
+p44
+aVBright
+p45
+aVChapaev
+p46
+aVgreen_mouse
+p47
+aVrossomachin
+p48
+aVVox
+p49
+aVivbar
+p50
+atRp51
+sS'companies'
+p52
+g7
+((lp53
+V\u0410\u043a\u0430\u0434\u043e
+p54
+aVSun Microsystems
+p55
+aVRabota.Ru
+p56
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p57
+aV\u041c\u0435\u0442\u0430
+p58
+aVRussian Podcasting
+p59
+aVLiveInternet
+p60
+aVFuturico
+p61
+aV\u0414\u0438\u0437\u0430\u0439\u043d-\u0431\u044e\u0440\u043e \u0410\u0440\u0442\u0435\u043c\u0430 \u0413\u043e\u0440\u0431\u0443\u043d\u043e\u0432\u0430
+p62
+aV\u0410\u0448\u043c\u0430\u043d\u043e\u0432 \u0438 \u041f\u0430\u0440\u0442\u043d\u0451\u0440\u044b
+p63
+aVRU-CENTER
+p64
+aVWayback Machine
+p65
+aV\u0414\u0438\u0437\u0430\u0439\u043d-\u0441\u0442\u0443\u0434\u0438\u044f \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0430 \u041a\u0438\u0437\u044f\u0447\u0435\u043d\u043a\u043e
+p66
+aVAteve Commercial
+p67
+aV\u0421\u0442\u0443\u0434\u0438\u044f \u0410\u0440\u0442\u0435\u043c\u0438\u044f \u041b\u0435\u0431\u0435\u0434\u0435\u0432\u0430
+p68
+aVApache Software Foundation
+p69
+aVWikimedia Foundation
+p70
+aV\u041c\u0422\u0421
+p71
+aVMail.Ru Group
+p72
+aV\u0424\u0421\u0411 \u0420\u0424
+p73
+aVWebProfy
+p74
+aVWebMoney Transfer
+p75
+aVGoogle
+p76
+aVAdobe
+p77
+aVApple
+p78
+aVMozilla Foundation
+p79
+aV«\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u044f \u041a\u0430\u0441\u043f\u0435\u0440\u0441\u043a\u043e\u0433\u043e»
+p80
+atRp81
+sS'hubs'
+p82
+g7
+((lp83
+V\u0427\u0443\u043b\u0430\u043d
+p84
+aVPHP
+p85
+aV\u0416\u0435\u043b\u0435\u0437\u043e
+p86
+aVMySQL
+p87
+aVCMS
+p88
+aV\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u0440\u0435\u043a\u043b\u0430\u043c\u0430
+p89
+aV\u0414\u0438\u0437\u0430\u0439\u043d \u0432 IT
+p90
+aVDIY \u0438\u043b\u0438 \u0421\u0434\u0435\u043b\u0430\u0439 \u0421\u0430\u043c
+p91
+aVYouTube
+p92
+aV\u0417\u0430\u043d\u0438\u043c\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0435 \u0437\u0430\u0434\u0430\u0447\u043a\u0438
+p93
+aV\u0423\u0431\u0443\u043d\u0442\u0430\u0440\u0438\u0443\u043c
+p94
+aVAjax
+p95
+aVRuby
+p96
+aV\u041f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0430
+p97
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p98
+aV\u0411\u0443\u0434\u0443\u0449\u0435\u0435 \u0437\u0434\u0435\u0441\u044c
+p99
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p100
+aV\u0418\u0433\u0440\u043e\u0432\u044b\u0435 \u043f\u0440\u0438\u0441\u0442\u0430\u0432\u043a\u0438
+p101
+aVIM
+p102
+aV\u0422\u0438\u043f\u043e\u0433\u0440\u0430\u0444\u0438\u043a\u0430
+p103
+aV\u0421\u043c\u0430\u0440\u0442\u0444\u043e\u043d\u044b \u0438 \u043a\u043e\u043c\u043c\u0443\u043d\u0438\u043a\u0430\u0442\u043e\u0440\u044b
+p104
+aVGoogle
+p105
+aVFirefox
+p106
+aVApple
+p107
+aV\u0425\u043e\u0441\u0442\u0438\u043d\u0433
+p108
+aVLinux
+p109
+aV\u041a\u0440\u0438\u043f\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u044f
+p110
+atRp111
+sS'invitees'
+p112
+NstRp113
+g113
+b.

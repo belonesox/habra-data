@@ -1,0 +1,45 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+NsS'companies'
+p7
+c__builtin__
+set
+p8
+((lp9
+VSpaceWeb
+p10
+aVMozilla Foundation
+p11
+aVLast.fm
+p12
+aVESET NOD32
+p13
+aVDEFA Interaktiv
+p14
+aVdeviantART
+p15
+atRp16
+sS'hubs'
+p17
+g8
+((lp18
+VAndroid
+p19
+atRp20
+sS'invitees'
+p21
+NstRp22
+g22
+b.

@@ -1,0 +1,72 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+Vpvp
+p9
+aVpanaslonik
+p10
+aVgalev
+p11
+aVfoxweb
+p12
+aVmobilz
+p13
+atRp14
+sS'companies'
+p15
+g7
+((lp16
+VASUS Russia
+p17
+aV\u0412\u044b\u043c\u043f\u0435\u043b\u041a\u043e\u043c (\u0411\u0438\u043b\u0430\u0439\u043d)
+p18
+aVGoogle
+p19
+aVApple
+p20
+aVESET NOD32
+p21
+aVAdMe
+p22
+aVSpb Software House Company
+p23
+aV\u0422\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u041c\u0435\u0434\u0438\u0430
+p24
+aVAgnitum Ltd. / \u0410\u0433\u043d\u0438\u0442\u0443\u043c
+p25
+aVOpera Software ASA
+p26
+aVSkype
+p27
+aV\u0421\u0442\u0443\u0434\u0438\u044f \u0410\u0440\u0442\u0435\u043c\u0438\u044f \u041b\u0435\u0431\u0435\u0434\u0435\u0432\u0430
+p28
+aVFuturico
+p29
+atRp30
+sS'hubs'
+p31
+g7
+((lp32
+V\u0427\u0443\u043b\u0430\u043d
+p33
+atRp34
+sS'invitees'
+p35
+NstRp36
+g36
+b.

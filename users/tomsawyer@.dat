@@ -1,0 +1,41 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+Vmarketing
+p8
+aVlead generation
+p9
+aVlean manufacturing
+p10
+aVproject management
+p11
+atRp12
+sS'friends'
+p13
+NsS'companies'
+p14
+NsS'hubs'
+p15
+g6
+((lp16
+VAgile
+p17
+atRp18
+sS'invitees'
+p19
+NstRp20
+g20
+b.

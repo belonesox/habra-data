@@ -1,0 +1,131 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+Vjquery
+p8
+aVpython
+p9
+aVmongodb
+p10
+aVjavascript
+p11
+aVbusiness intelligence
+p12
+aVmysql
+p13
+aVolap
+p14
+aVdata mining
+p15
+aVphp
+p16
+aVpredictive analytics
+p17
+atRp18
+sS'friends'
+p19
+g6
+((lp20
+VdrJonnie
+p21
+aVandrew_dashin
+p22
+aVbishop3000
+p23
+aVkhour
+p24
+aVtry4tune
+p25
+aVekzi
+p26
+aVDmarck
+p27
+aVsaitmedia
+p28
+aVGluek
+p29
+aVGisma
+p30
+aVNightquest
+p31
+aVKingas
+p32
+atRp33
+sS'companies'
+p34
+g6
+((lp35
+VGoogle
+p36
+aVRussian Podcasting
+p37
+aVApple
+p38
+aVTaucraft Limited
+p39
+aVMozilla Foundation
+p40
+atRp41
+sS'hubs'
+p42
+g6
+((lp43
+V\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p44
+aV\u0423\u0447\u0435\u0431\u043d\u044b\u0439 \u043f\u0440\u043e\u0446\u0435\u0441\u0441 \u0432 IT
+p45
+aVGTD
+p46
+aV\u041c\u043e\u0439 \u0431\u0438\u0437\u043d\u0435\u0441
+p47
+aV\u0423\u0431\u0443\u043d\u0442\u0430\u0440\u0438\u0443\u043c
+p48
+aVPython
+p49
+aV\u0427\u0443\u043b\u0430\u043d
+p50
+aV\u0411\u0430\u0439\u043d\u0435\u0442
+p51
+aV\u0417\u0430\u043d\u0438\u043c\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0435 \u0437\u0430\u0434\u0430\u0447\u043a\u0438
+p52
+aVDjango
+p53
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p54
+aVAjax
+p55
+aVZend Framework
+p56
+aV\u042d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u044b\u0435 \u043a\u043d\u0438\u0433\u0438
+p57
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p58
+aVLinux
+p59
+aVFirefox
+p60
+aVPHP
+p61
+aVRuby
+p62
+aV\u0418\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044b
+p63
+atRp64
+sS'invitees'
+p65
+NstRp66
+g66
+b.

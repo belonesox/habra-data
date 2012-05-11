@@ -1,0 +1,26 @@
+(dp1
+S'interests'
+p2
+NsS'friends'
+p3
+NsS'companies'
+p4
+c__builtin__
+set
+p5
+((lp6
+VCorbina Telecom
+p7
+aVGoogle
+p8
+atRp9
+sS'hubs'
+p10
+g5
+((lp11
+VAndroid
+p12
+atRp13
+sS'invitees'
+p14
+Ns.

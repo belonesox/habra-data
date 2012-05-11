@@ -1,0 +1,58 @@
+(dp1
+S'interests'
+p2
+c__builtin__
+set
+p3
+((lp4
+Vpython
+p5
+aVgoogle app engine.
+p6
+aVgoogle app engine
+p7
+aVdjango
+p8
+atRp9
+sS'friends'
+p10
+g3
+((lp11
+Vxen
+p12
+aVcoldFlame
+p13
+atRp14
+sS'companies'
+p15
+g3
+((lp16
+VGoogle
+p17
+atRp18
+sS'hubs'
+p19
+g3
+((lp20
+VGoogle
+p21
+aVOpen source
+p22
+aVPython
+p23
+aVDjango
+p24
+aVNginx
+p25
+aVGoogle App Engine
+p26
+aV\u041e\u0431\u043b\u0430\u0447\u043d\u044b\u0435 \u0432\u044b\u0447\u0438\u0441\u043b\u0435\u043d\u0438\u044f
+p27
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p28
+aVRuby
+p29
+atRp30
+sS'invitees'
+p31
+Ns.

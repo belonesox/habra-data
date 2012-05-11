@@ -1,0 +1,48 @@
+(dp1
+S'interests'
+p2
+NsS'friends'
+p3
+c__builtin__
+set
+p4
+((lp5
+VBoriborn
+p6
+aVdanick
+p7
+aVDarkFighter
+p8
+aVvzctl
+p9
+aVpadla2k
+p10
+aVpadoctb75
+p11
+atRp12
+sS'companies'
+p13
+NsS'hubs'
+p14
+g4
+((lp15
+V\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p16
+aVGoogle
+p17
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p18
+aV\u041c\u043e\u0439 \u0431\u0438\u0437\u043d\u0435\u0441
+p19
+aV\u0427\u0443\u043b\u0430\u043d
+p20
+aV\u0417\u0430\u043d\u0438\u043c\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0435 \u0437\u0430\u0434\u0430\u0447\u043a\u0438
+p21
+aVCMS
+p22
+aV\u0418\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044b
+p23
+atRp24
+sS'invitees'
+p25
+Ns.

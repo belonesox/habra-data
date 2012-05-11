@@ -1,0 +1,75 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+V\u0441\u043e\u0447\u0438\u043d\u0435\u043d\u0438\u0435 \u043c\u0443\u0437\u044b\u043a\u0438
+p8
+aV\u0431\u0435\u0433
+p9
+aV\u0438\u0441\u0442\u043e\u0440\u0438\u044f \u0437\u0430\u043f\u0430\u0434\u043d\u043e\u0439 \u0444\u0438\u043b\u043e\u0441\u043e\u0444\u0438\u0438
+p10
+atRp11
+sS'friends'
+p12
+g6
+((lp13
+VNashev
+p14
+aVGevorg
+p15
+atRp16
+sS'companies'
+p17
+g6
+((lp18
+VDevExpress
+p19
+aVApple
+p20
+atRp21
+sS'hubs'
+p22
+g6
+((lp23
+V\u041f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0430
+p24
+aV\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p25
+aVGit
+p26
+aVJAVA
+p27
+aVApple
+p28
+aV\u0411\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u0430 ExtJS/Sencha
+p29
+aVDelphi
+p30
+aVMozilla
+p31
+aV\u0421\u0438\u0441\u0442\u0435\u043c\u044b \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u0432\u0435\u0440\u0441\u0438\u044f\u043c\u0438
+p32
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043f\u043e\u0434 iOS
+p33
+aVPostgreSQL
+p34
+aVMono \u0438 Moonlight
+p35
+atRp36
+sS'invitees'
+p37
+NstRp38
+g38
+b.

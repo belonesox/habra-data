@@ -1,0 +1,226 @@
+(dp1
+S'interests'
+p2
+c__builtin__
+set
+p3
+((lp4
+V\u0444\u0438\u043b\u043e\u0441\u043e\u0444\u0438\u044f
+p5
+aVweb
+p6
+aV\u043f\u0441\u0438\u0445\u043e\u043b\u043e\u0433\u0438\u044f
+p7
+aV\u043c\u0443\u0437\u044b\u043a\u0430
+p8
+aV\u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p9
+aV\u0433\u0438\u0442\u0430\u0440\u0430
+p10
+atRp11
+sS'friends'
+p12
+g3
+((lp13
+Vzloydadka
+p14
+aVSilenceAndy
+p15
+aVTenkoff
+p16
+aVpelevin
+p17
+aVvuspenskiy
+p18
+aVflymio
+p19
+aVZibx
+p20
+aVoleganisimov
+p21
+aVWild_Deer
+p22
+aVklen
+p23
+aVPanya
+p24
+aVzenuch
+p25
+aVStopDesign
+p26
+aVOlesya_Sha
+p27
+aVDenya
+p28
+aVfeodor
+p29
+aVRodique
+p30
+aVhmelyoff
+p31
+atRp32
+sS'companies'
+p33
+g3
+((lp34
+VRed Hat
+p35
+aVHP
+p36
+aVSun Microsystems
+p37
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p38
+aVParcsis/Turbomilk
+p39
+aVRussian Podcasting
+p40
+aVLiveInternet
+p41
+aVFuturico
+p42
+aVBitTorrent
+p43
+aVCorbina Telecom
+p44
+aVAmazon
+p45
+aVRU-CENTER
+p46
+aVDEFA Interaktiv
+p47
+aVFacebook
+p48
+aVAteve Commercial
+p49
+aV\u041e\u0437\u043e\u043d
+p50
+aVDigg
+p51
+aVCorel Corporation
+p52
+aV\u0421\u0442\u0443\u0434\u0438\u044f \u0410\u0440\u0442\u0435\u043c\u0438\u044f \u041b\u0435\u0431\u0435\u0434\u0435\u0432\u0430
+p53
+aVApache Software Foundation
+p54
+aVWikimedia Foundation
+p55
+aV\u0412\u044b\u043c\u043f\u0435\u043b\u041a\u043e\u043c (\u0411\u0438\u043b\u0430\u0439\u043d)
+p56
+aV3DNews
+p57
+aVAdMe
+p58
+aV\u0431\u043e\u043b\u043etov.ru
+p59
+aV\u0412\u0435\u0431\u0430\u043b\u044c\u0442\u0430
+p60
+aVAdvertka
+p61
+aV\u0422\u0438\u043d\u044c\u043a\u043e\u0444\u0444 \u041a\u0440\u0435\u0434\u0438\u0442\u043d\u044b\u0435 \u0421\u0438\u0441\u0442\u0435\u043c\u044b
+p62
+aV\u041b\u0435\u043d\u0442\u0430.\u0420\u0443
+p63
+aVOracle
+p64
+aVdeviantART
+p65
+aVWebMoney Transfer
+p66
+aVGoogle
+p67
+aVAdobe
+p68
+aVApple
+p69
+aV.\u0442\u043e\u0441\u0442\u0435\u0440
+p70
+aVMozilla Foundation
+p71
+aVLast.fm
+p72
+aV1\u0421
+p73
+aV\u0421\u0442\u0443\u0434\u0438\u044f 102
+p74
+aVABBYY
+p75
+aV\u0420\u043e\u0441\u0411\u0438\u0437\u043d\u0435\u0441\u041a\u043e\u043d\u0441\u0430\u043b\u0442\u0438\u043d\u0433
+p76
+aVSkype
+p77
+atRp78
+sS'hubs'
+p79
+g3
+((lp80
+V\u0421\u0438\u0441\u0442\u0435\u043c\u043d\u043e\u0435 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p81
+aVNoSQL
+p82
+aV\u041f\u043e\u0434\u043a\u0430\u0441\u0442\u044b
+p83
+aVJavaScript
+p84
+aV\u0422\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p85
+aVPerl
+p86
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p87
+aVSphinx
+p88
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p89
+aV\u0418\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044b
+p90
+aV\u0425\u043e\u0441\u0442\u0438\u043d\u0433
+p91
+aVPython
+p92
+aVMac OS X
+p93
+aVLiveJournal
+p94
+aVRuby
+p95
+aVGTD
+p96
+aV\u041c\u043e\u0439 \u0431\u0438\u0437\u043d\u0435\u0441
+p97
+aV\u041d\u0435\u043d\u043e\u0440\u043c\u0430\u043b\u044c\u043d\u043e\u0435 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p98
+aV\u0421\u0438\u0441\u0442\u0435\u043c\u044b \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u0432\u0435\u0440\u0441\u0438\u044f\u043c\u0438
+p99
+aV\u0418\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442
+p100
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p101
+aViPhone
+p102
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043f\u043e\u0434 iOS
+p103
+aV\u0422\u0438\u043f\u043e\u0433\u0440\u0430\u0444\u0438\u043a\u0430
+p104
+aVDjango
+p105
+aV\u0410\u043b\u0433\u043e\u0440\u0438\u0442\u043c\u044b
+p106
+aVCSS
+p107
+aVGoogle
+p108
+aVApple
+p109
+aV\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c
+p110
+aVHaskell
+p111
+aVLinux
+p112
+aV\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p113
+atRp114
+sS'invitees'
+p115
+Ns.

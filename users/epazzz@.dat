@@ -1,0 +1,70 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+VRAF
+p9
+aVKoronator
+p10
+aVDomSecurity
+p11
+atRp12
+sS'companies'
+p13
+g7
+((lp14
+VSamsung
+p15
+atRp16
+sS'hubs'
+p17
+g7
+((lp18
+V\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p19
+aV\u041c\u043e\u0439 \u0431\u0438\u0437\u043d\u0435\u0441
+p20
+aV\u0414\u0438\u0437\u0430\u0439\u043d \u0432 IT
+p21
+aV\u0427\u0443\u043b\u0430\u043d
+p22
+aV.NET
+p23
+aVC++
+p24
+aVWordpress
+p25
+aViPhone
+p26
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043f\u043e\u0434 iOS
+p27
+aVAndroid
+p28
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043f\u043e\u0434 Android
+p29
+aVMicrosoft
+p30
+aV\u0421\u043e\u0432\u0435\u0440\u0448\u0435\u043d\u043d\u044b\u0439 \u043a\u043e\u0434
+p31
+aVMobile Development
+p32
+atRp33
+sS'invitees'
+p34
+NstRp35
+g35
+b.

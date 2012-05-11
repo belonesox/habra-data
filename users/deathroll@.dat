@@ -1,0 +1,99 @@
+(dp1
+S'interests'
+p2
+NsS'friends'
+p3
+NsS'companies'
+p4
+NsS'hubs'
+p5
+c__builtin__
+set
+p6
+((lp7
+VjQuery
+p8
+aVCanvas
+p9
+aV\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435
+p10
+aVJavaScript
+p11
+aVMooTools
+p12
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p13
+aVGoogle Chrome
+p14
+aVMySQL
+p15
+aV\u041f\u043e\u0438\u0441\u043a\u043e\u0432\u044b\u0435 \u043c\u0430\u0448\u0438\u043d\u044b \u0438 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438
+p16
+aV\u0424\u0440\u0438\u043b\u0430\u043d\u0441
+p17
+aVGreaseMonkey
+p18
+aVCodeIgniter
+p19
+aV\u0425\u043e\u0441\u0442\u0438\u043d\u0433
+p20
+aV\u0411\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u0430 ExtJS/Sencha
+p21
+aVMac OS X
+p22
+aVYouTube
+p23
+aV\u041f\u043e\u0438\u0441\u043a\u043e\u0432\u0430\u044f \u043e\u043f\u0442\u0438\u043c\u0438\u0437\u0430\u0446\u0438\u044f
+p24
+aVAjax
+p25
+aVHTML
+p26
+aVGMail
+p27
+aVXML
+p28
+aVXSLT
+p29
+aVDrupal
+p30
+aVYii
+p31
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p32
+aVGoogle App Engine
+p33
+aViPhone
+p34
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043f\u043e\u0434 iOS
+p35
+aVCakePHP
+p36
+aVCSS
+p37
+aVGame Development
+p38
+aVGoogle
+p39
+aVApple
+p40
+aVTwitter
+p41
+aVNode.JS
+p42
+aVZend Framework
+p43
+aVKohana
+p44
+aV\u041d\u0435\u043d\u043e\u0440\u043c\u0430\u043b\u044c\u043d\u043e\u0435 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p45
+aV\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p46
+aVWordpress
+p47
+aVPHP
+p48
+atRp49
+sS'invitees'
+p50
+Ns.

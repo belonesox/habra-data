@@ -1,0 +1,244 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+Vembedded systems
+p8
+aVsecurity
+p9
+aVopen source
+p10
+aVlinux
+p11
+atRp12
+sS'friends'
+p13
+g6
+((lp14
+VFenniks
+p15
+aVgulevich
+p16
+aVostrov
+p17
+aVz_vector
+p18
+aVNaFigator
+p19
+aVTigger
+p20
+aVForJest_mute
+p21
+aVsheller
+p22
+aVklyuchnik
+p23
+aVlogan
+p24
+aVNicholass
+p25
+aVfsemimir
+p26
+aVBmW
+p27
+aVnullwaver
+p28
+aVzed_0xff
+p29
+aVdrhyperkalich
+p30
+aVGogA
+p31
+aVjesem
+p32
+aVJustERR
+p33
+aVCosss
+p34
+aVwilwill
+p35
+aVTechnologyMasta
+p36
+aVBIOS
+p37
+aVjite
+p38
+aVJangl
+p39
+aValtmind
+p40
+aVPavelMenschikov
+p41
+aVWild_Deer
+p42
+aVkonkere
+p43
+aVStalker_90
+p44
+aVkai
+p45
+aVphpclub
+p46
+aVmou
+p47
+aVakeeper
+p48
+aVTheBits
+p49
+aVBBSoD
+p50
+aVsolarwind
+p51
+aVNorth
+p52
+aVwoofer
+p53
+aValcr
+p54
+aVschors
+p55
+aVmichael_s
+p56
+aVvectart
+p57
+aVMyarh
+p58
+aVManPavel
+p59
+aVcooler
+p60
+aVVox
+p61
+aVthorn
+p62
+aVallnightlong
+p63
+aVDezmASter
+p64
+aVBeeVee
+p65
+aVleveler
+p66
+aVArchon
+p67
+atRp68
+sS'companies'
+p69
+g6
+((lp70
+V\u0424\u0421\u0411 \u0420\u0424
+p71
+aVRussian Podcasting
+p72
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p73
+aVMozilla Foundation
+p74
+aVJuick
+p75
+atRp76
+sS'hubs'
+p77
+g6
+((lp78
+V\u0420\u043e\u0431\u043e\u0442\u043e\u0442\u0435\u0445\u043d\u0438\u043a\u0430
+p79
+aV\u0423\u0447\u0435\u0431\u043d\u044b\u0439 \u043f\u0440\u043e\u0446\u0435\u0441\u0441 \u0432 IT
+p80
+aVOpen source
+p81
+aV\u0413\u0430\u0434\u0436\u0435\u0442\u044b. \u0423\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u0430 \u0434\u043b\u044f \u0433\u0438\u043a\u043e\u0432
+p82
+aV\u041e\u0444\u0438\u0441\u044b IT-\u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0439
+p83
+aV\u0427\u0443\u043b\u0430\u043d
+p84
+aV\u041f\u043b\u0430\u043d\u0448\u0435\u0442\u044b
+p85
+aVYii
+p86
+aV\u0416\u0435\u043b\u0435\u0437\u043e
+p87
+aV\u0412\u0438\u0440\u0442\u0443\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u044f
+p88
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p89
+aVDIY \u0438\u043b\u0438 \u0421\u0434\u0435\u043b\u0430\u0439 \u0421\u0430\u043c
+p90
+aV\u0421\u0435\u0440\u0432\u0435\u0440\u043d\u0430\u044f \u043e\u043f\u0442\u0438\u043c\u0438\u0437\u0430\u0446\u0438\u044f
+p91
+aV\u0418\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044b
+p92
+aV\u041a\u043e\u043f\u0438\u0440\u0430\u0439\u0442
+p93
+aV\u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043f\u0440\u043e\u0435\u043a\u0442\u0430\u043c\u0438
+p94
+aV\u0414\u0438\u0437\u0430\u0439\u043d \u0432 IT
+p95
+aV\u041d\u0430\u0443\u0447\u043d\u043e-\u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u043e\u0435
+p96
+aV\u0418\u043d\u0444\u043e\u0441\u0444\u0435\u0440\u0430 - \u043c\u044b\u0441\u043b\u0438 \u0432\u0441\u043b\u0443\u0445
+p97
+aV\u0424\u0438\u043d\u0430\u043d\u0441\u044b \u0434\u043b\u044f \u0432\u0441\u0435\u0445
+p98
+aV\u041f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0430
+p99
+aV\u041a\u0438\u0431\u0435\u0440\u043f\u0430\u043d\u043a
+p100
+aVGTD
+p101
+aV\u0411\u0443\u0434\u0443\u0449\u0435\u0435 \u0437\u0434\u0435\u0441\u044c
+p102
+aV\u041d\u0435\u043d\u043e\u0440\u043c\u0430\u043b\u044c\u043d\u043e\u0435 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p103
+aV\u0421\u0438\u0441\u0442\u0435\u043c\u043d\u043e\u0435 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p104
+aVIM
+p105
+aV\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u043d\u0433 \u043c\u0438\u043a\u0440\u043e\u043a\u043e\u043d\u0442\u0440\u043e\u043b\u043b\u0435\u0440\u043e\u0432
+p106
+aVMicrosoft
+p107
+aV\u0421\u043c\u0430\u0440\u0442\u0444\u043e\u043d\u044b \u0438 \u043a\u043e\u043c\u043c\u0443\u043d\u0438\u043a\u0430\u0442\u043e\u0440\u044b
+p108
+aV\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p109
+aVGoogle
+p110
+aVJAVA
+p111
+aVApple
+p112
+aV\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c
+p113
+aV\u0422\u0435\u043b\u0435\u043a\u043e\u043c\u044b
+p114
+aVLinux
+p115
+aV\u0421\u043e\u0444\u0442
+p116
+atRp117
+sS'invitees'
+p118
+g6
+((lp119
+VFreemik
+p120
+aVseleko
+p121
+atRp122
+stRp123
+g123
+b.

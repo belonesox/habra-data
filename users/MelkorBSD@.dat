@@ -1,0 +1,144 @@
+(dp1
+S'interests'
+p2
+c__builtin__
+set
+p3
+((lp4
+V\u0440\u0443\u0441\u0441\u043a\u0438\u0439 \u044f\u0437\u044b\u043a
+p5
+aV\u0440\u043e\u0441\u0441\u0438\u044f
+p6
+aV\u0441\u0441\u0441\u0440
+p7
+aV\u043a\u043e\u043c\u043c\u0443\u043d\u0438\u0437\u043c
+p8
+aV\u0440\u0443\u0441-bsd
+p9
+aV\u0441\u043e\u0446\u0438\u0430\u043b\u0438\u0437\u043c
+p10
+aVbsd
+p11
+aVunix
+p12
+aVfrenzy
+p13
+aVfreebsd
+p14
+aV\u0430\u043d\u0442\u0438\u0433\u043b\u043e\u0431\u0430\u043b\u0438\u0437\u043c
+p15
+aV\u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p16
+aV\u0440\u0435\u043b\u0438\u0433\u0438\u043e\u0432\u0435\u0434\u0435\u043d\u0438\u0435
+p17
+atRp18
+sS'friends'
+p19
+g3
+((lp20
+ViZENfire
+p21
+aVsergous
+p22
+aVChumicheff
+p23
+aVminotawr
+p24
+aVsoko1
+p25
+aVm31
+p26
+aVgumanoed
+p27
+aVfrenzytechnix
+p28
+aVgruz0
+p29
+aVMithgol
+p30
+atRp31
+sS'companies'
+p32
+g3
+((lp33
+VASUS Russia
+p34
+aVWebMoney Transfer
+p35
+aV.masterhost
+p36
+aVid Software
+p37
+aV\u041c\u043e\u0435 \u0434\u0435\u043b\u043e
+p38
+aV\u041c\u0435\u0433\u0430\u0444\u043e\u043d
+p39
+aVRU-CENTER
+p40
+aV\u0424\u0421\u0411 \u0420\u0424
+p41
+aVOpera Software ASA
+p42
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p43
+aVBlizzard Entertainment
+p44
+aVThe FreeBSD Foundation
+p45
+aVAMD (Advanced Micro Devices)
+p46
+aVTrolltech
+p47
+aVNVIDIA Corporation
+p48
+aVApache Software Foundation
+p49
+aV\u0414\u0443\u0431\u043b\u044c\u0413\u0418\u0421 (2\u0413\u0418\u0421)
+p50
+atRp51
+sS'hubs'
+p52
+g3
+((lp53
+VjQuery
+p54
+aVQt Software
+p55
+aVOpen source
+p56
+aV\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c
+p57
+aVDrupal
+p58
+aV\u0427\u0443\u043b\u0430\u043d
+p59
+aVDelphi
+p60
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p61
+aV\u0421\u0438\u0441\u0442\u0435\u043c\u044b \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u0432\u0435\u0440\u0441\u0438\u044f\u043c\u0438
+p62
+aVFidonet
+p63
+aV\u0413\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043e\u0431\u043e\u043b\u043e\u0447\u043a\u0438
+p64
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p65
+aV\u041e\u043f\u0435\u0440\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0441\u0438\u0441\u0442\u0435\u043c\u044b
+p66
+aVC++
+p67
+aV\u0416\u0435\u043b\u0435\u0437\u043e
+p68
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p69
+aVPHP
+p70
+aVDIY \u0438\u043b\u0438 \u0421\u0434\u0435\u043b\u0430\u0439 \u0421\u0430\u043c
+p71
+aV\u0418\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044b
+p72
+atRp73
+sS'invitees'
+p74
+Ns.

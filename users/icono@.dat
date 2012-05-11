@@ -1,0 +1,109 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+VSeoBaby
+p9
+aVAsjudc
+p10
+atRp11
+sS'companies'
+p12
+NsS'hubs'
+p13
+g7
+((lp14
+VjQuery
+p15
+aVLiveStreet
+p16
+aVWiki-\u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u044f
+p17
+aVMODx
+p18
+aV\u041f\u043e\u0434\u043a\u0430\u0441\u0442\u044b
+p19
+aVMooTools
+p20
+aVTwisted
+p21
+aV\u0410\u043d\u0438\u043c\u0430\u0446\u0438\u044f \u0438 3D \u0433\u0440\u0430\u0444\u0438\u043a\u0430
+p22
+aVWordpress
+p23
+aV\u0412\u0435\u0431-\u0434\u0438\u0437\u0430\u0439\u043d
+p24
+aVCMS
+p25
+aV\u0418\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044b
+p26
+aV1\u0421-\u0411\u0438\u0442\u0440\u0438\u043a\u0441
+p27
+aVCodeIgniter
+p28
+aV\u0414\u0438\u0437\u0430\u0439\u043d \u0432 IT
+p29
+aVRuby on Rails
+p30
+aV\u0418\u043d\u0444\u043e\u0433\u0440\u0430\u0444\u0438\u043a\u0430
+p31
+aV\u0420\u0430\u0431\u043e\u0442\u0430 \u0441 \u0432\u0438\u0434\u0435\u043e
+p32
+aV\u042e\u0437\u0430\u0431\u0438\u043b\u0438\u0442\u0438 \u0432 IT
+p33
+aVQt Software
+p34
+aV\u0418\u043a\u043e\u043d\u043e\u0441\u043a\u0430\u0437
+p35
+aVDrupal
+p36
+aVYii
+p37
+aVEclipse
+p38
+aVDjango
+p39
+aVJoomla
+p40
+aV\u0422\u0438\u043f\u043e\u0433\u0440\u0430\u0444\u0438\u043a\u0430
+p41
+aVCakePHP
+p42
+aVSymfony
+p43
+aV\u0412\u0435\u043a\u0442\u043e\u0440\u043d\u0430\u044f \u0433\u0440\u0430\u0444\u0438\u043a\u0430
+p44
+aV\u041f\u0440\u0435\u0437\u0435\u043d\u0442\u0430\u0446\u0438\u0438
+p45
+aVNode.JS
+p46
+aVZend Framework
+p47
+aVGroovy & Grails
+p48
+aVKohana
+p49
+aVGTK+
+p50
+aV\u0420\u0430\u0431\u043e\u0442\u0430 \u0441\u043e \u0437\u0432\u0443\u043a\u043e\u043c
+p51
+atRp52
+sS'invitees'
+p53
+NstRp54
+g54
+b.

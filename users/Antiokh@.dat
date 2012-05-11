@@ -1,0 +1,93 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+NsS'companies'
+p7
+c__builtin__
+set
+p8
+((lp9
+VIBM
+p10
+aV\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435
+p11
+aVHP
+p12
+aVOpera Software ASA
+p13
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p14
+aVBitTorrent
+p15
+aVNokia
+p16
+aV\u041c\u0435\u0433\u0430\u0444\u043e\u043d
+p17
+aVYota
+p18
+aVBlizzard Entertainment
+p19
+aVAMD (Advanced Micro Devices)
+p20
+aVSony Mobile Communications
+p21
+aVApache Software Foundation
+p22
+aV\u0412\u044b\u043c\u043f\u0435\u043b\u041a\u043e\u043c (\u0411\u0438\u043b\u0430\u0439\u043d)
+p23
+aVIntel
+p24
+aV\u0416\u0443\u0440\u043d\u0430\u043b \u0425\u0430\u043a\u0435\u0440
+p25
+aVKanobu Network
+p26
+aVdeviantART
+p27
+aVMicrosoft
+p28
+aVGoogle
+p29
+aVAdobe
+p30
+aVApple
+p31
+aV\u0422\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u041c\u0435\u0434\u0438\u0430
+p32
+aVMozilla Foundation
+p33
+aVParcsis/Turbomilk
+p34
+aVSkype
+p35
+aVCanonical
+p36
+atRp37
+sS'hubs'
+p38
+g8
+((lp39
+V\u0427\u0443\u043b\u0430\u043d
+p40
+aV\u0421\u0438\u0441\u0442\u0435\u043c\u043d\u043e\u0435 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p41
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p42
+aV\u0425\u043e\u0441\u0442\u0438\u043d\u0433
+p43
+atRp44
+sS'invitees'
+p45
+NstRp46
+g46
+b.

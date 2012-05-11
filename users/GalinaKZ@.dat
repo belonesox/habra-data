@@ -1,0 +1,78 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+VHaruv
+p9
+aVtorai
+p10
+aVyakovbeder
+p11
+aVbabetta
+p12
+aVle_den
+p13
+atRp14
+sS'companies'
+p15
+g7
+((lp16
+VGoogle
+p17
+aVHTC
+p18
+aVApple
+p19
+aVABBYY
+p20
+aV\u041a\u043b\u0443\u0431 \u0418\u043d\u043d\u043e\u0432\u0430\u0442\u043e\u0440\u043e\u0432
+p21
+aVSmsCoin
+p22
+atRp23
+sS'hubs'
+p24
+g7
+((lp25
+V\u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043f\u0440\u043e\u0435\u043a\u0442\u0430\u043c\u0438
+p26
+aV\u0427\u0443\u043b\u0430\u043d
+p27
+aV\u0422\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p28
+aVPython
+p29
+aVMac OS X
+p30
+aV\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p31
+aV\u0411\u0438\u0437\u043d\u0435\u0441 \u0441\u0442\u0443\u0434\u0438\u0438
+p32
+aViPhone
+p33
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043f\u043e\u0434 iOS
+p34
+aV\u041f\u043b\u0430\u0442\u0435\u0436\u043d\u044b\u0435 \u0441\u0438\u0441\u0442\u0435\u043c\u044b
+p35
+aV\u0421\u043e\u0432\u0435\u0440\u0448\u0435\u043d\u043d\u044b\u0439 \u043a\u043e\u0434
+p36
+atRp37
+sS'invitees'
+p38
+NstRp39
+g39
+b.

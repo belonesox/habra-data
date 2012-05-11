@@ -1,0 +1,236 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+Vspotify
+p8
+aVillustrert vitenskap
+p9
+aVclassical choreography
+p10
+aVflat assembler
+p11
+aVnosql
+p12
+aVgingerycakes
+p13
+aVruby on rails
+p14
+aVc++
+p15
+aVbritish literature
+p16
+aVformula 1
+p17
+aVleft 4 dead
+p18
+aVclassic literature
+p19
+aVruby
+p20
+aVsteam
+p21
+atRp22
+sS'friends'
+p23
+g6
+((lp24
+VOLashkevich
+p25
+aVKavu
+p26
+aVlabria
+p27
+aVshiroginne
+p28
+aVRubyRoid07
+p29
+aVCrazy_Owl
+p30
+aVvaonli
+p31
+aVt1myrkq
+p32
+aVinscriptor
+p33
+aVArwen
+p34
+aVFILINI
+p35
+aVitch625
+p36
+aVzw0rk
+p37
+aVgreen_mouse
+p38
+aVDMinsky
+p39
+aVyanajy
+p40
+aVSkammer
+p41
+aVStryker3D
+p42
+aVAntonDiaz
+p43
+aVmelnichuck
+p44
+atRp45
+sS'companies'
+p46
+g6
+((lp47
+V37signals
+p48
+aVGoogle
+p49
+aVLast.fm
+p50
+aVOpera Software ASA
+p51
+aVvelcom
+p52
+aVSkype
+p53
+aVCanonical
+p54
+atRp55
+sS'hubs'
+p56
+g6
+((lp57
+VjQuery
+p58
+aV\u0421\u0438\u0441\u0442\u0435\u043c\u043d\u043e\u0435 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p59
+aV\u041a\u043b\u0438\u0435\u043d\u0442\u0441\u043a\u0430\u044f \u043e\u043f\u0442\u0438\u043c\u0438\u0437\u0430\u0446\u0438\u044f
+p60
+aVOpen source
+p61
+aVNoSQL
+p62
+aV\u0427\u0443\u043b\u0430\u043d
+p63
+aVJavaScript
+p64
+aV\u042d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u044b\u0435 \u043a\u043d\u0438\u0433\u0438
+p65
+aV\u0412\u0435\u0431-\u0434\u0438\u0437\u0430\u0439\u043d
+p66
+aVAndroid
+p67
+aV\u0418\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044b
+p68
+aV\u0414\u0438\u0437\u0430\u0439\u043d \u0432 IT
+p69
+aVPython
+p70
+aV\u0421\u043f\u043e\u0440\u0442\u0438\u0432\u043d\u043e\u0435 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p71
+aVRuby on Rails
+p72
+aV\u0418\u043d\u0444\u043e\u0433\u0440\u0430\u0444\u0438\u043a\u0430
+p73
+aV\u0423\u0431\u0443\u043d\u0442\u0430\u0440\u0438\u0443\u043c
+p74
+aV\u0411\u0438\u043e\u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438
+p75
+aVRuby
+p76
+aV\u0421\u043e\u0432\u0435\u0440\u0448\u0435\u043d\u043d\u044b\u0439 \u043a\u043e\u0434
+p77
+aV\u0425\u0430\u0431\u0440\u0430\u0445\u0430\u0431\u0440
+p78
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p79
+aV\u041c\u043e\u0439 \u0431\u0438\u0437\u043d\u0435\u0441
+p80
+aVOpera
+p81
+aV\u0424\u0440\u0438\u043b\u0430\u043d\u0441
+p82
+aV\u0411\u0443\u0434\u0443\u0449\u0435\u0435 \u0437\u0434\u0435\u0441\u044c
+p83
+aV\u041d\u0435\u043d\u043e\u0440\u043c\u0430\u043b\u044c\u043d\u043e\u0435 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p84
+aV\u0421\u0438\u0441\u0442\u0435\u043c\u043d\u043e\u0435 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p85
+aVC++
+p86
+aV\u0421\u0442\u0430\u0440\u043e\u0435 \u0436\u0435\u043b\u0435\u0437\u043e
+p87
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p88
+aV\u041c\u0438\u043a\u0440\u043e\u0444\u043e\u0440\u043c\u0430\u0442\u044b
+p89
+aVIM
+p90
+aV\u041f\u0435\u0440\u0435\u0432\u043e\u0434\u044b
+p91
+aVData Mining
+p92
+aV\u0422\u0438\u043f\u043e\u0433\u0440\u0430\u0444\u0438\u043a\u0430
+p93
+aV\u0410\u043b\u0433\u043e\u0440\u0438\u0442\u043c\u044b
+p94
+aVCSS
+p95
+aV\u0421\u043c\u0430\u0440\u0442\u0444\u043e\u043d\u044b \u0438 \u043a\u043e\u043c\u043c\u0443\u043d\u0438\u043a\u0430\u0442\u043e\u0440\u044b
+p96
+aVGoogle
+p97
+aV\u0412\u0435\u043a\u0442\u043e\u0440\u043d\u0430\u044f \u0433\u0440\u0430\u0444\u0438\u043a\u0430
+p98
+aV\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c
+p99
+aVAssembler
+p100
+aVVIM
+p101
+aV\u041f\u0440\u043e\u0435\u043a\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0438 \u0440\u0435\u0444\u0430\u043a\u0442\u043e\u0440\u0438\u043d\u0433
+p102
+aVLinux
+p103
+aV\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p104
+aVErlang/OTP
+p105
+aVPeer-to-Peer
+p106
+aV\u0421\u043e\u0444\u0442
+p107
+atRp108
+sS'invitees'
+p109
+g6
+((lp110
+VOLashkevich
+p111
+aVkernelpanic
+p112
+aVZitrax
+p113
+aVCrazy_Owl
+p114
+aVitch625
+p115
+aVclassx
+p116
+aVzhmenia
+p117
+atRp118
+stRp119
+g119
+b.

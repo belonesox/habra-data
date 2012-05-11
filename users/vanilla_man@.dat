@@ -1,0 +1,289 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+V\u043a\u0438\u043d\u043e
+p8
+aV\u043c\u0443\u0437\u044b\u043a\u0430
+p9
+aV\u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0440\u043a\u0435\u0442\u0438\u043d\u0433
+p10
+aVwordpress
+p11
+aV\u0432\u0435\u0431-\u0434\u0438\u0437\u0430\u0439\u043d
+p12
+aVweb-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p13
+aVcms
+p14
+atRp15
+sS'friends'
+p16
+g6
+((lp17
+Vmarapper
+p18
+aVAvdenago
+p19
+aVleshaogonkov
+p20
+aVSun_ua
+p21
+aVazverev
+p22
+aValeksandrit
+p23
+aVcoldFlame
+p24
+aVmex3
+p25
+aVksar
+p26
+aVJetHedgehog
+p27
+aVdreamhelg
+p28
+aVdespoth
+p29
+aVTod
+p30
+aVhappy2bkot
+p31
+aVGoodluck
+p32
+aVWildCat37
+p33
+aVfaxenoff
+p34
+aVAlder
+p35
+aVBerd
+p36
+aVLipski
+p37
+aVsigizmund
+p38
+aVMaakSimm
+p39
+aVAsjudc
+p40
+aValizar
+p41
+aVListratov
+p42
+aVborisko
+p43
+aVindigo_may
+p44
+aVDimox
+p45
+aVsmall_jam
+p46
+aVakamuza
+p47
+aVFastVPS
+p48
+aVnobr
+p49
+aVAntonShevchuk
+p50
+aVBoomburum
+p51
+aVLilumi
+p52
+aVLecactus
+p53
+aVgray
+p54
+aVboombond
+p55
+aVMrTiM
+p56
+aVpepelsbey
+p57
+aVDezmASter
+p58
+aVsshz
+p59
+aVnayjest
+p60
+atRp61
+sS'companies'
+p62
+g6
+((lp63
+VSix Apart
+p64
+aVLinkedIn
+p65
+aVWorld Wide Web Consortium
+p66
+aVZeptoLab
+p67
+aVBitTorrent
+p68
+aVNokia
+p69
+aVYahoo
+p70
+aVBlizzard Entertainment
+p71
+aVWayback Machine
+p72
+aVESET NOD32
+p73
+aVFacebook
+p74
+aVChristian Ghisler
+p75
+aVWikimedia Foundation
+p76
+aV\u0412\u044b\u043c\u043f\u0435\u043b\u041a\u043e\u043c (\u0411\u0438\u043b\u0430\u0439\u043d)
+p77
+aVABBYY
+p78
+aVdeviantART
+p79
+aVMicrosoft
+p80
+aVAutomattic
+p81
+aVWebMoney Transfer
+p82
+aVGoogle
+p83
+aVAdobe
+p84
+aVApple
+p85
+aV\u0422\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u041c\u0435\u0434\u0438\u0430
+p86
+aVMozilla Foundation
+p87
+aVSkype
+p88
+atRp89
+sS'hubs'
+p90
+g6
+((lp91
+V\u0420\u043e\u0431\u043e\u0442\u043e\u0442\u0435\u0445\u043d\u0438\u043a\u0430
+p92
+aVIT-\u0411\u0438\u043e\u0433\u0440\u0430\u0444\u0438\u0438
+p93
+aV\u0411\u043b\u043e\u0433\u043e\u0441\u0444\u0435\u0440\u0430
+p94
+aV\u0425\u0430\u0431\u0440\u0430\u0445\u0430\u0431\u0440
+p95
+aV\u0424\u043e\u0442\u043e\u0442\u0435\u0445\u043d\u0438\u043a\u0430
+p96
+aV\u041e\u0444\u0438\u0441\u044b IT-\u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0439
+p97
+aV\u0427\u0443\u043b\u0430\u043d
+p98
+aV\u0421\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0435 \u0441\u0435\u0442\u0438 \u0438 \u0441\u043e\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0430
+p99
+aVHuman Resources
+p100
+aV\u0425\u0430\u0431\u0440\u0430\u0445\u0430\u0431\u0440 \u2014 \u0410\u043d\u043e\u043d\u0441\u044b
+p101
+aV\u0421\u043c\u0430\u0440\u0442\u0444\u043e\u043d\u044b \u0438 \u043a\u043e\u043c\u043c\u0443\u043d\u0438\u043a\u0430\u0442\u043e\u0440\u044b
+p102
+aVeBay
+p103
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p104
+aV\u0410\u043d\u0438\u043c\u0430\u0446\u0438\u044f \u0438 3D \u0433\u0440\u0430\u0444\u0438\u043a\u0430
+p105
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p106
+aVWordpress
+p107
+aV\u0422\u0438\u043f\u043e\u0433\u0440\u0430\u0444\u0438\u043a\u0430
+p108
+aV\u0412\u0435\u0431-\u0434\u0438\u0437\u0430\u0439\u043d
+p109
+aVCMS
+p110
+aV\u0425\u043e\u0441\u0442\u0438\u043d\u0433
+p111
+aV\u0418\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044b
+p112
+aV\u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043f\u0440\u043e\u0435\u043a\u0442\u0430\u043c\u0438
+p113
+aV\u0414\u0438\u0437\u0430\u0439\u043d \u0432 IT
+p114
+aVDIY \u0438\u043b\u0438 \u0421\u0434\u0435\u043b\u0430\u0439 \u0421\u0430\u043c
+p115
+aV\u041f\u043e\u0438\u0441\u043a\u043e\u0432\u0430\u044f \u043e\u043f\u0442\u0438\u043c\u0438\u0437\u0430\u0446\u0438\u044f
+p116
+aV\u0411\u0438\u0437\u043d\u0435\u0441 \u0441\u0442\u0443\u0434\u0438\u0438
+p117
+aV\u041a\u043e\u043f\u0438\u0440\u0430\u0439\u0442
+p118
+aVHTML
+p119
+aV\u041f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0430
+p120
+aV\u041a\u0438\u0431\u0435\u0440\u043f\u0430\u043d\u043a
+p121
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p122
+aV\u041f\u043e\u0438\u0441\u043a\u043e\u0432\u044b\u0435 \u043c\u0430\u0448\u0438\u043d\u044b \u0438 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438
+p123
+aVWindows
+p124
+aV\u0411\u0443\u0434\u0443\u0449\u0435\u0435 \u0437\u0434\u0435\u0441\u044c
+p125
+aV\u0418\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442
+p126
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p127
+aVIM
+p128
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043f\u043e\u0434 iOS
+p129
+aVFirefox
+p130
+aVCSS
+p131
+aVGame Development
+p132
+aV\u0418\u0441\u0442\u043e\u0440\u0438\u044f \u0418\u0422
+p133
+aVGoogle
+p134
+aVAdobe
+p135
+aVApple
+p136
+aVERP-\u0441\u0438\u0441\u0442\u0435\u043c\u044b
+p137
+aVIT-\u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u044b
+p138
+aV\u0411\u0440\u0430\u0443\u0437\u0435\u0440\u044b
+p139
+aV\u0418\u0434\u0435\u0438 \u0434\u043b\u044f \u0441\u0442\u0430\u0440\u0442\u0430\u043f\u043e\u0432
+p140
+aV\u0424\u0440\u0438\u043b\u0430\u043d\u0441
+p141
+aVGoogle Chrome
+p142
+atRp143
+sS'invitees'
+p144
+NstRp145
+g145
+b.

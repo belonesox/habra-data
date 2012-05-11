@@ -1,0 +1,129 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+V\u0443\u0441\u043f\u0435\u0445
+p8
+aV\u0444\u0438\u043d\u0430\u043d\u0441\u044b
+p9
+aV\u0431\u0438\u0437\u043d\u0435\u0441
+p10
+atRp11
+sS'friends'
+p12
+NsS'companies'
+p13
+NsS'hubs'
+p14
+g6
+((lp15
+VCoworking: \u0440\u0430\u0431\u043e\u0442\u0430 2.0
+p16
+aVCreative Commons
+p17
+aV\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435
+p18
+aV\u041e\u0444\u0438\u0441\u044b IT-\u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0439
+p19
+aVAgile
+p20
+aV\u0421\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0435 \u0441\u0435\u0442\u0438 \u0438 \u0441\u043e\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0430
+p21
+aVHuman Resources
+p22
+aVSun Microsystems
+p23
+aVeBay
+p24
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p25
+aVGoogle Plus
+p26
+aVMail.Ru
+p27
+aV\u042d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u0430\u044f \u043a\u043e\u043c\u043c\u0435\u0440\u0446\u0438\u044f
+p28
+aV\u0421\u0443\u043f
+p29
+aVYouTube
+p30
+aVOpenStreetMap
+p31
+aV\u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043f\u0440\u043e\u0435\u043a\u0442\u0430\u043c\u0438
+p32
+aV\u0410\u043d\u0430\u043b\u0438\u0437 \u0438 \u043f\u0440\u043e\u0435\u043a\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0441\u0438\u0441\u0442\u0435\u043c
+p33
+aVMozilla
+p34
+aVLiveJournal
+p35
+aVYahoo
+p36
+aV\u0411\u0438\u0437\u043d\u0435\u0441 \u0441\u0442\u0443\u0434\u0438\u0438
+p37
+aV\u0424\u0438\u043d\u0430\u043d\u0441\u044b \u0434\u043b\u044f \u0432\u0441\u0435\u0445
+p38
+aVFacebook
+p39
+aV\u0421\u0442\u0443\u0434\u0438\u044f \u0410\u0440\u0442\u0435\u043c\u0438\u044f \u041b\u0435\u0431\u0435\u0434\u0435\u0432\u0430
+p40
+aV\u0420\u0430\u043c\u0431\u043b\u0435\u0440
+p41
+aVGTD
+p42
+aVWikipedia
+p43
+aVBing
+p44
+aVGoogle App Engine
+p45
+aV\u0411\u0435\u0433\u0443\u043d
+p46
+aVGoogle AdSense
+p47
+aVMicrosoft
+p48
+aVGMail
+p49
+aVGoogle
+p50
+aVAdobe
+p51
+aVApple
+p52
+aVERP-\u0441\u0438\u0441\u0442\u0435\u043c\u044b
+p53
+aVTwitter
+p54
+aVMySpace
+p55
+aVLinkedin
+p56
+aVTumblr
+p57
+aVGoogle Analytics
+p58
+aVGoogle Checkout
+p59
+aVSaaS / S+S
+p60
+aVAmazon Web Services
+p61
+atRp62
+sS'invitees'
+p63
+NstRp64
+g64
+b.

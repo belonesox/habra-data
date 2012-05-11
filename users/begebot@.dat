@@ -1,0 +1,61 @@
+(dp1
+S'interests'
+p2
+NsS'friends'
+p3
+c__builtin__
+set
+p4
+((lp5
+VOlegbl4
+p6
+aVmursya
+p7
+aVcrenative
+p8
+atRp9
+sS'companies'
+p10
+g4
+((lp11
+VGoogle
+p12
+aVMozilla Foundation
+p13
+aVWeb Standards Group
+p14
+aVOpera Software ASA
+p15
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p16
+aVSkype
+p17
+aVRussian Podcasting
+p18
+aV\u0421\u0442\u0443\u0434\u0438\u044f \u0410\u0440\u0442\u0435\u043c\u0438\u044f \u041b\u0435\u0431\u0435\u0434\u0435\u0432\u0430
+p19
+aVWikimedia Foundation
+p20
+atRp21
+sS'hubs'
+p22
+g4
+((lp23
+VjQuery
+p24
+aV\u041f\u043e\u0434\u043a\u0430\u0441\u0442\u044b
+p25
+aVJavaScript
+p26
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p27
+aV\u0427\u0443\u043b\u0430\u043d
+p28
+aV\u0410\u043b\u0433\u043e\u0440\u0438\u0442\u043c\u044b
+p29
+aVCSS
+p30
+atRp31
+sS'invitees'
+p32
+Ns.

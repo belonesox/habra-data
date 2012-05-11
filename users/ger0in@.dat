@@ -1,0 +1,41 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+Viiyama
+p9
+atRp10
+sS'companies'
+p11
+NsS'hubs'
+p12
+g7
+((lp13
+VAndroid
+p14
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p15
+aV\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p16
+aVMobile Development
+p17
+atRp18
+sS'invitees'
+p19
+NstRp20
+g20
+b.

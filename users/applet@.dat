@@ -1,0 +1,48 @@
+(dp1
+S'interests'
+p2
+NsS'friends'
+p3
+NsS'companies'
+p4
+c__builtin__
+set
+p5
+((lp6
+VAdobe
+p7
+aVdeviantART
+p8
+aVGoogle
+p9
+aVOpera Software ASA
+p10
+aVApache Software Foundation
+p11
+atRp12
+sS'hubs'
+p13
+g5
+((lp14
+VGoogle
+p15
+aV\u0413\u0430\u0434\u0436\u0435\u0442\u044b. \u0423\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u0430 \u0434\u043b\u044f \u0433\u0438\u043a\u043e\u0432
+p16
+aVOpera
+p17
+aV\u0411\u0443\u0434\u0443\u0449\u0435\u0435 \u0437\u0434\u0435\u0441\u044c
+p18
+aV\u0414\u0438\u0437\u0430\u0439\u043d \u0432 IT
+p19
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p20
+aV\u0418\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044b
+p21
+aVPHP
+p22
+aVCSS
+p23
+atRp24
+sS'invitees'
+p25
+Ns.

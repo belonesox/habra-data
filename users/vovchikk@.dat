@@ -1,0 +1,95 @@
+(dp1
+S'interests'
+p2
+NsS'friends'
+p3
+c__builtin__
+set
+p4
+((lp5
+Vkillnicole
+p6
+aVDimat
+p7
+aVcaezar
+p8
+aVdobrych
+p9
+aVjustpusher
+p10
+aVVeCher
+p11
+aVLupineDreamer
+p12
+aVMaximKat
+p13
+aVppv
+p14
+aVAchilles
+p15
+aVneex
+p16
+aVScream3
+p17
+aVXAMelleOH
+p18
+aVVojToshik
+p19
+aVMadcyree
+p20
+aVfolone
+p21
+atRp22
+sS'companies'
+p23
+g4
+((lp24
+VGoogle
+p25
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p26
+aV\u0421\u0442\u0443\u0434\u0438\u044f \u0410\u0440\u0442\u0435\u043c\u0438\u044f \u041b\u0435\u0431\u0435\u0434\u0435\u0432\u0430
+p27
+atRp28
+sS'hubs'
+p29
+g4
+((lp30
+VjQuery
+p31
+aV\u0425\u0430\u0431\u0440\u0430\u0445\u0430\u0431\u0440
+p32
+aVOpen source
+p33
+aVDura Lex
+p34
+aV\u041c\u043e\u0439 \u0431\u0438\u0437\u043d\u0435\u0441
+p35
+aVWindows
+p36
+aVIT-\u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u044b
+p37
+aVJavaScript
+p38
+aV\u0418\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442
+p39
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p40
+aV\u041f\u0440\u043e\u0435\u043a\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0438 \u0440\u0435\u0444\u0430\u043a\u0442\u043e\u0440\u0438\u043d\u0433
+p41
+aVIM
+p42
+aVMySQL
+p43
+aVGoogle Chrome
+p44
+aV\u0420\u0430\u0431\u043e\u0442\u0430 \u0441\u043e \u0437\u0432\u0443\u043a\u043e\u043c
+p45
+aVPHP
+p46
+aVCSS
+p47
+atRp48
+sS'invitees'
+p49
+Ns.

@@ -1,0 +1,112 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+Vshishkin_24ttl
+p9
+aVart008
+p10
+aVAntares19
+p11
+atRp12
+sS'companies'
+p13
+g7
+((lp14
+VZend Technologies
+p15
+aV37signals
+p16
+aVGoogle
+p17
+aVApple
+p18
+aV\u0422\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u041c\u0435\u0434\u0438\u0430
+p19
+aVMozilla Foundation
+p20
+aVEvernote Corporation
+p21
+aVSkype
+p22
+aVApache Software Foundation
+p23
+aVCanonical
+p24
+atRp25
+sS'hubs'
+p26
+g7
+((lp27
+VjQuery
+p28
+aVIT-\u0411\u0438\u043e\u0433\u0440\u0430\u0444\u0438\u0438
+p29
+aVOpen source
+p30
+aV\u041e\u0444\u0438\u0441\u044b IT-\u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0439
+p31
+aV\u041a\u043b\u0438\u0435\u043d\u0442\u0441\u043a\u0430\u044f \u043e\u043f\u0442\u0438\u043c\u0438\u0437\u0430\u0446\u0438\u044f
+p32
+aVGoogle Chrome
+p33
+aVAndroid
+p34
+aVCMS
+p35
+aVCodeIgniter
+p36
+aVMac OS X
+p37
+aV\u0423\u0431\u0443\u043d\u0442\u0430\u0440\u0438\u0443\u043c
+p38
+aV\u041a\u0438\u0431\u0435\u0440\u043f\u0430\u043d\u043a
+p39
+aV\u041a\u043e\u0434\u043e\u0411\u0440\u0435\u0434
+p40
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p41
+aVLinux
+p42
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p43
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043f\u043e\u0434 iOS
+p44
+aV\u0410\u043b\u0433\u043e\u0440\u0438\u0442\u043c\u044b
+p45
+aVCSS
+p46
+aVGoogle
+p47
+aVFirefox
+p48
+aVApple
+p49
+aVZend Framework
+p50
+aVSkype
+p51
+aV\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p52
+aVPHP
+p53
+atRp54
+sS'invitees'
+p55
+NstRp56
+g56
+b.

@@ -1,0 +1,56 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+Vjazzbird
+p9
+aVgR3Y
+p10
+atRp11
+sS'companies'
+p12
+g7
+((lp13
+VKanobu Network
+p14
+aVZeptoLab
+p15
+aVMicrosoft
+p16
+aVBlizzard Entertainment
+p17
+aVeBay
+p18
+atRp19
+sS'hubs'
+p20
+g7
+((lp21
+V\u0427\u0443\u043b\u0430\u043d
+p22
+aVHuman Resources
+p23
+aVGame Development
+p24
+aVeBay
+p25
+atRp26
+sS'invitees'
+p27
+NstRp28
+g28
+b.

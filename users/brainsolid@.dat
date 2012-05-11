@@ -1,0 +1,46 @@
+(dp1
+S'interests'
+p2
+NsS'friends'
+p3
+c__builtin__
+set
+p4
+((lp5
+Vfirejaxx
+p6
+aVvasilyesmanov
+p7
+aVmokus
+p8
+aVmaaboo
+p9
+aVamyot
+p10
+aVantonzoi
+p11
+atRp12
+sS'companies'
+p13
+NsS'hubs'
+p14
+g4
+((lp15
+V\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p16
+aVApple
+p17
+aV\u041f\u043b\u0430\u043d\u0448\u0435\u0442\u044b
+p18
+aVRuby on Rails
+p19
+aViPhone
+p20
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043f\u043e\u0434 iOS
+p21
+aVGame Development
+p22
+atRp23
+sS'invitees'
+p24
+Ns.

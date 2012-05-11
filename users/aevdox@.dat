@@ -1,0 +1,151 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+Vms sql
+p8
+aVreporting services
+p9
+aVssas
+p10
+aVmssql 2005
+p11
+aVssis
+p12
+aVssrs
+p13
+aVklavogonki.ru
+p14
+aVuml
+p15
+aVintegration services
+p16
+aVmssql 2008
+p17
+aVrup
+p18
+aVanalysis services
+p19
+atRp20
+sS'friends'
+p21
+g6
+((lp22
+Vjtootf
+p23
+aVesurov
+p24
+aVElvalery
+p25
+aVArwen
+p26
+aVbrom38
+p27
+aVaratak
+p28
+atRp29
+sS'companies'
+p30
+g6
+((lp31
+VHeadHunter
+p32
+aVGoogle
+p33
+aVApple
+p34
+aVLast.fm
+p35
+aV\u0421\u0442\u0443\u0434\u0438\u044f \u0410\u0440\u0442\u0435\u043c\u0438\u044f \u041b\u0435\u0431\u0435\u0434\u0435\u0432\u0430
+p36
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p37
+aVMicrosoft
+p38
+atRp39
+sS'hubs'
+p40
+g6
+((lp41
+VIT-\u0411\u0438\u043e\u0433\u0440\u0430\u0444\u0438\u0438
+p42
+aV\u0413\u0430\u0434\u0436\u0435\u0442\u044b. \u0423\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u0430 \u0434\u043b\u044f \u0433\u0438\u043a\u043e\u0432
+p43
+aV\u041e\u0444\u0438\u0441\u044b IT-\u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0439
+p44
+aV\u041f\u043e\u0434\u043a\u0430\u0441\u0442\u044b
+p45
+aV\u0423\u0447\u0435\u0431\u043d\u044b\u0439 \u043f\u0440\u043e\u0446\u0435\u0441\u0441 \u0432 IT
+p46
+aVeBay
+p47
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p48
+aVVisual Studio
+p49
+aVWordpress
+p50
+aV\u0416\u0435\u043b\u0435\u0437\u043e
+p51
+aVInternet Explorer
+p52
+aVAndroid
+p53
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p54
+aV\u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043f\u0440\u043e\u0435\u043a\u0442\u0430\u043c\u0438
+p55
+aV\u0414\u0438\u0437\u0430\u0439\u043d \u0432 IT
+p56
+aV\u0427\u0438\u0442\u0430\u043b\u044c\u043d\u044b\u0439 \u0437\u0430\u043b
+p57
+aVSharePoint
+p58
+aV\u041d\u0430\u0443\u0447\u043d\u043e-\u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u043e\u0435
+p59
+aV\u0427\u0443\u043b\u0430\u043d
+p60
+aV\u0421\u043e\u0432\u0435\u0440\u0448\u0435\u043d\u043d\u044b\u0439 \u043a\u043e\u0434
+p61
+aVGTD
+p62
+aV\u0418\u0422-\u0418\u043d\u0444\u0440\u0430\u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0430
+p63
+aVWindows
+p64
+aVData Mining
+p65
+aVMicrosoft
+p66
+aVGoogle
+p67
+aV\u0421\u043c\u0430\u0440\u0442\u0444\u043e\u043d\u044b \u0438 \u043a\u043e\u043c\u043c\u0443\u043d\u0438\u043a\u0430\u0442\u043e\u0440\u044b
+p68
+aV\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c
+p69
+aVERP-\u0441\u0438\u0441\u0442\u0435\u043c\u044b
+p70
+aVTwitter
+p71
+aVSQL
+p72
+aVGoogle Chrome
+p73
+atRp74
+sS'invitees'
+p75
+NstRp76
+g76
+b.

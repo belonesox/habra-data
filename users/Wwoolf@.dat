@@ -1,0 +1,106 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+Vtmr
+p9
+aVNazghoul
+p10
+aVDyz
+p11
+aVDolka
+p12
+aVNaFigator
+p13
+aVdaemith
+p14
+aVKosyan
+p15
+aVleg_letniy
+p16
+aVillureal
+p17
+aVinvestor
+p18
+aVwebmaster
+p19
+atRp20
+sS'companies'
+p21
+g7
+((lp22
+V\u0412\u044b\u043c\u043f\u0435\u043b\u041a\u043e\u043c (\u0411\u0438\u043b\u0430\u0439\u043d)
+p23
+aVWebMoney Transfer
+p24
+aVGoogle
+p25
+aVAdobe
+p26
+aVAdMe
+p27
+aVSix Apart
+p28
+aVFuturico
+p29
+aVABBYY
+p30
+aVLast.fm
+p31
+aVMozilla Foundation
+p32
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p33
+aVOpera Software ASA
+p34
+aV\u041b\u0435\u043d\u0442\u0430.\u0420\u0443
+p35
+aVSun Microsystems
+p36
+aVSkype
+p37
+aV\u0410\u0444\u0438\u0448\u0430
+p38
+aVdeviantART
+p39
+aVRussian Podcasting
+p40
+aV\u0421\u0442\u0443\u0434\u0438\u044f \u0410\u0440\u0442\u0435\u043c\u0438\u044f \u041b\u0435\u0431\u0435\u0434\u0435\u0432\u0430
+p41
+aVWikimedia Foundation
+p42
+atRp43
+sS'hubs'
+p44
+g7
+((lp45
+V\u0427\u0443\u043b\u0430\u043d
+p46
+aV\u041c\u0435\u0434\u0438\u0430
+p47
+aVGoogle
+p48
+aV\u0416\u0435\u043b\u0435\u0437\u043e
+p49
+aVGPS
+p50
+atRp51
+sS'invitees'
+p52
+NstRp53
+g53
+b.

@@ -1,0 +1,107 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+Vobjective-c
+p8
+aVclojure
+p9
+aVruby
+p10
+aV\u0444\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u044f
+p11
+atRp12
+sS'friends'
+p13
+g6
+((lp14
+VXEK
+p15
+aVfootnoise
+p16
+aVuzver
+p17
+aVdfitiskin
+p18
+aVzhilin
+p19
+aVKELiON
+p20
+aVmythmaker
+p21
+aVBondjo
+p22
+aVart_orlov
+p23
+aVkolodochko
+p24
+aVPavelVinogradov
+p25
+aVTechnologyMasta
+p26
+atRp27
+sS'companies'
+p28
+g6
+((lp29
+VCloud Castle
+p30
+aV\u0421\u0442\u0443\u0434\u0438\u044f \u0410\u0440\u0442\u0435\u043c\u0438\u044f \u041b\u0435\u0431\u0435\u0434\u0435\u0432\u0430
+p31
+aVApple
+p32
+atRp33
+sS'hubs'
+p34
+g6
+((lp35
+VPostgreSQL
+p36
+aV\u0412\u044b\u0441\u043e\u043a\u0430\u044f \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c
+p37
+aV\u041d\u0435\u043d\u043e\u0440\u043c\u0430\u043b\u044c\u043d\u043e\u0435 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p38
+aVScala
+p39
+aVMac OS X
+p40
+aVJavaScript
+p41
+aVRuby on Rails
+p42
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p43
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043f\u043e\u0434 iOS
+p44
+aV\u0421\u043e\u0432\u0435\u0440\u0448\u0435\u043d\u043d\u044b\u0439 \u043a\u043e\u0434
+p45
+aVDIY \u0438\u043b\u0438 \u0421\u0434\u0435\u043b\u0430\u0439 \u0421\u0430\u043c
+p46
+aVLinux
+p47
+aV\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p48
+aV\u0420\u0430\u0431\u043e\u0442\u0430 \u0441\u043e \u0437\u0432\u0443\u043a\u043e\u043c
+p49
+aVRuby
+p50
+aV\u0418\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044b
+p51
+atRp52
+sS'invitees'
+p53
+NstRp54
+g54
+b.

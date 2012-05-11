@@ -1,0 +1,54 @@
+(dp1
+S'interests'
+p2
+c__builtin__
+set
+p3
+((lp4
+V\u043b\u044e\u0431\u0438\u0442\u044c
+p5
+atRp6
+sS'friends'
+p7
+g3
+((lp8
+Vkompo
+p9
+aVashcan
+p10
+aVdvorkin
+p11
+aVdmitrek
+p12
+aVofficer
+p13
+aVatari
+p14
+aVyagr
+p15
+atRp16
+sS'companies'
+p17
+NsS'hubs'
+p18
+g3
+((lp19
+VjQuery
+p20
+aV\u041f\u043e\u0438\u0441\u043a\u043e\u0432\u044b\u0435 \u043c\u0430\u0448\u0438\u043d\u044b \u0438 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438
+p21
+aV\u0411\u0443\u0434\u0443\u0449\u0435\u0435 \u0437\u0434\u0435\u0441\u044c
+p22
+aV\u0421\u0435\u0440\u0432\u0435\u0440\u043d\u0430\u044f \u043e\u043f\u0442\u0438\u043c\u0438\u0437\u0430\u0446\u0438\u044f
+p23
+aV\u0414\u0438\u0437\u0430\u0439\u043d \u0432 IT
+p24
+atRp25
+sS'invitees'
+p26
+g3
+((lp27
+Vashcan
+p28
+atRp29
+s.

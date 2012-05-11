@@ -1,0 +1,63 @@
+(dp1
+S'interests'
+p2
+NsS'friends'
+p3
+NsS'companies'
+p4
+NsS'hubs'
+p5
+c__builtin__
+set
+p6
+((lp7
+VIT-\u0411\u0438\u043e\u0433\u0440\u0430\u0444\u0438\u0438
+p8
+aVDelphi
+p9
+aV.NET
+p10
+aVWikipedia
+p11
+aVVisual Studio
+p12
+aVGoogle Chrome
+p13
+aVInternet Explorer
+p14
+aVOpenStreetMap
+p15
+aVASP
+p16
+aVMozilla
+p17
+aVYouTube
+p18
+aVSafari
+p19
+aVMicrosoft SQL Server
+p20
+aV\u0421\u043e\u0432\u0435\u0440\u0448\u0435\u043d\u043d\u044b\u0439 \u043a\u043e\u0434
+p21
+aVOpera
+p22
+aVSQL
+p23
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p24
+aVOracle
+p25
+aVGMail
+p26
+aVFirefox
+p27
+aVTwitter
+p28
+aV\u0411\u0440\u0430\u0443\u0437\u0435\u0440\u044b
+p29
+aV\u041d\u0435\u043d\u043e\u0440\u043c\u0430\u043b\u044c\u043d\u043e\u0435 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p30
+atRp31
+sS'invitees'
+p32
+Ns.

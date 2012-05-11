@@ -1,0 +1,125 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+Vmaxidler
+p9
+aVEner
+p10
+aVb441berith
+p11
+aVShpankov
+p12
+aVhamlet
+p13
+aVvadbars
+p14
+atRp15
+sS'companies'
+p16
+g7
+((lp17
+VGoogle
+p18
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p19
+aVApacer Technology
+p20
+aVNomobile.Ru
+p21
+atRp22
+sS'hubs'
+p23
+g7
+((lp24
+VCMS
+p25
+aVWordpress
+p26
+aV\u041f\u043b\u0430\u0442\u0435\u0436\u043d\u044b\u0435 \u0441\u0438\u0441\u0442\u0435\u043c\u044b
+p27
+aVInternet Explorer
+p28
+aVAndroid
+p29
+aV\u042d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u0430\u044f \u043a\u043e\u043c\u043c\u0435\u0440\u0446\u0438\u044f
+p30
+aV3G
+p31
+aVDIY \u0438\u043b\u0438 \u0421\u0434\u0435\u043b\u0430\u0439 \u0421\u0430\u043c
+p32
+aVAjax
+p33
+aVGTD
+p34
+aV\u0418\u0422-\u0418\u043d\u0444\u0440\u0430\u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0430
+p35
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p36
+aV\u0418\u0433\u0440\u043e\u0432\u044b\u0435 \u043f\u0440\u0438\u0441\u0442\u0430\u0432\u043a\u0438
+p37
+aV\u041f\u0435\u0440\u0435\u0432\u043e\u0434\u044b
+p38
+aVCSS
+p39
+aV\u0421\u043c\u0430\u0440\u0442\u0444\u043e\u043d\u044b \u0438 \u043a\u043e\u043c\u043c\u0443\u043d\u0438\u043a\u0430\u0442\u043e\u0440\u044b
+p40
+aV\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p41
+aVGoogle
+p42
+aVApple
+p43
+aV\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c
+p44
+aV\u0422\u0435\u043b\u0435\u043a\u043e\u043c\u044b
+p45
+aV\u0411\u0440\u0430\u0443\u0437\u0435\u0440\u044b
+p46
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p47
+aVLinux
+p48
+aVGoogle Chrome
+p49
+aV\u041a\u0440\u0438\u043f\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u044f
+p50
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p51
+atRp52
+sS'invitees'
+p53
+g7
+((lp54
+VZst
+p55
+aVdnkv4
+p56
+aVdemoded
+p57
+aVcyxoupshk
+p58
+aVartsdarts
+p59
+aVAminuofu
+p60
+aVtoporov
+p61
+atRp62
+stRp63
+g63
+b.

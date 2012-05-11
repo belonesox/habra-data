@@ -1,0 +1,72 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+Vtraveling
+p8
+aVcinemania
+p9
+aVviral marketing
+p10
+aVart terrorism
+p11
+aVpsychedelic ambient
+p12
+aV3d installations
+p13
+aVvideo mixing
+p14
+aVguerrilla marketing
+p15
+aVstencil
+p16
+aVgoa trance
+p17
+aVentheogens
+p18
+aVcreative thinking
+p19
+aVweb 2.0
+p20
+aVjuggling
+p21
+atRp22
+sS'friends'
+p23
+NsS'companies'
+p24
+g6
+((lp25
+V\u0421\u0443\u043c\u043c\u0430 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0439
+p26
+atRp27
+sS'hubs'
+p28
+g6
+((lp29
+V\u0424\u0440\u0438\u043b\u0430\u043d\u0441
+p30
+aV\u042d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u0430\u044f \u043a\u043e\u043c\u043c\u0435\u0440\u0446\u0438\u044f
+p31
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p32
+aV\u041f\u043b\u0430\u0442\u0435\u0436\u043d\u044b\u0435 \u0441\u0438\u0441\u0442\u0435\u043c\u044b
+p33
+atRp34
+sS'invitees'
+p35
+NstRp36
+g36
+b.

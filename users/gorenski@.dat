@@ -1,0 +1,70 @@
+(dp1
+S'interests'
+p2
+NsS'friends'
+p3
+NsS'companies'
+p4
+c__builtin__
+set
+p5
+((lp6
+V\u0414\u0443\u0431\u043b\u044c\u0413\u0418\u0421 (2\u0413\u0418\u0421)
+p7
+atRp8
+sS'hubs'
+p9
+g5
+((lp10
+VjQuery
+p11
+aV\u041f\u043e\u0434\u043a\u0430\u0441\u0442\u044b
+p12
+aVDelphi
+p13
+aVJavaScript
+p14
+aVYii
+p15
+aVWordpress
+p16
+aV\u0412\u0438\u0440\u0443\u0441\u044b (\u0438 \u0430\u043d\u0442\u0438\u0432\u0438\u0440\u0443\u0441\u044b)
+p17
+aV\u0425\u043e\u0441\u0442\u0438\u043d\u0433
+p18
+aVPython
+p19
+aV\u0427\u0438\u0442\u0430\u043b\u044c\u043d\u044b\u0439 \u0437\u0430\u043b
+p20
+aVHTML
+p21
+aV\u0421\u0442\u0443\u0434\u0438\u044f \u0410\u0440\u0442\u0435\u043c\u0438\u044f \u041b\u0435\u0431\u0435\u0434\u0435\u0432\u0430
+p22
+aV\u041f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0430
+p23
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p24
+aVDrupal
+p25
+aVMooTools
+p26
+aVIPTV
+p27
+aVDjango
+p28
+aVCakePHP
+p29
+aVCSS
+p30
+aV\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p31
+aVNode.JS
+p32
+aVSkype
+p33
+aVPHP
+p34
+atRp35
+sS'invitees'
+p36
+Ns.

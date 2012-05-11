@@ -1,0 +1,62 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+Vjquery
+p8
+aV2d \u0433\u0440\u0430\u0444\u0438\u043a\u0430
+p9
+aVweb-\u0434\u0438\u0437\u0430\u0439\u043d
+p10
+aVjavascript
+p11
+aVaction script
+p12
+aVgamedev
+p13
+atRp14
+sS'friends'
+p15
+g6
+((lp16
+Vnerezus
+p17
+atRp18
+sS'companies'
+p19
+NsS'hubs'
+p20
+g6
+((lp21
+VjQuery
+p22
+aV\u0414\u0438\u0437\u0430\u0439\u043d \u0432 IT
+p23
+aVJavaScript
+p24
+aV\u0410\u043d\u0438\u043c\u0430\u0446\u0438\u044f \u0438 3D \u0433\u0440\u0430\u0444\u0438\u043a\u0430
+p25
+aV\u0412\u0435\u0431-\u0434\u0438\u0437\u0430\u0439\u043d
+p26
+aVInternet Explorer
+p27
+aVCSS
+p28
+atRp29
+sS'invitees'
+p30
+NstRp31
+g31
+b.

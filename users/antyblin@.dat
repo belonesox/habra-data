@@ -1,0 +1,159 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+Vzerobrain
+p9
+aVshuler
+p10
+aVpab
+p11
+aVplayboyko
+p12
+aVpuxx
+p13
+aVsergeyfast
+p14
+atRp15
+sS'companies'
+p16
+g7
+((lp17
+VGoogle
+p18
+aVAdobe
+p19
+aVMozilla Foundation
+p20
+aVLast.fm
+p21
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p22
+aVApache Software Foundation
+p23
+aVJetBrains
+p24
+atRp25
+sS'hubs'
+p26
+g7
+((lp27
+VjQuery
+p28
+aV\u0423\u0447\u0435\u0431\u043d\u044b\u0439 \u043f\u0440\u043e\u0446\u0435\u0441\u0441 \u0432 IT
+p29
+aV\u0427\u0443\u043b\u0430\u043d
+p30
+aVNoSQL
+p31
+aV\u0413\u0430\u0434\u0436\u0435\u0442\u044b. \u0423\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u0430 \u0434\u043b\u044f \u0433\u0438\u043a\u043e\u0432
+p32
+aVYouTube
+p33
+aVWikipedia
+p34
+aVeBay
+p35
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p36
+aVSaaS / S+S
+p37
+aV\u0416\u0435\u043b\u0435\u0437\u043e
+p38
+aVMySQL
+p39
+aV\u0412\u0435\u0431-\u0434\u0438\u0437\u0430\u0439\u043d
+p40
+aV\u0424\u043e\u0442\u043e\u0442\u0435\u0445\u043d\u0438\u043a\u0430
+p41
+aV\u0418\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044b
+p42
+aVOpenStreetMap
+p43
+aV\u0412\u0438\u0440\u0443\u0441\u044b (\u0438 \u0430\u043d\u0442\u0438\u0432\u0438\u0440\u0443\u0441\u044b)
+p44
+aV\u042d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u0438\u043a\u0430 \u0434\u043b\u044f \u043d\u0430\u0447\u0438\u043d\u0430\u044e\u0449\u0438\u0445
+p45
+aVPython
+p46
+aV\u0427\u0438\u0442\u0430\u043b\u044c\u043d\u044b\u0439 \u0437\u0430\u043b
+p47
+aVLiveJournal
+p48
+aV\u041d\u0435\u0442\u0431\u0443\u043a\u0438
+p49
+aV\u041a\u043e\u043f\u0438\u0440\u0430\u0439\u0442
+p50
+aV\u0420\u0430\u0431\u043e\u0442\u0430 \u0441 \u0432\u0438\u0434\u0435\u043e
+p51
+aV\u0422\u0438\u043f\u043e\u0433\u0440\u0430\u0444\u0438\u043a\u0430
+p52
+aV\u0425\u0430\u0431\u0440\u0430\u0445\u0430\u0431\u0440
+p53
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p54
+aVWindows
+p55
+aVBing
+p56
+aV\u0421\u0438\u0441\u0442\u0435\u043c\u043d\u043e\u0435 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p57
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p58
+aVData Mining
+p59
+aVOracle
+p60
+aVPostgreSQL
+p61
+aVCSS
+p62
+aVGMail
+p63
+aV\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p64
+aVGoogle
+p65
+aVFirefox
+p66
+aV\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c
+p67
+aV\u0420\u0435\u0433\u0443\u043b\u044f\u0440\u043d\u044b\u0435 \u0432\u044b\u0440\u0430\u0436\u0435\u043d\u0438\u044f
+p68
+aVMongoDB
+p69
+aVTwitter
+p70
+aVDoctrine ORM
+p71
+aVSQL
+p72
+aVWordpress
+p73
+aVPHP
+p74
+atRp75
+sS'invitees'
+p76
+g7
+((lp77
+Vpab
+p78
+atRp79
+stRp80
+g80
+b.

@@ -1,0 +1,103 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+NsS'companies'
+p7
+c__builtin__
+set
+p8
+((lp9
+VDigital October
+p10
+atRp11
+sS'hubs'
+p12
+g8
+((lp13
+VCreative Commons
+p14
+aV\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435
+p15
+aVYouTube
+p16
+aV\u0421\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0435 \u0441\u0435\u0442\u0438 \u0438 \u0441\u043e\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0430
+p17
+aVSun Microsystems
+p18
+aVeBay
+p19
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p20
+aVSaaS / S+S
+p21
+aVMail.Ru
+p22
+aV\u0421\u0443\u043f
+p23
+aVOpenStreetMap
+p24
+aVMozilla
+p25
+aVLiveJournal
+p26
+aVYahoo
+p27
+aVFacebook
+p28
+aV\u0421\u0442\u0443\u0434\u0438\u044f \u0410\u0440\u0442\u0435\u043c\u0438\u044f \u041b\u0435\u0431\u0435\u0434\u0435\u0432\u0430
+p29
+aV\u0420\u0430\u043c\u0431\u043b\u0435\u0440
+p30
+aVWikipedia
+p31
+aVBing
+p32
+aVGoogle App Engine
+p33
+aV\u0411\u0435\u0433\u0443\u043d
+p34
+aVGoogle AdSense
+p35
+aVMicrosoft
+p36
+aVGMail
+p37
+aVGoogle
+p38
+aVAdobe
+p39
+aVApple
+p40
+aVTwitter
+p41
+aVMySpace
+p42
+aVLinkedin
+p43
+aVTumblr
+p44
+aVGoogle Analytics
+p45
+aVGoogle Checkout
+p46
+aVGoogle Plus
+p47
+aVAmazon Web Services
+p48
+atRp49
+sS'invitees'
+p50
+NstRp51
+g51
+b.

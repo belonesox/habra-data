@@ -1,0 +1,100 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+NsS'companies'
+p7
+NsS'hubs'
+p8
+c__builtin__
+set
+p9
+((lp10
+VjQuery
+p11
+aV\u0420\u043e\u0431\u043e\u0442\u043e\u0442\u0435\u0445\u043d\u0438\u043a\u0430
+p12
+aVCanvas
+p13
+aVGit
+p14
+aVOpen source
+p15
+aVNoSQL
+p16
+aVJavaScript
+p17
+aVGoogle Chrome
+p18
+aVMySQL
+p19
+aVInternet Explorer
+p20
+aVAndroid
+p21
+aV\u0421\u0435\u0440\u0432\u0435\u0440\u043d\u0430\u044f \u043e\u043f\u0442\u0438\u043c\u0438\u0437\u0430\u0446\u0438\u044f
+p22
+aV\u0412\u044b\u0441\u043e\u043a\u0430\u044f \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c
+p23
+aVNginx
+p24
+aV\u0411\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u0430 ExtJS/Sencha
+p25
+aVMozilla
+p26
+aVGPGPU
+p27
+aVAjax
+p28
+aVHTML
+p29
+aV\u0414\u0438\u0437\u0430\u0439\u043d \u0432 IT
+p30
+aV*nix
+p31
+aV\u0423\u0431\u0443\u043d\u0442\u0430\u0440\u0438\u0443\u043c
+p32
+aVDrupal
+p33
+aVSkype
+p34
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p35
+aVIM
+p36
+aVCSS
+p37
+aVGoogle
+p38
+aVFirefox
+p39
+aV\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c
+p40
+aVIT-\u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u044b
+p41
+aVTwitter
+p42
+aV\u0411\u0440\u0430\u0443\u0437\u0435\u0440\u044b
+p43
+aVLinux
+p44
+aVPHP
+p45
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043f\u043e\u0434 Android
+p46
+atRp47
+sS'invitees'
+p48
+NstRp49
+g49
+b.

@@ -1,0 +1,76 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+NsS'companies'
+p7
+NsS'hubs'
+p8
+c__builtin__
+set
+p9
+((lp10
+VjQuery
+p11
+aVCanvas
+p12
+aVJavaScript
+p13
+aVMooTools
+p14
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043f\u043e\u0434 Java ME
+p15
+aVMySQL
+p16
+aVAndroid
+p17
+aVFlex
+p18
+aV\u0411\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u0430 ExtJS/Sencha
+p19
+aVFacebook API
+p20
+aVAjax
+p21
+aVHTML
+p22
+aVApache
+p23
+aVFlash-\u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u0430
+p24
+aV\u0412\u043a\u043e\u043d\u0442\u0430\u043a\u0442\u0435 API
+p25
+aVYii
+p26
+aVEclipse
+p27
+aVAction Script
+p28
+aVCSS
+p29
+aVJAVA
+p30
+aV\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c
+p31
+aVZend Framework
+p32
+aVPHP
+p33
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043f\u043e\u0434 Android
+p34
+atRp35
+sS'invitees'
+p36
+NstRp37
+g37
+b.

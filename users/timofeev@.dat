@@ -1,0 +1,102 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+V\u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p8
+aVphp
+p9
+aVweb 2.0
+p10
+aV\u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c
+p11
+atRp12
+sS'friends'
+p13
+NsS'companies'
+p14
+g6
+((lp15
+V\u041c\u0422\u0421
+p16
+aVYota
+p17
+aVWebMoney Transfer
+p18
+aVGoogle
+p19
+aVSamsung
+p20
+aVASUS Russia
+p21
+aV\u0422\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u041c\u0435\u0434\u0438\u0430
+p22
+aVMozilla Foundation
+p23
+aVMicrosoft
+p24
+aVNVIDIA Corporation
+p25
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p26
+aVAMD (Advanced Micro Devices)
+p27
+aV\u0421\u0442\u0443\u0434\u0438\u044f \u0410\u0440\u0442\u0435\u043c\u0438\u044f \u041b\u0435\u0431\u0435\u0434\u0435\u0432\u0430
+p28
+aVApache Software Foundation
+p29
+aVCanonical
+p30
+atRp31
+sS'hubs'
+p32
+g6
+((lp33
+VjQuery
+p34
+aVLiveStreet
+p35
+aV\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c
+p36
+aV\u0423\u0431\u0443\u043d\u0442\u0430\u0440\u0438\u0443\u043c
+p37
+aVPython
+p38
+aVLinux
+p39
+aV\u0425\u043e\u0441\u0442\u0438\u043d\u0433
+p40
+aV\u0421\u0435\u0440\u0432\u0435\u0440\u043d\u0430\u044f \u043e\u043f\u0442\u0438\u043c\u0438\u0437\u0430\u0446\u0438\u044f
+p41
+aVNginx
+p42
+aVMySQL
+p43
+aV\u0422\u0438\u043f\u043e\u0433\u0440\u0430\u0444\u0438\u043a\u0430
+p44
+aVAndroid
+p45
+aVPHP
+p46
+aV*nix
+p47
+aVCSS
+p48
+atRp49
+sS'invitees'
+p50
+NstRp51
+g51
+b.

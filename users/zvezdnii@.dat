@@ -1,0 +1,126 @@
+(dp1
+S'interests'
+p2
+c__builtin__
+set
+p3
+((lp4
+Vpr
+p5
+aV\u043a\u043e\u043d\u0442\u0435\u043d\u0442\u043e\u0432\u044b\u0435 \u043f\u0440\u043e\u0435\u043a\u0442\u044b
+p6
+aV\u0440\u0435\u043a\u043b\u0430\u043c\u0430
+p7
+atRp8
+sS'friends'
+p9
+g3
+((lp10
+Valkalinin
+p11
+aVesta
+p12
+aVLuchiaen
+p13
+aVmpozdeyev
+p14
+aValx49
+p15
+aVkislenko
+p16
+aVtromanova
+p17
+aVDriverX
+p18
+aVsternina
+p19
+aVpomme
+p20
+aVgorin
+p21
+aVsmart
+p22
+aVaimus71
+p23
+aVChernov_Evgeny
+p24
+aVdmitrybitman
+p25
+aVkatran
+p26
+aVbolk
+p27
+aVroslyakov
+p28
+aVRoberto
+p29
+aVDemetros
+p30
+aVtherealal
+p31
+aVcameloid
+p32
+aVV_Komissarova
+p33
+aVzermelo
+p34
+aVgray
+p35
+aVgornal
+p36
+aVFeliz
+p37
+aVvlad_shabanov
+p38
+aVjohnny_palec
+p39
+aVth0r
+p40
+aVloomaleht
+p41
+atRp42
+sS'companies'
+p43
+g3
+((lp44
+V\u0422\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u041c\u0435\u0434\u0438\u0430
+p45
+aV\u0411\u0438\u0437\u043d\u0435\u0441 \u0432 \u0441\u0442\u0438\u043b\u0435 .RU
+p46
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p47
+aVMail.Ru Group
+p48
+aV\u042d\u043a\u0441\u043f\u0435\u0440\u0442
+p49
+atRp50
+sS'hubs'
+p51
+g3
+((lp52
+VCoworking: \u0440\u0430\u0431\u043e\u0442\u0430 2.0
+p53
+aVGTD
+p54
+aV\u041c\u043e\u0439 \u0431\u0438\u0437\u043d\u0435\u0441
+p55
+aV\u0413\u0430\u0434\u0436\u0435\u0442\u044b. \u0423\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u0430 \u0434\u043b\u044f \u0433\u0438\u043a\u043e\u0432
+p56
+aV\u0427\u0443\u043b\u0430\u043d
+p57
+aV\u041a\u043e\u043d\u0442\u0435\u043a\u0441\u0442\u043d\u0430\u044f \u0440\u0435\u043a\u043b\u0430\u043c\u0430
+p58
+aV\u0424\u0438\u043d\u0430\u043d\u0441\u044b \u0434\u043b\u044f \u0432\u0441\u0435\u0445
+p59
+aV\u0412\u0435\u0431-\u0434\u0438\u0437\u0430\u0439\u043d
+p60
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p61
+aV\u042d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u0430\u044f \u043a\u043e\u043c\u043c\u0435\u0440\u0446\u0438\u044f
+p62
+aV\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u0440\u0435\u043a\u043b\u0430\u043c\u0430
+p63
+atRp64
+sS'invitees'
+p65
+Ns.

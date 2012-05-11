@@ -1,0 +1,84 @@
+(dp1
+S'interests'
+p2
+NsS'friends'
+p3
+c__builtin__
+set
+p4
+((lp5
+VDigitalRay
+p6
+aVShersh
+p7
+aVbishop3000
+p8
+aVmelfa
+p9
+aVrulix
+p10
+aVZakharS
+p11
+aVdyachkoff
+p12
+aVZNick1982
+p13
+aVfoo
+p14
+atRp15
+sS'companies'
+p16
+g4
+((lp17
+VGoogle
+p18
+atRp19
+sS'hubs'
+p20
+g4
+((lp21
+V\u041f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0430
+p22
+aV\u0423\u0447\u0435\u0431\u043d\u044b\u0439 \u043f\u0440\u043e\u0446\u0435\u0441\u0441 \u0432 IT
+p23
+aV\u042d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u0430\u044f \u043a\u043e\u043c\u043c\u0435\u0440\u0446\u0438\u044f
+p24
+aVGTD
+p25
+aV\u0427\u0443\u043b\u0430\u043d
+p26
+aV\u0418\u0434\u0435\u0438 \u0434\u043b\u044f \u0441\u0442\u0430\u0440\u0442\u0430\u043f\u043e\u0432
+p27
+aV\u0411\u0443\u0434\u0443\u0449\u0435\u0435 \u0437\u0434\u0435\u0441\u044c
+p28
+aVVIM
+p29
+aVData Mining
+p30
+aV\u0424\u0440\u0438\u043b\u0430\u043d\u0441
+p31
+aVAndroid
+p32
+aV\u0418\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442
+p33
+aVDIY \u0438\u043b\u0438 \u0421\u0434\u0435\u043b\u0430\u0439 \u0421\u0430\u043c
+p34
+atRp35
+sS'invitees'
+p36
+g4
+((lp37
+VMisha_Kuznetsov
+p38
+aVShersh
+p39
+aVAlexi
+p40
+aVdyachkoff
+p41
+aVZNick1982
+p42
+aVNikoB
+p43
+atRp44
+s.

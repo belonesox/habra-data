@@ -1,0 +1,252 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+Vgimlis
+p9
+aVkitaez
+p10
+aVumputun
+p11
+aVdeniskin
+p12
+aVCy6JIuMamop
+p13
+aVSunJay
+p14
+aVNaFigator
+p15
+aVagentapple
+p16
+aVMaxmyd
+p17
+aVkukutz
+p18
+aVolyapka
+p19
+aVDerkon
+p20
+aVrossomachin
+p21
+aVYanita
+p22
+aVbacek
+p23
+atRp24
+sS'companies'
+p25
+g7
+((lp26
+VRed Hat
+p27
+aVWorld Wide Web Consortium
+p28
+aV.masterhost
+p29
+aV\u0418\u0414 \u041a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u0440\u0430
+p30
+aVHP
+p31
+aVSun Microsystems
+p32
+aVOpera Software ASA
+p33
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p34
+aVBlizzard Entertainment
+p35
+aV\u0412\u0435\u0434\u043e\u043c\u043e\u0441\u0442\u0438
+p36
+aV\u0410\u0444\u0438\u0448\u0430
+p37
+aVCisco Systems, Inc
+p38
+aVActis Systems
+p39
+aVFuturico
+p40
+aVAOL
+p41
+aV\u0420\u041b\u0415
+p42
+aVCorbina Telecom
+p43
+aVSix Apart
+p44
+aV\u041c\u0435\u0433\u0430\u0444\u043e\u043d
+p45
+aVRU-CENTER
+p46
+aVWayback Machine
+p47
+aVNintendo
+p48
+aVNovell
+p49
+aVDigg
+p50
+aVTrolltech
+p51
+aV\u0421\u0442\u0443\u0434\u0438\u044f \u0410\u0440\u0442\u0435\u043c\u0438\u044f \u041b\u0435\u0431\u0435\u0434\u0435\u0432\u0430
+p52
+aVDigital Zone
+p53
+aVWikimedia Foundation
+p54
+aV\u0412\u044b\u043c\u043f\u0435\u043b\u041a\u043e\u043c (\u0411\u0438\u043b\u0430\u0439\u043d)
+p55
+aV3DNews
+p56
+aV\u041e\u0437\u043e\u043d
+p57
+aV\u041b\u0435\u043d\u0442\u0430.\u0420\u0443
+p58
+aVIBM
+p59
+aVOracle
+p60
+aVDell Inc
+p61
+aVdeviantART
+p62
+aVVMware Inc.
+p63
+aVFree Software Foundation
+p64
+aVGoogle
+p65
+aVAdobe
+p66
+aVApple
+p67
+aVPalm Inc.
+p68
+aVBitTorrent
+p69
+aV\u0422\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u041c\u0435\u0434\u0438\u0430
+p70
+aVMozilla Foundation
+p71
+aVLast.fm
+p72
+aVNetscape
+p73
+aVTechnorati
+p74
+aVWeb Standards Group
+p75
+aVApache Software Foundation
+p76
+aVSkype
+p77
+aVCanonical
+p78
+atRp79
+sS'hubs'
+p80
+g7
+((lp81
+VjQuery
+p82
+aVOpen source
+p83
+aV\u0411\u043b\u043e\u0433\u043e\u0441\u0444\u0435\u0440\u0430
+p84
+aV\u0413\u0430\u0434\u0436\u0435\u0442\u044b. \u0423\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u0430 \u0434\u043b\u044f \u0433\u0438\u043a\u043e\u0432
+p85
+aV\u041f\u043e\u0434\u043a\u0430\u0441\u0442\u044b
+p86
+aVJavaScript
+p87
+aV\u0425\u0430\u0431\u0440\u0430\u0445\u0430\u0431\u0440 \u2014 \u0410\u043d\u043e\u043d\u0441\u044b
+p88
+aVWordpress
+p89
+aV\u0416\u0435\u043b\u0435\u0437\u043e
+p90
+aV\u0422\u0438\u043f\u043e\u0433\u0440\u0430\u0444\u0438\u043a\u0430
+p91
+aVAndroid
+p92
+aVCMS
+p93
+aV\u0418\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044b
+p94
+aV\u0414\u0438\u0437\u0430\u0439\u043d \u0432 IT
+p95
+aVPython
+p96
+aVMozilla
+p97
+aVLiveJournal
+p98
+aV\u041d\u0430\u0443\u0447\u043d\u043e-\u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u043e\u0435
+p99
+aV\u0417\u0430\u043d\u0438\u043c\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0435 \u0437\u0430\u0434\u0430\u0447\u043a\u0438
+p100
+aVAjax
+p101
+aVSafari
+p102
+aV\u0427\u0443\u043b\u0430\u043d
+p103
+aV\u041a\u0438\u0431\u0435\u0440\u043f\u0430\u043d\u043a
+p104
+aVOpera
+p105
+aV\u0411\u0443\u0434\u0443\u0449\u0435\u0435 \u0437\u0434\u0435\u0441\u044c
+p106
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p107
+aV\u041c\u0438\u043a\u0440\u043e\u0444\u043e\u0440\u043c\u0430\u0442\u044b
+p108
+aVIM
+p109
+aViPhone
+p110
+aVOracle
+p111
+aVFirefox
+p112
+aVMicrosoft
+p113
+aVCSS
+p114
+aVGoogle
+p115
+aVAdobe
+p116
+aVApple
+p117
+aV\u0422\u0435\u043b\u0435\u043a\u043e\u043c\u044b
+p118
+aVIT-\u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u044b
+p119
+aVAssembler
+p120
+aVLinux
+p121
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p122
+aVPHP
+p123
+atRp124
+sS'invitees'
+p125
+NstRp126
+g126
+b.

@@ -1,0 +1,70 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+VDraX
+p9
+atRp10
+sS'companies'
+p11
+g7
+((lp12
+VFree Software Foundation
+p13
+aVGoogle
+p14
+aVApple
+p15
+aVIntel
+p16
+aVIBM
+p17
+aVMozilla Foundation
+p18
+aVLast.fm
+p19
+aV\u041e\u0437\u043e\u043d
+p20
+aVOpera Software ASA
+p21
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p22
+aVSkype
+p23
+aV\u0421\u0442\u0443\u0434\u0438\u044f \u0410\u0440\u0442\u0435\u043c\u0438\u044f \u041b\u0435\u0431\u0435\u0434\u0435\u0432\u0430
+p24
+aVFuturico
+p25
+atRp26
+sS'hubs'
+p27
+g7
+((lp28
+V\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p29
+aVAndroid
+p30
+aVFlash-\u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u0430
+p31
+aV\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p32
+atRp33
+sS'invitees'
+p34
+NstRp35
+g35
+b.

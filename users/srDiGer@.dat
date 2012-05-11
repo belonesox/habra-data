@@ -1,0 +1,75 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+Vfucking design
+p8
+atRp9
+sS'friends'
+p10
+g6
+((lp11
+Vdotfix
+p12
+aVmikedin
+p13
+aVMarkovnin
+p14
+aVManPavel
+p15
+atRp16
+sS'companies'
+p17
+g6
+((lp18
+VRed Keds
+p19
+aVWebMoney Transfer
+p20
+aVGoogle
+p21
+aVAdobe
+p22
+aVApple
+p23
+aVFinobox
+p24
+aVMozilla Foundation
+p25
+aV\u0424\u0421\u0411 \u0420\u0424
+p26
+atRp27
+sS'hubs'
+p28
+g6
+((lp29
+V\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p30
+aV\u0414\u0438\u0437\u0430\u0439\u043d \u0432 IT
+p31
+aV\u0427\u0443\u043b\u0430\u043d
+p32
+aV\u0421\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0435 \u0441\u0435\u0442\u0438 \u0438 \u0441\u043e\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0430
+p33
+aVIPTV
+p34
+aV\u0421\u043e\u0444\u0442
+p35
+atRp36
+sS'invitees'
+p37
+NstRp38
+g38
+b.

@@ -1,0 +1,66 @@
+(dp1
+S'interests'
+p2
+c__builtin__
+set
+p3
+((lp4
+V\u0442\u0430\u043d\u0446\u044b
+p5
+aV\u044d\u0440\u043e\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0444\u043e\u0442\u043e
+p6
+aV\u043a\u0443\u043b\u0438\u043d\u0430\u0440\u0438\u044f
+p7
+atRp8
+sS'friends'
+p9
+g3
+((lp10
+Vshodan
+p11
+atRp12
+sS'companies'
+p13
+NsS'hubs'
+p14
+g3
+((lp15
+V\u0414\u0435\u043c\u043e\u0441\u0446\u0435\u043d\u0430
+p16
+aVPostgreSQL
+p17
+aVGame Development
+p18
+aV\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c
+p19
+aV\u0427\u0443\u043b\u0430\u043d
+p20
+aV\u0418\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442
+p21
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p22
+aVGroovy & Grails
+p23
+aV\u0420\u0430\u0431\u043e\u0442\u0430 \u0441 \u0432\u0438\u0434\u0435\u043e
+p24
+aVJAVA
+p25
+aVCSS
+p26
+atRp27
+sS'invitees'
+p28
+g3
+((lp29
+VSakuya
+p30
+aVbillionaire
+p31
+aVmcgede
+p32
+aVIkryanov
+p33
+aVDemerkant
+p34
+atRp35
+s.

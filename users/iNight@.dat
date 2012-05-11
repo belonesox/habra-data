@@ -1,0 +1,147 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+Vweb
+p8
+aV\u0441\u0435\u0440\u0432\u0435\u0440\u0430
+p9
+aV\u0441\u0438\u0441\u0442\u0435\u043c\u044b \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f
+p10
+aVweb-dev
+p11
+aVhtml
+p12
+aVcss
+p13
+aVlinux
+p14
+aV\u0432\u0435\u0431-\u0434\u0438\u0437\u0430\u0439\u043d
+p15
+aVphp
+p16
+aV\u0438\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044b
+p17
+aV\u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u044b
+p18
+atRp19
+sS'friends'
+p20
+g6
+((lp21
+Vxlamys
+p22
+aVamarao
+p23
+aVindex01d
+p24
+aVishua
+p25
+aVmx2000
+p26
+aVcoolmiha
+p27
+aVal1k
+p28
+aVDOOMer
+p29
+aVMithgol
+p30
+atRp31
+sS'companies'
+p32
+g6
+((lp33
+VRed Hat
+p34
+aVIBM
+p35
+aVHP
+p36
+aVSun Microsystems
+p37
+aVInfobox
+p38
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p39
+aVBitTorrent
+p40
+aVid Software
+p41
+aVBlizzard Entertainment
+p42
+aVNintendo
+p43
+aVNovell
+p44
+aVChristian Ghisler
+p45
+aVNVIDIA Corporation
+p46
+aVApache Software Foundation
+p47
+aVWikimedia Foundation
+p48
+aVMotorola
+p49
+aVIntel
+p50
+aVIBresource
+p51
+aVMandriva
+p52
+aVDell Inc
+p53
+aVFree Software Foundation
+p54
+aVGoogle
+p55
+aVAdobe
+p56
+aVApple
+p57
+aVMozilla Foundation
+p58
+aVCanonical
+p59
+atRp60
+sS'hubs'
+p61
+g6
+((lp62
+V\u0427\u0443\u043b\u0430\u043d
+p63
+aV\u0427\u0438\u0442\u0430\u043b\u044c\u043d\u044b\u0439 \u0437\u0430\u043b
+p64
+aV*nix
+p65
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p66
+aVCSS
+p67
+aVLinux
+p68
+aV\u0422\u0438\u043f\u043e\u0433\u0440\u0430\u0444\u0438\u043a\u0430
+p69
+aVPHP
+p70
+aV\u0418\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044b
+p71
+atRp72
+sS'invitees'
+p73
+NstRp74
+g74
+b.

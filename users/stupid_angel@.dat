@@ -1,0 +1,226 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+Vdrugs
+p8
+aVrock-n-roll
+p9
+aVsex
+p10
+atRp11
+sS'friends'
+p12
+g6
+((lp13
+Vcrimzie
+p14
+aVliveder
+p15
+aVcontrabas
+p16
+aVPechkin1007
+p17
+aVvictor_lavrenko
+p18
+aVEugeneKudashev
+p19
+aVWinSash
+p20
+aVMrTed
+p21
+aVkaifat
+p22
+aVsvital
+p23
+atRp24
+sS'companies'
+p25
+g6
+((lp26
+VRed Hat
+p27
+aVWorld Wide Web Consortium
+p28
+aVIBM
+p29
+aV\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435
+p30
+aV\u0418\u0414 \u041a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u0440\u0430
+p31
+aVSony Corporation
+p32
+aVeBay
+p33
+aVOpera Software ASA
+p34
+aV\u0410\u0444\u0438\u0448\u0430
+p35
+aVRussian Podcasting
+p36
+aVDiscogs
+p37
+aVBitTorrent
+p38
+aVSix Apart
+p39
+aVBlizzard Entertainment
+p40
+aVWayback Machine
+p41
+aVAmazon
+p42
+aVMusicbrainz
+p43
+aVAMD (Advanced Micro Devices)
+p44
+aVDigg
+p45
+aVTrolltech
+p46
+aVApache Software Foundation
+p47
+aVWikimedia Foundation
+p48
+aVNews2
+p49
+aVNokia
+p50
+aV3DNews
+p51
+aVMotorola
+p52
+aVAdMe
+p53
+aV\u041e\u0437\u043e\u043d
+p54
+aVMandriva
+p55
+aVdeviantART
+p56
+aVBethesda Softworks
+p57
+aVUMI.CMS (Umisoft)
+p58
+aVFree Software Foundation
+p59
+aVGoogle
+p60
+aVPixelhead
+p61
+aVPixar Animation Studios
+p62
+aVMozilla Foundation
+p63
+aVLast.fm
+p64
+aVTechnorati
+p65
+aVCanonical
+p66
+aVGizmo
+p67
+atRp68
+sS'hubs'
+p69
+g6
+((lp70
+VIT-\u0411\u0438\u043e\u0433\u0440\u0430\u0444\u0438\u0438
+p71
+aV\u0413\u0430\u0434\u0436\u0435\u0442\u044b. \u0423\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u0430 \u0434\u043b\u044f \u0433\u0438\u043a\u043e\u0432
+p72
+aV\u041e\u0444\u0438\u0441\u044b IT-\u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0439
+p73
+aV\u0427\u0443\u043b\u0430\u043d
+p74
+aV\u0421\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0435 \u0441\u0435\u0442\u0438 \u0438 \u0441\u043e\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0430
+p75
+aV\u0423\u0447\u0435\u0431\u043d\u044b\u0439 \u043f\u0440\u043e\u0446\u0435\u0441\u0441 \u0432 IT
+p76
+aV\u0413\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043e\u0431\u043e\u043b\u043e\u0447\u043a\u0438
+p77
+aV\u0410\u043d\u0438\u043c\u0430\u0446\u0438\u044f \u0438 3D \u0433\u0440\u0430\u0444\u0438\u043a\u0430
+p78
+aVGoogle Chrome
+p79
+aV\u0416\u0435\u043b\u0435\u0437\u043e
+p80
+aV\u0412\u0435\u0431-\u0434\u0438\u0437\u0430\u0439\u043d
+p81
+aVDIY \u0438\u043b\u0438 \u0421\u0434\u0435\u043b\u0430\u0439 \u0421\u0430\u043c
+p82
+aV\u0418\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044b
+p83
+aV\u0414\u0438\u0437\u0430\u0439\u043d \u0432 IT
+p84
+aVPython
+p85
+aVMac OS X
+p86
+aV\u041d\u0430\u0443\u0447\u043d\u043e-\u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u043e\u0435
+p87
+aV\u041a\u043e\u043f\u0438\u0440\u0430\u0439\u0442
+p88
+aV\u0423\u0431\u0443\u043d\u0442\u0430\u0440\u0438\u0443\u043c
+p89
+aV\u0411\u0438\u043e\u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438
+p90
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p91
+aV\u0418\u0422-\u0418\u043d\u0444\u0440\u0430\u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0430
+p92
+aVWindows
+p93
+aV\u0411\u0443\u0434\u0443\u0449\u0435\u0435 \u0437\u0434\u0435\u0441\u044c
+p94
+aV\u0421\u0438\u0441\u0442\u0435\u043c\u043d\u043e\u0435 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p95
+aV\u0418\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442
+p96
+aVIM
+p97
+aV\u0410\u043b\u0433\u043e\u0440\u0438\u0442\u043c\u044b
+p98
+aV\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p99
+aV\u0421\u0442\u0430\u0440\u043e\u0435 \u0436\u0435\u043b\u0435\u0437\u043e
+p100
+aVFirefox
+p101
+aV\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c
+p102
+aV\u041a\u0440\u0430\u0443\u0434\u0441\u043e\u0440\u0441\u0438\u043d\u0433
+p103
+aVTwitter
+p104
+aVLinux
+p105
+aV\u042d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u044b\u0435 \u043a\u043d\u0438\u0433\u0438
+p106
+aV\u0420\u0430\u0431\u043e\u0442\u0430 \u0441\u043e \u0437\u0432\u0443\u043a\u043e\u043c
+p107
+aVPeer-to-Peer
+p108
+atRp109
+sS'invitees'
+p110
+g6
+((lp111
+VWinSash
+p112
+atRp113
+stRp114
+g114
+b.

@@ -1,0 +1,122 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+VFireFly
+p9
+aVgeospot
+p10
+aVNaxangel
+p11
+aVeBuster
+p12
+aVnForce
+p13
+aVFladeX
+p14
+aVcaIIIa
+p15
+aVunconnected
+p16
+atRp17
+sS'companies'
+p18
+g7
+((lp19
+VGoogle
+p20
+aVWebmascon
+p21
+aVBlizzard Entertainment
+p22
+aVOpera Software ASA
+p23
+aVDominion
+p24
+aVActis Systems
+p25
+aVMoto CMS
+p26
+aV\u0421\u0442\u0443\u0434\u0438\u044f \u0410\u0440\u0442\u0435\u043c\u0438\u044f \u041b\u0435\u0431\u0435\u0434\u0435\u0432\u0430
+p27
+atRp28
+sS'hubs'
+p29
+g7
+((lp30
+VjQuery
+p31
+aVCoworking: \u0440\u0430\u0431\u043e\u0442\u0430 2.0
+p32
+aVMODx
+p33
+aV\u0427\u0443\u043b\u0430\u043d
+p34
+aVJavaScript
+p35
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p36
+aVWordpress
+p37
+aV\u0412\u0435\u0431-\u0434\u0438\u0437\u0430\u0439\u043d
+p38
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p39
+aV\u042d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u0430\u044f \u043a\u043e\u043c\u043c\u0435\u0440\u0446\u0438\u044f
+p40
+aVCMS
+p41
+aV\u0418\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044b
+p42
+aV\u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043f\u0440\u043e\u0435\u043a\u0442\u0430\u043c\u0438
+p43
+aV\u0425\u043e\u0441\u0442\u0438\u043d\u0433
+p44
+aV\u0411\u0438\u0437\u043d\u0435\u0441 \u0441\u0442\u0443\u0434\u0438\u0438
+p45
+aVAjax
+p46
+aVGTD
+p47
+aV\u041c\u043e\u0439 \u0431\u0438\u0437\u043d\u0435\u0441
+p48
+aVDrupal
+p49
+aV\u041a\u043e\u043d\u0442\u0435\u043a\u0441\u0442\u043d\u0430\u044f \u0440\u0435\u043a\u043b\u0430\u043c\u0430
+p50
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p51
+aVCSS
+p52
+aVGoogle
+p53
+aVFirefox
+p54
+aV\u0418\u0434\u0435\u0438 \u0434\u043b\u044f \u0441\u0442\u0430\u0440\u0442\u0430\u043f\u043e\u0432
+p55
+aV\u0424\u0440\u0438\u043b\u0430\u043d\u0441
+p56
+aVGoogle Chrome
+p57
+aV\u0421\u043e\u0444\u0442
+p58
+atRp59
+sS'invitees'
+p60
+NstRp61
+g61
+b.

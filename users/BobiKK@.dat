@@ -1,0 +1,45 @@
+(dp1
+S'interests'
+p2
+NsS'friends'
+p3
+c__builtin__
+set
+p4
+((lp5
+Venlarge_your_brainis
+p6
+aVdomminick
+p7
+atRp8
+sS'companies'
+p9
+g4
+((lp10
+VZend Technologies
+p11
+aVGoogle
+p12
+aVHP
+p13
+aVSun Microsystems
+p14
+aVMozilla Foundation
+p15
+aVLast.fm
+p16
+aVTrolltech
+p17
+aVApache Software Foundation
+p18
+atRp19
+sS'hubs'
+p20
+g4
+((lp21
+VPHP
+p22
+atRp23
+sS'invitees'
+p24
+Ns.

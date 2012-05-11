@@ -1,0 +1,106 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+VBigcorrudo
+p9
+aVRZK333
+p10
+aVm1o
+p11
+atRp12
+sS'companies'
+p13
+g7
+((lp14
+V\u0412\u044b\u043c\u043f\u0435\u043b\u041a\u043e\u043c (\u0411\u0438\u043b\u0430\u0439\u043d)
+p15
+aVWebMoney Transfer
+p16
+aVGoogle
+p17
+aVApple
+p18
+aV\u041f\u043b\u0430\u0442\u0435\u0436\u043d\u0430\u044f \u0441\u0438\u0441\u0442\u0435\u043c\u0430 Z-Payment
+p19
+aV\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435
+p20
+aVSony Mobile Communications
+p21
+aVQIWI \u041a\u043e\u0448\u0435\u043b\u0435\u043a
+p22
+aV\u041c\u0435\u0433\u0430\u0444\u043e\u043d
+p23
+aVABBYY
+p24
+aVSkype
+p25
+aVdeviantART
+p26
+aVMicrosoft
+p27
+atRp28
+sS'hubs'
+p29
+g7
+((lp30
+V\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p31
+aVGoogle
+p32
+aVGTD
+p33
+aVApple
+p34
+aV\u0413\u0430\u0434\u0436\u0435\u0442\u044b. \u0423\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u0430 \u0434\u043b\u044f \u0433\u0438\u043a\u043e\u0432
+p35
+aVLiveJournal
+p36
+aVMozilla
+p37
+aVIM
+p38
+aV\u0427\u0443\u043b\u0430\u043d
+p39
+aVeBay
+p40
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p41
+aV\u041f\u0440\u043e\u0446\u0435\u0441\u0441\u043e\u0440\u044b
+p42
+aVFacebook
+p43
+aV\u0421\u0443\u043f
+p44
+aV\u041f\u043b\u0430\u0442\u0435\u0436\u043d\u044b\u0435 \u0441\u0438\u0441\u0442\u0435\u043c\u044b
+p45
+aVAdobe
+p46
+aV\u042d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u0430\u044f \u043a\u043e\u043c\u043c\u0435\u0440\u0446\u0438\u044f
+p47
+aVCMS
+p48
+aVMicrosoft
+p49
+aVCSS
+p50
+atRp51
+sS'invitees'
+p52
+NstRp53
+g53
+b.

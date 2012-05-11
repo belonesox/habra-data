@@ -1,0 +1,36 @@
+(dp1
+S'interests'
+p2
+NsS'friends'
+p3
+NsS'companies'
+p4
+c__builtin__
+set
+p5
+((lp6
+VGoogle
+p7
+aVAdobe
+p8
+aVApple
+p9
+aVMozilla Foundation
+p10
+aVOracle
+p11
+aVMicrosoft
+p12
+atRp13
+sS'hubs'
+p14
+g5
+((lp15
+V\u0427\u0443\u043b\u0430\u043d
+p16
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p17
+atRp18
+sS'invitees'
+p19
+Ns.

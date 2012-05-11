@@ -1,0 +1,78 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+Vjquery
+p8
+aVweb
+p9
+aVsharepoint
+p10
+aVjavascript
+p11
+aV.net
+p12
+aVmachine learning
+p13
+aVadaptive structures
+p14
+aVartificial intelligence
+p15
+atRp16
+sS'friends'
+p17
+g6
+((lp18
+Vvosiley
+p19
+aVEnpire
+p20
+atRp21
+sS'companies'
+p22
+NsS'hubs'
+p23
+g6
+((lp24
+VjQuery
+p25
+aV\u041f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0430
+p26
+aV\u0423\u0447\u0435\u0431\u043d\u044b\u0439 \u043f\u0440\u043e\u0446\u0435\u0441\u0441 \u0432 IT
+p27
+aVGit
+p28
+aV\u0425\u0430\u0431\u0440\u0430\u0445\u0430\u0431\u0440
+p29
+aV\u0421\u0438\u0441\u0442\u0435\u043c\u043d\u043e\u0435 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p30
+aV\u0427\u0443\u043b\u0430\u043d
+p31
+aVSharePoint
+p32
+aV\u041d\u0430\u0443\u0447\u043d\u043e-\u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u043e\u0435
+p33
+aV\u0418\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442
+p34
+aV\u0411\u0438\u043e\u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438
+p35
+aV\u041d\u0435\u043d\u043e\u0440\u043c\u0430\u043b\u044c\u043d\u043e\u0435 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p36
+atRp37
+sS'invitees'
+p38
+NstRp39
+g39
+b.

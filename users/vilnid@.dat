@@ -1,0 +1,249 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+V\u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043f\u0440\u043e\u0435\u043a\u0442\u0430\u043c\u0438
+p8
+aV\u043c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0439 \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442
+p9
+aV\u043f\u043e\u0438\u0441\u043a\u043e\u0432\u043e\u0435 \u043f\u0440\u043e\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u0435
+p10
+aV\u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0440\u043a\u0435\u0442\u0438\u043d\u0433
+p11
+aV\u043c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0435 \u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0435 \u0441\u0435\u0442\u0438
+p12
+aVseo
+p13
+aVweb-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p14
+atRp15
+sS'friends'
+p16
+g6
+((lp17
+VMio
+p18
+aVkdk
+p19
+aVGoogenot
+p20
+aVkorowkin
+p21
+aVMaulNet
+p22
+aVmigel
+p23
+aVcelarent
+p24
+aVyshilyaev
+p25
+aVeril
+p26
+aVpihta
+p27
+aVPavel
+p28
+aVsunnybear
+p29
+aVinetstar
+p30
+aVRomanZolotarev
+p31
+aVlazarev
+p32
+aVodessky
+p33
+aVstrngr
+p34
+aVbarancev
+p35
+aVphpclub
+p36
+aVNovikov
+p37
+aVegurkina
+p38
+aVSadovsky
+p39
+aVjvetrau
+p40
+aVmkozloff
+p41
+aVdeniskin
+p42
+aVdwow
+p43
+aVigorux
+p44
+aVDmitryBaranovskiy
+p45
+aVTRINET
+p46
+aVVetra
+p47
+aVmarat
+p48
+aVmanny21
+p49
+aVkonstantin
+p50
+aVmaxkraynov
+p51
+aVbeskov
+p52
+aVbas
+p53
+aVdennydo
+p54
+aVavilnid
+p55
+aVanor
+p56
+aVelena_m
+p57
+aValexlobach
+p58
+aVwolf
+p59
+aVHJKF
+p60
+aVandrewnalin
+p61
+aVrossomachin
+p62
+aVKovalevValery
+p63
+aVmget
+p64
+atRp65
+sS'companies'
+p66
+g6
+((lp67
+VRed Keds
+p68
+aVPM Expert
+p69
+aVGoogle
+p70
+aV.masterhost
+p71
+aVFuturico
+p72
+aVMozilla Foundation
+p73
+aViConText
+p74
+aVEvernote Corporation
+p75
+aVOpera Software ASA
+p76
+aVFacebook
+p77
+aVSkype
+p78
+aVFree-lance.ru
+p79
+aVDigg
+p80
+aVApple
+p81
+atRp82
+sS'hubs'
+p83
+g6
+((lp84
+V\u0423\u0447\u0435\u0431\u043d\u044b\u0439 \u043f\u0440\u043e\u0446\u0435\u0441\u0441 \u0432 IT
+p85
+aVCoworking: \u0440\u0430\u0431\u043e\u0442\u0430 2.0
+p86
+aV\u0427\u0443\u043b\u0430\u043d
+p87
+aV\u0411\u043b\u043e\u0433\u043e\u0441\u0444\u0435\u0440\u0430
+p88
+aV\u041e\u0444\u0438\u0441\u044b IT-\u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0439
+p89
+aVAgile
+p90
+aV\u041a\u0440\u0430\u0443\u0434\u0441\u043e\u0440\u0441\u0438\u043d\u0433
+p91
+aVGoogle Chrome
+p92
+aV\u0416\u0435\u043b\u0435\u0437\u043e
+p93
+aV\u041f\u043e\u0438\u0441\u043a\u043e\u0432\u044b\u0435 \u043c\u0430\u0448\u0438\u043d\u044b \u0438 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438
+p94
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p95
+aV\u042d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u0430\u044f \u043a\u043e\u043c\u043c\u0435\u0440\u0446\u0438\u044f
+p96
+aVCMS
+p97
+aV\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u0440\u0435\u043a\u043b\u0430\u043c\u0430
+p98
+aV\u0418\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044b
+p99
+aVYouTube
+p100
+aV\u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043f\u0440\u043e\u0435\u043a\u0442\u0430\u043c\u0438
+p101
+aV\u042d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u0438\u043a\u0430 \u0434\u043b\u044f \u043d\u0430\u0447\u0438\u043d\u0430\u044e\u0449\u0438\u0445
+p102
+aV\u0414\u0438\u0437\u0430\u0439\u043d \u0432 IT
+p103
+aVLiveJournal
+p104
+aV\u041f\u043e\u0438\u0441\u043a\u043e\u0432\u0430\u044f \u043e\u043f\u0442\u0438\u043c\u0438\u0437\u0430\u0446\u0438\u044f
+p105
+aV\u0424\u0438\u043d\u0430\u043d\u0441\u044b \u0434\u043b\u044f \u0432\u0441\u0435\u0445
+p106
+aV\u041f\u043e\u0434\u043a\u0430\u0441\u0442\u044b
+p107
+aVGTD
+p108
+aVDrupal
+p109
+aV\u041a\u043e\u043d\u0442\u0435\u043a\u0441\u0442\u043d\u0430\u044f \u0440\u0435\u043a\u043b\u0430\u043c\u0430
+p110
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p111
+aV\u041c\u0438\u043a\u0440\u043e\u0444\u043e\u0440\u043c\u0430\u0442\u044b
+p112
+aViPhone
+p113
+aV\u0411\u0435\u0433\u0443\u043d
+p114
+aVGoogle
+p115
+aVFirefox
+p116
+aVApple
+p117
+aV\u0418\u0434\u0435\u0438 \u0434\u043b\u044f \u0441\u0442\u0430\u0440\u0442\u0430\u043f\u043e\u0432
+p118
+aVLinux
+p119
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p120
+aVPeer-to-Peer
+p121
+aV\u041c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0439 \u0432\u0435\u0431
+p122
+atRp123
+sS'invitees'
+p124
+NstRp125
+g125
+b.

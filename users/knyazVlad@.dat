@@ -1,0 +1,68 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+VVeter9
+p9
+atRp10
+sS'companies'
+p11
+g7
+((lp12
+V\u0424\u0421\u0411 \u0420\u0424
+p13
+aVMozilla Foundation
+p14
+aVWikimedia Foundation
+p15
+atRp16
+sS'hubs'
+p17
+g7
+((lp18
+VjQuery
+p19
+aV\u041a\u043b\u0438\u0435\u043d\u0442\u0441\u043a\u0430\u044f \u043e\u043f\u0442\u0438\u043c\u0438\u0437\u0430\u0446\u0438\u044f
+p20
+aVSQL
+p21
+aVJavaScript
+p22
+aVEclipse
+p23
+aV\u0417\u0430\u043d\u0438\u043c\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0435 \u0437\u0430\u0434\u0430\u0447\u043a\u0438
+p24
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p25
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p26
+aVAjax
+p27
+aVZend Framework
+p28
+aVLinux
+p29
+aVPHP
+p30
+aVCSS
+p31
+atRp32
+sS'invitees'
+p33
+NstRp34
+g34
+b.

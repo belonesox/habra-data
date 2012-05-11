@@ -1,0 +1,85 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+Vhoglet
+p9
+atRp10
+sS'companies'
+p11
+NsS'hubs'
+p12
+g7
+((lp13
+VCanvas
+p14
+aVNoSQL
+p15
+aVGoogle Chrome
+p16
+aVMySQL
+p17
+aVInternet Explorer
+p18
+aVGreaseMonkey
+p19
+aVMozilla
+p20
+aV\u041d\u0430\u0443\u0447\u043d\u043e-\u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u043e\u0435
+p21
+aVAjax
+p22
+aVHTML
+p23
+aVSafari
+p24
+aVMobile Development
+p25
+aVXSLT
+p26
+aVOpera
+p27
+aV\u041d\u0435\u043d\u043e\u0440\u043c\u0430\u043b\u044c\u043d\u043e\u0435 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p28
+aV\u041c\u0438\u043a\u0440\u043e\u0444\u043e\u0440\u043c\u0430\u0442\u044b
+p29
+aVCSS
+p30
+aVGMail
+p31
+aVGoogle
+p32
+aVFirefox
+p33
+aV\u0411\u0440\u0430\u0443\u0437\u0435\u0440\u044b
+p34
+aVDoctrine ORM
+p35
+aVZend Framework
+p36
+aVSQL
+p37
+aVSaaS / S+S
+p38
+aVPHP
+p39
+atRp40
+sS'invitees'
+p41
+NstRp42
+g42
+b.

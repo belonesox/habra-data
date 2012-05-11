@@ -1,0 +1,155 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+V\u0441\u0442\u0430\u0440\u0442\u0430\u043f\u044b
+p8
+aV\u0441\u043f\u043e\u0440\u0442
+p9
+aV\u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 ruby on rails
+p10
+aV\u0448\u0430\u0445\u043c\u0430\u0442\u044b
+p11
+atRp12
+sS'friends'
+p13
+g6
+((lp14
+VKastrulya0001
+p15
+aVmiolini
+p16
+aVGMM
+p17
+aVMehal
+p18
+aVral
+p19
+aVmeako
+p20
+aVmq0
+p21
+aVVass
+p22
+aVsysprg
+p23
+atRp24
+sS'companies'
+p25
+g6
+((lp26
+VFree Software Foundation
+p27
+aV3DNews
+p28
+aVAdobe
+p29
+aVApple
+p30
+aVBitTorrent
+p31
+aVIBM
+p32
+aVMozilla Foundation
+p33
+aVLast.fm
+p34
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p35
+aVFree-lance.ru
+p36
+aV\u0421\u0442\u0443\u0434\u0438\u044f \u0410\u0440\u0442\u0435\u043c\u0438\u044f \u041b\u0435\u0431\u0435\u0434\u0435\u0432\u0430
+p37
+aVApache Software Foundation
+p38
+aVWikimedia Foundation
+p39
+atRp40
+sS'hubs'
+p41
+g6
+((lp42
+VOpen source
+p43
+aV\u0411\u043b\u043e\u0433\u043e\u0441\u0444\u0435\u0440\u0430
+p44
+aV\u0413\u0430\u0434\u0436\u0435\u0442\u044b. \u0423\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u0430 \u0434\u043b\u044f \u0433\u0438\u043a\u043e\u0432
+p45
+aV\u041f\u043e\u0434\u043a\u0430\u0441\u0442\u044b
+p46
+aV\u0421\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0435 \u0441\u0435\u0442\u0438 \u0438 \u0441\u043e\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0430
+p47
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p48
+aVWordpress
+p49
+aV\u0416\u0435\u043b\u0435\u0437\u043e
+p50
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p51
+aVCMS
+p52
+aV\u0418\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044b
+p53
+aV\u0418\u043d\u0442\u0435\u0440\u0432\u044c\u044e
+p54
+aVPython
+p55
+aV\u0427\u0438\u0442\u0430\u043b\u044c\u043d\u044b\u0439 \u0437\u0430\u043b
+p56
+aVLiveJournal
+p57
+aV\u041a\u043e\u043f\u0438\u0440\u0430\u0439\u0442
+p58
+aVAjax
+p59
+aVRuby
+p60
+aVGTD
+p61
+aV\u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043f\u0440\u043e\u0435\u043a\u0442\u0430\u043c\u0438
+p62
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p63
+aVCSS
+p64
+aV\u041c\u0438\u043a\u0440\u043e\u0431\u043b\u043e\u0433\u0438
+p65
+aVGoogle
+p66
+aVApple
+p67
+aVIT-\u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u044b
+p68
+aVTwitter
+p69
+aVVIM
+p70
+aVLinux
+p71
+aV\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p72
+aVGoogle Chrome
+p73
+aVPHP
+p74
+aV\u041c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0439 \u0432\u0435\u0431
+p75
+atRp76
+sS'invitees'
+p77
+NstRp78
+g78
+b.

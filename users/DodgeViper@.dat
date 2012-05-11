@@ -1,0 +1,75 @@
+(dp1
+S'interests'
+p2
+NsS'friends'
+p3
+c__builtin__
+set
+p4
+((lp5
+VSantoz
+p6
+atRp7
+sS'companies'
+p8
+g4
+((lp9
+VPalm Inc.
+p10
+aVIBM
+p11
+aV\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435
+p12
+aV\u0418\u0414 \u041a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u0440\u0430
+p13
+aVHP
+p14
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p15
+aV\u0414\u0436\u0438\u043d\u043e
+p16
+aV\u0410\u0444\u0438\u0448\u0430
+p17
+aVNetCat
+p18
+aVWestByte Software
+p19
+aVBitTorrent
+p20
+aVCorbina Telecom
+p21
+aVBlizzard Entertainment
+p22
+aVNintendo
+p23
+aVWikimedia Foundation
+p24
+aV\u041c\u0422\u0421
+p25
+aV3DNews
+p26
+aVGoogle
+p27
+aVWebMoney Transfer
+p28
+aVPSYHO design
+p29
+aVAdobe
+p30
+aVApple
+p31
+aVMozilla Foundation
+p32
+aVLast.fm
+p33
+atRp34
+sS'hubs'
+p35
+g4
+((lp36
+V\u0427\u0443\u043b\u0430\u043d
+p37
+atRp38
+sS'invitees'
+p39
+Ns.

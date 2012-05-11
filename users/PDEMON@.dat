@@ -1,0 +1,172 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+V\u0432\u0435\u0431-\u0434\u0438\u0437\u0430\u0439\u043d
+p8
+aV\u043c\u0443\u0437\u044b\u043a\u0430
+p9
+aV\u0431\u043e\u0434\u0438 \u0431\u0438\u043b\u0434\u0438\u043d\u0433
+p10
+aV\u0441\u043f\u043e\u0440\u0442
+p11
+aV\u043a\u0438\u043d\u043e
+p12
+atRp13
+sS'friends'
+p14
+g6
+((lp15
+Vmadesst
+p16
+aVShirixae
+p17
+aVBelidor
+p18
+aVDigitalRay
+p19
+aVsam_reaper
+p20
+atRp21
+sS'companies'
+p22
+g6
+((lp23
+VOpera Software ASA
+p24
+aVOsByGoogle.ru
+p25
+aVid Software
+p26
+aVYota
+p27
+aVToshiba
+p28
+aVESET NOD32
+p29
+aVNintendo
+p30
+aVChristian Ghisler
+p31
+aVApacer Technology
+p32
+aV\u0412\u044b\u043c\u043f\u0435\u043b\u041a\u043e\u043c (\u0411\u0438\u043b\u0430\u0439\u043d)
+p33
+aV3DNews
+p34
+aVMail.Ru Group
+p35
+aVSamsung
+p36
+aVuCoz
+p37
+aV\u0425\u043e\u0441\u0442\u0438\u043d\u0433-\u0426\u0435\u043d\u0442\u0440
+p38
+aVAgnitum Ltd. / \u0410\u0433\u043d\u0438\u0442\u0443\u043c
+p39
+aVdeviantART
+p40
+aVMicrosoft
+p41
+aVGoogle
+p42
+aVAdobe
+p43
+aVApple
+p44
+aVSkype
+p45
+atRp46
+sS'hubs'
+p47
+g6
+((lp48
+V\u0420\u043e\u0431\u043e\u0442\u043e\u0442\u0435\u0445\u043d\u0438\u043a\u0430
+p49
+aV\u0421\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u043a\u0430 \u0432 IT
+p50
+aV\u0427\u0443\u043b\u0430\u043d
+p51
+aVWindows Phone
+p52
+aV.NET
+p53
+aV\u0425\u0430\u0431\u0440\u0430\u0445\u0430\u0431\u0440 \u2014 \u0410\u043d\u043e\u043d\u0441\u044b
+p54
+aV\u041d\u0435\u0442\u0431\u0443\u043a\u0438
+p55
+aV\u0410\u043d\u0438\u043c\u0430\u0446\u0438\u044f \u0438 3D \u0433\u0440\u0430\u0444\u0438\u043a\u0430
+p56
+aVWordpress
+p57
+aV\u0416\u0435\u043b\u0435\u0437\u043e
+p58
+aVMail.Ru
+p59
+aVAndroid
+p60
+aVDIY \u0438\u043b\u0438 \u0421\u0434\u0435\u043b\u0430\u0439 \u0421\u0430\u043c
+p61
+aVMac OS X
+p62
+aVYouTube
+p63
+aV\u041d\u0430\u0443\u0447\u043d\u043e-\u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u043e\u0435
+p64
+aVWindows
+p65
+aV\u0421\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0435 \u0441\u0435\u0442\u0438 \u0438 \u0441\u043e\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0430
+p66
+aV\u0425\u0430\u0431\u0440\u0430\u0445\u0430\u0431\u0440
+p67
+aV\u0418\u043a\u043e\u043d\u043e\u0441\u043a\u0430\u0437
+p68
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p69
+aVOpera
+p70
+aV\u0411\u0443\u0434\u0443\u0449\u0435\u0435 \u0437\u0434\u0435\u0441\u044c
+p71
+aV\u0421\u0442\u0430\u0440\u043e\u0435 \u0436\u0435\u043b\u0435\u0437\u043e
+p72
+aV\u0421\u043c\u0430\u0440\u0442\u0444\u043e\u043d\u044b \u0438 \u043a\u043e\u043c\u043c\u0443\u043d\u0438\u043a\u0430\u0442\u043e\u0440\u044b
+p73
+aVGoogle
+p74
+aVAdobe
+p75
+aVApple
+p76
+aV\u0422\u0435\u043b\u0435\u043a\u043e\u043c\u044b
+p77
+aVTwitter
+p78
+aV\u0411\u0440\u0430\u0443\u0437\u0435\u0440\u044b
+p79
+aVGoogle Chrome
+p80
+aV\u041c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0439 \u0432\u0435\u0431
+p81
+atRp82
+sS'invitees'
+p83
+g6
+((lp84
+Vroma2k
+p85
+atRp86
+stRp87
+g87
+b.

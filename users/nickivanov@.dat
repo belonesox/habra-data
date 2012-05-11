@@ -1,0 +1,75 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+V\u0442\u0438\u043f\u043e\u0433\u0440\u0430\u0444\u0438\u043a\u0430
+p8
+aV\u0437\u0434\u0440\u0430\u0432\u044b\u0439 \u0441\u043c\u044b\u0441\u043b
+p9
+aV\u043f\u0440\u043e\u0435\u043a\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0438\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u043e\u0432
+p10
+aV\u043f\u043e\u0434\u0430\u0447\u0430 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0438
+p11
+aV\u0431\u0443\u0434\u0443\u0449\u0435\u0435
+p12
+atRp13
+sS'friends'
+p14
+g6
+((lp15
+VRsmile
+p16
+aVr3s3t
+p17
+aVAdrior
+p18
+aVkortunov
+p19
+aVNightquest
+p20
+aVxraizor
+p21
+aVrusslobachev
+p22
+aVyaroslavpat
+p23
+aVdyakov
+p24
+atRp25
+sS'companies'
+p26
+g6
+((lp27
+V\u0414\u0438\u0437\u0430\u0439\u043d-\u0431\u044e\u0440\u043e \u0410\u0440\u0442\u0435\u043c\u0430 \u0413\u043e\u0440\u0431\u0443\u043d\u043e\u0432\u0430
+p28
+aV37signals
+p29
+aV\u0421\u0442\u0443\u0434\u0438\u044f \u0410\u0440\u0442\u0435\u043c\u0438\u044f \u041b\u0435\u0431\u0435\u0434\u0435\u0432\u0430
+p30
+aVApple
+p31
+atRp32
+sS'hubs'
+p33
+g6
+((lp34
+V\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p35
+atRp36
+sS'invitees'
+p37
+NstRp38
+g38
+b.

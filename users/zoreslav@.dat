@@ -1,0 +1,93 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+NsS'companies'
+p7
+c__builtin__
+set
+p8
+((lp9
+VGoogle
+p10
+aVApple
+p11
+aVCanonical
+p12
+aVLast.fm
+p13
+aVParcsis/Turbomilk
+p14
+aV\u0422\u0435\u043b\u0435\u043a\u043e\u043c\u043c\u0443\u043d\u0438\u043a\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044f «\u041a\u0430\u0440\u0430\u0432\u0430\u043d»
+p15
+aVWikimedia Foundation
+p16
+aVFuturico
+p17
+atRp18
+sS'hubs'
+p19
+g8
+((lp20
+VArduino
+p21
+aVJavaScript
+p22
+aV\u041f\u043b\u0430\u0442\u0435\u0436\u043d\u044b\u0435 \u0441\u0438\u0441\u0442\u0435\u043c\u044b
+p23
+aV\u0418\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044b
+p24
+aVOpenStreetMap
+p25
+aVCodeIgniter
+p26
+aV\u0411\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u0430 ExtJS/Sencha
+p27
+aVLiveJournal
+p28
+aVRuby on Rails
+p29
+aV\u0418\u043d\u0444\u043e\u0433\u0440\u0430\u0444\u0438\u043a\u0430
+p30
+aVHTML
+p31
+aVRuby
+p32
+aV\u041f\u043b\u0430\u043d\u0448\u0435\u0442\u044b
+p33
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p34
+aVEclipse
+p35
+aV\u041f\u0440\u0435\u0437\u0435\u043d\u0442\u0430\u0446\u0438\u0438
+p36
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043f\u043e\u0434 Windows Phone
+p37
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043f\u043e\u0434 iOS
+p38
+aVGoogle
+p39
+aV\u0421\u043c\u0430\u0440\u0442\u0444\u043e\u043d\u044b \u0438 \u043a\u043e\u043c\u043c\u0443\u043d\u0438\u043a\u0430\u0442\u043e\u0440\u044b
+p40
+aVMongoDB
+p41
+aV\u041a\u0440\u0438\u043f\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u044f
+p42
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043f\u043e\u0434 Android
+p43
+atRp44
+sS'invitees'
+p45
+NstRp46
+g46
+b.

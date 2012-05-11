@@ -1,0 +1,79 @@
+(dp1
+S'interests'
+p2
+NsS'friends'
+p3
+c__builtin__
+set
+p4
+((lp5
+Vwa11
+p6
+aVnaigovan
+p7
+aVgrust
+p8
+aVPatrick
+p9
+aVRomanzu
+p10
+aVIvanhoe
+p11
+aVboatincow
+p12
+aVwinzard
+p13
+aVArt_Zu
+p14
+atRp15
+sS'companies'
+p16
+g4
+((lp17
+VCoalla Agency
+p18
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p19
+atRp20
+sS'hubs'
+p21
+g4
+((lp22
+V\u0412\u0438\u0440\u0443\u0441\u044b (\u0438 \u0430\u043d\u0442\u0438\u0432\u0438\u0440\u0443\u0441\u044b)
+p23
+aVGit
+p24
+aVSphinx
+p25
+aV\u0421\u043c\u0430\u0440\u0442\u0444\u043e\u043d\u044b \u0438 \u043a\u043e\u043c\u043c\u0443\u043d\u0438\u043a\u0430\u0442\u043e\u0440\u044b
+p26
+aV\u041c\u043e\u0439 \u0431\u0438\u0437\u043d\u0435\u0441
+p27
+aVPython
+p28
+aV\u0427\u0443\u043b\u0430\u043d
+p29
+aVMySQL
+p30
+aVRuby on Rails
+p31
+aV\u0417\u0430\u043d\u0438\u043c\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0435 \u0437\u0430\u0434\u0430\u0447\u043a\u0438
+p32
+aVDjango
+p33
+aV\u0421\u0435\u043c\u0430\u043d\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0421\u0435\u0442\u044c
+p34
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p35
+aVLinux
+p36
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p37
+aVRuby
+p38
+aV\u0421\u043e\u0444\u0442
+p39
+atRp40
+sS'invitees'
+p41
+Ns.

@@ -1,0 +1,103 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+Vmurdoc
+p9
+aVsapun
+p10
+atRp11
+sS'companies'
+p12
+NsS'hubs'
+p13
+g7
+((lp14
+VjQuery
+p15
+aVGit
+p16
+aVOpen source
+p17
+aV.NET
+p18
+aVMooTools
+p19
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p20
+aVGoogle Chrome
+p21
+aVMySQL
+p22
+aV\u0412\u0435\u0431-\u0434\u0438\u0437\u0430\u0439\u043d
+p23
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p24
+aV\u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043f\u0440\u043e\u0435\u043a\u0442\u0430\u043c\u0438
+p25
+aVFirefox
+p26
+aVPython
+p27
+aVRuby on Rails
+p28
+aVNginx
+p29
+aVRuby
+p30
+aVJAVA
+p31
+aV\u0425\u0430\u0431\u0440\u0430\u0445\u0430\u0431\u0440
+p32
+aVJavaScript
+p33
+aVGTD
+p34
+aVEclipse
+p35
+aVDjango
+p36
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p37
+aVGoogle App Engine
+p38
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043f\u043e\u0434 iOS
+p39
+aVPostgreSQL
+p40
+aVGoogle
+p41
+aVAdobe
+p42
+aVApple
+p43
+aV\u0411\u0440\u0430\u0443\u0437\u0435\u0440\u044b
+p44
+aVHaskell
+p45
+aV\u041d\u0435\u043d\u043e\u0440\u043c\u0430\u043b\u044c\u043d\u043e\u0435 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p46
+aVErlang/OTP
+p47
+aV\u0420\u0430\u0431\u043e\u0442\u0430 \u0441\u043e \u0437\u0432\u0443\u043a\u043e\u043c
+p48
+atRp49
+sS'invitees'
+p50
+NstRp51
+g51
+b.

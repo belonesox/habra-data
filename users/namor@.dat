@@ -1,0 +1,66 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+Vsnowrain
+p9
+atRp10
+sS'companies'
+p11
+g7
+((lp12
+VSoftline
+p13
+atRp14
+sS'hubs'
+p15
+g7
+((lp16
+VSymfony
+p17
+aVjQuery
+p18
+aV\u041a\u043b\u0438\u0435\u043d\u0442\u0441\u043a\u0430\u044f \u043e\u043f\u0442\u0438\u043c\u0438\u0437\u0430\u0446\u0438\u044f
+p19
+aVPostgreSQL
+p20
+aV\u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043f\u0440\u043e\u0435\u043a\u0442\u0430\u043c\u0438
+p21
+aVYii
+p22
+aV\u041d\u0430\u0443\u0447\u043d\u043e-\u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u043e\u0435
+p23
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p24
+aV\u041f\u0440\u043e\u0435\u043a\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0438 \u0440\u0435\u0444\u0430\u043a\u0442\u043e\u0440\u0438\u043d\u0433
+p25
+aVZend Framework
+p26
+aVSQL
+p27
+aVGTD
+p28
+aVPHP
+p29
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p30
+atRp31
+sS'invitees'
+p32
+NstRp33
+g33
+b.

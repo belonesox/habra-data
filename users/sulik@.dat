@@ -1,0 +1,68 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+VDeltakatachre
+p9
+aVlevinardo
+p10
+aVdShell
+p11
+aVKaitaku
+p12
+atRp13
+sS'companies'
+p14
+g7
+((lp15
+VCanonical
+p16
+aVGoogle
+p17
+aVApple
+p18
+aVEPAM Systems
+p19
+atRp20
+sS'hubs'
+p21
+g7
+((lp22
+V\u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043f\u0440\u043e\u0435\u043a\u0442\u0430\u043c\u0438
+p23
+aVJAVA
+p24
+aVApple
+p25
+aV\u0420\u0435\u0433\u0443\u043b\u044f\u0440\u043d\u044b\u0435 \u0432\u044b\u0440\u0430\u0436\u0435\u043d\u0438\u044f
+p26
+aVMac OS X
+p27
+aV\u041f\u0440\u043e\u0435\u043a\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0438 \u0440\u0435\u0444\u0430\u043a\u0442\u043e\u0440\u0438\u043d\u0433
+p28
+aVAndroid
+p29
+aV\u0410\u043b\u0433\u043e\u0440\u0438\u0442\u043c\u044b
+p30
+aV\u0421\u043e\u0432\u0435\u0440\u0448\u0435\u043d\u043d\u044b\u0439 \u043a\u043e\u0434
+p31
+atRp32
+sS'invitees'
+p33
+NstRp34
+g34
+b.

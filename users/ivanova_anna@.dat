@@ -1,0 +1,45 @@
+(dp1
+S'interests'
+p2
+c__builtin__
+set
+p3
+((lp4
+V\u0432\u0435\u0431-\u0434\u0438\u0437\u0430\u0439\u043d
+p5
+aV\u043f\u0443\u0442\u0435\u0448\u0435\u0441\u0442\u0432\u0438\u044f.
+p6
+aV\u0444\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u044f
+p7
+atRp8
+sS'friends'
+p9
+NsS'companies'
+p10
+g3
+((lp11
+V\u0423\u0447\u0435\u0431\u043d\u044b\u0439 \u0426\u0435\u043d\u0442\u0440 Luxoft
+p12
+atRp13
+sS'hubs'
+p14
+g3
+((lp15
+V\u0423\u0447\u0435\u0431\u043d\u044b\u0439 \u043f\u0440\u043e\u0446\u0435\u0441\u0441 \u0432 IT
+p16
+aVFirefox
+p17
+aV\u041e\u0444\u0438\u0441\u044b IT-\u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0439
+p18
+aVWordpress
+p19
+aVLinux
+p20
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p21
+aVCSS
+p22
+atRp23
+sS'invitees'
+p24
+Ns.

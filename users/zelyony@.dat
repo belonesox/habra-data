@@ -1,0 +1,94 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+V\u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p8
+aVc#
+p9
+aV\u043c\u043e\u0431\u0438\u043b\u043a\u0438
+p10
+aVc++
+p11
+atRp12
+sS'friends'
+p13
+g6
+((lp14
+Vrevlis
+p15
+aVNatalia_Grigoryeva
+p16
+aVZaitsevSergey
+p17
+aVLeshrac
+p18
+aVstrangepers
+p19
+aVavesus
+p20
+aVeyeofhell
+p21
+atRp22
+sS'companies'
+p23
+NsS'hubs'
+p24
+g6
+((lp25
+V\u0412\u044b\u0441\u043e\u043a\u0430\u044f \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c
+p26
+aVSilverlight
+p27
+aVJAVA
+p28
+aVGame Development
+p29
+aV\u0420\u043e\u0431\u043e\u0442\u043e\u0442\u0435\u0445\u043d\u0438\u043a\u0430
+p30
+aVGPGPU
+p31
+aVMono \u0438 Moonlight
+p32
+aV.NET
+p33
+aVC++
+p34
+aVGoogle Web Toolkit
+p35
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p36
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043f\u043e\u0434 Android
+p37
+aVGoogle App Engine
+p38
+aViPhone
+p39
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043f\u043e\u0434 iOS
+p40
+aV\u0421\u043c\u0430\u0440\u0442\u0444\u043e\u043d\u044b \u0438 \u043a\u043e\u043c\u043c\u0443\u043d\u0438\u043a\u0430\u0442\u043e\u0440\u044b
+p41
+aVTDD
+p42
+aVFlash-\u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u0430
+p43
+aVMobile Development
+p44
+atRp45
+sS'invitees'
+p46
+NstRp47
+g47
+b.

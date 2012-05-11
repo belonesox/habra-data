@@ -1,0 +1,42 @@
+(dp1
+S'interests'
+p2
+NsS'friends'
+p3
+NsS'companies'
+p4
+c__builtin__
+set
+p5
+((lp6
+VColoBridge
+p7
+aV\u0412\u044b\u043c\u043f\u0435\u043b\u041a\u043e\u043c (\u0411\u0438\u043b\u0430\u0439\u043d)
+p8
+aVLenovo
+p9
+aVIntel
+p10
+aV\u0414\u0430\u0442\u0430\u0432\u0435\u0434
+p11
+aV\u0416\u0443\u0440\u043d\u0430\u043b \u0425\u0430\u043a\u0435\u0440
+p12
+aVASUS Russia
+p13
+aVKanobu Network
+p14
+aVMicrosoft
+p15
+aV.\u0442\u043e\u0441\u0442\u0435\u0440
+p16
+atRp17
+sS'hubs'
+p18
+g5
+((lp19
+V\u0427\u0443\u043b\u0430\u043d
+p20
+atRp21
+sS'invitees'
+p22
+Ns.

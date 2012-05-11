@@ -1,0 +1,56 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+Vforall
+p9
+aVPEXA
+p10
+aVHerra
+p11
+atRp12
+sS'companies'
+p13
+g7
+((lp14
+VWebMoney Transfer
+p15
+atRp16
+sS'hubs'
+p17
+g7
+((lp18
+V\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p19
+aV\u0414\u0438\u0437\u0430\u0439\u043d \u0432 IT
+p20
+aV\u0427\u0443\u043b\u0430\u043d
+p21
+aVJavaScript
+p22
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p23
+aV\u0414\u043e\u043c\u0435\u043d\u044b
+p24
+aV\u0421\u043f\u0430\u043c (\u0438 \u0430\u043d\u0442\u0438\u0441\u043f\u0430\u043c)
+p25
+atRp26
+sS'invitees'
+p27
+NstRp28
+g28
+b.

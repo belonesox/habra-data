@@ -1,0 +1,106 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+Vseagor
+p9
+aVfTR
+p10
+aVpratavetra
+p11
+aVfxposter
+p12
+aVbug13
+p13
+aVnerfur
+p14
+aVvitcom
+p15
+aVunno
+p16
+aVzhulan0v
+p17
+atRp18
+sS'companies'
+p19
+g7
+((lp20
+VdeviantART
+p21
+aVGoogle
+p22
+atRp23
+sS'hubs'
+p24
+g7
+((lp25
+VOpen source
+p26
+aV\u0427\u0443\u043b\u0430\u043d
+p27
+aVJavaScript
+p28
+aVMySQL
+p29
+aVCMS
+p30
+aV\u0418\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044b
+p31
+aVCodeIgniter
+p32
+aV\u0425\u043e\u0441\u0442\u0438\u043d\u0433
+p33
+aVPython
+p34
+aVAjax
+p35
+aVHTML
+p36
+aV.NET
+p37
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p38
+aV\u0421\u0438\u0441\u0442\u0435\u043c\u044b \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u0432\u0435\u0440\u0441\u0438\u044f\u043c\u0438
+p39
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p40
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043f\u043e\u0434 iOS
+p41
+aVJAVA
+p42
+aV\u0421\u0442\u0430\u0440\u043e\u0435 \u0436\u0435\u043b\u0435\u0437\u043e
+p43
+aVAdobe
+p44
+aVGame Development
+p45
+aV\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c
+p46
+aVZend Framework
+p47
+aV\u041d\u0435\u043d\u043e\u0440\u043c\u0430\u043b\u044c\u043d\u043e\u0435 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p48
+aV\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p49
+aVPHP
+p50
+atRp51
+sS'invitees'
+p52
+NstRp53
+g53
+b.

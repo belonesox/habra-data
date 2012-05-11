@@ -1,0 +1,141 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+V\u043f\u043e\u043a\u043e\u0440\u0435\u043d\u0438\u0435 \u043c\u0438\u0440\u0430
+p8
+aV\u043d\u043b\u043e
+p9
+atRp10
+sS'friends'
+p11
+g6
+((lp12
+Virrara
+p13
+aVavchizh
+p14
+aVAlexLeonov
+p15
+aVexelens
+p16
+aVbismark
+p17
+aVlinin
+p18
+aVeyedol
+p19
+aVPraetorian
+p20
+atRp21
+sS'companies'
+p22
+NsS'hubs'
+p23
+g6
+((lp24
+VjQuery
+p25
+aV\u041a\u0438\u0431\u0435\u0440\u043f\u0430\u043d\u043a
+p26
+aV\u041a\u0440\u0438\u043f\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u044f
+p27
+aVNoSQL
+p28
+aV\u0413\u0430\u0434\u0436\u0435\u0442\u044b. \u0423\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u0430 \u0434\u043b\u044f \u0433\u0438\u043a\u043e\u0432
+p29
+aV\u0427\u0443\u043b\u0430\u043d
+p30
+aV.NET
+p31
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p32
+aVGoogle Chrome
+p33
+aVMySQL
+p34
+aVInternet Explorer
+p35
+aVCMS
+p36
+aV\u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043f\u0440\u043e\u0435\u043a\u0442\u0430\u043c\u0438
+p37
+aVDIY \u0438\u043b\u0438 \u0421\u0434\u0435\u043b\u0430\u0439 \u0421\u0430\u043c
+p38
+aVMozilla
+p39
+aV\u041d\u0430\u0443\u0447\u043d\u043e-\u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u043e\u0435
+p40
+aVAjax
+p41
+aV\u0424\u0438\u043d\u0430\u043d\u0441\u044b \u0434\u043b\u044f \u0432\u0441\u0435\u0445
+p42
+aVSafari
+p43
+aV\u0420\u0430\u0431\u043e\u0442\u0430 \u0441 \u0432\u0438\u0434\u0435\u043e
+p44
+aVXML
+p45
+aVQt Software
+p46
+aV\u041a\u043e\u0434\u043e\u0411\u0440\u0435\u0434
+p47
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p48
+aVOpera
+p49
+aV\u0411\u0443\u0434\u0443\u0449\u0435\u0435 \u0437\u0434\u0435\u0441\u044c
+p50
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p51
+aVData Mining
+p52
+aVOracle
+p53
+aVPostgreSQL
+p54
+aVCSS
+p55
+aV\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p56
+aVPHP
+p57
+aVFirefox
+p58
+aVMongoDB
+p59
+aV\u0411\u0440\u0430\u0443\u0437\u0435\u0440\u044b
+p60
+aVDoctrine ORM
+p61
+aVSQL
+p62
+aVPeer-to-Peer
+p63
+atRp64
+sS'invitees'
+p65
+g6
+((lp66
+VSCohan
+p67
+aVirrara
+p68
+aVnatalka
+p69
+atRp70
+stRp71
+g71
+b.

@@ -1,0 +1,150 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+NsS'companies'
+p7
+NsS'hubs'
+p8
+c__builtin__
+set
+p9
+((lp10
+VjQuery
+p11
+aVLiveStreet
+p12
+aV\u0411\u0440\u0435\u043d\u0434\u0438\u043d\u0433 \u0432 IT
+p13
+aVWiki-\u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u044f
+p14
+aVCreative Commons
+p15
+aVScala
+p16
+aVMODx
+p17
+aVDelphi
+p18
+aV.NET
+p19
+aVMooTools
+p20
+aVTwisted
+p21
+aVPerl
+p22
+aV\u0410\u043d\u0438\u043c\u0430\u0446\u0438\u044f \u0438 3D \u0433\u0440\u0430\u0444\u0438\u043a\u0430
+p23
+aV\u041f\u0440\u043e\u0446\u0435\u0441\u0441\u043e\u0440\u044b
+p24
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p25
+aV\u041f\u043e\u0438\u0441\u043a\u043e\u0432\u044b\u0435 \u043c\u0430\u0448\u0438\u043d\u044b \u0438 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438
+p26
+aVMail.Ru
+p27
+aVCMS
+p28
+aV\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u0440\u0435\u043a\u043b\u0430\u043c\u0430
+p29
+aVASP
+p30
+aVSmall Basic
+p31
+aVCodeIgniter
+p32
+aVPython
+p33
+aV\u0421\u0443\u043f
+p34
+aV\u0420\u0430\u043c\u0431\u043b\u0435\u0440
+p35
+aVRuby on Rails
+p36
+aV\u041a\u043e\u043f\u0438\u0440\u0430\u0439\u0442
+p37
+aVLisp
+p38
+aVZend Framework
+p39
+aVFacebook
+p40
+aVYahoo
+p41
+aVYii
+p42
+aV\u041f\u043e\u0438\u0441\u043a\u043e\u0432\u0430\u044f \u043e\u043f\u0442\u0438\u043c\u0438\u0437\u0430\u0446\u0438\u044f
+p43
+aVRuby
+p44
+aV\u0421\u0442\u0443\u0434\u0438\u044f \u0410\u0440\u0442\u0435\u043c\u0438\u044f \u041b\u0435\u0431\u0435\u0434\u0435\u0432\u0430
+p45
+aVQt Software
+p46
+aVJavaScript
+p47
+aVDrupal
+p48
+aVSun Microsystems
+p49
+aV\u041a\u043e\u043d\u0442\u0435\u043a\u0441\u0442\u043d\u0430\u044f \u0440\u0435\u043a\u043b\u0430\u043c\u0430
+p50
+aVEclipse
+p51
+aVC++
+p52
+aVDjango
+p53
+aV\u0411\u0435\u0433\u0443\u043d
+p54
+aVJAVA
+p55
+aVCakePHP
+p56
+aVMicrosoft
+p57
+aV\u0421\u043c\u0430\u0440\u0442\u0444\u043e\u043d\u044b \u0438 \u043a\u043e\u043c\u043c\u0443\u043d\u0438\u043a\u0430\u0442\u043e\u0440\u044b
+p58
+aVSymfony
+p59
+aVGoogle
+p60
+aVAdobe
+p61
+aVApple
+p62
+aVAssembler
+p63
+aVNode.JS
+p64
+aVCisco
+p65
+aVHaskell
+p66
+aVBrainfuck
+p67
+aVGroovy & Grails
+p68
+aVKohana
+p69
+aVGTK+
+p70
+aVPHP
+p71
+atRp72
+sS'invitees'
+p73
+NstRp74
+g74
+b.

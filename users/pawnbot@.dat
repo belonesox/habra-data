@@ -1,0 +1,38 @@
+(dp1
+S'interests'
+p2
+NsS'friends'
+p3
+NsS'companies'
+p4
+c__builtin__
+set
+p5
+((lp6
+VNVIDIA Corporation
+p7
+atRp8
+sS'hubs'
+p9
+g5
+((lp10
+VGit
+p11
+aVGTD
+p12
+aVGPGPU
+p13
+aV\u0427\u0443\u043b\u0430\u043d
+p14
+aV\u0411\u0438\u043e\u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0442\u0438\u043a\u0430
+p15
+aV\u0424\u0438\u043d\u0430\u043d\u0441\u044b \u0434\u043b\u044f \u0432\u0441\u0435\u0445
+p16
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p17
+aV\u0410\u043b\u0433\u043e\u0440\u0438\u0442\u043c\u044b
+p18
+atRp19
+sS'invitees'
+p20
+Ns.

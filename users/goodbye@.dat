@@ -1,0 +1,176 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+Vbobria
+p9
+aVxt
+p10
+aVsuper_sonic
+p11
+aVzboris
+p12
+aVkotovsky
+p13
+aVimarketing
+p14
+aVSersh
+p15
+aVlcf2
+p16
+aVLysy
+p17
+aV1mdm
+p18
+aVdmitrysatin
+p19
+aVsantagenius
+p20
+aVLe_Roi
+p21
+aVNik_Nightingale
+p22
+aVmrgall
+p23
+aVinvestor
+p24
+aVandruha_miskov
+p25
+aVtaisha
+p26
+atRp27
+sS'companies'
+p28
+g7
+((lp29
+VWorld Wide Web Consortium
+p30
+aVWebmascon
+p31
+aVNTV-design
+p32
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p33
+aVBlizzard Entertainment
+p34
+aV\u0410\u0444\u0438\u0448\u0430
+p35
+aVActis Systems
+p36
+aVFuturico
+p37
+aV\u0410\u0448\u043c\u0430\u043d\u043e\u0432 \u0438 \u041f\u0430\u0440\u0442\u043d\u0451\u0440\u044b
+p38
+aVCorbina Telecom
+p39
+aVUIDesign Group
+p40
+aVRU-CENTER
+p41
+aVFree-lance.ru
+p42
+aV\u0421\u0442\u0443\u0434\u0438\u044f \u0410\u0440\u0442\u0435\u043c\u0438\u044f \u041b\u0435\u0431\u0435\u0434\u0435\u0432\u0430
+p43
+aV\u0412\u044b\u043c\u043f\u0435\u043b\u041a\u043e\u043c (\u0411\u0438\u043b\u0430\u0439\u043d)
+p44
+aVDesigncollector
+p45
+aVAdMe
+p46
+aV\u0431\u043e\u043b\u043etov.ru
+p47
+aVABBYY
+p48
+aVdeviantART
+p49
+aVGoogle
+p50
+aVAdobe
+p51
+aVApple
+p52
+aV\u0411\u0438\u0437\u043d\u0435\u0441 \u0432 \u0441\u0442\u0438\u043b\u0435 .RU
+p53
+aVMozilla Foundation
+p54
+aVParcsis/Turbomilk
+p55
+atRp56
+sS'hubs'
+p57
+g7
+((lp58
+V\u0423\u0447\u0435\u0431\u043d\u044b\u0439 \u043f\u0440\u043e\u0446\u0435\u0441\u0441 \u0432 IT
+p59
+aV\u0411\u043b\u043e\u0433\u043e\u0441\u0444\u0435\u0440\u0430
+p60
+aV\u0413\u0430\u0434\u0436\u0435\u0442\u044b. \u0423\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u0430 \u0434\u043b\u044f \u0433\u0438\u043a\u043e\u0432
+p61
+aV\u0427\u0443\u043b\u0430\u043d
+p62
+aV\u041a\u0440\u0430\u0443\u0434\u0441\u043e\u0440\u0441\u0438\u043d\u0433
+p63
+aV\u0416\u0435\u043b\u0435\u0437\u043e
+p64
+aV\u0421\u0435\u043c\u0430\u043d\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0421\u0435\u0442\u044c
+p65
+aV\u0412\u0435\u0431-\u0434\u0438\u0437\u0430\u0439\u043d
+p66
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p67
+aV\u042d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u0430\u044f \u043a\u043e\u043c\u043c\u0435\u0440\u0446\u0438\u044f
+p68
+aV\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u0440\u0435\u043a\u043b\u0430\u043c\u0430
+p69
+aV\u0418\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044b
+p70
+aV\u0418\u043d\u0442\u0435\u0440\u0432\u044c\u044e
+p71
+aV\u0414\u0438\u0437\u0430\u0439\u043d \u0432 IT
+p72
+aV\u0423\u0431\u0443\u043d\u0442\u0430\u0440\u0438\u0443\u043c
+p73
+aV\u041a\u0438\u0431\u0435\u0440\u043f\u0430\u043d\u043a
+p74
+aVGTD
+p75
+aV\u0411\u0443\u0434\u0443\u0449\u0435\u0435 \u0437\u0434\u0435\u0441\u044c
+p76
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p77
+aV\u041f\u0435\u0440\u0435\u0432\u043e\u0434\u044b
+p78
+aV\u0422\u0438\u043f\u043e\u0433\u0440\u0430\u0444\u0438\u043a\u0430
+p79
+aVCSS
+p80
+aVGoogle
+p81
+aVAdobe
+p82
+aVApple
+p83
+aV\u0424\u0440\u0438\u043b\u0430\u043d\u0441
+p84
+aVPeer-to-Peer
+p85
+atRp86
+sS'invitees'
+p87
+NstRp88
+g88
+b.

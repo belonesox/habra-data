@@ -1,0 +1,46 @@
+(dp1
+S'interests'
+p2
+c__builtin__
+set
+p3
+((lp4
+Vc
+aV\u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043f\u0440\u043e\u0435\u043a\u0442\u0430\u043c\u0438
+p5
+aV\u0438\u0438
+p6
+aV\u043f\u0441\u0438\u0445\u043e\u043b\u043e\u0433\u0438\u044f \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f
+p7
+atRp8
+sS'friends'
+p9
+g3
+((lp10
+Valizar
+p11
+aValtmind
+p12
+atRp13
+sS'companies'
+p14
+NsS'hubs'
+p15
+g3
+((lp16
+V\u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043f\u0440\u043e\u0435\u043a\u0442\u0430\u043c\u0438
+p17
+aVGTD
+p18
+aVPerl
+p19
+aV\u0416\u0435\u043b\u0435\u0437\u043e
+p20
+aVFirefox
+p21
+aVAndroid
+p22
+atRp23
+sS'invitees'
+p24
+Ns.

@@ -1,0 +1,121 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+V\u0432\u0435\u0431-\u0434\u0438\u0437\u0430\u0439\u043d
+p8
+aV\u043c\u0443\u0437\u044b\u043a\u0430
+p9
+aVphp
+p10
+aV\u0441\u043e\u0437\u0434\u0430\u043d\u0438\u0435 \u0441\u0430\u0439\u0442\u043e\u0432
+p11
+aVphotoshop
+p12
+atRp13
+sS'friends'
+p14
+g6
+((lp15
+Vwi0live
+p16
+atRp17
+sS'companies'
+p18
+g6
+((lp19
+VGoogle
+p20
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p21
+aVApple
+p22
+aVParcsis/Turbomilk
+p23
+atRp24
+sS'hubs'
+p25
+g6
+((lp26
+ViPad
+p27
+aV\u0427\u0443\u043b\u0430\u043d
+p28
+aVWindows Phone
+p29
+aV\u0413\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043e\u0431\u043e\u043b\u043e\u0447\u043a\u0438
+p30
+aV\u041e\u0431\u043e\u043b\u043e\u0447\u043a\u0438
+p31
+aVGoogle Chrome
+p32
+aV\u0412\u0435\u0431-\u0434\u0438\u0437\u0430\u0439\u043d
+p33
+aVInternet Explorer
+p34
+aVAndroid
+p35
+aV\u0418\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044b
+p36
+aV\u0414\u0438\u0437\u0430\u0439\u043d \u0432 IT
+p37
+aVMac OS X
+p38
+aVMozilla
+p39
+aVWindows
+p40
+aVSafari
+p41
+aV*nix
+p42
+aV\u0423\u0431\u0443\u043d\u0442\u0430\u0440\u0438\u0443\u043c
+p43
+aV\u0421\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0435 \u0441\u0435\u0442\u0438 \u0438 \u0441\u043e\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0430
+p44
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p45
+aVOpera
+p46
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p47
+aV\u041e\u043f\u0435\u0440\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0441\u0438\u0441\u0442\u0435\u043c\u044b
+p48
+aViPhone
+p49
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043f\u043e\u0434 iOS
+p50
+aVGMail
+p51
+aVGoogle
+p52
+aVFirefox
+p53
+aVApple
+p54
+aVTwitter
+p55
+aV\u0411\u0440\u0430\u0443\u0437\u0435\u0440\u044b
+p56
+aVLinux
+p57
+aVPHP
+p58
+atRp59
+sS'invitees'
+p60
+NstRp61
+g61
+b.

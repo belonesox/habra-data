@@ -1,0 +1,140 @@
+(dp1
+S'interests'
+p2
+NsS'friends'
+p3
+c__builtin__
+set
+p4
+((lp5
+Vryuzaki_spb
+p6
+aVrinat_crone
+p7
+aVyuretsz
+p8
+aVlonelydreamer
+p9
+aVVolosatik
+p10
+aVAntikiller
+p11
+aVshegol
+p12
+aVLimeOrange
+p13
+aVTravin
+p14
+aVTerminal
+p15
+aVexelens
+p16
+aValek_sys
+p17
+aVdrakulavich
+p18
+aVNash
+p19
+aVSomebody32
+p20
+atRp21
+sS'companies'
+p22
+g4
+((lp23
+VZend Technologies
+p24
+aVGoogle
+p25
+aV\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435
+p26
+aVSun Microsystems
+p27
+aV\u041c\u0435\u0433\u0430\u0444\u043e\u043d
+p28
+aVMozilla Foundation
+p29
+aVLast.fm
+p30
+aVFacebook
+p31
+aVMandriva
+p32
+aVAMD (Advanced Micro Devices)
+p33
+aVCanonical
+p34
+atRp35
+sS'hubs'
+p36
+g4
+((lp37
+VjQuery
+p38
+aV\u0423\u0447\u0435\u0431\u043d\u044b\u0439 \u043f\u0440\u043e\u0446\u0435\u0441\u0441 \u0432 IT
+p39
+aV\u0427\u0443\u043b\u0430\u043d
+p40
+aV\u0421\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0435 \u0441\u0435\u0442\u0438 \u0438 \u0441\u043e\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0430
+p41
+aVJavaScript
+p42
+aVSun Microsystems
+p43
+aVWordpress
+p44
+aVMySQL
+p45
+aVAndroid
+p46
+aV\u042d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u0430\u044f \u043a\u043e\u043c\u043c\u0435\u0440\u0446\u0438\u044f
+p47
+aV\u0418\u043d\u0442\u0435\u0440\u0432\u044c\u044e
+p48
+aVCodeIgniter
+p49
+aV\u0414\u0438\u0437\u0430\u0439\u043d \u0432 IT
+p50
+aVPython
+p51
+aV\u0423\u0431\u0443\u043d\u0442\u0430\u0440\u0438\u0443\u043c
+p52
+aVAjax
+p53
+aVRuby
+p54
+aV\u0425\u0430\u0431\u0440\u0430\u0445\u0430\u0431\u0440
+p55
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p56
+aVDrupal
+p57
+aVDjango
+p58
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p59
+aV\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p60
+aVGoogle
+p61
+aVFirefox
+p62
+aV\u0421\u043c\u0430\u0440\u0442\u0444\u043e\u043d\u044b \u0438 \u043a\u043e\u043c\u043c\u0443\u043d\u0438\u043a\u0430\u0442\u043e\u0440\u044b
+p63
+aV\u0418\u0434\u0435\u0438 \u0434\u043b\u044f \u0441\u0442\u0430\u0440\u0442\u0430\u043f\u043e\u0432
+p64
+aVLinux
+p65
+atRp66
+sS'invitees'
+p67
+g4
+((lp68
+VTerminal
+p69
+aVEarl
+p70
+aVVolosatik
+p71
+atRp72
+s.

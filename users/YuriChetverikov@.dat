@@ -1,0 +1,110 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+Vafitiskin
+p9
+aVaeryaguzov
+p10
+aVwit
+p11
+aVfoxyovovich
+p12
+aVChips
+p13
+aVfim
+p14
+atRp15
+sS'companies'
+p16
+g7
+((lp17
+VWebMoney Transfer
+p18
+aV\u0410\u0448\u043c\u0430\u043d\u043e\u0432 \u0438 \u041f\u0430\u0440\u0442\u043d\u0451\u0440\u044b
+p19
+aVAdobe
+p20
+aVBitTorrent
+p21
+aVMozilla Foundation
+p22
+aVRU-CENTER
+p23
+aVGoogle
+p24
+aVLast.fm
+p25
+aVSkype
+p26
+aVREG.RU
+p27
+aVWikimedia Foundation
+p28
+atRp29
+sS'hubs'
+p30
+g7
+((lp31
+VjQuery
+p32
+aV\u041a\u0438\u0431\u0435\u0440\u043f\u0430\u043d\u043a
+p33
+aV\u041a\u043b\u0438\u0435\u043d\u0442\u0441\u043a\u0430\u044f \u043e\u043f\u0442\u0438\u043c\u0438\u0437\u0430\u0446\u0438\u044f
+p34
+aV\u042d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u0430\u044f \u043a\u043e\u043c\u043c\u0435\u0440\u0446\u0438\u044f
+p35
+aVFirefox
+p36
+aV\u0422\u0438\u043f\u043e\u0433\u0440\u0430\u0444\u0438\u043a\u0430
+p37
+aVArduino
+p38
+aVMODx
+p39
+aV\u0427\u0443\u043b\u0430\u043d
+p40
+aV\u0421\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0435 \u0441\u0435\u0442\u0438 \u0438 \u0441\u043e\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0430
+p41
+aV\u0414\u0438\u0437\u0430\u0439\u043d \u0432 IT
+p42
+aV\u041a\u043e\u0434\u043e\u0411\u0440\u0435\u0434
+p43
+aV\u0417\u0430\u043d\u0438\u043c\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0435 \u0437\u0430\u0434\u0430\u0447\u043a\u0438
+p44
+aV\u0418\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442
+p45
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p46
+aVAjax
+p47
+aVLinux
+p48
+aVInternet Explorer
+p49
+aVPHP
+p50
+aVASCII
+p51
+aV\u0418\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044b
+p52
+atRp53
+sS'invitees'
+p54
+NstRp55
+g55
+b.

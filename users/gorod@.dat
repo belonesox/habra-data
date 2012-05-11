@@ -1,0 +1,120 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+Vrtmp
+p8
+aV\u0446\u0438\u0444\u0440\u043e\u0432\u0430\u044f \u0434\u0438\u0441\u0442\u0440\u0438\u0431\u0443\u0446\u0438\u044f
+p9
+aV\u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442 \u0432 \u0440\u0435\u0433\u0438\u043e\u043d\u0430\u0445
+p10
+aVcdn
+p11
+aVflash
+p12
+aVhls
+p13
+aVdynamic streaming
+p14
+aVstreaming
+p15
+aVhtml5
+p16
+aV\u043f\u043e\u0442\u043e\u043a\u043e\u0432\u043e\u0435 \u0432\u0435\u0449\u0430\u043d\u0438\u0435
+p17
+aV\u0441\u0442\u0440\u0438\u043c\u0438\u043d\u0433
+p18
+aVcloud
+p19
+aV\u0434\u043e\u0441\u0442\u0430\u0432\u043a\u0430 \u043a\u043e\u043d\u0442\u0435\u043d\u0442\u0430
+p20
+atRp21
+sS'friends'
+p22
+g6
+((lp23
+Vstrog
+p24
+aVmerc
+p25
+aValexnikleo
+p26
+aVDenisov
+p27
+aVspasibo_kep
+p28
+atRp29
+sS'companies'
+p30
+g6
+((lp31
+VCDNvideo
+p32
+aVLavinaTV
+p33
+atRp34
+sS'hubs'
+p35
+g6
+((lp36
+V\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p37
+aVGTD
+p38
+aVApple
+p39
+aV\u041c\u043e\u0439 \u0431\u0438\u0437\u043d\u0435\u0441
+p40
+aV\u0425\u043e\u0441\u0442\u0438\u043d\u0433
+p41
+aV\u0427\u0443\u043b\u0430\u043d
+p42
+aV\u0411\u0443\u0434\u0443\u0449\u0435\u0435 \u0437\u0434\u0435\u0441\u044c
+p43
+aVHuman Resources
+p44
+aV\u0420\u0430\u0431\u043e\u0442\u0430 \u0441 \u0432\u0438\u0434\u0435\u043e
+p45
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p46
+atRp47
+sS'invitees'
+p48
+g6
+((lp49
+Valex_korolewa
+p50
+aVkanoh
+p51
+aVmgSergio
+p52
+aVNAD
+p53
+aVCDN
+p54
+aVanri
+p55
+aVsi13
+p56
+aVdimadm
+p57
+aVaplemakh
+p58
+aVGarusev
+p59
+atRp60
+stRp61
+g61
+b.

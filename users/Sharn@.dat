@@ -1,0 +1,105 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+Vknyas
+p9
+aVvovkavk
+p10
+atRp11
+sS'companies'
+p12
+g7
+((lp13
+VdeviantART
+p14
+aVGoogle
+p15
+aVWikimedia Foundation
+p16
+aV\u0421\u0442\u0443\u0434\u0438\u044f \u0410\u0440\u0442\u0435\u043c\u0438\u044f \u041b\u0435\u0431\u0435\u0434\u0435\u0432\u0430
+p17
+aVMozilla Foundation
+p18
+atRp19
+sS'hubs'
+p20
+g7
+((lp21
+V\u041f\u043e\u0434\u043a\u0430\u0441\u0442\u044b
+p22
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p23
+aVDIY \u0438\u043b\u0438 \u0421\u0434\u0435\u043b\u0430\u0439 \u0421\u0430\u043c
+p24
+aV\u0418\u043d\u0442\u0435\u0440\u0432\u044c\u044e
+p25
+aVCodeIgniter
+p26
+aVPython
+p27
+aVMac OS X
+p28
+aV\u041d\u0430\u0443\u0447\u043d\u043e-\u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u043e\u0435
+p29
+aV\u0423\u0431\u0443\u043d\u0442\u0430\u0440\u0438\u0443\u043c
+p30
+aV\u0427\u0443\u043b\u0430\u043d
+p31
+aV\u0425\u0430\u0431\u0440\u0430\u0445\u0430\u0431\u0440
+p32
+aVGTD
+p33
+aV\u0421\u0442\u0430\u0440\u043e\u0435 \u0436\u0435\u043b\u0435\u0437\u043e
+p34
+aVDrupal
+p35
+aVDjango
+p36
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p37
+aVGoogle App Engine
+p38
+aVIM
+p39
+aV\u0422\u0438\u043f\u043e\u0433\u0440\u0430\u0444\u0438\u043a\u0430
+p40
+aVCSS
+p41
+aV\u0418\u0441\u0442\u043e\u0440\u0438\u044f \u0418\u0422
+p42
+aV\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p43
+aVGoogle
+p44
+aVFirefox
+p45
+aVApple
+p46
+aVTwitter
+p47
+atRp48
+sS'invitees'
+p49
+g7
+((lp50
+Vvovkavk
+p51
+atRp52
+stRp53
+g53
+b.

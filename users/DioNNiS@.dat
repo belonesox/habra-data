@@ -1,0 +1,94 @@
+(dp1
+S'interests'
+p2
+NsS'friends'
+p3
+c__builtin__
+set
+p4
+((lp5
+Vd0lfin
+p6
+aVshwars
+p7
+aVAlexChernyy
+p8
+aVpeter23
+p9
+aVazazel
+p10
+aVVeXell
+p11
+aVXaocCPS
+p12
+aVargnist
+p13
+aVAlexSlash
+p14
+aVCandela
+p15
+atRp16
+sS'companies'
+p17
+g4
+((lp18
+VGoogle
+p19
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p20
+aVApple
+p21
+aVMicrosoft
+p22
+atRp23
+sS'hubs'
+p24
+g4
+((lp25
+VGoogle
+p26
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p27
+aVApple
+p28
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p29
+aV\u0427\u0443\u043b\u0430\u043d
+p30
+aVWindows Phone
+p31
+aV.NET
+p32
+aV\u041f\u043e\u0438\u0441\u043a\u043e\u0432\u0430\u044f \u043e\u043f\u0442\u0438\u043c\u0438\u0437\u0430\u0446\u0438\u044f
+p33
+aVC++
+p34
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p35
+aVSharePoint
+p36
+aVVisual Studio
+p37
+aV\u0414\u0438\u0437\u0430\u0439\u043d \u0432 IT
+p38
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043f\u043e\u0434 iOS
+p39
+aV\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p40
+aVPHP
+p41
+aVMono \u0438 Moonlight
+p42
+aVMicrosoft
+p43
+aVGame Development
+p44
+atRp45
+sS'invitees'
+p46
+g4
+((lp47
+VCandela
+p48
+atRp49
+s.

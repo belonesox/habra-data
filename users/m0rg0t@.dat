@@ -1,0 +1,64 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+NsS'companies'
+p7
+NsS'hubs'
+p8
+c__builtin__
+set
+p9
+((lp10
+VjQuery
+p11
+aV\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p12
+aV\u041c\u0438\u043a\u0440\u043e\u0444\u043e\u0440\u043c\u0430\u0442\u044b
+p13
+aVFirefox
+p14
+aVDrupal
+p15
+aVRuby
+p16
+aVWindows Phone
+p17
+aV.NET
+p18
+aV\u0421\u0435\u0442\u0435\u0432\u044b\u0435 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438
+p19
+aVHTML
+p20
+aVGoogle Chrome
+p21
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p22
+aVMySQL
+p23
+aV\u041e\u0431\u043b\u0430\u0447\u043d\u044b\u0435 \u0432\u044b\u0447\u0438\u0441\u043b\u0435\u043d\u0438\u044f
+p24
+aVPHP
+p25
+aVCMS
+p26
+aVCSS
+p27
+aVMobile Development
+p28
+atRp29
+sS'invitees'
+p30
+NstRp31
+g31
+b.

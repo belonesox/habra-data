@@ -1,0 +1,66 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+VmaximYCH
+p9
+atRp10
+sS'companies'
+p11
+g7
+((lp12
+VSun Microsystems
+p13
+aVMicrosoft
+p14
+aVMozilla Foundation
+p15
+atRp16
+sS'hubs'
+p17
+g7
+((lp18
+V\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p19
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p20
+aV\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c
+p21
+aVPython
+p22
+aV\u0427\u0443\u043b\u0430\u043d
+p23
+aVJavaScript
+p24
+aV\u041d\u0430\u0443\u0447\u043d\u043e-\u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u043e\u0435
+p25
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p26
+aV\u041e\u043f\u0435\u0440\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0441\u0438\u0441\u0442\u0435\u043c\u044b
+p27
+aV\u0416\u0435\u043b\u0435\u0437\u043e
+p28
+aVMySQL
+p29
+aVPHP
+p30
+atRp31
+sS'invitees'
+p32
+NstRp33
+g33
+b.

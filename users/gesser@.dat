@@ -1,0 +1,77 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+V\u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043f\u0440\u043e\u0435\u043a\u0442\u0430\u043c\u0438
+p8
+aV\u043f\u0440\u043e\u0435\u043a\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p9
+aV\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u0441\u043b\u043e\u0436\u043d\u044b\u0445 \u0432\u0435\u0431-\u043f\u0440\u043e\u0435\u043a\u0442\u043e\u0432
+p10
+atRp11
+sS'friends'
+p12
+g6
+((lp13
+VCooluck
+p14
+aVjvetrau
+p15
+aVisteinzeig
+p16
+aVadnull
+p17
+aVanoxoon
+p18
+aVIke
+p19
+aVCoxus
+p20
+aVilvar
+p21
+atRp22
+sS'companies'
+p23
+g6
+((lp24
+VGoogle
+p25
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p26
+aVMozilla Foundation
+p27
+atRp28
+sS'hubs'
+p29
+g6
+((lp30
+V\u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043f\u0440\u043e\u0435\u043a\u0442\u0430\u043c\u0438
+p31
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p32
+aV\u0411\u0443\u0434\u0443\u0449\u0435\u0435 \u0437\u0434\u0435\u0441\u044c
+p33
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p34
+aVData Mining
+p35
+aVGTD
+p36
+atRp37
+sS'invitees'
+p38
+NstRp39
+g39
+b.

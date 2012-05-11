@@ -1,0 +1,42 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+NsS'companies'
+p7
+NsS'hubs'
+p8
+c__builtin__
+set
+p9
+((lp10
+V\u041f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0430
+p11
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p12
+aV\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c
+p13
+aVRuby
+p14
+aVRuby on Rails
+p15
+aVDIY \u0438\u043b\u0438 \u0421\u0434\u0435\u043b\u0430\u0439 \u0421\u0430\u043c
+p16
+aV\u0410\u043b\u0433\u043e\u0440\u0438\u0442\u043c\u044b
+p17
+atRp18
+sS'invitees'
+p19
+NstRp20
+g20
+b.

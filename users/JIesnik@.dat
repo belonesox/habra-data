@@ -1,0 +1,97 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+V\u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442
+p8
+aV\u0434\u0435\u0432\u0443\u0448\u043a\u0438
+p9
+aV\u043c\u0443\u0437\u044b\u043a\u0430
+p10
+aV\u0432\u0435\u0431-\u0434\u0438\u0437\u0430\u0439\u043d
+p11
+aV\u0430\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u0438
+p12
+aV\u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u044b
+p13
+atRp14
+sS'friends'
+p15
+g6
+((lp16
+VIskin
+p17
+aVYozhiks
+p18
+atRp19
+sS'companies'
+p20
+g6
+((lp21
+VGoogle
+p22
+aVApple
+p23
+aVWikimapia
+p24
+aV\u0422\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u041c\u0435\u0434\u0438\u0430
+p25
+aVMozilla Foundation
+p26
+aVNigma
+p27
+aVWikimedia Foundation
+p28
+aVApache Software Foundation
+p29
+aVCanonical
+p30
+atRp31
+sS'hubs'
+p32
+g6
+((lp33
+VQt Software
+p34
+aV\u0411\u0440\u0430\u0443\u0437\u0435\u0440\u044b
+p35
+aVOpen source
+p36
+aVCreative Commons
+p37
+aV\u0425\u0430\u0431\u0440\u0430\u0445\u0430\u0431\u0440
+p38
+aV\u0427\u0443\u043b\u0430\u043d
+p39
+aV*nix
+p40
+aV\u0423\u0431\u0443\u043d\u0442\u0430\u0440\u0438\u0443\u043c
+p41
+aVLinux
+p42
+aV\u0412\u0435\u0431-\u0434\u0438\u0437\u0430\u0439\u043d
+p43
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p44
+aVAndroid
+p45
+aVPHP
+p46
+atRp47
+sS'invitees'
+p48
+NstRp49
+g49
+b.

@@ -1,0 +1,113 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+Vdelfin
+p9
+aVCB9TOIIIA
+p10
+aVgrint
+p11
+atRp12
+sS'companies'
+p13
+g7
+((lp14
+V37signals
+p15
+aVGoogle
+p16
+aVid Software
+p17
+aVSix Apart
+p18
+aVSkype
+p19
+aVNintendo
+p20
+aVCanonical
+p21
+atRp22
+sS'hubs'
+p23
+g7
+((lp24
+VjQuery
+p25
+aVCanvas
+p26
+aVGit
+p27
+aVOpen source
+p28
+aV\u0427\u0443\u043b\u0430\u043d
+p29
+aVJavaScript
+p30
+aV\u0425\u0430\u0431\u0440\u0430\u0445\u0430\u0431\u0440 \u2014 \u0410\u043d\u043e\u043d\u0441\u044b
+p31
+aV\u041a\u043b\u0438\u0435\u043d\u0442\u0441\u043a\u0430\u044f \u043e\u043f\u0442\u0438\u043c\u0438\u0437\u0430\u0446\u0438\u044f
+p32
+aV\u041f\u043b\u0430\u0442\u0435\u0436\u043d\u044b\u0435 \u0441\u0438\u0441\u0442\u0435\u043c\u044b
+p33
+aVAndroid
+p34
+aVDIY \u0438\u043b\u0438 \u0421\u0434\u0435\u043b\u0430\u0439 \u0421\u0430\u043c
+p35
+aV\u0421\u0435\u0440\u0432\u0435\u0440\u043d\u0430\u044f \u043e\u043f\u0442\u0438\u043c\u0438\u0437\u0430\u0446\u0438\u044f
+p36
+aVNginx
+p37
+aV\u0423\u0431\u0443\u043d\u0442\u0430\u0440\u0438\u0443\u043c
+p38
+aVHTML
+p39
+aV\u0425\u0430\u0431\u0440\u0430\u0445\u0430\u0431\u0440
+p40
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p41
+aV\u041c\u043e\u0439 \u0431\u0438\u0437\u043d\u0435\u0441
+p42
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p43
+aV\u0422\u0438\u043f\u043e\u0433\u0440\u0430\u0444\u0438\u043a\u0430
+p44
+aVCSS
+p45
+aV\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p46
+aV\u0412\u0435\u043a\u0442\u043e\u0440\u043d\u0430\u044f \u0433\u0440\u0430\u0444\u0438\u043a\u0430
+p47
+aVMongoDB
+p48
+aVNode.JS
+p49
+aVLinux
+p50
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043f\u043e\u0434 Android
+p51
+atRp52
+sS'invitees'
+p53
+g7
+((lp54
+Vshilova_rus
+p55
+atRp56
+stRp57
+g57
+b.

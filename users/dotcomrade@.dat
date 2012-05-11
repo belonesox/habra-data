@@ -1,0 +1,137 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+Vslatvick
+p9
+aVvikolyada
+p10
+aVprbyte
+p11
+aVhorsev
+p12
+aVWoZ
+p13
+aVImposeren
+p14
+aVbishop3000
+p15
+aVvandriichuk
+p16
+aVvortex
+p17
+aVAntonShevchuk
+p18
+aVDeNn
+p19
+aVDenisVaihanski
+p20
+aVsashaeve
+p21
+aVDukobpa3
+p22
+aVPaul
+p23
+aVmrBadim
+p24
+aVTKing
+p25
+aVbexcite
+p26
+atRp27
+sS'companies'
+p28
+g7
+((lp29
+V37signals
+p30
+aVGoogle
+p31
+aVApple
+p32
+aV908
+p33
+aVBlizzard Entertainment
+p34
+aVCiklum
+p35
+atRp36
+sS'hubs'
+p37
+g7
+((lp38
+V\u0413\u0430\u0434\u0436\u0435\u0442\u044b. \u0423\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u0430 \u0434\u043b\u044f \u0433\u0438\u043a\u043e\u0432
+p39
+aVAgile
+p40
+aV.NET
+p41
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p42
+aVDIY \u0438\u043b\u0438 \u0421\u0434\u0435\u043b\u0430\u0439 \u0421\u0430\u043c
+p43
+aV\u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043f\u0440\u043e\u0435\u043a\u0442\u0430\u043c\u0438
+p44
+aVMac OS X
+p45
+aV\u0427\u0438\u0442\u0430\u043b\u044c\u043d\u044b\u0439 \u0437\u0430\u043b
+p46
+aVMozilla
+p47
+aV\u0424\u0438\u043d\u0430\u043d\u0441\u044b \u0434\u043b\u044f \u0432\u0441\u0435\u0445
+p48
+aV\u0427\u0443\u043b\u0430\u043d
+p49
+aV\u0425\u0430\u0431\u0440\u0430\u0445\u0430\u0431\u0440
+p50
+aVGTD
+p51
+aV\u041c\u043e\u0439 \u0431\u0438\u0437\u043d\u0435\u0441
+p52
+aVC++
+p53
+aV\u041f\u0440\u043e\u0435\u043a\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0438 \u0440\u0435\u0444\u0430\u043a\u0442\u043e\u0440\u0438\u043d\u0433
+p54
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043f\u043e\u0434 iOS
+p55
+aVGame Development
+p56
+aV\u0421\u0442\u0430\u0440\u043e\u0435 \u0436\u0435\u043b\u0435\u0437\u043e
+p57
+aVJAVA
+p58
+aVApple
+p59
+aV\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c
+p60
+aVTwitter
+p61
+aV\u041d\u0435\u043d\u043e\u0440\u043c\u0430\u043b\u044c\u043d\u043e\u0435 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p62
+aV\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p63
+atRp64
+sS'invitees'
+p65
+g7
+((lp66
+Vzheneva
+p67
+atRp68
+stRp69
+g69
+b.

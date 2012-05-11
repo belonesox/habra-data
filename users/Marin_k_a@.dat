@@ -1,0 +1,70 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+Vnubrik
+p9
+aVNightquest
+p10
+aVSystemGroup
+p11
+aVPaulColomiets
+p12
+aVmeua
+p13
+aVeakukin
+p14
+atRp15
+sS'companies'
+p16
+g7
+((lp17
+VABBYY
+p18
+aVRussian Podcasting
+p19
+aVWikimedia Foundation
+p20
+aVApple
+p21
+aVMozilla Foundation
+p22
+atRp23
+sS'hubs'
+p24
+g7
+((lp25
+V\u0421\u0442\u0430\u0440\u043e\u0435 \u0436\u0435\u043b\u0435\u0437\u043e
+p26
+aVApple
+p27
+aV\u0413\u0430\u0434\u0436\u0435\u0442\u044b. \u0423\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u0430 \u0434\u043b\u044f \u0433\u0438\u043a\u043e\u0432
+p28
+aVPython
+p29
+aV\u041f\u043e\u0434\u043a\u0430\u0441\u0442\u044b
+p30
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043f\u043e\u0434 iOS
+p31
+aV\u0427\u0443\u043b\u0430\u043d
+p32
+atRp33
+sS'invitees'
+p34
+NstRp35
+g35
+b.

@@ -1,0 +1,63 @@
+(dp1
+S'interests'
+p2
+NsS'friends'
+p3
+c__builtin__
+set
+p4
+((lp5
+VShvarts
+p6
+aVmayson
+p7
+aVlampochkina
+p8
+aVradiator
+p9
+aVRizhikov
+p10
+aVwebzest
+p11
+aVsn00p
+p12
+aVavocenzuk
+p13
+aVmarlyska
+p14
+aVlikegroof
+p15
+atRp16
+sS'companies'
+p17
+g4
+((lp18
+V\u0414\u0443\u0431\u043b\u044c\u0413\u0418\u0421 (2\u0413\u0418\u0421)
+p19
+atRp20
+sS'hubs'
+p21
+g4
+((lp22
+VIT-\u0411\u0438\u043e\u0433\u0440\u0430\u0444\u0438\u0438
+p23
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p24
+aVAgile
+p25
+aVWindows Phone
+p26
+aV\u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043f\u0440\u043e\u0435\u043a\u0442\u0430\u043c\u0438
+p27
+aVTDD
+p28
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p29
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043f\u043e\u0434 iOS
+p30
+aVGPS
+p31
+atRp32
+sS'invitees'
+p33
+Ns.

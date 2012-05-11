@@ -1,0 +1,96 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+NsS'companies'
+p7
+c__builtin__
+set
+p8
+((lp9
+VOpera Software ASA
+p10
+atRp11
+sS'hubs'
+p12
+g8
+((lp13
+VjQuery
+p14
+aVNoSQL
+p15
+aVDelphi
+p16
+aVJavaScript
+p17
+aV\u0410\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0431\u0430\u0437 \u0434\u0430\u043d\u043d\u044b\u0445
+p18
+aVMySQL
+p19
+aV1\u0421-\u0411\u0438\u0442\u0440\u0438\u043a\u0441
+p20
+aV\u0412\u0438\u0440\u0443\u0441\u044b (\u0438 \u0430\u043d\u0442\u0438\u0432\u0438\u0440\u0443\u0441\u044b)
+p21
+aVC#
+p22
+aV\u0423\u0431\u0443\u043d\u0442\u0430\u0440\u0438\u0443\u043c
+p23
+aVAjax
+p24
+aVZend Framework
+p25
+aV\u0421\u043f\u0430\u043c (\u0438 \u0430\u043d\u0442\u0438\u0441\u043f\u0430\u043c)
+p26
+aVXML
+p27
+aVC
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p28
+aVXSLT
+p29
+aVC++
+p30
+aVData Mining
+p31
+aVOracle
+p32
+aVPDF
+p33
+aVCSS
+p34
+aV\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p35
+aVPostgreSQL
+p36
+aV\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c
+p37
+aVMongoDB
+p38
+aVAssembler
+p39
+aVDoctrine ORM
+p40
+aVAPI
+p41
+aVSQL
+p42
+aV\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p43
+aV\u041a\u0440\u0438\u043f\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u044f
+p44
+atRp45
+sS'invitees'
+p46
+NstRp47
+g47
+b.

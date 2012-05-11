@@ -1,0 +1,55 @@
+(dp1
+S'interests'
+p2
+NsS'friends'
+p3
+NsS'companies'
+p4
+NsS'hubs'
+p5
+c__builtin__
+set
+p6
+((lp7
+V\u0412\u0438\u0440\u0443\u0441\u044b (\u0438 \u0430\u043d\u0442\u0438\u0432\u0438\u0440\u0443\u0441\u044b)
+p8
+aVMongoDB
+p9
+aV\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c
+p10
+aVNoSQL
+p11
+aVSQL
+p12
+aVCubrid
+p13
+aV\u0421\u043f\u0430\u043c (\u0438 \u0430\u043d\u0442\u0438\u0441\u043f\u0430\u043c)
+p14
+aVData Mining
+p15
+aVMicrosoft SQL Server
+p16
+aV\u0413\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043e\u0431\u043e\u043b\u043e\u0447\u043a\u0438
+p17
+aVOracle
+p18
+aVDoctrine ORM
+p19
+aV\u041e\u043f\u0435\u0440\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0441\u0438\u0441\u0442\u0435\u043c\u044b
+p20
+aVLinux
+p21
+aVMySQL
+p22
+aVPostgreSQL
+p23
+aVAndroid
+p24
+aV\u041a\u0440\u0438\u043f\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u044f
+p25
+aV*nix
+p26
+atRp27
+sS'invitees'
+p28
+Ns.

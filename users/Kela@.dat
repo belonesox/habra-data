@@ -1,0 +1,64 @@
+(dp1
+S'interests'
+p2
+NsS'friends'
+p3
+NsS'companies'
+p4
+c__builtin__
+set
+p5
+((lp6
+VGoogle
+p7
+aVAdobe
+p8
+aVABBYY
+p9
+aVOpera Software ASA
+p10
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p11
+aVLinguaLeo
+p12
+atRp13
+sS'hubs'
+p14
+g5
+((lp15
+V\u0418\u0441\u0442\u043e\u0440\u0438\u0438 \u0443\u0441\u043f\u0435\u0445\u0430
+p16
+aV\u0425\u0430\u0431\u0440\u0430\u0445\u0430\u0431\u0440
+p17
+aV\u0423\u0447\u0435\u0431\u043d\u044b\u0439 \u043f\u0440\u043e\u0446\u0435\u0441\u0441 \u0432 IT
+p18
+aVGoogle
+p19
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p20
+aVDura Lex
+p21
+aVOpera
+p22
+aV\u0427\u0443\u043b\u0430\u043d
+p23
+aVWindows Phone
+p24
+aV\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p25
+aVC++
+p26
+aVWindows
+p27
+aVLinux
+p28
+aV\u0421\u043e\u0444\u0442
+p29
+aV\u0418\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044b
+p30
+aV\u0421\u043c\u0430\u0440\u0442\u0444\u043e\u043d\u044b \u0438 \u043a\u043e\u043c\u043c\u0443\u043d\u0438\u043a\u0430\u0442\u043e\u0440\u044b
+p31
+atRp32
+sS'invitees'
+p33
+Ns.

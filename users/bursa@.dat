@@ -1,0 +1,61 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+Vgrauru
+p9
+aVmaster1981
+p10
+atRp11
+sS'companies'
+p12
+NsS'hubs'
+p13
+g7
+((lp14
+VGTD
+p15
+aV\u0418\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u044f \u0438 \u043f\u0440\u043e\u0433\u043d\u043e\u0437\u044b \u0432 IT
+p16
+aV\u0422\u0435\u043b\u0435\u043a\u043e\u043c\u044b
+p17
+aVAgile
+p18
+aV\u0411\u0440\u0430\u0443\u0437\u0435\u0440\u044b
+p19
+aV\u041e\u0431\u043b\u0430\u0447\u043d\u044b\u0435 \u0432\u044b\u0447\u0438\u0441\u043b\u0435\u043d\u0438\u044f
+p20
+aVNode.JS
+p21
+aVNginx
+p22
+aVGoogle App Engine
+p23
+aVGoogle Chrome
+p24
+aVSaaS / S+S
+p25
+aVPHP
+p26
+aVZend Framework
+p27
+atRp28
+sS'invitees'
+p29
+NstRp30
+g30
+b.

@@ -1,0 +1,66 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+NsS'companies'
+p7
+NsS'hubs'
+p8
+c__builtin__
+set
+p9
+((lp10
+VSymfony
+p11
+aVQt Software
+p12
+aV\u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043f\u0440\u043e\u0435\u043a\u0442\u0430\u043c\u0438
+p13
+aV\u0427\u0443\u043b\u0430\u043d
+p14
+aV\u0414\u0438\u0437\u0430\u0439\u043d \u0432 IT
+p15
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043f\u043e\u0434 Android
+p16
+aVjQuery
+p17
+aVJavaScript
+p18
+aVRuby on Rails
+p19
+aV\u0423\u0431\u0443\u043d\u0442\u0430\u0440\u0438\u0443\u043c
+p20
+aVAjax
+p21
+aVLinux
+p22
+aVMySQL
+p23
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p24
+aVAndroid
+p25
+aVPHP
+p26
+aVRuby
+p27
+aV*nix
+p28
+aVCSS
+p29
+atRp30
+sS'invitees'
+p31
+NstRp32
+g32
+b.

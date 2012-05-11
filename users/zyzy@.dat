@@ -1,0 +1,58 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+NsS'companies'
+p7
+NsS'hubs'
+p8
+c__builtin__
+set
+p9
+((lp10
+VJAVA
+p11
+aVGame Development
+p12
+aVNoSQL
+p13
+aVSQL
+p14
+aVPython
+p15
+aVCubrid
+p16
+aVMySQL
+p17
+aVMongoDB
+p18
+aVDoctrine ORM
+p19
+aVData Mining
+p20
+aVOracle
+p21
+aVPostgreSQL
+p22
+aVPHP
+p23
+aVMicrosoft SQL Server
+p24
+aVMobile Development
+p25
+atRp26
+sS'invitees'
+p27
+NstRp28
+g28
+b.

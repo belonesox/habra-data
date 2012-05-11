@@ -1,0 +1,104 @@
+(dp1
+S'interests'
+p2
+c__builtin__
+set
+p3
+((lp4
+V\u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p5
+aV\u0442\u0443\u0440\u0438\u0437\u043c
+p6
+atRp7
+sS'friends'
+p8
+g3
+((lp9
+Vdpolishuk
+p10
+aVnonexistent
+p11
+aVsmind
+p12
+aVslavaz
+p13
+aVsl_bug
+p14
+aVbUgR0CK
+p15
+atRp16
+sS'companies'
+p17
+g3
+((lp18
+VFree Software Foundation
+p19
+aVGoogle
+p20
+aVWikia
+p21
+aVTranslated.by
+p22
+aVCanonical
+p23
+aVMozilla Foundation
+p24
+aVOpera Software ASA
+p25
+aVApache Software Foundation
+p26
+aVVMware Inc.
+p27
+aVWestByte Software
+p28
+aVTrolltech
+p29
+aVTut.By
+p30
+aVWikimedia Foundation
+p31
+atRp32
+sS'hubs'
+p33
+g3
+((lp34
+V\u0412\u0438\u0440\u0443\u0441\u044b (\u0438 \u0430\u043d\u0442\u0438\u0432\u0438\u0440\u0443\u0441\u044b)
+p35
+aVGit
+p36
+aVOpen source
+p37
+aV\u0412\u0435\u043a\u0442\u043e\u0440\u043d\u0430\u044f \u0433\u0440\u0430\u0444\u0438\u043a\u0430
+p38
+aV\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c
+p39
+aV\u0423\u0431\u0443\u043d\u0442\u0430\u0440\u0438\u0443\u043c
+p40
+aV\u0427\u0443\u043b\u0430\u043d
+p41
+aV\u0411\u0443\u0434\u0443\u0449\u0435\u0435 \u0437\u0434\u0435\u0441\u044c
+p42
+aVAssembler
+p43
+aVC++
+p44
+aV\u0418\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442
+p45
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p46
+aVHaskell
+p47
+aV\u0417\u0430\u043d\u0438\u043c\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0435 \u0437\u0430\u0434\u0430\u0447\u043a\u0438
+p48
+aV\u0416\u0435\u043b\u0435\u0437\u043e
+p49
+aVLinux
+p50
+aVRuby
+p51
+aVGoogle
+p52
+atRp53
+sS'invitees'
+p54
+Ns.

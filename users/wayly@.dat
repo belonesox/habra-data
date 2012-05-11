@@ -1,0 +1,47 @@
+(dp1
+S'interests'
+p2
+c__builtin__
+set
+p3
+((lp4
+Vframework
+p5
+aVajax
+p6
+aVphp
+p7
+aVweb-\u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p8
+aVweb-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p9
+atRp10
+sS'friends'
+p11
+g3
+((lp12
+VDoggy
+p13
+aVenartemy
+p14
+atRp15
+sS'companies'
+p16
+NsS'hubs'
+p17
+g3
+((lp18
+VPython
+p19
+aV\u0421\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0435 \u0441\u0435\u0442\u0438 \u0438 \u0441\u043e\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0430
+p20
+aVPHP
+p21
+aVDura Lex
+p22
+aV\u041f\u043e\u0438\u0441\u043a\u043e\u0432\u0430\u044f \u043e\u043f\u0442\u0438\u043c\u0438\u0437\u0430\u0446\u0438\u044f
+p23
+atRp24
+sS'invitees'
+p25
+Ns.

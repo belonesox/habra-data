@@ -1,0 +1,86 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+NsS'companies'
+p7
+NsS'hubs'
+p8
+c__builtin__
+set
+p9
+((lp10
+V\u0421\u0438\u0441\u0442\u0435\u043c\u043d\u043e\u0435 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p11
+aVGit
+p12
+aVNoSQL
+p13
+aV.NET
+p14
+aVVisual Studio
+p15
+aVMySQL
+p16
+aVASP
+p17
+aV\u0421\u043f\u043e\u0440\u0442\u0438\u0432\u043d\u043e\u0435 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p18
+aVMono \u0438 Moonlight
+p19
+aVMicrosoft SQL Server
+p20
+aV\u0421\u043e\u0432\u0435\u0440\u0448\u0435\u043d\u043d\u044b\u0439 \u043a\u043e\u0434
+p21
+aVQt Software
+p22
+aVOpera
+p23
+aVCubrid
+p24
+aV\u041d\u0435\u043d\u043e\u0440\u043c\u0430\u043b\u044c\u043d\u043e\u0435 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p25
+aVC++
+p26
+aV\u041f\u0440\u043e\u0435\u043a\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0438 \u0440\u0435\u0444\u0430\u043a\u0442\u043e\u0440\u0438\u043d\u0433
+p27
+aVData Mining
+p28
+aVOracle
+p29
+aVPostgreSQL
+p30
+aV\u0410\u043b\u0433\u043e\u0440\u0438\u0442\u043c\u044b
+p31
+aVFirefox
+p32
+aVGame Development
+p33
+aVMongoDB
+p34
+aVAssembler
+p35
+aVTDD
+p36
+aVDoctrine ORM
+p37
+aVSQL
+p38
+aV\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p39
+atRp40
+sS'invitees'
+p41
+NstRp42
+g42
+b.

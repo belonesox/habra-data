@@ -1,0 +1,84 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+Vmylene farmer
+p8
+aVcalculate linux
+p9
+aVgentoo
+p10
+aVgentoo linux
+p11
+aVcalculate
+p12
+atRp13
+sS'friends'
+p14
+g6
+((lp15
+Vchuvak
+p16
+aVkuser
+p17
+atRp18
+sS'companies'
+p19
+NsS'hubs'
+p20
+g6
+((lp21
+V\u041c\u0438\u043a\u0440\u043e\u0431\u043b\u043e\u0433\u0438
+p22
+aV\u0411\u0440\u0430\u0443\u0437\u0435\u0440\u044b
+p23
+aVOpen source
+p24
+aVApple
+p25
+aVPython
+p26
+aV\u0418\u0434\u0435\u0438 \u0434\u043b\u044f \u0441\u0442\u0430\u0440\u0442\u0430\u043f\u043e\u0432
+p27
+aVTwitter
+p28
+aVSkype
+p29
+aVYouTube
+p30
+aVDjango
+p31
+aV\u0413\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043e\u0431\u043e\u043b\u043e\u0447\u043a\u0438
+p32
+aV\u041e\u043f\u0435\u0440\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0441\u0438\u0441\u0442\u0435\u043c\u044b
+p33
+aViPhone
+p34
+aVLinux
+p35
+aVAndroid
+p36
+aV\u0427\u0443\u043b\u0430\u043d
+p37
+aV\u0421\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0435 \u0441\u0435\u0442\u0438 \u0438 \u0441\u043e\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0430
+p38
+aV\u0421\u043c\u0430\u0440\u0442\u0444\u043e\u043d\u044b \u0438 \u043a\u043e\u043c\u043c\u0443\u043d\u0438\u043a\u0430\u0442\u043e\u0440\u044b
+p39
+atRp40
+sS'invitees'
+p41
+NstRp42
+g42
+b.

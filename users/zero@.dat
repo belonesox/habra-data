@@ -1,0 +1,97 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+Vtilarids
+p9
+aVsvetlov
+p10
+aVDeepwalker
+p11
+aVjoymax
+p12
+aVrushman
+p13
+aVscater
+p14
+atRp15
+sS'companies'
+p16
+NsS'hubs'
+p17
+g7
+((lp18
+VGit
+p19
+aVOpen source
+p20
+aV\u0413\u0430\u0434\u0436\u0435\u0442\u044b. \u0423\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u0430 \u0434\u043b\u044f \u0433\u0438\u043a\u043e\u0432
+p21
+aV\u041e\u0444\u0438\u0441\u044b IT-\u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0439
+p22
+aV\u0427\u0443\u043b\u0430\u043d
+p23
+aVJavaScript
+p24
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p25
+aV\u0416\u0435\u043b\u0435\u0437\u043e
+p26
+aVMySQL
+p27
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p28
+aVCMS
+p29
+aV\u0418\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044b
+p30
+aV\u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043f\u0440\u043e\u0435\u043a\u0442\u0430\u043c\u0438
+p31
+aV\u0414\u0438\u0437\u0430\u0439\u043d \u0432 IT
+p32
+aVPython
+p33
+aV\u0417\u0430\u043d\u0438\u043c\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0435 \u0437\u0430\u0434\u0430\u0447\u043a\u0438
+p34
+aV\u0423\u0431\u0443\u043d\u0442\u0430\u0440\u0438\u0443\u043c
+p35
+aVAjax
+p36
+aVGTD
+p37
+aV\u041c\u043e\u0439 \u0431\u0438\u0437\u043d\u0435\u0441
+p38
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p39
+aV\u0422\u0438\u043f\u043e\u0433\u0440\u0430\u0444\u0438\u043a\u0430
+p40
+aVCSS
+p41
+aVGoogle
+p42
+aVFirefox
+p43
+aVApple
+p44
+aVLinux
+p45
+atRp46
+sS'invitees'
+p47
+NstRp48
+g48
+b.

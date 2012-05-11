@@ -1,0 +1,66 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+NsS'companies'
+p7
+NsS'hubs'
+p8
+c__builtin__
+set
+p9
+((lp10
+VXML
+p11
+aVFlex
+p12
+aVCanvas
+p13
+aV\u041c\u0438\u043a\u0440\u043e\u0444\u043e\u0440\u043c\u0430\u0442\u044b
+p14
+aVLaTeX
+p15
+aVPython
+p16
+aV\u041c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0439 \u0432\u0435\u0431
+p17
+aVJavaScript
+p18
+aVAjax
+p19
+aVXSLT
+p20
+aVObjective C
+p21
+aVAction Script
+p22
+aVHTML
+p23
+aVGreaseMonkey
+p24
+aVUML Design
+p25
+aV\u041a\u043b\u0438\u0435\u043d\u0442\u0441\u043a\u0430\u044f \u043e\u043f\u0442\u0438\u043c\u0438\u0437\u0430\u0446\u0438\u044f
+p26
+aVFlash-\u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u0430
+p27
+aVCSS
+p28
+aV\u0411\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u0430 ExtJS/Sencha
+p29
+atRp30
+sS'invitees'
+p31
+NstRp32
+g32
+b.

@@ -1,0 +1,79 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+Vpython
+p8
+aVsite scraping
+p9
+aV\u043f\u0430\u0440\u0441\u0438\u043d\u0433 \u0441\u0430\u0439\u0442\u043e\u0432
+p10
+aV\u0441\u0431\u043e\u0440 \u0434\u0430\u043d\u043d\u044b\u0445
+p11
+aVdata mining
+p12
+atRp13
+sS'friends'
+p14
+g6
+((lp15
+VMurkt
+p16
+aVmuzhig
+p17
+aVdeex
+p18
+aV3ds
+p19
+aVistinspring
+p20
+aVburiy
+p21
+aVMazzz
+p22
+atRp23
+sS'companies'
+p24
+NsS'hubs'
+p25
+g6
+((lp26
+V\u041f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0430
+p27
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p28
+aV\u041c\u043e\u0439 \u0431\u0438\u0437\u043d\u0435\u0441
+p29
+aVPython
+p30
+aV\u0427\u0443\u043b\u0430\u043d
+p31
+aVDjango
+p32
+aVDIY \u0438\u043b\u0438 \u0421\u0434\u0435\u043b\u0430\u0439 \u0421\u0430\u043c
+p33
+atRp34
+sS'invitees'
+p35
+g6
+((lp36
+Vniikto
+p37
+aVkushti
+p38
+atRp39
+stRp40
+g40
+b.

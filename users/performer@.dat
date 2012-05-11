@@ -1,0 +1,74 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+Vdfayruzov
+p9
+aVMarix
+p10
+aVdik
+p11
+aVhideo
+p12
+aVpoimtsev
+p13
+aVDennsy
+p14
+atRp15
+sS'companies'
+p16
+g7
+((lp17
+V\u0412\u044b\u043c\u043f\u0435\u043b\u041a\u043e\u043c (\u0411\u0438\u043b\u0430\u0439\u043d)
+p18
+atRp19
+sS'hubs'
+p20
+g7
+((lp21
+VQt Software
+p22
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p23
+aV\u0421\u043c\u0430\u0440\u0442\u0444\u043e\u043d\u044b \u0438 \u043a\u043e\u043c\u043c\u0443\u043d\u0438\u043a\u0430\u0442\u043e\u0440\u044b
+p24
+aVArduino
+p25
+aV\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u043d\u0433 \u043c\u0438\u043a\u0440\u043e\u043a\u043e\u043d\u0442\u0440\u043e\u043b\u043b\u0435\u0440\u043e\u0432
+p26
+aV\u041d\u0430\u0443\u0447\u043d\u043e-\u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u043e\u0435
+p27
+aVFidonet
+p28
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p29
+aVC++
+p30
+aV\u0416\u0435\u043b\u0435\u0437\u043e
+p31
+aVLinux
+p32
+aVPHP
+p33
+aVDIY \u0438\u043b\u0438 \u0421\u0434\u0435\u043b\u0430\u0439 \u0421\u0430\u043c
+p34
+atRp35
+sS'invitees'
+p36
+NstRp37
+g37
+b.

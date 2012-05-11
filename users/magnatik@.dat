@@ -1,0 +1,116 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+Vabbasov
+p9
+aVtsepelev
+p10
+aVDmitra
+p11
+aVdonchenko
+p12
+aVkiev
+p13
+aVace
+p14
+aVCooluck
+p15
+aVmaaxws
+p16
+aVMourner
+p17
+aVMatsarello
+p18
+aVVidmak
+p19
+aVSunDrop
+p20
+aV_Felix_
+p21
+aVcybd
+p22
+aVanycolor
+p23
+aVmaxon
+p24
+aVAlex2Fast
+p25
+aVVano
+p26
+atRp27
+sS'companies'
+p28
+g7
+((lp29
+VWebMoney Transfer
+p30
+aV\u0410\u0448\u043c\u0430\u043d\u043e\u0432 \u0438 \u041f\u0430\u0440\u0442\u043d\u0451\u0440\u044b
+p31
+aVAdMe
+p32
+aVMozilla Foundation
+p33
+aVGoogle
+p34
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p35
+aVRussian Podcasting
+p36
+aV\u0421\u0442\u0443\u0434\u0438\u044f \u0410\u0440\u0442\u0435\u043c\u0438\u044f \u041b\u0435\u0431\u0435\u0434\u0435\u0432\u0430
+p37
+atRp38
+sS'hubs'
+p39
+g7
+((lp40
+V\u041f\u043e\u0434\u043a\u0430\u0441\u0442\u044b
+p41
+aV\u0411\u0440\u0435\u043d\u0434\u0438\u043d\u0433 \u0432 IT
+p42
+aV\u0427\u0443\u043b\u0430\u043d
+p43
+aV\u0414\u0438\u0437\u0430\u0439\u043d \u0432 IT
+p44
+aV\u0414\u043e\u043c\u0435\u043d\u044b
+p45
+aV\u041a\u043e\u043d\u0442\u0435\u043a\u0441\u0442\u043d\u0430\u044f \u0440\u0435\u043a\u043b\u0430\u043c\u0430
+p46
+aV\u0420\u0430\u0431\u043e\u0442\u0430 \u0441 \u0432\u0438\u0434\u0435\u043e
+p47
+aV\u041f\u043e\u0438\u0441\u043a\u043e\u0432\u0430\u044f \u043e\u043f\u0442\u0438\u043c\u0438\u0437\u0430\u0446\u0438\u044f
+p48
+aV\u0421\u0442\u0443\u0434\u0438\u044f \u0410\u0440\u0442\u0435\u043c\u0438\u044f \u041b\u0435\u0431\u0435\u0434\u0435\u0432\u0430
+p49
+aVGoogle
+p50
+aVWordpress
+p51
+aV\u0418\u0434\u0435\u0438 \u0434\u043b\u044f \u0441\u0442\u0430\u0440\u0442\u0430\u043f\u043e\u0432
+p52
+aV\u0412\u0435\u0431-\u0434\u0438\u0437\u0430\u0439\u043d
+p53
+aV\u042d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u0430\u044f \u043a\u043e\u043c\u043c\u0435\u0440\u0446\u0438\u044f
+p54
+aV\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u0440\u0435\u043a\u043b\u0430\u043c\u0430
+p55
+atRp56
+sS'invitees'
+p57
+NstRp58
+g58
+b.

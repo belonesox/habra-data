@@ -1,0 +1,67 @@
+(dp1
+S'interests'
+p2
+c__builtin__
+set
+p3
+((lp4
+Vfoss
+p5
+aVopen source
+p6
+aVcentos
+p7
+aVredhat
+p8
+aV\u0437\u0430\u0440\u0443\u0431\u0435\u0436\u043d\u0430\u044f \u043b\u0438\u0442\u0435\u0440\u0430\u0442\u0443\u0440\u0430
+p9
+aVxen
+p10
+aVkvm
+p11
+aV\u043e\u043f\u0435\u0440\u0430
+p12
+aV\u0442\u0435\u0430\u0442\u0440
+p13
+aVunix
+p14
+aVselinux
+p15
+aVfreebsd
+p16
+aVlinux
+p17
+aVsecurity
+p18
+aV\u043a\u043b\u0430\u0441\u0441\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u043c\u0443\u0437\u044b\u043a\u0430
+p19
+aVdebian
+p20
+aV\u0448\u0430\u0445\u043c\u0430\u0442\u044b
+p21
+atRp22
+sS'friends'
+p23
+NsS'companies'
+p24
+g3
+((lp25
+VTrueVDS
+p26
+atRp27
+sS'hubs'
+p28
+g3
+((lp29
+V\u0423\u0431\u0443\u043d\u0442\u0430\u0440\u0438\u0443\u043c
+p30
+aV\u0421\u0435\u0440\u0432\u0435\u0440\u043d\u0430\u044f \u043e\u043f\u0442\u0438\u043c\u0438\u0437\u0430\u0446\u0438\u044f
+p31
+aV\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c
+p32
+aVLinux
+p33
+atRp34
+sS'invitees'
+p35
+Ns.

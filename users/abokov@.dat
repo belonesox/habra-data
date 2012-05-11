@@ -1,0 +1,26 @@
+(dp1
+S'interests'
+p2
+NsS'friends'
+p3
+NsS'companies'
+p4
+c__builtin__
+set
+p5
+((lp6
+VMicrosoft
+p7
+atRp8
+sS'hubs'
+p9
+g5
+((lp10
+V\u041f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0430
+p11
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p12
+atRp13
+sS'invitees'
+p14
+Ns.

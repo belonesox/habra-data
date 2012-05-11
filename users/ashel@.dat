@@ -1,0 +1,94 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+VKoshkina
+p9
+aVksena
+p10
+aVweekend
+p11
+aVkoshkin
+p12
+aVdennydo
+p13
+aVdimulka_9
+p14
+aVolorin
+p15
+aVkip
+p16
+aVraisa_ivanna
+p17
+aVGlavatskiy
+p18
+aVsvetlonic
+p19
+aVsashun4a
+p20
+aVnickzayarny
+p21
+aVmsado
+p22
+aVpivchanskiy
+p23
+aVmagdel
+p24
+aVadamant
+p25
+aVblutang
+p26
+aVtoomany
+p27
+atRp28
+sS'companies'
+p29
+g7
+((lp30
+V\u0414\u0438\u0437\u0430\u0439\u043d-\u0431\u044e\u0440\u043e «Knock Knock»
+p31
+atRp32
+sS'hubs'
+p33
+g7
+((lp34
+V\u041f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0430
+p35
+aV\u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043f\u0440\u043e\u0435\u043a\u0442\u0430\u043c\u0438
+p36
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p37
+aVDura Lex
+p38
+aV\u041c\u043e\u0439 \u0431\u0438\u0437\u043d\u0435\u0441
+p39
+aV\u041e\u0444\u0438\u0441\u044b IT-\u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0439
+p40
+aV\u0418\u0434\u0435\u0438 \u0434\u043b\u044f \u0441\u0442\u0430\u0440\u0442\u0430\u043f\u043e\u0432
+p41
+aV\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p42
+aV\u042d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u0430\u044f \u043a\u043e\u043c\u043c\u0435\u0440\u0446\u0438\u044f
+p43
+aV\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u0440\u0435\u043a\u043b\u0430\u043c\u0430
+p44
+atRp45
+sS'invitees'
+p46
+NstRp47
+g47
+b.

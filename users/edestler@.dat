@@ -1,0 +1,74 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+V0xy
+p9
+aVvojkich
+p10
+atRp11
+sS'companies'
+p12
+g7
+((lp13
+VGoogle
+p14
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p15
+aVMail.Ru Group
+p16
+atRp17
+sS'hubs'
+p18
+g7
+((lp19
+V\u041f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0430
+p20
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p21
+aV\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p22
+aVGoogle
+p23
+aV\u042f \u043f\u0438\u0430\u0440\u044e\u0441\u044c
+p24
+aV\u0425\u0430\u0431\u0440\u0430\u0445\u0430\u0431\u0440
+p25
+aV\u0414\u0438\u0437\u0430\u0439\u043d \u0432 IT
+p26
+aV\u0427\u0443\u043b\u0430\u043d
+p27
+aVJavaScript
+p28
+aV\u041d\u0430\u0443\u0447\u043d\u043e-\u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u043e\u0435
+p29
+aVNode.JS
+p30
+aV\u0423\u0431\u0443\u043d\u0442\u0430\u0440\u0438\u0443\u043c
+p31
+aVGoogle Chrome
+p32
+aVAndroid
+p33
+aV\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043f\u043e\u0434 Android
+p34
+atRp35
+sS'invitees'
+p36
+NstRp37
+g37
+b.

@@ -1,0 +1,51 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+c__builtin__
+set
+p7
+((lp8
+Velisium
+p9
+atRp10
+sS'companies'
+p11
+NsS'hubs'
+p12
+g7
+((lp13
+V\u042f \u043d\u0435\u0433\u043e\u0434\u0443\u044e
+p14
+aVJAVA
+p15
+aV\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c
+p16
+aV\u0427\u0443\u043b\u0430\u043d
+p17
+aV\u0421\u0438\u0441\u0442\u0435\u043c\u043d\u043e\u0435 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435
+p18
+aV\u0413\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043e\u0431\u043e\u043b\u043e\u0447\u043a\u0438
+p19
+aVNginx
+p20
+aVLinux
+p21
+aVCisco
+p22
+atRp23
+sS'invitees'
+p24
+NstRp25
+g25
+b.

@@ -1,0 +1,115 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+c__builtin__
+set
+p6
+((lp7
+V\u0432\u0435\u0431-\u0434\u0438\u0437\u0430\u0439\u043d
+p8
+aV\u043c\u0443\u0437\u044b\u043a\u0430
+p9
+aV\u0445\u0443\u0434\u043e\u0436\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u0430\u044f \u043b\u0438\u0442\u0435\u0440\u0430\u0442\u0443\u0440\u0430
+p10
+atRp11
+sS'friends'
+p12
+g6
+((lp13
+Vdomminick
+p14
+aVkaffeine
+p15
+atRp16
+sS'companies'
+p17
+g6
+((lp18
+VMozilla Foundation
+p19
+aV\u041c\u0422\u0421
+p20
+aVGoogle
+p21
+aVMail.Ru Group
+p22
+aVBitTorrent
+p23
+aV\u0422\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u041c\u0435\u0434\u0438\u0430
+p24
+aVYahoo
+p25
+aVLast.fm
+p26
+aVMicrosoft
+p27
+aV\u042f\u043d\u0434\u0435\u043a\u0441
+p28
+aVBlizzard Entertainment
+p29
+aV\u041b\u0435\u043d\u0442\u0430.\u0420\u0443
+p30
+aVParcsis/Turbomilk
+p31
+aV\u0414\u0436\u0438\u043d\u043e
+p32
+aV\u0410\u0444\u0438\u0448\u0430
+p33
+aVRussian Podcasting
+p34
+aVCorel Corporation
+p35
+aV\u0421\u0442\u0443\u0434\u0438\u044f \u0410\u0440\u0442\u0435\u043c\u0438\u044f \u041b\u0435\u0431\u0435\u0434\u0435\u0432\u0430
+p36
+aVFuturico
+p37
+atRp38
+sS'hubs'
+p39
+g6
+((lp40
+VjQuery
+p41
+aV\u0425\u0430\u0431\u0440\u0430\u0445\u0430\u0431\u0440
+p42
+aVFirefox
+p43
+aVApple
+p44
+aV\u0414\u0438\u0437\u0430\u0439\u043d \u0432 IT
+p45
+aV\u041f\u043e\u0434\u043a\u0430\u0441\u0442\u044b
+p46
+aV\u0411\u0443\u0434\u0443\u0449\u0435\u0435 \u0437\u0434\u0435\u0441\u044c
+p47
+aVJavaScript
+p48
+aV\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430
+p49
+aVAjax
+p50
+aVWordpress
+p51
+aV\u0427\u0443\u043b\u0430\u043d
+p52
+aV\u0422\u0438\u043f\u043e\u0433\u0440\u0430\u0444\u0438\u043a\u0430
+p53
+aVCMS
+p54
+aVCSS
+p55
+atRp56
+sS'invitees'
+p57
+NstRp58
+g58
+b.

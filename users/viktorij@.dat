@@ -1,0 +1,110 @@
+ccopy_reg
+_reconstructor
+p1
+(clib.SmartObject
+SmartObject
+p2
+c__builtin__
+dict
+p3
+(dp4
+S'interests'
+p5
+NsS'friends'
+p6
+NsS'companies'
+p7
+NsS'hubs'
+p8
+c__builtin__
+set
+p9
+((lp10
+VCoworking: \u0440\u0430\u0431\u043e\u0442\u0430 2.0
+p11
+aVNoSQL
+p12
+aV\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435
+p13
+aV\u041e\u0444\u0438\u0441\u044b IT-\u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0439
+p14
+aVAgile
+p15
+aVHuman Resources
+p16
+aVWikipedia
+p17
+aVeBay
+p18
+aVGoogle Chrome
+p19
+aVMySQL
+p20
+aVInternet Explorer
+p21
+aV\u042d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u0430\u044f \u043a\u043e\u043c\u043c\u0435\u0440\u0446\u0438\u044f
+p22
+aVYouTube
+p23
+aVOpenStreetMap
+p24
+aV\u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043f\u0440\u043e\u0435\u043a\u0442\u0430\u043c\u0438
+p25
+aV\u0410\u043d\u0430\u043b\u0438\u0437 \u0438 \u043f\u0440\u043e\u0435\u043a\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0441\u0438\u0441\u0442\u0435\u043c
+p26
+aVMozilla
+p27
+aVLiveJournal
+p28
+aV\u0411\u0438\u0437\u043d\u0435\u0441 \u0441\u0442\u0443\u0434\u0438\u0438
+p29
+aV\u0424\u0438\u043d\u0430\u043d\u0441\u044b \u0434\u043b\u044f \u0432\u0441\u0435\u0445
+p30
+aVSafari
+p31
+aV\u0427\u0443\u043b\u0430\u043d
+p32
+aVMicrosoft SQL Server
+p33
+aVGTD
+p34
+aVWordpress
+p35
+aVOpera
+p36
+aVCubrid
+p37
+aVBing
+p38
+aVData Mining
+p39
+aVOracle
+p40
+aVPostgreSQL
+p41
+aVGMail
+p42
+aVGoogle
+p43
+aVFirefox
+p44
+aVERP-\u0441\u0438\u0441\u0442\u0435\u043c\u044b
+p45
+aVMongoDB
+p46
+aVTwitter
+p47
+aV\u0411\u0440\u0430\u0443\u0437\u0435\u0440\u044b
+p48
+aVDoctrine ORM
+p49
+aVSQL
+p50
+aVSaaS / S+S
+p51
+atRp52
+sS'invitees'
+p53
+NstRp54
+g54
+b.
